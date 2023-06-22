@@ -1,0 +1,44 @@
+{
+    "m_Version": 2,
+    "Enabled": 1,
+    "UTC": 1,
+    "UseMissionTime": 0,
+    "Notifications": [
+        {
+            "Hour": 19,
+            "Minute": 50,
+            "Second": 0,
+            "Title": "Restart 20h",
+            "Text": "10 minutes avant restart",
+            "Icon": "Info",
+            "Color": ""
+        },
+        {
+            "Hour": 15,
+            "Minute": 50,
+            "Second": 0,
+            "Title": "Restart 16h",
+            "Text": "10 minutes avant restart",
+            "Icon": "Info",
+            "Color": ""
+        },
+        {
+            "Hour": 11,
+            "Minute": 50,
+            "Second": 0,
+            "Title": "Restart 12h",
+            "Text": "10 minutes avant restart",
+            "Icon": "Info",
+            "Color": ""
+        },
+        {
+            "Hour": 5,
+            "Minute": 50,
+            "Second": 0,
+            "Title": "Restart 6h",
+            "Text": "10 minutes avant restart",
+            "Icon": "Info",
+            "Color": ""
+        }
+    ]
+}

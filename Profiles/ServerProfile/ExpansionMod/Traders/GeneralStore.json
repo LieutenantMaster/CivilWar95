@@ -1,0 +1,25 @@
+{
+    "m_Version": 11,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CONSUMABLES",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Bottle",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Drinks:0",
+        "Food:0",
+        "Fruit_And_Vegetables:0",
+        "Meat:0",
+        "Fish:0",
+        "Fishing:0"
+    ],
+    "Items": {
+        "carp": 0,
+        "mackerel": 0,
+        "sardines": 0
+    }
+}

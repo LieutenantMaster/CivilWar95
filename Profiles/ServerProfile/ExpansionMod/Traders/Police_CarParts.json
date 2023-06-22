@@ -1,0 +1,19 @@
+{
+    "m_Version": 11,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_VEHICLE_PARTS",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "Police",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Gas",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Vehicle_Parts:0"
+    ],
+    "Items": {
+        "tirerepairkit": 0,
+        "canistergasoline": 0
+    }
+}

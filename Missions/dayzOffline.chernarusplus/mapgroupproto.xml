@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<prototype>
+		<defaults>
+				<default name="group" lootmax="6" />
+				<default name="container" lootmax="4" />
+				<default name="keepInvalidPoints" enabled="yes" />
+				<default name="clusterMatrix" de="TrajectoryApple" width="12" height="12"/>
+				<default name="clusterMatrix" de="TrajectoryStones" width="12" height="12"/>
+				<default name="clusterMatrix" de="TrajectoryConiferous" width="12" height="12"/>
+				<default name="clusterMatrix" de="TrajectoryDeciduous" width="12" height="12"/>
+				<default name="clusterMatrix" de="TrajectoryHumus" width="12" height="12"/>
+				<default name="clusterMatrix" de="TrajectoryPear" width="12" height="12"/>
+				<default name="clusterMatrix" de="TrajectoryPlum" width="12" height="12"/>
+		</defaults>
+
+		<group name="Land_Shed_M1">
+		</group>
+		<group name="Land_Shed_M3">
+		</group>
+		<group name="Land_Shed_M4">
+		</group>
+		<group name="Land_Shed_W1">
+		</group>
+		<group name="Land_Shed_W2">
+		</group>
+		<group name="Land_Shed_W3">
+		</group>
+		<group name="Land_Shed_W4">
+		</group>
+		<group name="Land_Shed_W5">
+		</group>
+		<group name="Land_Shed_W6">
+		</group>
+		<group name="Land_Shed_Closed">
+		</group>
+		<group name="Land_HouseBlock_1F1">
+		</group>
+		<group name="Land_HouseBlock_1F2">
+		</group>
+		<group name="Land_HouseBlock_1F3">
+		</group>
+		<group name="Land_HouseBlock_1F4">
+		</group>
+		<group name="Land_HouseBlock_1F_Corner">
+		</group>
+		<group name="Land_HouseBlock_2F1">
+		</group>
+		<group name="Land_HouseBlock_2F2">
+		</group>
+		<group name="Land_HouseBlock_2F3">
+		</group>
+		<group name="Land_HouseBlock_2F4">
+		</group>
+		<group name="Land_HouseBlock_2F5">
+		</group>
+		<group name="Land_HouseBlock_2F6">
+		</group>
+		<group name="Land_HouseBlock_2F7">
+		</group>
+		<group name="Land_HouseBlock_2F8">
+		</group>
+		<group name="Land_HouseBlock_2F9">
+		</group>
+		<group name="Land_HouseBlock_2F_Corner">
+		</group>
+		<group name="Land_HouseBlock_3F1">
+		</group>
+		<group name="Land_HouseBlock_3F2">
+		</group>
+		<group name="Land_HouseBlock_3F_Corner1">
+		</group>
+		<group name="Land_HouseBlock_3F_Corner2">
+		</group>
+		<group name="Land_HouseBlock_5F">
+		</group>
+		<group name="Land_Hotel_Damaged">
+		</group>
+		<group name="Land_Hotel">
+		</group>
+		<group name="Land_Office1">
+		</group>
+		<group name="Land_Office2">
+		</group>
+		<group name="Land_Office_Municipal2">
+		</group>
+		<group name="Land_City_Store">
+		</group>
+		<group name="Land_City_Store_WithStairs">
+		</group>
+		<group name="Land_Tenement_Small">
+		</group>
+		<group name="Land_Tenement_Big">
+		</group>
+		<group name="Land_City_Stand_News1">
+		</group>
+		<group name="Land_City_Stand_News2">
+		</group>
+		<group name="Land_City_Stand_FastFood">
+		</group>
+		<group name="Land_City_Stand_Grocery">
+		</group>
+		<group name="Land_BusStation_building">
+		</group>
+		<group name="Land_BusStation_wall_bench">
+		</group>
+		<group name="Land_BusStop_City">
+		</group>
+		<group name="Land_House_1B01_Pub">
+		</group>
+		<group name="Land_House_2B01">
+		</group>
+		<group name="Land_House_2B02">
+		</group>
+		<group name="Land_House_2B03">
+		</group>
+		<group name="Land_House_2B04">
+		</group>
+		<group name="Land_House_1W01">
+		</group>
+		<group name="Land_House_1W02">
+		</group>
+		<group name="Land_House_1W03">
+		</group>
+		<group name="Land_House_1W04">
+		</group>
+		<group name="Land_House_1W05">
+		</group>
+		<group name="Land_House_1W05_Yellow">
+		</group>
+		<group name="Land_House_1W06">
+		</group>
+		<group name="Land_House_1W07">
+		</group>
+		<group name="Land_House_1W08">
+		</group>
+		<group name="Land_House_1W08_Brown">
+		</group>
+		<group name="Land_House_1W09">
+		</group>
+		<group name="Land_House_1W09_Yellow">
+		</group>
+		<group name="Land_House_1W10">
+		</group>
+		<group name="Land_House_1W10_Brown">
+		</group>
+		<group name="Land_House_1W11">
+		</group>
+		<group name="Land_House_1W12">
+		</group>
+		<group name="Land_House_1W12_Brown">
+		</group>
+		<group name="Land_House_2W01">
+		</group>
+		<group name="Land_House_2W02">
+		</group>
+		<group name="Land_House_2W03">
+		</group>
+		<group name="Land_House_2W03_Brown">
+		</group>
+		<group name="Land_House_2W04">
+		</group>
+		<group name="Land_House_2W04_Yellow">
+		</group>
+		<group name="Land_Village_store">
+		</group>
+		<group name="Land_Village_Pub">
+		</group>
+		<group name="Land_Misc_Well_Pump_Blue">
+		</group>
+		<group name="Land_Misc_Well_Pump_Yellow">
+		</group>
+		<group name="Land_Misc_Toilet_Dry">
+		</group>
+		<group name="Land_Wreck_Caravan_MGreen">
+		</group>
+		<group name="Land_Wreck_Caravan_MRust">
+		</group>
+		<group name="Land_Wreck_Caravan_WBrown">
+		</group>
+		<group name="Land_Wreck_Caravan_WGreen">
+		</group>
+		<group name="Land_Wreck_S1023_Blue">
+		</group>
+		<group name="Land_Wreck_S1023_Red">
+		</group>
+		<group name="Land_Wreck_S1023_Beige">
+		</group>
+		<group name="Land_Wreck_Ikarus">
+		</group>
+		<group name="Land_Wreck_Volha_Grey">
+		</group>
+		<group name="Land_Wreck_Volha_Blue">
+		</group>
+		<group name="Land_Wreck_Lada_Green">
+		</group>
+		<group name="Land_Wreck_Lada_Red">
+		</group>
+		<group name="Land_Workshop1">
+		</group>
+		<group name="Land_Workshop2">
+		</group>
+		<group name="Land_Workshop3">
+		</group>
+		<group name="Land_Workshop4">
+		</group>
+		<group name="Land_Workshop5">
+		</group>
+		<group name="Land_Tower_TC1">
+		</group>
+		<group name="Land_Tower_TC2_Base">
+		</group>
+		<group name="Land_Guardhouse">
+		</group>
+		<group name="Land_Garage_Small">
+		</group>
+		<group name="Land_Garage_Big">
+		</group>
+		<group name="Land_Garage_Row_Small">
+		</group>
+		<group name="Land_Garage_Row_Big">
+		</group>
+		<group name="Land_Garage_Office">
+		</group>
+		<group name="Land_Factory_Lathes">
+		</group>
+		<group name="Land_Factory_Small">
+		</group>
+		<group name="Land_Sawmill_Building">
+		</group>
+		<group name="Land_Mine_Building">
+		</group>
+		<group name="Land_Quarry_Main">
+		</group>
+		<group name="Land_CementWorks_ExpeditionA">
+		</group>
+		<group name="Land_CementWorks_ExpeditionB">
+		</group>
+		<group name="Land_CementWorks_ExpeditionC">
+		</group>
+		<group name="Land_CementWorks_Hall1">
+		</group>
+		<group name="Land_CoalPlant_Main">
+		</group>
+		<group name="Land_CementWorks_Hall2_Brick">
+		</group>
+		<group name="Land_CementWorks_Hall2_Grey">
+		</group>
+		<group name="Land_CementWorks_MillB">
+		</group>
+		<group name="Land_CementWorks_MillC">
+		</group>
+		<group name="Land_CementWorks_SiloBig1A">
+		</group>
+		<group name="Land_CementWorks_RotFurnace">
+		</group>
+		<group name="Land_Repair_Center">
+		</group>
+		<group name="Land_Rail_Warehouse_Small">
+		</group>
+		<group name="Land_Rail_Station_Small">
+		</group>
+		<group name="Land_Rail_Station_Big">
+		</group>
+		<group name="Land_Train_742_Blue">
+		</group>
+		<group name="Land_Train_742_Red">
+		</group>
+		<group name="Land_Train_Wagon_Box">
+		</group>
+		<group name="Land_Lighthouse">
+		</group>
+		<group name="Land_Power_Station">
+		</group>
+		<group name="Land_Power_Transformer_Build">
+		</group>
+		<group name="Land_Water_Station">
+		</group>
+		<group name="Land_Sawmill_Illuminanttower">
+		</group>
+		<group name="Land_Smokestack_Brick">
+		</group>
+		<group name="Land_Smokestack_Medium">
+		</group>
+		<group name="Land_Smokestack_Big">
+		</group>
+		<group name="Land_Pier_Crane_A">
+		</group>
+		<group name="Land_Pier_Crane_B">
+		</group>
+		<group name="Land_Construction_Crane">
+		</group>
+		<group name="Land_Construction_Building">
+		</group>
+		<group name="Land_Construction_House1">
+		</group>
+		<group name="Land_Construction_House2">
+		</group>
+		<group name="Land_Mil_Barracks1">
+		</group>
+		<group name="Land_Mil_Barracks2">
+		</group>
+		<group name="Land_Mil_Barracks3">
+		</group>
+		<group name="Land_Mil_Barracks4">
+		</group>
+		<group name="Land_Mil_Barracks5">
+		</group>
+		<group name="Land_Mil_Barracks6">
+		</group>
+		<group name="Land_Mil_Barracks_Round">
+		</group>
+		<group name="Land_Mil_Tent_Big1_1">
+		</group>
+		<group name="Land_Mil_Tent_Big1_2">
+		</group>
+		<group name="Land_Mil_Tent_Big1_3">
+		</group>
+		<group name="Land_Mil_Tent_Big1_4">
+		</group>
+		<group name="Land_Mil_Tent_Big1_5">
+		</group>
+		<group name="Land_Mil_Tent_Big2_1">
+		</group>
+		<group name="Land_Mil_Tent_Big2_2">
+		</group>
+		<group name="Land_Mil_Tent_Big2_3">
+		</group>
+		<group name="Land_Mil_Tent_Big2_4">
+		</group>
+		<group name="Land_Mil_Tent_Big2_5">
+		</group>
+		<group name="Land_Mil_Tent_Big3">
+		</group>
+		<group name="Land_Mil_Tent_Big4">
+		</group>
+		<group name="Land_Tisy_HQ">
+		</group>
+		<group name="Land_Tisy_Garages">
+		</group>
+		<group name="Land_Tisy_RadarB_Base">
+		</group>
+		<group name="Land_Tisy_Base_cooler">
+		</group>
+		<group name="Land_Tisy_RadarPlatform_Top">
+		</group>
+		<group name="Land_Tisy_KitchenRoom">
+		</group>
+		<group name="Land_Tisy_Barracks">
+		</group>
+		<group name="Land_Mil_GuardTower">
+		</group>
+		<group name="Land_Mil_Tower_Small">
+		</group>
+		<group name="Land_Mil_Fortified_Nest_Small">
+		</group>
+		<group name="Land_Mil_Fortified_Nest_Big">
+		</group>
+		<group name="Land_Mil_Fortified_Nest_Watchtower">
+		</group>
+		<group name="Land_Mil_GuardShed">
+		</group>
+		<group name="Land_Mil_ATC_Small">
+		</group>
+		<group name="Land_Mil_ATC_Big">
+		</group>
+		<group name="Land_Mil_Airfield_HQ">
+		</group>
+		<group name="Land_Mil_AircraftShelter">
+		</group>
+		<group name="Land_Mil_Guardhouse1">
+		</group>
+		<group name="Land_Mil_Guardhouse2">
+		</group>
+		<group name="Land_Boathouse">
+		</group>
+		<group name="Land_Radio_building">
+		</group>
+		<group name="Land_Village_PoliceStation">
+		</group>
+		<group name="Land_Airfield_Small_Control">
+		</group>
+		<group name="Land_Airfield_Small_Hangar">
+		</group>
+		<group name="Land_Airfield_Hangar_Green">
+		</group>
+		<group name="Land_Airfield_ServiceHangar_L">
+		</group>
+		<group name="Land_Airfield_ServiceHangar_R">
+		</group>
+		<group name="Land_Airfield_Radar_Tall">
+		</group>
+		<group name="Land_FuelStation_Build">
+		</group>
+		<group name="Land_City_PoliceStation">
+		</group>
+		<group name="Land_City_PoliceStation_Enoch">
+		</group>
+		<group name="Land_City_FireStation">
+		</group>
+		<group name="Land_Misc_Scaffolding">
+		</group>
+		<group name="Land_Prison_Main">
+		</group>
+		<group name="Land_Prison_Side">
+		</group>
+		<group name="Land_Prison_Wall_Large">
+		</group>
+		<group name="Land_City_School">
+		</group>
+		<group name="Land_Medical_Tent_Shower">
+		</group>
+		<group name="Land_Medical_Tent_Big">
+		</group>
+		<group name="Land_Village_HealthCare">
+		</group>
+		<group name="Land_City_Hospital">
+		</group>
+		<group name="Land_Misc_TrailRoof_Big">
+		</group>
+		<group name="Land_Misc_TrailRoof_Small">
+		</group>		
+		<group name="Land_Misc_DeerStand1">
+		</group>
+		<group name="Land_Misc_DeerStand2">
+		</group>
+		<group name="Land_Misc_FeedShack">
+		</group>
+		<group name="Land_Boat_Small1">
+		</group>
+		<group name="Land_Boat_Small2">
+		</group>
+		<group name="Land_Boat_Small3">
+		</group>
+		<group name="Land_Camp_House_red">
+		</group>
+		<group name="Land_Camp_House_white">
+		</group>
+		<group name="Land_Camp_House_brown">
+		</group>
+		<group name="Land_Castle_Bergfrit">
+		</group>
+		<group name="Land_Castle_Gate">
+		</group>
+		<group name="Land_Castle_Stairs_nolc">
+		</group>
+		<group name="Land_Misc_Greenhouse">
+		</group>
+		<group name="Land_Misc_Polytunnel">
+		</group>
+		<group name="Land_Farm_CowshedA">
+		</group>
+		<group name="Land_Farm_CowshedB">
+		</group>
+		<group name="Land_Farm_CowshedC">
+		</group>
+		<group name="Land_Barn_Brick1">
+		</group>
+		<group name="Land_Barn_Brick2">
+		</group>
+		<group name="Land_Barn_Wood1">
+		</group>
+		<group name="Land_Barn_Wood2">
+		</group>
+		<group name="Land_Barn_Metal_Big">
+		</group>
+		<group name="Land_Chapel">
+		</group>
+		<group name="Land_Church1_Yellow">
+		</group>
+		<group name="Land_Church2_2">
+		</group>
+		<group name="Land_Church3">
+		</group>
+		<group name="Land_Container_1Mo">
+		</group>
+		<group name="Land_Container_1Moh">
+		</group>
+		<group name="Land_Container_1Bo">
+		</group>
+		<group name="Land_Container_1Aoh">
+		</group>
+		<group name="Land_Ship_Big_FrontA">
+		</group>
+		<group name="Land_Ship_Big_FrontB">
+		</group>
+		<group name="Land_Ship_Big_BackA">
+		</group>
+		<group name="Land_Ship_Big_BackB">
+		</group>
+		<group name="Land_Ship_Big_Castle">
+		</group>
+		<group name="Land_Mil_Guardhouse3">
+		</group>
+		<group name="Land_Mil_Guardbox_Smooth">
+		</group>
+		<group name="Land_Mil_Guardbox_Green">
+		</group>
+		<group name="Land_Mil_Guardbox_Brown">
+		</group>
+		<group name="Land_Mil_ControlTower">
+		</group>
+		<group name="Land_Chapel2_Yellow">
+		</group>
+		<group name="Land_Chapel2_Yellow_Dam">
+		</group>
+		<group name="Land_Chapel2_White">
+		</group>
+		<group name="Land_Chapel2_White_Dam">
+		</group>
+		<group name="Land_Church4">
+		</group>
+		<group name="Land_Church4_Dam">
+		</group>
+		<group name="Land_Church4_Lightblue">
+		</group>
+		<group name="Land_Church4_Red">
+		</group>
+		<group name="Land_Church4_White">
+		</group>
+		<group name="Land_Church4_Yellow_Dam">
+		</group>
+		<group name="Land_Bunker1_Double">
+		</group>
+		<group name="Land_Bunker1_Left">
+		</group>
+		<group name="Land_Bunker1_Right">
+		</group>
+		<group name="Land_Bunker2_Double">
+		</group>
+		<group name="Land_Bunker2_Left">
+		</group>
+		<group name="Land_Bunker2_Right">
+		</group>
+		<group name="Land_BusStop_Village2" >
+		</group>
+		<group name="Land_Castle_Bastion2" >
+		</group>
+		<group name="Land_Slum_House1">
+		</group>
+		<group name="Land_Slum_House2">
+		</group>
+		<group name="Land_Slum_House3" >
+		</group>
+		<group name="Land_Slum_House4">
+		</group>
+		<group name="Land_Slum_House5">
+		</group>
+		<group name="Land_Slum_House6" >
+		</group>
+		<group name="Land_Slum_House7">
+		</group>
+		<group name="Land_House_1W13_Dam" >
+		</group>
+		<group name="Land_Tower_TC5" >
+		</group>
+		<group name="Land_Tower_TC6" >
+		</group>
+		<group name="Land_DieselPowerPlant_Building">
+		</group>
+		<group name="Land_DieselPowerPlant_Tank_Big" >
+		</group>
+		<group name="Land_DieselPowerPlant_Tank_Small">
+		</group>
+		<group name="Land_Barn_Metal_Big_Grey" >
+		</group>
+		<group name="Land_Shed_Closed2">
+		</group>
+		<group name="Land_Garage_Tall">
+		</group>
+		<group name="Land_FuelStation_Build_Enoch">
+		</group>
+		<group name="Land_Workshop_FuelStation">
+		</group>
+		<group name="Land_Shed_Closed_Small1">
+		</group>
+		<group name="Land_Shed_Closed_Small2" >
+		</group>
+		<group name="Land_Ruin_Mil_ControlTower" >
+		</group>
+		<group name="Land_Ruin_HouseSmall1" >
+		</group>
+		<group name="Land_Ruin_HouseSmall1_NoIvy" >
+		</group>
+		<group name="Land_Ruin_HouseSmall2" >
+		</group>
+		<group name="Land_Ruin_HouseSmall2_NoIvy" >
+		</group>
+		<group name="Land_Ruin_Church2" >
+		</group>
+		<group name="Land_Ruin_Church2_NoIvy" >
+		</group>
+		<group name="Land_Farm_Hopper2" >
+		</group>
+		<group name="Land_Ruin_HouseBig1" >
+		</group>
+		<group name="Land_Ruin_HouseBig1_NoIvy" >
+		</group>
+		<group name="Land_Ruin_HouseBig1_Half" >
+		</group>
+		<group name="Land_Ruin_HouseBig1_NoIvy_Half" >
+		</group>
+		<group name="Land_Ruin_HouseBig2">
+		</group>
+		<group name="Land_Ruin_HouseBig2_NoIvy">
+		</group>
+		<group name="Land_Ruin_HouseBig2_Half">
+		</group>
+		<group name="Land_Ruin_HouseBig2_NoIvy_Half">
+		</group>
+		<group name="Land_Ruin_HouseBig3">
+		</group>
+		<group name="Land_Ruin_HouseBig3_NoIvy">
+		</group>
+		<group name="Land_Ruin_HouseBig3_Half" >
+		</group>
+		<group name="Land_Ruin_HouseBig3_NoIvy_Half" >
+		</group>
+		<group name="Land_Village_PoliceStation_Enoch">
+		</group>
+		<group name="Land_Village_HealthCare_Enoch">
+		</group>
+		<group name="Land_Village_Store_Enoch">
+		</group>
+		<group name="Land_Lunapark_Shooting_Gallery">
+		</group>
+		<group name="Land_Lunapark_Ferris_wheel">
+		</group>
+		<group name="Land_Lunapark_Carousel_Swan">
+		</group>
+		<group name="Land_Lunapark_Autodrome">
+		</group>
+</prototype>

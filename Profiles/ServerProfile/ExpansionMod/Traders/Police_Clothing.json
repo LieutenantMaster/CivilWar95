@@ -1,0 +1,34 @@
+{
+    "m_Version": 11,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "Police",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Backpack",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Blouses_And_Suits:0",
+        "Coats_And_Jackets:0",
+        "Shirts_And_TShirts:0",
+        "Skirts_And_Dresses:0",
+        "Pants_And_Shorts:0",
+        "Boots_And_Shoes:0",
+        "Helmets:0",
+        "Caps:0",
+        "Hats_And_Hoods:0",
+        "Armbands:0",
+        "Backpacks:0",
+        "Eyewear:0",
+        "Gloves:0",
+        "Bandanas:0",
+        "Masks:0",
+        "Vests:0",
+        "Holsters_And_Pouches:0",
+        "Ghillies:0",
+        "Belts:0"
+    ],
+    "Items": {}
+}
