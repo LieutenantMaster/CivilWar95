@@ -22,9 +22,9 @@ del /s /q /f "..\..\..\Profiles\ServerProfile\*.log"
 del /s /q /f "..\..\..\Profiles\ServerProfile\*.mdmp"
 del /s /q /f "..\..\..\Profiles\ServerProfile\*.ADM"
 
-start "" "%GameDirectory%\SmartSteamEmu\SmartSteamLoader_x64.exe" ..\EMUServer.ini
+start "" "..\..\..\SmartSteamEmu\SmartSteamLoader_x64.exe" ..\EMUServer.ini
 
 TIMEOUT /T 1 /NOBREAK
 
-start "" "%GameDirectory%\SmartSteamEmu\SmartSteamLoader_x64.exe" ..\EMUClientA.ini
-start "" "%GameDirectory%\SmartSteamEmu\SmartSteamLoader_x64.exe" ..\EMUClientB.ini
+start "" "..\..\..\SmartSteamEmu\SmartSteamLoader_x64.exe" ..\EMUClientA.ini
+start "" "..\..\..\SmartSteamEmu\SmartSteamLoader_x64.exe" ..\EMUClientB.ini

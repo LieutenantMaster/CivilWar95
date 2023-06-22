@@ -5,8 +5,6 @@ taskkill /F /IM DayZDiag_x64.exe /T
 
 TIMEOUT /T 1 /NOBREAK
 
-CALL SetupLaunch.bat
-
 del /s /q /f "..\..\..\Profiles\SClientAProfile\*.rpt"
 del /s /q /f "..\..\..\Profiles\SClientAProfile\*.log"
 del /s /q /f "..\..\..\Profiles\SClientAProfile\*.mdmp"
@@ -22,8 +20,8 @@ del /s /q /f "..\..\..\Profiles\ServerProfile\*.log"
 del /s /q /f "..\..\..\Profiles\ServerProfile\*.mdmp"
 del /s /q /f "..\..\..\Profiles\ServerProfile\*.ADM"
 
-start "" "%GameDirectory%\SmartSteamEmu\SmartSteamLoader_x64.exe" ..\EMUServer.ini
+start "" "..\..\..\SmartSteamEmu\SmartSteamLoader_x64.exe" ..\EMUServer.ini
 
 TIMEOUT /T 1 /NOBREAK
 
-start "" "%GameDirectory%\SmartSteamEmu\SmartSteamLoader_x64.exe" ..\EMUClientA.ini
+start "" "..\..\..\SmartSteamEmu\SmartSteamLoader_x64.exe" ..\EMUClientA.ini
