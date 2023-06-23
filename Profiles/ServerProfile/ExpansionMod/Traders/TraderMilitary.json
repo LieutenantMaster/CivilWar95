@@ -1,0 +1,124 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Armurier",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "Military",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Grenade",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [],
+    "Items": {
+        "canopener": 0,
+        "tacticalbaconcan": 0,
+        "expansionbread1": 0,
+        "crackers": 0,
+        "canteen": 0,
+        "vodka": 1,
+        "battery9v": 0,
+
+        "weaponcleaningkit": 0,
+        "sewingkit": 0,
+        "leathersewingkit": 0,
+        "lockpick": 0,
+        "rope": 0,
+        "epoxyputty": 0,
+
+        "binoculars": 0,
+        "compass": 0,
+        "personalradio": 0,
+        "baseradio": 0,
+        "megaphone": 0,
+        "rangefinder": 0,
+
+        "militarybelt": 0,
+        "holster_black": 0,
+        "nylonknifesheath": 0,
+        "combatknife" : 0,
+        "whetstone": 0,
+
+        "handcuffs": 0,
+        "handcuffskeys": 0,
+
+        "gp5gasmask": 0,
+        "airbornemask": 0,
+        "GasMask_Filter":0,
+        
+        "militaryberet_nz": 0,
+        "militaryberet_cdf": 0,
+        "officerhat": 0,
+        "TankerHelmet":0,
+        "Ssh68Helmet": 0,
+        "BallisticHelmet_Green": 0,
+        "gorkahelmet": 0,
+        "gorkahelmetvisor": 0,
+
+        "PlateCarrierVest": 0,
+        "PlateCarrierPouches": 0,
+        "PlateCarrierHolster" : 0,
+
+        "ttskojacket_camo": 0,
+        "TTSKOPants" : 0,
+        "TTSKOBoots" : 0,
+
+        "UKAssVest_Olive": 0,
+        "smershvest": 0,
+        "smershbag": 0,
+
+        "tlrlight":0,
+        "universallight": 0,
+        "flashlight": 0,
+
+        "assaultbag_ttsko": 0,
+        "assaultbag_green" : 0,
+
+        "CombatBoots_Black": 0,
+        "omnogloves_gray": 0,
+        "tacticalgloves_black": 0,
+        "tacticalgloves_green": 0,
+        "tacticalgloves_beige": 0,
+
+        "tacticalgoggles": 0,
+
+        "ak74": 0,
+        "ak74_woodbttstck": 0,
+        "ak74_hndgrd": 0,
+        "mag_ak74_30rnd": 0,
+        "ammobox_545x39_20rnd": 0,
+        "ammobox_545x39tracer_20rnd": 0,
+
+        "sks": 0,
+        "ammobox_762x39_20rnd":0,
+        "ammobox_762x39tracer_20rnd":0,
+
+        "mp133shotgun": 0,
+        "ammobox_12gaslug_10rnd": 0,
+        "ammobox_12garubberslug_10rnd": 0,
+
+        "mosin9130": 0,
+        "puscopeoptic": 0,
+        "ammobox_762x54_20rnd": 0,
+        "ammobox_762x54tracer_20rnd": 0,
+
+        "aks74u": 0,
+        "aks74u_bttstck": 0,
+
+        "makarovij70": 0,
+        "ammobox_380_35rnd": 0,
+
+        "colt1911": 0,
+        "mag_1911_7rnd": 0,
+        "ammobox_45acp_25rnd": 0,
+
+        "flashgrenade": 0,
+        "m18smokegrenade_red": 0,
+        "m18smokegrenade_green": 0,
+        "m18smokegrenade_yellow": 0,
+        "m18smokegrenade_white": 0,
+        "rdg2smokegrenade_black": 0,
+        "rdg2smokegrenade_white": 0
+
+    }
+}
