@@ -273,6 +273,17 @@
             ]
         },
         {
+            "ClassName": "MedievalBoots",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 75,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "combatboots_beige",
             "MaxPriceThreshold": 150,
             "MinPriceThreshold": 80,

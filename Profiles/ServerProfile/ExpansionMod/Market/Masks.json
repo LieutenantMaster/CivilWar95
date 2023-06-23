@@ -19,7 +19,7 @@
         },
         {
             "ClassName": "nioshfacemask",
-            "MaxPriceThreshold": 80,
+            "MaxPriceThreshold": 50,
             "MinPriceThreshold": 40,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -181,7 +181,7 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "mimemask_female"
+                "mimemask_male"
             ]
         }
     ]
