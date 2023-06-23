@@ -5,7 +5,7 @@
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "Military",
     "RequiredCompletedQuestID": -1,
-    "TraderIcon": "Grenade",
+    "TraderIcon": "Hammer",
     "Currencies": [
         "expansionbanknotehryvnia"
     ],
