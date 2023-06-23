@@ -34,8 +34,8 @@
         },
         {
             "ClassName": "rope",
-            "MaxPriceThreshold": 8,
-            "MinPriceThreshold": 4,
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 14,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

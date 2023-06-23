@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "compass",
-            "MaxPriceThreshold": 20,
+            "MaxPriceThreshold": 30,
             "MinPriceThreshold": 10,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -19,7 +19,7 @@
         },
         {
             "ClassName": "orienteeringcompass",
-            "MaxPriceThreshold": 20,
+            "MaxPriceThreshold": 30,
             "MinPriceThreshold": 10,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -65,8 +65,8 @@
         },
         {
             "ClassName": "expansiongps",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 300,
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

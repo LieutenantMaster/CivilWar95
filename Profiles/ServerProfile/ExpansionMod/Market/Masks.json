@@ -118,7 +118,7 @@
         },
         {
             "ClassName": "balaclava3holes_green",
-            "MaxPriceThreshold": 120,
+            "MaxPriceThreshold": 110,
             "MinPriceThreshold": 60,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,

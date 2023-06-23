@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "worm",
-            "MaxPriceThreshold": 4,
-            "MinPriceThreshold": 2,
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 1,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "hook",
-            "MaxPriceThreshold": 14,
-            "MinPriceThreshold": 7,
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 2,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

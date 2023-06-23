@@ -281,8 +281,8 @@
         },
         {
             "ClassName": "hikingjacket_black",
-            "MaxPriceThreshold": 72,
-            "MinPriceThreshold": 36,
+            "MaxPriceThreshold": 190,
+            "MinPriceThreshold": 96,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -307,7 +307,7 @@
         },
         {
             "ClassName": "raincoat_pink",
-            "MaxPriceThreshold": 140,
+            "MaxPriceThreshold": 120,
             "MinPriceThreshold": 70,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -325,7 +325,7 @@
         },
         {
             "ClassName": "raincoat_green",
-            "MaxPriceThreshold": 200,
+            "MaxPriceThreshold": 120,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -358,7 +358,7 @@
         },
         {
             "ClassName": "huntingjacket_autumn",
-            "MaxPriceThreshold": 240,
+            "MaxPriceThreshold": 180,
             "MinPriceThreshold": 120,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -374,7 +374,7 @@
         },
         {
             "ClassName": "m65jacket_black",
-            "MaxPriceThreshold": 260,
+            "MaxPriceThreshold": 200,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,

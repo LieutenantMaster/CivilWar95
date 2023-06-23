@@ -435,7 +435,7 @@
         },
         {
             "ClassName": "hunterpants_winter",
-            "MaxPriceThreshold": 180,
+            "MaxPriceThreshold": 160,
             "MinPriceThreshold": 90,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -452,7 +452,7 @@
         },
         {
             "ClassName": "hunterpants_autumn",
-            "MaxPriceThreshold": 200,
+            "MaxPriceThreshold": 180,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -463,7 +463,7 @@
         },
         {
             "ClassName": "hunterpants_brown",
-            "MaxPriceThreshold": 200,
+            "MaxPriceThreshold": 180,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -474,7 +474,7 @@
         },
         {
             "ClassName": "hunterpants_spring",
-            "MaxPriceThreshold": 200,
+            "MaxPriceThreshold": 180,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -485,7 +485,7 @@
         },
         {
             "ClassName": "hunterpants_summer",
-            "MaxPriceThreshold": 200,
+            "MaxPriceThreshold": 180,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,

@@ -68,7 +68,7 @@
         },
         {
             "ClassName": "flashlight",
-            "MaxPriceThreshold": 30,
+            "MaxPriceThreshold": 75,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -144,8 +144,8 @@
         },
         {
             "ClassName": "universallight",
-            "MaxPriceThreshold": 240,
-            "MinPriceThreshold": 120,
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 90,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -155,8 +155,8 @@
         },
         {
             "ClassName": "tlrlight",
-            "MaxPriceThreshold": 240,
-            "MinPriceThreshold": 120,
+            "MaxPriceThreshold": 90,
+            "MinPriceThreshold": 50,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

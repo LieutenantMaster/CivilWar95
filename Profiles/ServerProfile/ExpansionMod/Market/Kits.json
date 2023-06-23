@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "weaponcleaningkit",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 8,
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 78,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

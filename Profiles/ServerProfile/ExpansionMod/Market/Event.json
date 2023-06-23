@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "witchhood_black",
-            "MaxPriceThreshold": 15,
-            "MinPriceThreshold": 1,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 40,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
