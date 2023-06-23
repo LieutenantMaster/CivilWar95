@@ -94,7 +94,7 @@
         },
         {
             "ClassName": "flatcap_blue",
-            "MaxPriceThreshold": 64,
+            "MaxPriceThreshold": 35,
             "MinPriceThreshold": 32,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -113,7 +113,7 @@
         },
         {
             "ClassName": "zmijovkacap_blue",
-            "MaxPriceThreshold": 72,
+            "MaxPriceThreshold": 40,
             "MinPriceThreshold": 36,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -151,7 +151,7 @@
         },
         {
             "ClassName": "radarcap_blue",
-            "MaxPriceThreshold": 80,
+            "MaxPriceThreshold": 50,
             "MinPriceThreshold": 40,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -167,7 +167,7 @@
         },
         {
             "ClassName": "radarcap_black",
-            "MaxPriceThreshold": 84,
+            "MaxPriceThreshold": 50,
             "MinPriceThreshold": 42,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -178,7 +178,7 @@
         },
         {
             "ClassName": "radarcap_green",
-            "MaxPriceThreshold": 90,
+            "MaxPriceThreshold": 50,
             "MinPriceThreshold": 45,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,

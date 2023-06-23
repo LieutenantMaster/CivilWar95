@@ -36,7 +36,7 @@
         },
         {
             "ClassName": "skatehelmet_blue",
-            "MaxPriceThreshold": 90,
+            "MaxPriceThreshold": 60,
             "MinPriceThreshold": 45,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -52,7 +52,7 @@
         },
         {
             "ClassName": "skatehelmet_black",
-            "MaxPriceThreshold": 94,
+            "MaxPriceThreshold": 60,
             "MinPriceThreshold": 47,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -219,7 +219,7 @@
         },
         {
             "ClassName": "motohelmet_green",
-            "MaxPriceThreshold": 160,
+            "MaxPriceThreshold": 150,
             "MinPriceThreshold": 80,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,

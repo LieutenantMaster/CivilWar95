@@ -1,0 +1,105 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Vetement",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Cloth",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [],
+    "Items": {
+        "workinggloves_yellow": 0,
+        "workinggloves_black": 0,
+        "workinggloves_beige": 0,
+        "workinggloves_brown": 0,
+        "baseballcap_cmmg_pink": 0,
+        "baseballcap_pink": 0,
+                "baseballcap_blue": 0,
+                "baseballcap_beige": 0,
+                "baseballcap_red": 0,
+                "baseballcap_cmmg_black": 0,
+                "baseballcap_black": 0,
+                "baseballcap_olive": 0,
+                "baseballcap_camo": 0,
+    "beaniehat_pink": 0,
+    "beaniehat_beige": 0,
+    "beaniehat_blue": 0,
+    "beaniehat_brown": 0,
+    "beaniehat_grey": 0,
+    "beaniehat_red": 0,
+    "beaniehat_black": 0,
+    "beaniehat_green": 0,
+    "ushanka_black": 0,
+    "ushanka_blue": 0,
+    "ushanka_green": 0,
+    "motohelmet_lime": 0,
+    "motohelmet_blue": 0,
+                "motohelmet_red": 0,
+                "motohelmet_yellow": 0,
+                "motohelmet_white": 0,
+                "motohelmet_grey": 0,
+                "motohelmet_black": 0,
+                "motohelmet_green": 0,
+                "darkmotohelmet_lime": 0,
+                "darkmotohelmet_blue": 0,
+                "darkmotohelmet_red": 0,
+                "darkmotohelmet_white": 0,
+                "darkmotohelmet_grey": 0,
+                "darkmotohelmet_black": 0,
+                "darkmotohelmet_green": 0,
+    "bandana_blue": 0,
+    "bandana_pink": 0,
+                "bandana_yellow": 0,
+                "bandana_redpattern": 0,
+                "bandana_blackpattern": 0,
+                "bandana_polkapattern": 0,
+                "radarcap_blue": 0,
+                "radarcap_brown": 0,
+                "radarcap_red": 0,
+                "radarcap_black": 0,
+                "radarcap_green": 0,
+                "flatcap_blue": 0,
+                "flatcap_red": 0,
+                "flatcap_brown": 0,
+                "flatcap_grey": 0,
+                "flatcap_browncheck": 0,
+                "flatcap_greycheck": 0,
+                "flatcap_black": 0,
+                "flatcap_blackcheck": 0,
+    "zmijovkacap_blue": 0,
+    "zmijovkacap_brown": 0,
+    "zmijovkacap_red": 0,
+    "zmijovkacap_black": 0,
+    "zmijovkacap_green": 0,
+    "skatehelmet_blue": 0,
+    "skatehelmet_gray": 0,
+                "skatehelmet_red": 0,
+                "skatehelmet_black": 0,
+                "skatehelmet_green": 0,
+                
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+        
+        "MonItemQueJePeuxAcheter": 0,
+        "MonItemQueJePeuxAcheterEtVendre": 1,
+        "MonItemQueJePeuxVendre": 2,
+        "MonItemQueJePeuxAcheterMaisOnVoisPas-PourDesCasSpeciaux": 3
+    }
+}

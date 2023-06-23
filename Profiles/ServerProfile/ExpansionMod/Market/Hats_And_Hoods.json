@@ -78,7 +78,7 @@
         },
         {
             "ClassName": "beaniehat_pink",
-            "MaxPriceThreshold": 60,
+            "MaxPriceThreshold": 30,
             "MinPriceThreshold": 30,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -97,8 +97,8 @@
         },
         {
             "ClassName": "beaniehat_black",
-            "MaxPriceThreshold": 62,
-            "MinPriceThreshold": 31,
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -119,7 +119,7 @@
         },
         {
             "ClassName": "ushanka_black",
-            "MaxPriceThreshold": 100,
+            "MaxPriceThreshold": 80,
             "MinPriceThreshold": 50,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -133,7 +133,7 @@
         },
         {
             "ClassName": "ushanka_green",
-            "MaxPriceThreshold": 110,
+            "MaxPriceThreshold": 80,
             "MinPriceThreshold": 55,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
