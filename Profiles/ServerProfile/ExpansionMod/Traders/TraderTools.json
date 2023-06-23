@@ -1,0 +1,38 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Armurier",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "Military",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Grenade",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [],
+    "Items": {
+        "batterycharger": 0,
+        "cablereel": 0,
+        "electronicrepairkit": 0,
+        "screwdriver": 0,
+        "wrench": 0,
+        "pliers": 0,
+        "whetstone": 0,
+        "hammer": 0,
+        "hacksaw": 0,
+        "handsaw" : 0,
+        "hatchet": 0,
+        "lugwrench": 0,
+        "pipewrench": 0,
+        "sickle": 0,
+        "crowbar": 0,
+        "shovel": 0,
+        "pickaxe": 0,
+        "sledgehammer": 0,
+        "woodaxe": 0,
+        "blowtorch": 0,
+        "smallgascanister": 0,
+        "expansionpropanetorch": 0
+
+    }
+}
