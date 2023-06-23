@@ -1,0 +1,58 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Armurier",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "Military",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Grenade",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [],
+    "Items": {
+        "zagorky": 1,
+        "zagorkychocolate": 1,
+        "zagorkypeanuts": 1,
+        "powderedmilk": 1,
+        "boxcerealcrunchin": 1,
+        "rice": 1,
+        "marmalade": 1,
+        "honey": 1,
+        "saltysticks": 1,
+        "crackers": 1,
+        "chips": 1,
+        "pajka": 1,
+        "pate": 1,
+        "brisketspread": 1,
+        "sardinescan": 1,
+        "tunacan": 1,
+        "dogfoodcan": 1,
+        "catfoodcan": 1,
+        "porkcan": 1,
+        "lunchmeat": 1,
+        "unknownfoodcan": 1,
+        "peachescan": 1,
+        "spaghettican": 1,
+        "bakedbeanscan": 1,
+        "tacticalbaconcan": 1,
+        "expansionbread1": 1,
+        "expansionbread2": 1,
+        "expansionbread3": 1,
+        "expansioncheese1": 1,
+        "expansioncheese2": 1,
+        "expansioncheese3": 1,
+        "expansioncheese4": 1,
+
+        "sodacan_pipsi": 1,
+        "sodacan_cola": 1,
+        "sodacan_fronta": 1,
+        "sodacan_kvass": 1,
+        "sodacan_spite": 1,
+        "waterbottle": 1,
+        "vodka": 1,
+        "expansionmilkbottle": 1
+
+
+    }
+}
