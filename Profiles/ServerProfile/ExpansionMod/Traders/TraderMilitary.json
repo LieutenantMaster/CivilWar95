@@ -21,6 +21,10 @@
 
         "binoculars": 0,
         "compass": 0,
+        "personalradio": 0,
+        "baseradio": 0,
+        "megaphone": 0,
+        "rangefinder": 0,
 
         "militarybelt": 0,
         "holster_black": 0,
