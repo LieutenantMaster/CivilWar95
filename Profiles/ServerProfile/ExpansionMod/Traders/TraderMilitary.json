@@ -17,6 +17,7 @@
         "crackers": 0,
         "canteen": 0,
         "vodka": 1,
+        "battery9v": 0,
 
         "binoculars": 0,
         "compass": 0,
@@ -54,6 +55,10 @@
         "UKAssVest_Olive": 0,
         "smershvest": 0,
         "smershbag": 0,
+
+        "tlrlight":0,
+        "universallight": 0,
+        "flashlight": 0,
 
         "assaultbag_ttsko": 0,
         "assaultbag_green" : 0,
