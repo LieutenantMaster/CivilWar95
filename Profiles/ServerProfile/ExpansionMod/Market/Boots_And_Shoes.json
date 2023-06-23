@@ -164,7 +164,7 @@
         },
         {
             "ClassName": "hikingbootslow_blue",
-            "MaxPriceThreshold": 90,
+            "MaxPriceThreshold": 60,
             "MinPriceThreshold": 45,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -179,7 +179,7 @@
         },
         {
             "ClassName": "hikingbootslow_beige",
-            "MaxPriceThreshold": 96,
+            "MaxPriceThreshold": 60,
             "MinPriceThreshold": 48,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -190,7 +190,7 @@
         },
         {
             "ClassName": "hikingbootslow_black",
-            "MaxPriceThreshold": 100,
+            "MaxPriceThreshold": 60,
             "MinPriceThreshold": 50,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -317,7 +317,7 @@
         },
         {
             "ClassName": "wellies_black",
-            "MaxPriceThreshold": 170,
+            "MaxPriceThreshold": 100,
             "MinPriceThreshold": 85,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -332,7 +332,7 @@
         },
         {
             "ClassName": "wellies_green",
-            "MaxPriceThreshold": 180,
+            "MaxPriceThreshold": 10,
             "MinPriceThreshold": 90,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,

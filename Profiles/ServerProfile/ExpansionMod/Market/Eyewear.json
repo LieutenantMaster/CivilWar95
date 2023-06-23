@@ -78,7 +78,7 @@
         },
         {
             "ClassName": "designerglasses",
-            "MaxPriceThreshold": 60,
+            "MaxPriceThreshold": 40,
             "MinPriceThreshold": 30,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,

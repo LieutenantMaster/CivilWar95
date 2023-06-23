@@ -300,7 +300,7 @@
         },
         {
             "ClassName": "shortjeans_blue",
-            "MaxPriceThreshold": 76,
+            "MaxPriceThreshold": 60,
             "MinPriceThreshold": 38,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -317,7 +317,7 @@
         },
         {
             "ClassName": "shortjeans_black",
-            "MaxPriceThreshold": 80,
+            "MaxPriceThreshold": 60,
             "MinPriceThreshold": 40,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,

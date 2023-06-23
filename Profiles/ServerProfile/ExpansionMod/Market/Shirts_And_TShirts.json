@@ -145,6 +145,17 @@
             "Variants": []
         },
         {
+            "ClassName": "ExpansionTommy",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 25,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "tacticalshirt_grey",
             "MaxPriceThreshold": 72,
             "MinPriceThreshold": 36,

@@ -100,7 +100,7 @@
         },
         {
             "ClassName": "ridersjacket_black",
-            "MaxPriceThreshold": 40,
+            "MaxPriceThreshold": 100,
             "MinPriceThreshold": 20,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
