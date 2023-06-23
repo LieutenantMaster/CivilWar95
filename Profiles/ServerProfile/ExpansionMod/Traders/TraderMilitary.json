@@ -11,13 +11,15 @@
     ],
     "Categories": [],
     "Items": {
-
+        "canopener": 0,
         "tacticalbaconcan": 0,
         "expansionbread1": 0,
         "crackers": 0,
         "canteen": 0,
         "vodka": 1,
         "battery9v": 0,
+
+        "weaponcleaningkit": 0,
 
         "binoculars": 0,
         "compass": 0,
