@@ -45,7 +45,7 @@
         },
         {
             "ClassName": "platecarrierpouches",
-            "MaxPriceThreshold": 200,
+            "MaxPriceThreshold": 150,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,

@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "policevest",
-            "MaxPriceThreshold": 70,
-            "MinPriceThreshold": 35,
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 750,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -115,8 +115,8 @@
         },
         {
             "ClassName": "platecarriervest",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 250,
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

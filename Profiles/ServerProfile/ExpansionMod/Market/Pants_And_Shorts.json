@@ -424,8 +424,8 @@
         },
         {
             "ClassName": "policepantsorel",
-            "MaxPriceThreshold": 140,
-            "MinPriceThreshold": 70,
+            "MaxPriceThreshold": 68,
+            "MinPriceThreshold": 40,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

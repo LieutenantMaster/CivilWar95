@@ -274,7 +274,7 @@
         },
         {
             "ClassName": "combatboots_beige",
-            "MaxPriceThreshold": 160,
+            "MaxPriceThreshold": 150,
             "MinPriceThreshold": 80,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
