@@ -1,0 +1,4 @@
+1
+
+1 = Wheel explosion sound will attract the infected.
+1 = Хлопок от взрыва колеса привлекает инфицированных.

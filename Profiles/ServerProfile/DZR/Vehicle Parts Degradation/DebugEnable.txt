@@ -1,0 +1,4 @@
+0
+
+1 = Show odometer + each wheel damage per
+1 = Показывает одометр и износ каждого колеса.

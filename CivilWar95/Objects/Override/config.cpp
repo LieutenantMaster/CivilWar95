@@ -17,6 +17,6 @@ class CfgVehicles
     class Inventory_Base;
 	class WoodenLog: Inventory_Base
 	{
-		itemSize[]={3,10};
+		itemSize[]={3,9};
     };
 };

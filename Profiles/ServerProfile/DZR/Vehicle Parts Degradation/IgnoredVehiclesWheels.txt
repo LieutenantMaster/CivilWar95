@@ -1,0 +1,5 @@
+ThisVehicleClassWillNotGetWheelDamage
+ThisVehicleClassWillNotGetWheelDamage_Too
+
+Vehicles ignored by the wheel degradation. Each vehicle at new line. List ends on empty line.
+Список транспорта, который игнорится износом колёс.

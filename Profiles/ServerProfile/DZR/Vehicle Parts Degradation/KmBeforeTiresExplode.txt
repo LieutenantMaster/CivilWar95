@@ -1,0 +1,4 @@
+100
+
+(Km) Nominal distance before the wheels explode. Reduced by random damage TireRandomDamage.
+Номинальная дистанция (км) до повреждения покрышек. Сокращается рандомным уроном TireRandomDamage

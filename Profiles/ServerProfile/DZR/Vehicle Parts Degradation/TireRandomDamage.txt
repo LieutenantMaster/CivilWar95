@@ -1,0 +1,4 @@
+4
+
+Each wheel additional damage between 0 and this number.
+Дополнительный рандомный износ от 0 до этого значения.
