@@ -1,0 +1,29 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Contrebande",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "Military",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Grenade",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [],
+    "Items": {
+        Trader Illegal en cours
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+}
