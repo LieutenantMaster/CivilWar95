@@ -1,0 +1,33 @@
+{
+    "m_Version": 11,
+    "DisplayName": "nourritures",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Can Of Beans Big",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [],
+    "Items": {
+        "disinfectantalcohol": 0,
+        "bandagedressing": 0,
+        "charcoaltablets": 0,
+        "purificationtablets": 0,
+        "bloodtestkit": 0,
+        "thermometer": 0,
+        "vitaminbottle": 0,
+        "disinfectantspray": 0,
+        "tetracyclineantibiotics": 0,
+        "painkillertablets": 0,
+        "startkitiv": 0,
+       "heatpack": 0,
+       "salinebag": 0,
+       "bloodbagempty": 0,
+       "firstaidkit": 0,
+       "iodinetincture": 0
+
+
+    }
+}

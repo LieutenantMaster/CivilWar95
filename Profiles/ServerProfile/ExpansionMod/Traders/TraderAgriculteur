@@ -1,0 +1,28 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Agriculteur",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Can Of Beans Big",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [],
+    "Items": {
+        "shovel": 0,
+        "farminghoe": 0,
+        "gardenlime": 0,
+        "pepperseedspack": 0,
+        "tomatoseedspack": 0,
+        "zucchiniseedspack": 0,
+        "pumpkinseedspack": 0,
+        "tomato": 2,
+        "pumpkin": 2,
+        "zucchini": 2,
+        "greenbellpepper": 2
+
+
+    }
+}

@@ -61,7 +61,7 @@
         },
         {
             "ClassName": "taloonbag_blue",
-            "MaxPriceThreshold": 100,
+            "MaxPriceThreshold": 120,
             "MinPriceThreshold": 50,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -81,7 +81,7 @@
         },
         {
             "ClassName": "taloonbag_green",
-            "MaxPriceThreshold": 140,
+            "MaxPriceThreshold": 120,
             "MinPriceThreshold": 70,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,

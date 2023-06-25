@@ -8,9 +8,9 @@
     "Items": [
         {
             "ClassName": "carpfilletmeat",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 8,
-            "SellPricePercent": -1.0,
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 38,
+            "SellPricePercent": 0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -19,9 +19,9 @@
         },
         {
             "ClassName": "mackerelfilletmeat",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 8,
-            "SellPricePercent": -1.0,
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 38,
+            "SellPricePercent": 0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,

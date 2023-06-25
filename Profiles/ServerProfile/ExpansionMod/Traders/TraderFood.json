@@ -1,6 +1,6 @@
 {
     "m_Version": 11,
-    "DisplayName": "Armurier",
+    "DisplayName": "nourritures",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
@@ -52,7 +52,21 @@
         "sodacan_spite": 1,
         "waterbottle": 1,
         "vodka": 1,
-        "expansionmilkbottle": 1
+        "expansionmilkbottle": 1,
+        "bearsteakmeat": 2,
+        "goatsteakmeat": 2,
+        "boarsteakmeat": 2,
+        "pigsteakmeat": 2,
+        "deersteakmeat": 2,
+        "wolfsteakmeat": 2,
+        "cowsteakmeat": 2,
+        "sheepsteakmeat": 2,
+        "chickenbreastmeat": 2,
+        "rabbitlegmeat": 2,
+        "carpfilletmeat": 2,
+        "mackerelfilletmeat": 2,
+        "sardines": 2
+
 
 
     }

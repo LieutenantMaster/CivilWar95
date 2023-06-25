@@ -155,9 +155,9 @@
         },
         {
             "ClassName": "woodenplank",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 50,
-            "SellPricePercent": -1.0,
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 28,
+            "SellPricePercent": 0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,

@@ -1,6 +1,6 @@
 {
     "m_Version": 11,
-    "DisplayName": "Armurier",
+    "DisplayName": "Outil",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
@@ -33,7 +33,19 @@
         "blowtorch": 0,
         "smallgascanister": 0,
         "expansionpropanetorch": 0,
-        "nailbox": 0
+        "nailbox": 0,
+        "expansioncodelock": 0,
+        "portablegasstove": 0,
+        "pot": 0,
+        "ducttape": 0,
+        "epoxyputty": 0,
+        "leathersewingkit": 0,
+        "sewingkit": 0,
+        "stone": 2,
+        "woodenplank": 2
+
+
+
 
     }
 }
