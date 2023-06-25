@@ -332,8 +332,8 @@
         },
         {
             "ClassName": "wellies_green",
-            "MaxPriceThreshold": 10,
-            "MinPriceThreshold": 90,
+            "MaxPriceThreshold": 90,
+            "MinPriceThreshold": 80,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

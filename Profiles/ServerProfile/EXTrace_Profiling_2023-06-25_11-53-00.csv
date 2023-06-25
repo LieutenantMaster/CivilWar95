@@ -1,0 +1,14 @@
+NAME ------------------------------------------------------------------------------------- | ---- CALLS | -- TOTAL TIME MS | ---- AVG TIME MS
+ExpansionClientSettings::ExpansionClientSettings                                           |          1 |           0.5051 |           0.5051
+ExpansionGlobalChatModule::ExpansionGlobalChatModule                                       |          1 |           0.3940 |           0.3940
+ExpansionP2PMarketModule::ExpansionP2PMarketModule                                         |          1 |           0.0036 |           0.0036
+ExpansionP2PMarketModule::OnInit                                                           |          1 |           0.0118 |           0.0118
+ExpansionQuestModule::OnInit                                                               |          1 |           0.0158 |           0.0158
+ExpansionRespawnHandlerModule::OnInit                                                      |          1 |           0.0177 |           0.0177
+ExpansionSettings::GameInit                                                                |          2 |         149.1600 |          74.5802
+ExpansionSettings::Init                                                                    |          2 |           0.0238 |           0.0119
+ExpansionSettings::Unload                                                                  |          1 |           0.0206 |           0.0206
+ExpansionWorldObjectsModule::OnInit                                                        |          1 |           0.0116 |           0.0116
+Land_Lighthouse::Land_Lighthouse                                                           |          3 |           0.0312 |           0.0104
+MissionMainMenu::CreateScriptedMenu                                                        |          1 |           0.0126 |           0.0126
+SurvivorBase::OnPlayerLoaded                                                               |          1 |           1.0299 |           1.0299
