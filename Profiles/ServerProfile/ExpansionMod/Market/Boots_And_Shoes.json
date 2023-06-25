@@ -216,6 +216,20 @@
             ]
         },
         {
+            "ClassName": "sk8_sneakers_black",
+            "MaxPriceThreshold": 110,
+            "MinPriceThreshold": 55,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "sk8_sneakers_fullblack",
+                "sk8_sneakers_blue"                
+            ]
+        },
+        {
             "ClassName": "workingboots_grey",
             "MaxPriceThreshold": 120,
             "MinPriceThreshold": 60,
@@ -327,7 +341,23 @@
             "Variants": [
                 "wellies_brown",
                 "wellies_grey",
+                "wellies_white",
+                "wellies_yellow",
+                "wellies_pink",
                 "wellies_green"
+            ]
+        },
+        {
+            "ClassName": "high_knee_sneakers",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 75,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "high_knee_sneakers_black"
             ]
         },
         {
@@ -416,6 +446,17 @@
             "ClassName": "nbcbootsgray",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "flipflops_colorbase",
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 50,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

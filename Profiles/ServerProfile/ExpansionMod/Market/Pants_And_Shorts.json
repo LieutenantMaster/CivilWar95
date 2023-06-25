@@ -215,6 +215,7 @@
                 "canvaspants_grey",
                 "canvaspants_red",
                 "canvaspants_violet",
+                "canvaspants_black",
                 "canvaspants_beige"
             ]
         },
@@ -295,6 +296,7 @@
                 "cargopants_black",
                 "cargopants_blue",
                 "cargopants_green",
+                "cargopants_white",
                 "cargopants_grey"
             ]
         },
@@ -317,6 +319,17 @@
         },
         {
             "ClassName": "shortjeans_black",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "galife_pants_navy",
             "MaxPriceThreshold": 60,
             "MinPriceThreshold": 40,
             "SellPricePercent": -1.0,
@@ -447,6 +460,8 @@
                 "hunterpants_brown",
                 "hunterpants_spring",
                 "jeans_green",
+                "hunterpants_woodland",
+                "hunterpants_beige",
                 "hunterpants_summer"
             ]
         },
@@ -460,6 +475,32 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "kneepads_jeans_base",
+            "MaxPriceThreshold": 90,
+            "MinPriceThreshold": 70,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "kneepads_jeans_black"
+        ]
+        },
+        {
+            "ClassName": "skinny_jeans_black",
+            "MaxPriceThreshold": 90,
+            "MinPriceThreshold": 70,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "skinny_jeans_blue"
+        ]
         },
         {
             "ClassName": "hunterpants_brown",

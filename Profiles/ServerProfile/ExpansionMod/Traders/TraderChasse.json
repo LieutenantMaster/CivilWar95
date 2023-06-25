@@ -121,6 +121,74 @@
     "fishingrod": 0,
     "hook": 0,
     "worm": 0,
-    "waterbottle": 0
+    "waterbottle": 0,
+
+    "military_sweater": 0,
+    "military_sweater_red": 0,
+                "military_sweater_blue": 0,
+                "military_sweater_white": 0,  
+                "military_sweater_black": 0,
+                "military_sweater_green": 0,
+    "poncho_brown": 0,
+    "poncho_green": 0,
+                "poncho_red": 0,
+                "poncho_black": 0,
+                "poncho_white": 0,
+                "bandana_polkapattern": 0,
+                "poncho_blackandwhite": 0,
+                "poncho_blackandwhite2": 0,
+                "poncho_blue_checkered": 0,
+                "shemagh_green": 0,    
+                "shemagh_brown": 0,
+                "shemagh_black": 0,
+                "shemagh_white": 0,
+                "shemagh_red": 0,
+                "slouch_hat_brown": 0,   
+                "winter_parka_base": 0,   
+                "winter_parka_white": 0,
+                "winter_parka_green": 0,
+                "wool_greatcoat_navy": 0,   
+                "wool_greatcoat_olive": 0,
+                "wool_greatcoat_grey": 0,
+                "ushanka_blackfurw": 0,
+                "ushanka_greenlight": 0,
+                "ushanka_whiteblackfurw": 0,
+                "cowboyhat_blackbrown": 0,
+                "cowboyhat_white": 0,
+                "cowboyhat_grey": 0,
+                "cowboyhat_darkgreen": 0,
+                "cowboyhat_blue": 0,
+                "hikingjacket_greenalt": 0,
+                "hikingjacket_whitegreen": 0,
+                "hikingjacket_whiteblack": 0,
+                "hikingjacket_blackyellow": 0,
+                "hikingjacket_blackpink": 0,
+                "hikingjacket_blackblue": 0,
+                "huntingjacket_white": 0,
+                "huntingjacket_woodland": 0,
+                "hunterpants_woodland": 0,
+                "mountainbag_winter": 0,
+                "mountainbag_summer": 0,
+                "mountainbag_autumn": 0,
+                "mountainbag_grey": 0,
+                "mountainbag_brown": 0,
+                "mountainbag_flt": 0,
+                "canvaspants_black": 0,
+                "huntingjacket_beige": 0,
+                "hunterpants_beige": 0,
+                "huntingvest_green": 0
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
 }

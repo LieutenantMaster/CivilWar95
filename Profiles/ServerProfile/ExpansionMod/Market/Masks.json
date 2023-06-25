@@ -15,7 +15,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "surgicalmask_blood"
+            ]
         },
         {
             "ClassName": "nioshfacemask",

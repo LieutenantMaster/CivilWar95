@@ -148,7 +148,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "huntingvest_green"
+            ]
         }
     ]
 }

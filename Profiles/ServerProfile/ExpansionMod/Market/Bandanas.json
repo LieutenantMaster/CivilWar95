@@ -24,6 +24,55 @@
             ]
         },
         {
+            "ClassName": "poncho_brown",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 26,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "poncho_green",
+                "poncho_red",
+                "poncho_black",
+                "poncho_white",
+                "bandana_polkapattern",
+                "poncho_blackandwhite",
+                "poncho_blackandwhite2",
+                "poncho_blue_checkered"
+            ]
+        },
+        {
+            "ClassName": "scarf_blue",
+            "MaxPriceThreshold": 16,
+            "MinPriceThreshold": 8,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "scarf_brown"
+            ]
+        },
+        {
+            "ClassName": "shemagh_green",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 38,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "shemagh_brown",
+                "shemagh_black",
+                "shemagh_white",
+                "shemagh_red"
+            ]
+        },
+        {
             "ClassName": "bandana_greenpattern",
             "MaxPriceThreshold": 16,
             "MinPriceThreshold": 8,
@@ -45,5 +94,6 @@
             "SpawnAttachments": [],
             "Variants": []
         }
+        
     ]
 }

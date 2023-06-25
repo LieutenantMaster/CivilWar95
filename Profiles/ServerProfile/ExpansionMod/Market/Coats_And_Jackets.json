@@ -109,7 +109,11 @@
             "SpawnAttachments": [],
             "Variants": [
                 "expansionridersjacketbrown",
-                "expansionridersjacketdarkblue"
+                "expansionridersjacketdarkblue",
+                "ridersjacket_blackred",
+                "ridersjacket_blackwhite",
+                "ridersjacket_brown", 
+                "ridersjacket_grey"
             ]
         },
         {
@@ -207,7 +211,12 @@
                 "quiltedjacket_yellow",
                 "quiltedjacket_violet",
                 "quiltedjacket_black",
-                "quiltedjacket_green"
+                "quiltedjacket_green",
+                "quiltedjacket_wedgewhite",
+                "quiltedjacket_wedgeorange",
+                "quiltedjacket_wedgegreen",
+                "quiltedjacket_wedgeblue",
+                "quiltedjacket_blueorange"
             ]
         },
         {
@@ -281,7 +290,7 @@
         },
         {
             "ClassName": "hikingjacket_black",
-            "MaxPriceThreshold": 190,
+            "MaxPriceThreshold": 150,
             "MinPriceThreshold": 96,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -291,7 +300,13 @@
             "Variants": [
                 "hikingjacket_red",
                 "hikingjacket_blue",
-                "hikingjacket_green"
+                "hikingjacket_green",
+                "hikingjacket_greenalt",
+                "hikingjacket_whitegreen",
+                "hikingjacket_whiteblack",
+                "hikingjacket_blackyellow",
+                "hikingjacket_blackpink",
+                "hikingjacket_blackblue"
             ]
         },
         {
@@ -369,7 +384,10 @@
                 "huntingjacket_brown",
                 "huntingjacket_spring",
                 "huntingjacket_summer",
-                "huntingjacket_winter"
+                "huntingjacket_winter",
+                "huntingjacket_white",
+                "huntingjacket_beige",
+                "huntingjacket_woodland"
             ]
         },
         {

@@ -277,30 +277,93 @@
                 "eyemask_red": 0,
                 "eyemask_valentines": 0,
                 "eyemask_yellow": 0,
-
-
-
                 
+                
+                
+                
+                
+                
+                "eyepatch": 0,
+                "fingerless_gloves": 0,
+                "fingerless_gloves_brown": 0,
+                "fingerless_gloves_wool": 0,
+                "fingerless_gloves_wool_grey": 0,
+                "fingerless_gloves_wool_black": 0,
+                "flipflops_colorbase": 0,
+                "galife_pants_navy": 0,
+                "high_knee_sneakers_black": 0,
+                "high_knee_sneakers": 0,
+                "kneepads_jeans_base": 0,
+                "kneepads_jeans_black": 0,
+                "layered_shirt_base": 0,
+                "layered_shirt_cheburashka": 0,
+                "layered_shirt_white": 0,
+                "layered_shirt_courage": 0,
+                "layered_shirt_lily": 0,
+                "medium_sleeves_shirt": 0,
+                "medium_sleeves_shirt_blue": 0,
+                "medium_sleeves_shirt_red": 0,
+                "round_glasses": 0,
+                "round_glasses_black": 0,
+                "scarf_blue": 0,
+                "scarf_brown": 0,
+                "sk8_sneakers_black": 0,
+                "sk8_sneakers_fullblack": 0,
+                "sk8_sneakers_blue": 0,
+                "skinny_jeans_black": 0,
+                "skinny_jeans_blue": 0,
+                "beanie_blackred": 0,
+                "beanie_purple": 0,
+                "beanie_white": 0,
+                "beanie_blackwhite": 0,
+                "beanie_green": 0,
+                "baseballcap_greywhite": 0,
+                "baseballcap_whitegreen": 0,
+                "baseballcap_bluewhite": 0,
+                "baseballcap_redblack": 0,
+                "baseballcap_redwhite": 0,
+                "baseballcap_blackwhite": 0,
+                "shirt_checkhero": 0,
+                "shirt_stripedyellow": 0,
+                "shirt_hawaiian1": 0,
+                "shirt_hawaiian2": 0,
+                "ridersjacket_blackred": 0,
+                "ridersjacket_blackwhite": 0,
+                "ridersjacket_brown": 0, 
+                "ridersjacket_grey": 0,
+                "quiltedjacket_wedgewhite": 0,
+                "quiltedjacket_wedgeorange": 0,
+                "quiltedjacket_wedgegreen": 0,
+                "quiltedjacket_wedgeblue": 0,
+                "quiltedjacket_blueorange": 0,
+                "minidress_floral": 0,
+                "minidress_floraldark": 0,
+                "minidress_cherry": 0,
+                "minidress_purple": 0,
+                "minidress_green": 0,
+                "cargopants_white": 0,
+                "taloonbag_black": 0,
+                "taloonbag_red": 0,
+                "taloonbag_yellow": 0,
+                "taloonbag_woodland": 0,
+                "taloonbag_winter": 0,
+                "civilianbelt_blue": 0,
+                "civilianbelt_grey": 0,
+                "civilianbelt_red": 0,
+                "hoodie_sport1": 0,
+                "hoodie_sport2": 0,
+                "wellies_white": 0,
+                "wellies_yellow": 0,
+                "wellies_pink": 0,
+                "canvas_backpack_base": 0,
+                "canvas_backpack_black": 0,
+                "canvas_backpack_white": 0,
+                "canvas_backpack_blue": 0,
+                "canvas_backpack_red": 0,
+                "canvas_backpack_purple": 0   
+            
 
 
 
-
-
-
-
-    
-
-
-
-
-
-
-
-
-        
-        "MonItemQueJePeuxAcheter": 0,
-        "MonItemQueJePeuxAcheterEtVendre": 1,
-        "MonItemQueJePeuxVendre": 2,
-        "MonItemQueJePeuxAcheterMaisOnVoisPas-PourDesCasSpeciaux": 3
     }
 }

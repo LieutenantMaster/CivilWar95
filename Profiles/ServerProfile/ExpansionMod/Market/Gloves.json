@@ -52,6 +52,33 @@
             ]
         },
         {
+            "ClassName": "fingerless_gloves",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 25,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "fingerless_gloves_brown"
+                ]
+        },
+        {
+            "ClassName": "fingerless_gloves_wool",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 25,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "fingerless_gloves_wool_grey",
+                "fingerless_gloves_wool_black"
+                ]
+        },
+        {
             "ClassName": "woolglovesfingerless_green",
             "MaxPriceThreshold": 50,
             "MinPriceThreshold": 25,

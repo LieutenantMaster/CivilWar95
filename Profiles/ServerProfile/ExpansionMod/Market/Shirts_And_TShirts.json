@@ -98,6 +98,82 @@
             ]
         },
         {
+            "ClassName": "layered_shirt_base",
+            "MaxPriceThreshold": 32,
+            "MinPriceThreshold": 16,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "layered_shirt_cheburashka",
+                "layered_shirt_white",
+                "layered_shirt_courage",
+                "layered_shirt_lily"
+                
+            ]
+        },
+        {
+            "ClassName": "medium_sleeves_shirt",
+            "MaxPriceThreshold": 42,
+            "MinPriceThreshold": 26,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "medium_sleeves_shirt_blue",
+                "medium_sleeves_shirt_red"                               
+            ]
+        },
+        {
+            "ClassName": "military_sweater",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 126,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "military_sweater_red",
+                "military_sweater_blue",
+                "military_sweater_white",  
+                "military_sweater_black",
+                "military_sweater_green"                           
+            ]
+        },
+        {
+            "ClassName": "winter_parka_base",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 126,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "winter_parka_white",
+                "winter_parka_green"                                           
+            ]
+        },
+        {
+            "ClassName": "wool_greatcoat_navy",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 126,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "wool_greatcoat_olive",
+                "wool_greatcoat_grey"                                           
+            ]
+        },
+        {
             "ClassName": "shirt_planeblack",
             "MaxPriceThreshold": 34,
             "MinPriceThreshold": 17,
@@ -119,6 +195,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
+        
         {
             "ClassName": "medicalscrubsshirt_blue",
             "MaxPriceThreshold": 40,
@@ -154,6 +231,21 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "shirt_checkhero",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 25,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "shirt_stripedyellow",
+                "shirt_hawaiian1",
+                "shirt_hawaiian2"
+            ]
         },
         {
             "ClassName": "tacticalshirt_grey",

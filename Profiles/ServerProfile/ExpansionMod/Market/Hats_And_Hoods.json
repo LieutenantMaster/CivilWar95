@@ -35,7 +35,13 @@
                 "cowboyhat_green",
                 "expansioncowboyhatgator",
                 "expansioncowboyhatsnake",
-                "expansioncowboyhatrattlesnake"
+                "expansioncowboyhatrattlesnake",
+                "cowboyhat_blackbrown",
+                "cowboyhat_white",
+                "cowboyhat_grey",
+                "cowboyhat_darkgreen",
+                "cowboyhat_blue"
+
             ]
         },
         {
@@ -58,6 +64,17 @@
             "ClassName": "militaryberet_cdf",
             "MaxPriceThreshold": 54,
             "MinPriceThreshold": 27,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "slouch_hat_brown",
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 67,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -92,7 +109,12 @@
                 "beaniehat_grey",
                 "beaniehat_red",
                 "beaniehat_black",
-                "beaniehat_green"
+                "beaniehat_green",
+                "beanie_blackred",
+                "beanie_purple",
+                "beanie_white",
+                "beanie_blackwhite",
+                "beanie_green"                
             ]
         },
         {
@@ -128,7 +150,10 @@
             "SpawnAttachments": [],
             "Variants": [
                 "ushanka_blue",
-                "ushanka_green"
+                "ushanka_green",
+                "ushanka_blackfurw",
+                "ushanka_greenlight",
+                "ushanka_whiteblackfurw"
             ]
         },
         {
