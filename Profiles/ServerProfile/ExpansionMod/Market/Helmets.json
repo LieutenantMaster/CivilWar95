@@ -440,7 +440,7 @@
         },
         {
             "ClassName": "ssh68helmet",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 300,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,

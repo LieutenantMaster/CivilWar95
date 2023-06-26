@@ -27,7 +27,15 @@
         "CP_CannabisBrickFuture": 2,
         "CP_CannabisBrickS1": 2,
 		"CP_CannabisBrickNomad": 2,
-		"CP_CannabisBrickBlackFrost": 2
-
+		"CP_CannabisBrickBlackFrost": 2,
+        "expansiongoldbar": 1,
+        "expansionsilverbar": 1,
+        "combatknife" : 2,
+        "Ssh68Helmet": 2,
+        "policevest": 1,
+        "mosin9130": 1,
+        "sks": 1,
+        "makarovij70": 1,
+        "cz61": 1
     }
 }
