@@ -3,7 +3,7 @@
     "DisplayName": "Contrebande",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
-    "RequiredFaction": "Military",
+    "RequiredFaction": "",
     "RequiredCompletedQuestID": -1,
     "TraderIcon": "Grenade",
     "Currencies": [
@@ -11,19 +11,23 @@
     ],
     "Categories": [],
     "Items": {
-        Trader Illegal en cours
+        "CP_EmptyBag": 0,
+        "CP_Bagger": 0,
+        "CP_PlasticWrapper": 0,
+        "CP_Workbench_Kit": 0,
+        "CP_DryPost_Kit": 0,
+        "CP_Relief_Balm": 0,
+        "CP_RollingPapers": 0,
 
 
-
-
-
-
-
-
-
-
-
-
+        "CP_CannabisBrickSkunk": 2,
+        "CP_CannabisBrickBlue": 2,
+        "CP_CannabisBrickKush": 2,
+        "CP_CannabisBrickStardawg": 2,
+        "CP_CannabisBrickFuture": 2,
+        "CP_CannabisBrickS1": 2,
+		"CP_CannabisBrickNomad": 2,
+		"CP_CannabisBrickBlackFrost": 2
 
     }
 }

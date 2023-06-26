@@ -133,7 +133,7 @@
         },
         {
             "ClassName": "spotlight",
-            "MaxPriceThreshold": 1200,
+            "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 600,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,

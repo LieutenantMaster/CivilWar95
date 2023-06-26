@@ -12,7 +12,14 @@
     "Categories": [],
     "Items": {
         "batterycharger": 0,
+        "powergenerator": 0,
+        "carbattery": 0,
+
         "cablereel": 0,
+        "battery9v": 0,
+        "personalradio": 0,
+        "spotlight": 0,
+        "sparkplug": 0,
         "electronicrepairkit": 0,
         "screwdriver": 0,
         "wrench": 0,
