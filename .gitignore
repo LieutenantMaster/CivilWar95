@@ -10,9 +10,7 @@ EMUServer.ini
 
 Missions/dayzOffline.chernarusplus/storage_*
 
-Profiles/ServerProfile/*.RPT
-Profiles/ServerProfile/*.log
-Profiles/ServerProfile/*.ADM
+Profiles/ServerProfile/*.csv
 Profiles/ServerProfile/*.cfg
 Profiles/SClientAProfile/
 Profiles/SClientBProfile/
@@ -29,6 +27,10 @@ Profiles/ServerProfile/ExpansionMod/ATM/
 Profiles/ServerProfile/ExpansionMod/AI/
 Profiles/ServerProfile/ExpansionMod/Hardline/
 
+*.RPT
+*.log
+*.ADM
+*.bin
 *.bak
 *.pbo
 *.bisign
