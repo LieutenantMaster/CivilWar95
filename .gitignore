@@ -1,5 +1,3 @@
-# DayZ SA
-*.biprivatekey
 user.cfg
 EMUClientA.ini
 EMUClientB.ini
@@ -34,7 +32,8 @@ Profiles/ServerProfile/ExpansionMod/Hardline/
 *.bak
 *.pbo
 *.bisign
+*.cfg.bat
+*.cfg.*.bat
+*.biprivatekey
 
-CivilWar95/Workbench/*.cfg.bat
-CivilWar95/Workbench/*.cfg.*.bat
 CivilWar95/Workbench/Logs/
