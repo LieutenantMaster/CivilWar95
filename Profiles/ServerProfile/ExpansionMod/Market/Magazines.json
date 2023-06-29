@@ -96,7 +96,7 @@
         },
         {
             "ClassName": "mag_cz61_20rnd",
-            "MaxPriceThreshold": 200,
+            "MaxPriceThreshold": 350,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
