@@ -1804,16 +1804,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
     </type>
-    <type name="battery9v">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier2"/>
     </type>
     <type name="rangefinder">
         <nominal>5</nominal>
@@ -2816,6 +2806,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier1"/>
+        <value name="Tier2"/> 
     </type>
     <type name="personalradio">
         <nominal>5</nominal>
@@ -7620,7 +7611,7 @@
         <value name="Tier3"/>
     </type>
     <type name="expansiongoldbar">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7631,7 +7622,7 @@
         <value name="Tier3"/>
     </type>
     <type name="expansionsilverbar">
-        <nominal>4</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7670,8 +7661,8 @@
         <lifetime>14400</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
-    <type name="CP_CannabisBrickSkunk">
-        <nominal>1</nominal>
+    <type name="CP_CannabisSeedsPackSkunk">
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7682,8 +7673,8 @@
         <usage name="Farm"/>
         <value name="Tier1234"/>
     </type>
-    <type name="CP_CannabisBrickBlue">
-        <nominal>1</nominal>
+    <type name="CP_CannabisSeedsPackBlue">
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7694,8 +7685,8 @@
         <usage name="Farm"/>
         <value name="Tier1234"/>
     </type>
-    <type name="CP_CannabisBrickKush">
-        <nominal>1</nominal>
+    <type name="CP_CannabisSeedsPackKush">
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7706,8 +7697,8 @@
         <usage name="Farm"/>
         <value name="Tier1234"/>
     </type>
-    <type name="CP_CannabisBrickStardawg">
-        <nominal>1</nominal>
+    <type name="CP_CannabisSeedsPackStardawg">
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7718,8 +7709,8 @@
         <usage name="Farm"/>
         <value name="Tier1234"/>
     </type>
-    <type name="CP_CannabisBrickFuture">
-        <nominal>1</nominal>
+    <type name="CP_CannabisSeedsPackFuture">
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7730,7 +7721,7 @@
         <usage name="Farm"/>
         <value name="Tier1234"/>
     </type>
-    <type name="CP_CannabisBrickS1">
+    <type name="CP_CannabisSeedsPackS1">
         <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
@@ -7742,7 +7733,7 @@
         <usage name="Farm"/>
         <value name="Tier1234"/>
     </type>
-    <type name="CP_CannabisBrickNomad">
+    <type name="CP_CannabisSeedsPackNomad">
         <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
@@ -7754,7 +7745,7 @@
         <usage name="Farm"/>
         <value name="Tier1234"/>
     </type>
-    <type name="CP_CannabisBrickBlackFrost">
+    <type name="CP_CannabisSeedsPackBlackFrost">
         <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
