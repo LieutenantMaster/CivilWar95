@@ -53,7 +53,7 @@
     "BuildZoneRequiredCustomMessage": "",
     "Zones": [],
     "ZonesAreNoBuildZones": 1,
-    "CodelockAttachMode": 1,
+    "CodelockAttachMode": 2,
     "DismantleFlagMode": 1,
     "FlagMenuMode": 1,
     "OverrideVanillaEntityPlacement": 0,
