@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "bearsteakmeat",
-            "MaxPriceThreshold": 50,
-            "MinPriceThreshold": 28,
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 60,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -20,7 +20,7 @@
         {
             "ClassName": "goatsteakmeat",
             "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 28,
+            "MinPriceThreshold": 40,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -31,7 +31,7 @@
         {
             "ClassName": "boarsteakmeat",
             "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 28,
+            "MinPriceThreshold": 40,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -42,7 +42,7 @@
         {
             "ClassName": "pigsteakmeat",
             "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 28,
+            "MinPriceThreshold": 40,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -53,7 +53,7 @@
         {
             "ClassName": "deersteakmeat",
             "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 28,
+            "MinPriceThreshold": 40,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -64,7 +64,7 @@
         {
             "ClassName": "wolfsteakmeat",
             "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 28,
+            "MinPriceThreshold": 40,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -75,7 +75,7 @@
         {
             "ClassName": "cowsteakmeat",
             "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 28,
+            "MinPriceThreshold": 40,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -86,7 +86,7 @@
         {
             "ClassName": "sheepsteakmeat",
             "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 28,
+            "MinPriceThreshold": 40,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -97,7 +97,7 @@
         {
             "ClassName": "chickenbreastmeat",
             "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 28,
+            "MinPriceThreshold": 40,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -108,7 +108,7 @@
         {
             "ClassName": "rabbitlegmeat",
             "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 28,
+            "MinPriceThreshold": 40,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

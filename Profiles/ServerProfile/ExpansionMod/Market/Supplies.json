@@ -154,9 +154,20 @@
             "Variants": []
         },
         {
+            "ClassName": "stone",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "woodenplank",
             "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 28,
+            "MinPriceThreshold": 30,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

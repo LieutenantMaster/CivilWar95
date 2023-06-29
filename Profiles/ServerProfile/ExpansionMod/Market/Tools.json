@@ -49,22 +49,11 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
-        },
-        {
-            "ClassName": "stone",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 95,
-            "SellPricePercent": 100,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+        },        
         {
             "ClassName": "expansiongoldbar",
             "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 950,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -75,7 +64,7 @@
         {
             "ClassName": "expansionsilverbar",
             "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 450,
+            "MinPriceThreshold": 500,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
