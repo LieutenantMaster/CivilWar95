@@ -20,8 +20,8 @@
         {
             "ClassName": "izh43shotgun",
             "MaxPriceThreshold": 1800,
-            "MinPriceThreshold": 900,
-            "SellPricePercent": -1.0,
+            "MinPriceThreshold": 1800,
+            "SellPricePercent": -15.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,

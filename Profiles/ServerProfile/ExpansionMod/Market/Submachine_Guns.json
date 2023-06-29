@@ -9,8 +9,8 @@
         {
             "ClassName": "cz61",
             "MaxPriceThreshold": 1200,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": 100,
+            "MinPriceThreshold": 1200,
+            "SellPricePercent": -15.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
