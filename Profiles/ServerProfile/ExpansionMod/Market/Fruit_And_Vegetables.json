@@ -16,18 +16,7 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
-        },
-        {
-            "ClassName": "greenbellpepper",
-            "MaxPriceThreshold": 9,
-            "MinPriceThreshold": 7,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+        },       
         {
             "ClassName": "zucchini",
             "MaxPriceThreshold": 12,
@@ -181,18 +170,7 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
-        },
-        {
-            "ClassName": "psilocybemushroom",
-            "MaxPriceThreshold": 9,
-            "MinPriceThreshold": 7,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+        },     
         {
             "ClassName": "auriculariamushroom",
             "MaxPriceThreshold": 9,

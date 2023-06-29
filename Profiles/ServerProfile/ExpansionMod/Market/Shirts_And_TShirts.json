@@ -130,8 +130,8 @@
         },
         {
             "ClassName": "military_sweater",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 126,
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 125,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
