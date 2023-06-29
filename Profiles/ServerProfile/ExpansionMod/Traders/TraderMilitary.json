@@ -3,7 +3,7 @@
     "DisplayName": "Armurier",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
-    "RequiredFaction": "Military",
+    "RequiredFaction": "Militaire",
     "RequiredCompletedQuestID": -1,
     "TraderIcon": "Grenade",
     "Currencies": [
