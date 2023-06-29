@@ -1,3 +1,4 @@
+#ifdef EXPANSIONMODAI
 [eAIRegisterFaction(eAIFactionNapa)]
 class eAIFactionNapa : eAIFaction
 {
@@ -14,3 +15,4 @@ class eAIFactionNapa : eAIFaction
 		return false;
 	}
 };
+#endif

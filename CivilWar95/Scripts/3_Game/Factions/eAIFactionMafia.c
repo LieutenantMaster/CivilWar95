@@ -1,3 +1,4 @@
+#ifdef EXPANSIONMODAI
 [eAIRegisterFaction(eAIFactionMafia)]
 class eAIFactionMafia : eAIFaction
 {
@@ -14,3 +15,4 @@ class eAIFactionMafia : eAIFaction
 		return false;
 	}
 };
+#endif

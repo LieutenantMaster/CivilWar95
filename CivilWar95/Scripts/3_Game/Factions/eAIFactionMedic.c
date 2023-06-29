@@ -1,3 +1,4 @@
+#ifdef EXPANSIONMODAI
 [eAIRegisterFaction(eAIFactionMedic)]
 class eAIFactionMedic : eAIFaction
 {
@@ -11,3 +12,4 @@ class eAIFactionMedic : eAIFaction
 		return true;
 	}
 };
+#endif

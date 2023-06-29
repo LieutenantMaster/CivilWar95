@@ -1,3 +1,4 @@
+#ifdef EXPANSIONMODAI
 [eAIRegisterFaction(eAIFactionChedaki)]
 class eAIFactionChedaki : eAIFaction
 {
@@ -14,3 +15,4 @@ class eAIFactionChedaki : eAIFaction
 		return false;
 	}
 };
+#endif

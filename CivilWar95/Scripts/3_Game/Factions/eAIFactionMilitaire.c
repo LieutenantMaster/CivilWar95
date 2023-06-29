@@ -1,3 +1,4 @@
+#ifdef EXPANSIONMODAI
 [eAIRegisterFaction(eAIFactionMilitaire)]
 class eAIFactionMilitaire : eAIFaction
 {
@@ -15,3 +16,4 @@ class eAIFactionMilitaire : eAIFaction
 		return false;
 	}
 };
+#endif

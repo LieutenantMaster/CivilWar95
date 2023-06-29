@@ -34,8 +34,6 @@ void main()
 
 class CustomMission: MissionServer
 {
-	static const string MISSION_TRADER_FILES_FOLDER = "$mission:expansion\\dynamictraders\\";
-
 	override PlayerBase CreateCharacter(PlayerIdentity identity, vector pos, ParamsReadContext ctx, string characterName)
 	{
 		Entity playerEnt;
@@ -47,104 +45,30 @@ class CustomMission: MissionServer
 		return m_player;
 	}
 
+	/*
 	override void OnMissionStart()
  	{
 		super.OnMissionStart();
 
-		array<string> traderFiles = ExpansionStatic.FindFilesInLocation(MISSION_TRADER_FILES_FOLDER, EXPANSION_MAPPING_EXT);
-		if (traderFiles.Count() >= 0)
-		{
-			for ( int i = 0; i < traderFiles.Count(); i++ )
-			{
-				LoadMissionTradersFile( traderFiles[i] );
-			}
-		}
+		UpdateTraderZones();
 	}
-	
-	static void LoadMissionTradersFile( string name )
+
+	static void UpdateTraderZones()
 	{
-		Object obj;
-		EntityAI trader;
-		string traderName, className, fileName, gear;
-		vector position, rotation;
+		IncrementStockForTraderzonePos("0 0 0", 10); // Zelenogorsk
+		IncrementStockForTraderzonePos("0 0 0", 10); // Chernogorsk
+	}
 
-		string filePath = MISSION_TRADER_FILES_FOLDER + name;
-		FileHandle file = OpenFile( filePath, FileMode.READ );
-
-		int id;
-		int selectedId = -1;
-
-		if ( !file )
+	static void IncrementStockForTraderzonePos( vector position, float amount )
+	{
+		ExpansionMarketTraderZone traderZone = marketSettings.GetTraderZoneByPosition(position);
+		if (!traderZone)
 			return;
-
-		while ( GetTraderFromMissionFile( file, traderName, position, rotation, gear, id ) )
-		{
-			if ( selectedId == -1 )
-				selectedId = Math.RandomIntInclusive(0, id);
-
-			if ( id != selectedId )
-				continue;
-
-			array<string> parts = new array<string>;
-			traderName.Split(".", parts);
-			className = parts[0];
-			fileName = parts[1];
-
-			obj = GetGame().CreateObject( className, position, false, GetGame().IsKindOf(className, "DZ_LightAI"), true );
-			if (!obj)
-				continue;
-
-			obj.SetOrientation( rotation );
-			obj.SetAffectPathgraph( true, false );
-			obj.Update();
-
-			if ( obj.CanAffectPathgraph() )
-				GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).CallLater( GetGame().UpdatePathgraphRegionByObject, 100, false, obj );
-
-			trader = EntityAI.Cast( obj );
-			if ( trader )
-			{
-				if ( gear )
-					ExpansionWorldObjectsModule.ProcessGear(trader, gear);
-
-				ExpansionTraderNPCBase 		traderNPC;
-				ExpansionTraderStaticBase 	traderStatic;
-				ExpansionTraderZombieBase 	traderZombie;
-				ExpansionTraderAIBase 		traderAI;
-
-				if ( Class.CastTo( traderNPC, obj ) )
-					traderNPC.LoadTrader(fileName);
-				else if ( Class.CastTo( traderStatic, obj ) )
-					traderStatic.LoadTrader(fileName);
-				else if ( Class.CastTo( traderZombie, obj ) )
-					traderZombie.LoadTrader(fileName);
-				else if ( Class.CastTo( traderAI, obj ) )
-					traderAI.LoadTrader(fileName);
-			}
-		}
-
-		CloseFile( file );
-	}
-	
-	static bool GetTraderFromMissionFile( FileHandle file, out string name, out vector position, out vector rotation, out string gear, out int count )
-	{
-		string line;
-		int lineSize = FGets( file, line );
-
-		if ( lineSize < 1 )
-			return false;
 		
-		TStringArray tokens = new TStringArray;
-		line.Split( "|", tokens );
-
-		count 	 = tokens.Get( 0 ).ToInt();
-		name 	 = tokens.Get( 1 );
-		position = tokens.Get( 2 ).ToVector();
-		rotation = tokens.Get( 3 ).ToVector();
-		gear 	 = tokens.Get( 4 );
-
-		return true;
+		traderZone.IncrementStock(amount);
+		traderZone.Save();
 	}
+	*/
 };
 
 Mission CreateCustomMission(string path)
