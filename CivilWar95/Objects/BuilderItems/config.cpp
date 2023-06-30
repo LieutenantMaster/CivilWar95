@@ -15,25 +15,25 @@ class CfgPatches
 class CfgVehicles
 {
 	class TripwireTrap;
-	class ArmedTripwireTrap: TripwireTrap {};
+	class CV95_ArmedTripwireTrap: TripwireTrap {};
 
 	class LandMineTrap;
-	class ArmedLandMineTrap: LandMineTrap {};
+	class CV95_ArmedLandMineTrap: LandMineTrap {};
 
 	class BearTrap;
-	class ArmedBearTrap: BearTrap {};
+	class CV95_ArmedBearTrap: BearTrap {};
 
 	class Grenade_ChemGas;
-	class ArmedGrenade_ChemGas: Grenade_ChemGas {};
+	class CV95_ArmedGrenade_ChemGas: Grenade_ChemGas {};
 
 	class M67Grenade;
-	class ArmedM67Grenade: M67Grenade {};
+	class CV95_ArmedM67Grenade: M67Grenade {};
 
 	class RGD5Grenade;
-	class ArmedRGD5Grenade: RGD5Grenade {};
+	class CV95_ArmedRGD5Grenade: RGD5Grenade {};
 
 	class FlashGrenade;
-	class ArmedFlashGrenade: FlashGrenade {};
+	class CV95_ArmedFlashGrenade: FlashGrenade {};
 
 	class HouseNoDestruct;
 	class CV95_Effect_Base: HouseNoDestruct

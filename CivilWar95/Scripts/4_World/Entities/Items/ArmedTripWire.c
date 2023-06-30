@@ -1,6 +1,6 @@
-class ArmedTripwireTrap: TripwireTrap
+class CV95_ArmedTripwireTrap: TripwireTrap
 {
-    void ArmedTripwireTrap()
+    void CV95_ArmedTripwireTrap()
     {
 		SetState(DEPLOYED);
         StartActivate(null);

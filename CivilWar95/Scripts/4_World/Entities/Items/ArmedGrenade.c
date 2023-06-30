@@ -1,30 +1,30 @@
-class ArmedGrenade_ChemGas: Grenade_ChemGas
+class CV95_ArmedGrenade_ChemGas: Grenade_ChemGas
 {
-    void ArmedGrenade_ChemGas()
+    void CV95_ArmedGrenade_ChemGas()
     {
         Unpin();
     }
 };
 
-class ArmedM67Grenade: M67Grenade
+class CV95_ArmedM67Grenade: M67Grenade
 {
-    void ArmedM67Grenade()
+    void CV95_ArmedM67Grenade()
     {
         Unpin();
     }
 };
 
-class ArmedRGD5Grenade: RGD5Grenade
+class CV95_ArmedRGD5Grenade: RGD5Grenade
 {
-    void ArmedRGD5Grenade()
+    void CV95_ArmedRGD5Grenade()
     {
         Unpin();
     }
 };
 
-class ArmedFlashGrenade: FlashGrenade
+class CV95_ArmedFlashGrenade: FlashGrenade
 {
-    void ArmedFlashGrenade()
+    void CV95_ArmedFlashGrenade()
     {
         Unpin();
     }

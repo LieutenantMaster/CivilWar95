@@ -1,16 +1,15 @@
-class ArmedLandMineTrap: LandMineTrap
+class CV95_ArmedLandMineTrap: LandMineTrap
 {
-    void ArmedLandMineTrap()
+    void CV95_ArmedLandMineTrap()
     {
         StartActivate(null);
     }
 };
 
-class ArmedBearTrap: BearTrap
+class CV95_ArmedBearTrap: BearTrap
 {
-    void ArmedBearTrap()
+    void CV95_ArmedBearTrap()
     {
-		SetState(DEPLOYED);
         StartActivate(null);
     }
 };
