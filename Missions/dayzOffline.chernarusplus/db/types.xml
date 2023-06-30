@@ -9058,7 +9058,7 @@
     </type>
 
     <type name="combatknife">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9151,7 +9151,7 @@
         <value name="Tier3"/>
     </type>
     <type name="izh18">
-        <nominal>4</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9163,7 +9163,7 @@
         <value name="Tier3"/>
     </type>
     <type name="izh43shotgun">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9187,7 +9187,7 @@
         <value name="Tier3"/>
     </type>
     <type name="ammobox_12gaslug_10rnd">
-        <nominal>4</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9199,7 +9199,7 @@
         <value name="Tier3"/>
     </type>
     <type name="ammobox_12garubberslug_10rnd">
-        <nominal>4</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9223,7 +9223,7 @@
         <value name="Tier3"/>
     </type>
     <type name="puscopeoptic">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>

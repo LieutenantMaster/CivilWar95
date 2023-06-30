@@ -239,8 +239,8 @@
         },
         {
             "ClassName": "mag_ak74_30rnd",
-            "MaxPriceThreshold": 440,
-            "MinPriceThreshold": 220,
+            "MaxPriceThreshold": 840,
+            "MinPriceThreshold": 420,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

@@ -109,8 +109,8 @@
         },
         {
             "ClassName": "ammobox_545x39_20rnd",
-            "MaxPriceThreshold": 64,
-            "MinPriceThreshold": 32,
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -122,8 +122,8 @@
         },
         {
             "ClassName": "ammobox_545x39tracer_20rnd",
-            "MaxPriceThreshold": 128,
-            "MinPriceThreshold": 64,
+            "MaxPriceThreshold": 308,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,

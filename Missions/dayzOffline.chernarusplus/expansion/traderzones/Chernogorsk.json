@@ -7,7 +7,7 @@
         2547.0
     ],
     "Radius": 500.0,
-    "BuyPricePercent": 125.0,
+    "BuyPricePercent": 175.0,
     "SellPricePercent": -1.0,
     "Stock": {
         "ammobox_00buck_10rnd": 187,
@@ -35,6 +35,10 @@
         "cp_cannabisbrickstardawg": 7,
         "mosin9130": 1,
         "ammobox_12garubberslug_10rnd": 187,
+        "aks74u": 5,
+        "aks74u_bttstck": 5,
+        "mag_ak74_30rnd": 10,
+        "ammobox_545x39_20rnd": 250,
         "cp_plasticwrapper": 40,
         "ammo_380": 375,
         "cp_rollingpapers": 30,

@@ -37,7 +37,7 @@
         "NPCMode": "REVERSE",
         "NPCFaction": "West",
         "NPCFormation": "RANDOM",
-        "NPCLoadoutFile": "BanditLoadout.json",
+        "NPCLoadoutFile": "BanditLoadout",
         "NPCAccuracyMin": 0.0,
         "NPCAccuracyMax": 0.0,
         "ClassNames": [
