@@ -9070,7 +9070,7 @@
         <value name="Tier3"/>
     </type>
     <type name="policevest">
-        <nominal>4</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9081,7 +9081,7 @@
         <value name="Tier3"/>
     </type>
     <type name="morphine">
-        <nominal>4</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9092,7 +9092,7 @@
         <value name="Tier3"/>
     </type>
     <type name="epinephrine">
-        <nominal>4</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9103,7 +9103,7 @@
         <value name="Tier3"/>
     </type>
     <type name="SKS">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9127,7 +9127,7 @@
         <value name="Tier3"/>
     </type>
     <type name="ammobox_762x39_20rnd">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9139,7 +9139,7 @@
         <value name="Tier3"/>
     </type>
     <type name="ammobox_762x39tracer_20rnd">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9163,7 +9163,7 @@
         <value name="Tier3"/>
     </type>
     <type name="izh43shotgun">
-        <nominal>4</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9175,7 +9175,7 @@
         <value name="Tier3"/>
     </type>
     <type name="mp133shotgun">
-        <nominal>4</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9211,7 +9211,7 @@
         <value name="Tier3"/>
     </type>
     <type name="mosin9130">
-        <nominal>4</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9235,7 +9235,7 @@
         <value name="Tier3"/>
     </type>
     <type name="ammobox_762x54_20rnd">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9247,7 +9247,7 @@
         <value name="Tier3"/>
     </type>
     <type name="ammobox_762x54tracer_20rnd">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9259,7 +9259,7 @@
         <value name="Tier3"/>
     </type>
     <type name="makarovij70">
-        <nominal>4</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9295,7 +9295,7 @@
         <value name="Tier3"/>
     </type>   
     <type name="cz61">
-        <nominal>4</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9319,7 +9319,7 @@
         <value name="Tier3"/>
     </type>
     <type name="p1">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9355,7 +9355,7 @@
         <value name="Tier3"/>
     </type>
     <type name="derringer_black">
-        <nominal>4</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9367,7 +9367,7 @@
         <value name="Tier3"/>
     </type>
     <type name="derringer_grey">
-        <nominal>4</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9391,7 +9391,7 @@
         <value name="Tier3"/>
     </type>
     <type name="ammobox_357_20rnd">
-        <nominal>4</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9403,7 +9403,7 @@
         <value name="Tier3"/>
     </type>
     <type name="pistolsuppressor">
-        <nominal>4</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9415,7 +9415,7 @@
         <value name="Tier3"/>
     </type>
     <type name="expansiongoldbar">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9426,7 +9426,7 @@
         <value name="Tier3"/>
     </type>
     <type name="expansionsilverbar">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>

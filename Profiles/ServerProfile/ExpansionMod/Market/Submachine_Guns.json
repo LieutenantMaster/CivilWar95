@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "cz61",
-            "MaxPriceThreshold": 1200,
-            "MinPriceThreshold": 1200,
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1300,
             "SellPricePercent": -15.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
