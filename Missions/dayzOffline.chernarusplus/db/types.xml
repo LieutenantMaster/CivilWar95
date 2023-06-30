@@ -1253,6 +1253,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="hunterpants_summer">
         <nominal>5</nominal>
@@ -1780,6 +1781,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <value name="Tier1"/>
         <value name="Tier2"/>
     </type>
     <type name="binoculars">
@@ -1848,17 +1850,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
     </type>
-    <type name="canopener">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier2"/>
-    </type>
     <type name="fishingrod">
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
@@ -1882,17 +1873,6 @@
         <value name="Tier2"/>
     </type>
     <type name="worm">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier2"/>
-    </type>
-    <type name="waterbottle">
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
@@ -2178,17 +2158,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
     </type>
-    <type name="zagorky">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier2"/>
-    </type>
     <type name="zagorkychocolate">
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
@@ -2199,6 +2168,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="zagorkypeanuts">
         <nominal>5</nominal>
@@ -2210,6 +2180,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="powderedmilk">
         <nominal>5</nominal>
@@ -2221,6 +2192,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="boxcerealcrunchin">
         <nominal>5</nominal>
@@ -2232,6 +2204,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="rice">
         <nominal>5</nominal>
@@ -2243,6 +2216,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="marmalade">
         <nominal>5</nominal>
@@ -2254,6 +2228,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="honey">
         <nominal>5</nominal>
@@ -2265,6 +2240,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="saltysticks">
         <nominal>5</nominal>
@@ -2276,6 +2252,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="crackers">
         <nominal>5</nominal>
@@ -2287,6 +2264,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="chips">
         <nominal>5</nominal>
@@ -2298,6 +2276,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="pajka">
         <nominal>5</nominal>
@@ -2309,6 +2288,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="pate">
         <nominal>5</nominal>
@@ -2320,6 +2300,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="brisketspread">
         <nominal>5</nominal>
@@ -2331,6 +2312,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="sardinescan">
         <nominal>5</nominal>
@@ -2342,6 +2324,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="tunacan">
         <nominal>5</nominal>
@@ -2353,6 +2336,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="dogfoodcan">
         <nominal>5</nominal>
@@ -2364,6 +2348,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="catfoodcan">
         <nominal>5</nominal>
@@ -2375,6 +2360,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="porkcan">
         <nominal>5</nominal>
@@ -2386,6 +2372,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="lunchmeat">
         <nominal>5</nominal>
@@ -2397,6 +2384,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="unknownfoodcan">
         <nominal>5</nominal>
@@ -2408,6 +2396,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="peachescan">
         <nominal>5</nominal>
@@ -2419,6 +2408,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="spaghettican">
         <nominal>5</nominal>
@@ -2430,6 +2420,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="bakedbeanscan">
         <nominal>5</nominal>
@@ -2441,6 +2432,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="tacticalbaconcan">
         <nominal>5</nominal>
@@ -2452,6 +2444,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="expansionbread1">
         <nominal>5</nominal>
@@ -2463,6 +2456,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="expansionbread2">
         <nominal>5</nominal>
@@ -2474,6 +2468,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="expansionbread3">
         <nominal>5</nominal>
@@ -2496,6 +2491,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="expansioncheese2">
         <nominal>5</nominal>
@@ -2507,6 +2503,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="expansioncheese3">
         <nominal>5</nominal>
@@ -2518,6 +2515,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="expansioncheese4">
         <nominal>5</nominal>
@@ -2529,6 +2527,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="sodacan_pipsi">
         <nominal>5</nominal>
@@ -2540,6 +2539,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="sodacan_cola">
         <nominal>5</nominal>
@@ -2551,6 +2551,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="sodacan_fronta">
         <nominal>5</nominal>
@@ -2562,6 +2563,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="sodacan_kvass">
         <nominal>5</nominal>
@@ -2573,6 +2575,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="sodacan_spite">
         <nominal>5</nominal>
@@ -2584,6 +2587,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="waterbottle">
         <nominal>5</nominal>
@@ -2595,6 +2599,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="vodka">
         <nominal>5</nominal>
@@ -2606,6 +2611,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="expansionmilkbottle">
         <nominal>5</nominal>
@@ -2617,6 +2623,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="disinfectantalcohol">
         <nominal>5</nominal>
@@ -2628,6 +2635,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="bandagedressing">
         <nominal>5</nominal>
@@ -2639,6 +2647,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="charcoaltablets">
         <nominal>5</nominal>
@@ -2650,6 +2659,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="purificationtablets">
         <nominal>5</nominal>
@@ -2661,6 +2671,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="bloodtestkit">
         <nominal>5</nominal>
@@ -2672,6 +2683,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="thermometer">
         <nominal>5</nominal>
@@ -2683,6 +2695,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="vitaminbottle">
         <nominal>5</nominal>
@@ -2694,6 +2707,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="disinfectantspray">
         <nominal>5</nominal>
@@ -2705,6 +2719,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="tetracyclineantibiotics">
         <nominal>5</nominal>
@@ -2716,6 +2731,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="painkillertablets">
         <nominal>5</nominal>
@@ -2727,6 +2743,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="startkitiv">
         <nominal>5</nominal>
@@ -2738,6 +2755,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="heatpack">
         <nominal>5</nominal>
@@ -2749,6 +2767,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
     <type name="salinebag">
         <nominal>5</nominal>
@@ -2783,6 +2802,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <value name="Tier1"/>
         <value name="Tier2"/>
     </type>
     <type name="iodinetincture">
@@ -2795,6 +2815,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier2"/>
+        <value name="Tier1"/>
     </type>
 
     <type name="cablereel">
@@ -2887,17 +2908,6 @@
         <value name="Tier1"/>
     </type>
     <type name="pliers">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="whetstone">
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
@@ -3899,17 +3909,6 @@
         <value name="Tier1"/>
     </type>
     <type name="jeans_bluedark">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="jeans_green">
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
@@ -6647,6 +6646,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
     <type name="zagorky">
         <nominal>5</nominal>
@@ -6658,589 +6658,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value name="Tier1"/>
-    </type>
-    <type name="zagorkychocolate">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="zagorkypeanuts">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="powderedmilk">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="boxcerealcrunchin">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="rice">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="marmalade">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="honey">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="saltysticks">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="crackers">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="chips">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="pajka">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="pate">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="brisketspread">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="sardinescan">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="tunacan">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="dogfoodcan">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="catfoodcan">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="porkcan">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="lunchmeat">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="unknownfoodcan">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="peachescan">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="spaghettican">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="bakedbeanscan">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="tacticalbaconcan">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="expansionbread1">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="expansionbread2">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="expansionbread3">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="expansioncheese1">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="expansioncheese2">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="expansioncheese3">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="expansioncheese4">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="sodacan_pipsi">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="sodacan_cola">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="sodacan_fronta">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="sodacan_kvass">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="sodacan_spite">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="waterbottle">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="vodka">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="expansionmilkbottle">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="disinfectantalcohol">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="bandagedressing">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="charcoaltablets">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="purificationtablets">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="bloodtestkit">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="thermometer">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="vitaminbottle">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="disinfectantspray">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="tetracyclineantibiotics">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="painkillertablets">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="startkitiv">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="heatpack">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="firstaidkit">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-    </type>
-    <type name="iodinetincture">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
 
     <type name="combatknife">
@@ -7746,534 +7164,6 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <usage name="Farm"/>
         <value name="Tier1234"/>
-    </type>
-    <type name="military_sweater">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="military_sweater_red">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="military_sweater_blue">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="military_sweater_white">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>  
-    <type name="military_sweater_black">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="military_sweater_green">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="poncho_brown">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="poncho_green">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="poncho_red">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="poncho_black">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="poncho_white">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="bandana_polkapattern">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="poncho_blackandwhite">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="poncho_blackandwhite0">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="poncho_blue_checkered">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="shemagh_green">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>    
-    <type name="shemagh_brown">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="shemagh_black">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="shemagh_white">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="shemagh_red">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="slouch_hat_brown">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>   
-    <type name="winter_parka_base">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>   
-    <type name="winter_parka_white">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="winter_parka_green">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="wool_greatcoat_navy">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>   
-    <type name="wool_greatcoat_olive">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="wool_greatcoat_grey">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="ushanka_blackfurw">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="ushanka_greenlight">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="ushanka_whiteblackfurw">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="cowboyhat_blackbrown">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="cowboyhat_white">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="cowboyhat_grey">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="cowboyhat_darkgreen">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="cowboyhat_blue">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="hikingjacket_greenalt">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="hikingjacket_whitegreen">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="hikingjacket_whiteblack">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="hikingjacket_blackyellow">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="hikingjacket_blackpink">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="hikingjacket_blackblue">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="huntingjacket_white">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="huntingjacket_woodland">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="hunterpants_woodland">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="mountainbag_winter">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="mountainbag_summer">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="mountainbag_autumn">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="mountainbag_grey">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="mountainbag_brown">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="mountainbag_flt">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="canvaspants_black">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="huntingjacket_beige">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="hunterpants_beige">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="huntingvest_green">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="eyepatch">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="fingerless_gloves">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="fingerless_gloves_brown">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="fingerless_gloves_wool">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="fingerless_gloves_wool_grey">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="fingerless_gloves_wool_black">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="flipflops_colorbase">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="galife_pants_navy">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="high_knee_sneakers_black">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="high_knee_sneakers">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="kneepads_jeans_base">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="kneepads_jeans_black">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="layered_shirt_base">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="layered_shirt_cheburashka">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="layered_shirt_white">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="layered_shirt_courage">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="layered_shirt_lily">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="medium_sleeves_shirt">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="medium_sleeves_shirt_blue">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="medium_sleeves_shirt_red">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="round_glasses">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="round_glasses_black">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="scarf_blue">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="scarf_brown">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="sk8_sneakers_black">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="sk8_sneakers_fullblack">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="sk8_sneakers_blue">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="skinny_jeans_black">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="skinny_jeans_blue">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="beanie_blackred">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="beanie_purple">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="beanie_white">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="beanie_blackwhite">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="beanie_green">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="baseballcap_greywhite">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="baseballcap_whitegreen">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="baseballcap_bluewhite">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="baseballcap_redblack">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="baseballcap_redwhite">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="baseballcap_blackwhite">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="shirt_checkhero">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="shirt_stripedyellow">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="shirt_hawaiian1">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="shirt_hawaiian2">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="ridersjacket_blackred">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="ridersjacket_blackwhite">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="ridersjacket_brown">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type> 
-    <type name="ridersjacket_grey">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="quiltedjacket_wedgewhite">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="quiltedjacket_wedgeorange">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="quiltedjacket_wedgegreen">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="quiltedjacket_wedgeblue">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="quiltedjacket_blueorange">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="minidress_floral">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="minidress_floraldark">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="minidress_cherry">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="minidress_purple">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="minidress_green">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="cargopants_white">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="taloonbag_black">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="taloonbag_red">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="taloonbag_yellow">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="taloonbag_woodland">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="taloonbag_winter">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="civilianbelt_blue">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="civilianbelt_grey">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="civilianbelt_red">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="hoodie_sport1">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="hoodie_sport2">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="wellies_white">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="wellies_yellow">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="wellies_pink">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="canvas_backpack_base">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="canvas_backpack_black">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="canvas_backpack_white">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="canvas_backpack_blue">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="canvas_backpack_red">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="canvas_backpack_purple">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ACOGOptic">
         <lifetime>14400</lifetime>
@@ -8875,36 +7765,12 @@
         <lifetime>28800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
-    <type name="AthleticShoes_Black">
-        <lifetime>900</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="AthleticShoes_Blue">
-        <lifetime>900</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="AthleticShoes_Brown">
-        <lifetime>900</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="AthleticShoes_Green">
-        <lifetime>900</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="AthleticShoes_Grey">
-        <lifetime>900</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
     <type name="Aug">
         <lifetime>28800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="AugShort">
         <lifetime>28800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="AviatorGlasses">
-        <lifetime>14400</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="B95">
@@ -8927,56 +7793,8 @@
         <lifetime>14400</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
-    <type name="BakedBeansCan">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
     <type name="BakedBeansCan_Opened">
         <lifetime>9000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="Balaclava3Holes_Beige">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="Balaclava3Holes_Black">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="Balaclava3Holes_Blue">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="Balaclava3Holes_Green">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="BalaclavaMask_Beige">
-        <lifetime>28800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="BalaclavaMask_Black">
-        <lifetime>28800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="BalaclavaMask_Blackskull">
-        <lifetime>28800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="BalaclavaMask_Blue">
-        <lifetime>28800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="BalaclavaMask_Green">
-        <lifetime>28800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="BalaclavaMask_Pink">
-        <lifetime>28800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="BalaclavaMask_White">
-        <lifetime>28800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="BallisticHelmet_Black">
@@ -8988,30 +7806,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="BallisticHelmet_UN">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="BandageDressing">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="Bandana_Blackpattern">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="Bandana_Camopattern">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="Bandana_Greenpattern">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="Bandana_Polkapattern">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="Bandana_Redpattern">
         <lifetime>14400</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
@@ -9183,100 +7977,12 @@
         <lifetime>3</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
-    <type name="BoonieHat_Black">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="BoonieHat_Blue">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="BoonieHat_DPM">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="BoonieHat_Dubok">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="BoonieHat_Flecktran">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="BoonieHat_NavyBlue">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="BoonieHat_Olive">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="BoonieHat_Orange">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="BoonieHat_Red">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="BoonieHat_Tan">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="BoxCerealCrunchin">
-        <lifetime>28800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
     <type name="BrassKnuckles_Dull">
         <lifetime>14400</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="BrassKnuckles_Shiny">
         <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="Breeches_Beetcheck">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="Breeches_Beige">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="Breeches_Black">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="Breeches_Blackcheck">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="Breeches_Blue">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="Breeches_Browncheck">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="Breeches_Green">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="Breeches_Pink">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="Breeches_Red">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="Breeches_White">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="BrisketSpread">
-        <lifetime>9000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="BrisketSpread_Opened">
@@ -9309,10 +8015,6 @@
     </type>
     <type name="CZ75">
         <lifetime>28800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="CableReel">
-        <lifetime>604800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Camonet">
@@ -9371,16 +8073,8 @@
         <lifetime>14400</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
-    <type name="ChernarusMap">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
     <type name="ChernarusMap_Open">
         <lifetime>3</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="ChernarusSportShirt">
-        <lifetime>14400</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ChestHolster">
@@ -9389,22 +8083,6 @@
     </type>
     <type name="ChickenBreastMeat">
         <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="ChildBag_Blue">
-        <lifetime>28800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="ChildBag_Green">
-        <lifetime>28800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="ChildBag_Red">
-        <lifetime>28800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="Chips">
-        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ChristmasTree">
@@ -9563,10 +8241,6 @@
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
-    <type name="CivilianBelt">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
     <type name="CivilianSedan">
         <lifetime>3</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
@@ -9664,22 +8338,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CowSteakMeat">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="CowboyHat_Brown">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="CowboyHat_black">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="CowboyHat_darkBrown">
-        <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="CowboyHat_green">
         <lifetime>14400</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
