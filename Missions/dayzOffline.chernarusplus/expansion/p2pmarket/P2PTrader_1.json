@@ -3,12 +3,21 @@
     "m_TraderID": 1,
     "m_ClassName": "ExpansionP2PTraderAIIrena",
     "m_Position": [
+<<<<<<< Updated upstream
         3697.77001953125,
         402.0119934082031,
         5971.1201171875
     ],
     "m_Orientation": [
         150.1320037841797,
+=======
+        0,
+        0,
+        0
+    ],
+    "m_Orientation": [
+        0,
+>>>>>>> Stashed changes
         0.0,
         0.0
     ],

@@ -16,7 +16,7 @@ class CfgMods
 {
 	class DZ_CivilWar95
 	{
-		dir = "CivilWar95";
+		dir = "CivilWar95/CivilWar95";
 		extra = 0;
 		type = "mod";
 
@@ -40,8 +40,8 @@ class CfgMods
 				value = "";
 				files[] =
 				{
-					"CivilWar95/Scripts/Common",
-					"CivilWar95/Scripts/1_Core"
+					"CivilWar95/CivilWar95/Scripts/Common",
+					"CivilWar95/CivilWar95/Scripts/1_Core"
 				};
 			};
 			class gameLibScriptModule
@@ -49,8 +49,8 @@ class CfgMods
 				value = "";
 				files[] =
 				{
-					"CivilWar95/Scripts/Common",
-					"CivilWar95/Scripts/2_GameLib"
+					"CivilWar95/CivilWar95/Scripts/Common",
+					"CivilWar95/CivilWar95/Scripts/2_GameLib"
 				};
 			};
 			class gameScriptModule
@@ -58,8 +58,8 @@ class CfgMods
 				value = "";
 				files[] =
 				{
-					"CivilWar95/Scripts/Common",
-					"CivilWar95/Scripts/3_Game"
+					"CivilWar95/CivilWar95/Scripts/Common",
+					"CivilWar95/CivilWar95/Scripts/3_Game"
 				};
 			};
 			class worldScriptModule
@@ -67,8 +67,8 @@ class CfgMods
 				value = "";
 				files[] =
 				{
-					"CivilWar95/Scripts/Common",
-					"CivilWar95/Scripts/4_World"
+					"CivilWar95/CivilWar95/Scripts/Common",
+					"CivilWar95/CivilWar95/Scripts/4_World"
 				};
 			};
 			class missionScriptModule
@@ -76,8 +76,8 @@ class CfgMods
 				value = "";
 				files[] =
 				{
-					"CivilWar95/Scripts/Common",
-					"CivilWar95/Scripts/5_Mission"
+					"CivilWar95/CivilWar95/Scripts/Common",
+					"CivilWar95/CivilWar95/Scripts/5_Mission"
 				};
 			};
 		};

@@ -45,7 +45,6 @@ class CustomMission: MissionServer
 		return m_player;
 	}
 
-	/*
 	override void OnMissionStart()
  	{
 		super.OnMissionStart();
@@ -55,20 +54,19 @@ class CustomMission: MissionServer
 
 	static void UpdateTraderZones()
 	{
-		IncrementStockForTraderzonePos("0 0 0", 10); // Zelenogorsk
-		IncrementStockForTraderzonePos("0 0 0", 10); // Chernogorsk
+		IncrementStockForTraderzonePos("2640 200 5175", 10); // Zelenogorsk
+		IncrementStockForTraderzonePos("6510 0 2550", 1); // Chernogorsk
 	}
 
 	static void IncrementStockForTraderzonePos( vector position, float amount )
 	{
-		ExpansionMarketTraderZone traderZone = marketSettings.GetTraderZoneByPosition(position);
+		ExpansionMarketTraderZone traderZone = GetExpansionSettings().GetMarket().GetTraderZoneByPosition(position);
 		if (!traderZone)
 			return;
 		
 		traderZone.IncrementStock(amount);
 		traderZone.Save();
 	}
-	*/
 };
 
 Mission CreateCustomMission(string path)

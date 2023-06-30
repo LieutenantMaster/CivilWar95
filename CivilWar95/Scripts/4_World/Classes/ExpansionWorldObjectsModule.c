@@ -3,10 +3,15 @@ modded class ExpansionWorldObjectsModule
 {
 	static const string MISSION_DYNAMIC_TRADER_FILES_FOLDER = "$mission:expansion\\dynamictraders\\";
 
-	override static void FindMissionFiles(bool loadObjects, bool loadTraders)
-	{
-        super.FindMissionFiles(loadObjects, loadTraders);
-        
+	override void OnMissionStart(Class sender, CF_EventArgs args)
+ 	{
+		auto trace = EXTrace.Start(ExpansionTracing.MAPPING, this);
+
+		super.OnMissionStart(sender, args);
+
+		if (!GetGame().IsServer())
+			return;
+
 		array<string> traderFiles = ExpansionStatic.FindFilesInLocation(MISSION_DYNAMIC_TRADER_FILES_FOLDER, EXPANSION_MAPPING_EXT);
 		if (traderFiles.Count() >= 0)
 		{

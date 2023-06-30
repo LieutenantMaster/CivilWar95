@@ -20,10 +20,12 @@ modded class ExpansionMarketTraderZone
 			}
 			else if ( percent > marketItem.MaxStockThreshold )
 			{
-				percent = ( marketItem.MaxStockThreshold / 100 ) * percent;
+				percent = ( marketItem.MaxStockThreshold / percent ) * 100;
 			}
 
-			Stock.Set( className, percent );
+			percent += Stock.Get( clsName );
+
+			Stock.Set( clsName, percent );
 		}
 	}
 };
