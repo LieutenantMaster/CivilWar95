@@ -14,22 +14,15 @@ modded class ExpansionMarketTraderZone
 			if ( !marketItem )
 				continue;
 
-			if ( marketItem.IsStaticStock() )
-			{
-				percent = 1;
-			}
-			else if ( percent > marketItem.MaxStockThreshold )
-			{
-				percent = ( marketItem.MaxStockThreshold / 100 ) * percent;
+			percent = ( marketItem.MaxStockThreshold / 100 ) * percent;
 
-				percent += Stock.Get( clsName );
+			percent += Stock.Get( clsName );
 
-				if ( percent > marketItem.MaxStockThreshold )
-					percent = marketItem.MaxStockThreshold;
+			if ( percent > marketItem.MaxStockThreshold )
+				percent = marketItem.MaxStockThreshold;
 
-				if ( percent < marketItem.MinStockThreshold )
-					percent = marketItem.MinStockThreshold;
-			}
+			if ( percent < marketItem.MinStockThreshold )
+				percent = marketItem.MinStockThreshold;
 
 			Stock.Set( clsName, percent );
 		}
