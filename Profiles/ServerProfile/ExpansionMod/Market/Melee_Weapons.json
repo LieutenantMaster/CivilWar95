@@ -29,6 +29,17 @@
             "Variants": []
         },
         {
+            "ClassName": "policebaton",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "stunbaton",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
