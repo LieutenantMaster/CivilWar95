@@ -151,7 +151,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Mag_Expansion_Taser",
+            "ClassName": "expansion_taser_yellow",
             "MaxPriceThreshold": 400,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1.0,
