@@ -34,15 +34,54 @@ void main()
 
 class CustomMission: MissionServer
 {
-	override PlayerBase CreateCharacter(PlayerIdentity identity, vector pos, ParamsReadContext ctx, string characterName)
+	override void OnEvent(EventType eventTypeId, Param params) 
 	{
-		Entity playerEnt;
-		playerEnt = GetGame().CreatePlayer( identity, characterName, pos, 0, "NONE" );
-		Class.CastTo( m_player, playerEnt );
+		switch (eventTypeId)
+		{
+			case ClientNewEventTypeID:
 
-		GetGame().SelectPlayer( identity, m_player );
+				ClientNewEventParams newParams;
+				Class.CastTo(newParams, params);
+				PlayerIdentity identity = newParams.param1;
+				string steamid = identity.GetPlainId();
 
-		return m_player;
+				if ( !FindUserInWhitelist( "$profile:whitelist.txt", steamid ) )
+				{
+					Print("[CivilWar95] Connection denied to the player " + steamid);
+					OnClientDisconnectedEvent(identity, NULL, 0, true);
+					return;
+				}
+				Print("[CivilWar95] Connection granted to the player " + steamid);
+
+			break;
+		}
+
+		super.OnEvent(eventTypeId, params);
+	}
+
+	static bool FindUserInWhitelist( string filePath, string steamid )
+	{
+		FileHandle file = OpenFile( filePath, FileMode.READ );
+
+		if ( !file )
+		{
+			Print("[CivilWar95] ERROR !!!! Couldn't find " + filePath);
+			return false;
+		}
+
+		string whitelistSteamId;
+		while ( FGets( file, whitelistSteamId ) >= 1 )
+		{
+			if ( steamid == whitelistSteamId )
+			{
+				Print("Found matching steam id ! " + steamid + " == " + whitelistSteamId );
+				CloseFile( file );
+				return true;
+			}
+		}
+
+		CloseFile( file );
+		return false;
 	}
 
 	override void OnMissionStart()
@@ -54,8 +93,8 @@ class CustomMission: MissionServer
 
 	static void UpdateTraderZones()
 	{
-		IncrementStockForTraderzonePos("2640 200 5175", 10); // Zelenogorsk
-		IncrementStockForTraderzonePos("6510 0 2550", 1); // Chernogorsk
+		IncrementStockForTraderzonePos("2640 200 5175", 10); 	// Zelenogorsk
+		IncrementStockForTraderzonePos("6510 0 2550", 1); 		// Chernogorsk
 	}
 
 	static void IncrementStockForTraderzonePos( vector position, float amount )

@@ -5,8 +5,6 @@ modded class ExpansionWorldObjectsModule
 
 	override void OnMissionStart(Class sender, CF_EventArgs args)
  	{
-		auto trace = EXTrace.Start(ExpansionTracing.MAPPING, this);
-
 		super.OnMissionStart(sender, args);
 
 		if (!GetGame().IsServer())
