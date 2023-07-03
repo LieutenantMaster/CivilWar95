@@ -1,0 +1,29 @@
+{
+    "CanDestroyPBDoor": 1,
+    "CanCutComboLock": 1,
+    "CanCraftDoorKits": 1,
+    "CanCraftBarricadesKits": 1,
+    "RaidToolsT1eT2": [
+        "Sledgehammer",
+        "FirefighterAxe",
+        "WoodAxe"
+    ],
+    "RaidToolsT3": [
+        "Sledgehammer"
+    ],
+    "CarDestroyPartsTools": [
+        "Sledgehammer"
+    ],
+    "PB_DestroyTime": 600,
+    "PB_DismantleTime": 25,
+    "PB_ToolDamage": 25,
+    "T1DoorDestroyTime": 180,
+    "T2DoorDestroyTime": 600,
+    "T3DoorDestroyTime": 1200,
+    "T1BarricadeAndWallDestroyTime": 180,
+    "T2BarricadeAndWallDestroyTime": 600,
+    "T3BarricadeAndWallDestroyTime": 1200,
+    "DialLockDestroyTime": 180,
+    "T1GateWallDestroyTime": 600,
+    "T2GateWallDestroyTime": 1200
+}

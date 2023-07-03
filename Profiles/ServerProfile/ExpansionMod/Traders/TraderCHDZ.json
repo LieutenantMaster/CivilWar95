@@ -3,7 +3,7 @@
     "DisplayName": "Armurier",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
-    "RequiredFaction": "Militaire",
+    "RequiredFaction": "Chedaki",
     "RequiredCompletedQuestID": -1,
     "TraderIcon": "Grenade",
     "Currencies": [
@@ -11,10 +11,13 @@
     ],
     "Categories": [],
     "Items": {
+        "GorkaEJacket_Autumn": 0,
+        "GorkaPants_Autumn": 0,
+        "CargoPants_Black": 0,
+        "CargoPants_White": 0,
+
+
         "canopener": 0,
-        "tacticalbaconcan": 0,
-        "expansionbread1": 0,
-        "crackers": 0,
         "canteen": 0,
         "vodka": 1,
         "battery9v": 0,
@@ -34,36 +37,19 @@
         "rangefinder": 0,
 
         "militarybelt": 0,
-        "holster_black": 0,
         "nylonknifesheath": 0,
         "combatknife" : 0,
         "whetstone": 0,
 
         "handcuffs": 0,
         "handcuffskeys": 0,
-
-        "gp5gasmask": 0,
-        "airbornemask": 0,
-        "GasMask_Filter":0,
         
-        "militaryberet_nz": 0,
-        "militaryberet_cdf": 0,
-        "officerhat": 0,
-        "TankerHelmet":0,
         "Ssh68Helmet": 0,
-        "BallisticHelmet_Green": 0,
-        "gorkahelmet": 0,
-        "gorkahelmetvisor": 0,
 
-        "PlateCarrierVest": 0,
-        "PlateCarrierPouches": 0,
-        "PlateCarrierHolster" : 0,
+        "PlateCarrierVest_Green": 0,
+        "PlateCarrierPouches_Green": 0,
+        "PlateCarrierHolster_Green" : 0,
 
-        "ttskojacket_camo": 0,
-        "TTSKOPants" : 0,
-        "TTSKOBoots" : 0,
-
-        "UKAssVest_Olive": 0,
         "smershvest": 0,
         "smershbag": 0,
 
@@ -71,21 +57,18 @@
         "universallight": 0,
         "flashlight": 0,
 
-        "assaultbag_ttsko": 0,
-        "assaultbag_green" : 0,
+        "TortillaBag": 0,
+        "militaryberet_chdkz": 0,
 
         "CombatBoots_Black": 0,
         "omnogloves_gray": 0,
         "tacticalgloves_black": 0,
         "tacticalgloves_green": 0,
         "tacticalgloves_beige": 0,
-        "WoolGlovesFingerless_Black": 0,
-        "WoolGlovesFingerless_Green": 0,
 
-        "tacticalgoggles": 0,
+        "AviatorGlasses": 0,
         "morphine": 0,
         "epinephrine": 0,
-
 
         "ak74": 0,
         "ak74_woodbttstck": 0,
@@ -112,19 +95,6 @@
 
         "makarovij70": 0,
         "mag_ij70_8rnd": 0,
-        "ammobox_380_35rnd": 0,
-
-        "colt1911": 0,
-        "mag_1911_7rnd": 0,
-        "ammobox_45acp_25rnd": 0,
-
-        "flashgrenade": 0,
-        "m18smokegrenade_red": 0,
-        "m18smokegrenade_green": 0,
-        "m18smokegrenade_yellow": 0,
-        "m18smokegrenade_white": 0,
-        "rdg2smokegrenade_black": 0,
-        "rdg2smokegrenade_white": 0
-
+        "ammobox_380_35rnd": 0
     }
 }
