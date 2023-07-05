@@ -5,7 +5,7 @@
     "CurrencyIcon": "DayZExpansion/Core/GUI/icons/misc/coinstack2_64x64.edds",
     "ATMSystemEnabled": 1,
     "MaxDepositMoney": 100000,
-    "DefaultDepositMoney": 10000,
+    "DefaultDepositMoney": 1000,
     "ATMPlayerTransferEnabled": 1,
     "ATMPartyLockerEnabled": 0,
     "MaxPartyDepositMoney": 100000,
