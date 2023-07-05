@@ -11,5 +11,221 @@
     "ThreatDistanceLimit": -1.0,
     "DamageMultiplier": -1.0,
     "ObjectPatrols": [],
-    "Patrols": []
+    "Patrols": [
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -2,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6414.83,
+                    5.98,
+                    2228.34
+                ],
+                [
+                    6593.68,
+                    6.9857,
+                    2317.37
+                ],
+                [
+                    6696.5,
+                    3.00002,
+                    2367.93
+                ],
+                [
+                    6459.5,
+                    5.79832,
+                    2278.63
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -2,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -2,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6676.31,
+                    5.81361,
+                    2457.29
+                ],
+                [
+                    6502.16,
+                    6,
+                    2412.88
+                ],
+                [
+                    6471.27,
+                    9.32,
+                    2800.99
+                ],
+                [
+                    6251.2,
+                    8.96267,
+                    2732.4
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -2,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6397.32,
+                    14.4347,
+                    2883.35
+                ],
+                [
+                    6566.18,
+                    13.9012,
+                    2651.17
+                ],
+                [
+                    6344.98,
+                    9.31969,
+                    2654.07
+                ],
+                [
+                    6564.61,
+                    6.21514,
+                    2537.47
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -2,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6433.93,
+                    6.12174,
+                    2463.81
+                ],
+                [
+                    6372.44,
+                    9.40563,
+                    2588.87
+                ],
+                [
+                    6291,
+                    9.22633,
+                    2546.38
+                ],
+                [
+                    6327.46,
+                    9.25502,
+                    2436.29
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -2,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6580.52,
+                    6,
+                    2376.9
+                ],
+                [
+                    6464.28,
+                    6.71915,
+                    2401.96
+                ],
+                [
+                    6356.26,
+                    6,
+                    2332.04
+                ],
+                [
+                    6349.6,
+                    6.15555,
+                    2259.16
+                ]
+            ]
+        }
+    ]
 }
