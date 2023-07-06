@@ -66,6 +66,19 @@
             "Variants": []
         },
         {
+            "ClassName": "air_weapon_abakan",
+            "MaxPriceThreshold": 13000,
+            "MinPriceThreshold": 12000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_ak74_30rnd"
+            ],
+            "Variants": []
+        },
+        {
             "ClassName": "m4a1",
             "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 1600,
@@ -91,6 +104,19 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mag_stanag_30rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "air_weapon_stg",
+            "MaxPriceThreshold": 9000,
+            "MinPriceThreshold": 8750,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "air_weapon_stg_mag"
             ],
             "Variants": []
         },

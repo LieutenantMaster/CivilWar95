@@ -226,7 +226,7 @@
             "Variants": [
                 "ammo_9x39ap"
             ]
-        },
+        },        
         {
             "ClassName": "ammo_9x39ap",
             "MaxPriceThreshold": 8,
@@ -237,7 +237,7 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
-        },
+        },        
         {
             "ClassName": "ammo_flare",
             "MaxPriceThreshold": 14,

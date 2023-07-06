@@ -9058,7 +9058,7 @@
     </type>
 
     <type name="combatknife">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9068,6 +9068,90 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <value name="Tier3"/>
+    </type>
+    <type name="air_weapon_knife_old">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="air_weapon_knife_acb90">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="air_weapon_knife_hunting">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="air_weapon_knife_m9">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="air_weapon_knife_improve">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <value name="Tier2"/>
+    </type>
+    <type name="air_weapon_knife_skin">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <value name="Tier2"/>
+    </type>
+    <type name="air_weapon_knife_shark">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <value name="Tier2"/>                            
     </type>
     <type name="policevest">
         <nominal>2</nominal>
@@ -9104,6 +9188,54 @@
     </type>
     <type name="SKS">
         <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="air_weapon_k98">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="air_ammo_792x57">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="air_weapon_mp40">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="air_weapon_mag_mp40_30rnd">
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9651,7 +9783,11 @@
     </type>
     <type name="air_ammo_792x33">
         <lifetime>14400</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>         
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="air_ammo_9x18">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>             
     </type>
     <type name="air_weapon_mp40">
         <lifetime>28800</lifetime>

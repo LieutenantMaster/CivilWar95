@@ -62,6 +62,39 @@
             "Variants": []
         },
         {
+            "ClassName": "air_weapon_9a91",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "air_weapon_ppsh41",
+            "MaxPriceThreshold": 2750,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "air_weapon_groza",
+            "MaxPriceThreshold": 8000,
+            "MinPriceThreshold": 7150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "pp19",
             "MaxPriceThreshold": 2200,
             "MinPriceThreshold": 1100,

@@ -132,6 +132,28 @@
             "Variants": []
         },
         {
+            "ClassName": "air_ammo_792x33",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 500,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "air_ammo_792x25",
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 220,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 500,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "ammobox_556x45_20rnd",
             "MaxPriceThreshold": 64,
             "MinPriceThreshold": 32,
@@ -216,8 +238,8 @@
         },
         {
             "ClassName": "ammobox_9x39_20rnd",
-            "MaxPriceThreshold": 32,
-            "MinPriceThreshold": 16,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -229,8 +251,8 @@
         },
         {
             "ClassName": "ammobox_9x39ap_20rnd",
-            "MaxPriceThreshold": 128,
-            "MinPriceThreshold": 64,
+            "MaxPriceThreshold": 310,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,

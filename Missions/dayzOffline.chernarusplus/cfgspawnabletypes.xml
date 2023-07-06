@@ -1189,6 +1189,24 @@
 			<item name="PUScopeOptic" chance="1.00" />
 		</attachments>
 	</type>
+	<type name="air_weapon_k98">
+		<damage min="0.3" max="0.7" />
+		<attachments chance="0.90">
+			<item name="air_module_k98" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_mp40">
+		<damage min="0.3" max="0.7" />		
+		<attachments chance="0.50">
+			<item name="air_weapon_mag_mp40_30rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_ots33">
+		<damage min="0.3" max="0.7" />		
+		<attachments chance="0.70">
+			<item name="air_weapon_ots33_mag" chance="1.00" />
+		</attachments>			
+	</type>
 	<type name="AKM">
 		<damage min="0.45" max="0.85" />
 		<attachments chance="1.00">

@@ -194,6 +194,39 @@
             "Variants": []
         },
         {
+            "ClassName": "air_weapon_svt_mag",
+            "MaxPriceThreshold": 440,
+            "MinPriceThreshold": 350,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "air_weapon_mag_9a91",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "air_weapon_ppsh_71rnd_mag",
+            "MaxPriceThreshold": 320,
+            "MinPriceThreshold": 290,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "mag_akm_30rnd",
             "MaxPriceThreshold": 440,
             "MinPriceThreshold": 220,
@@ -203,7 +236,7 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
-        },
+        },        
         {
             "ClassName": "mag_akm_palm30rnd",
             "MaxPriceThreshold": 440,
@@ -337,6 +370,28 @@
             "Variants": []
         },
         {
+            "ClassName": "air_weapon_stg_mag",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "air_weapon_groza_mag",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "mag_vss_10rnd",
             "MaxPriceThreshold": 440,
             "MinPriceThreshold": 220,
@@ -349,8 +404,8 @@
         },
         {
             "ClassName": "mag_val_20rnd",
-            "MaxPriceThreshold": 560,
-            "MinPriceThreshold": 280,
+            "MaxPriceThreshold": 450,
+            "MinPriceThreshold": 220,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
