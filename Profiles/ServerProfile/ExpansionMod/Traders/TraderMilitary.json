@@ -112,8 +112,8 @@
         "air_weapon_svt_mag": 0,
         "vss": 0,    
         "mag_val_20rnd": 0,
-        "ammo_9x39ap": 0,
-        "ammo_9x39": 0,
+        "ammobox_9x39_20rnd": 0,
+        "ammobox_9x39ap_20rnd": 0,
 
         "aks74u": 0,
         "aks74u_bttstck": 0,
@@ -131,7 +131,7 @@
         "m68optic": 0,
         "air_module_okp": 0,
         "air_module_pka": 0,
-        "air_modair_module_x8": 0,
+        "air_module_x8": 0,
 
         "flashgrenade": 0,
         "m18smokegrenade_red": 0,

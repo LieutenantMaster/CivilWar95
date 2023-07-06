@@ -9210,8 +9210,8 @@
         <category name="weapons"/>
         <value name="Tier3"/>
     </type>
-    <type name="air_ammo_792x57">
-        <nominal>4</nominal>
+    <type name="air_ammobox_792x57_60rnd">
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9781,6 +9781,10 @@
         <lifetime>14400</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
+    <type name="air_ammobox_792x57_60rnd">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>    
+    </type>
     <type name="air_ammo_792x33">
         <lifetime>14400</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
@@ -9796,6 +9800,18 @@
     <type name="air_weapon_mag_mp40_30rnd">
         <lifetime>14400</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="air_ammo_9x18_20rnd">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="air_ammo_762x25_25rnd">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="air_ammo_792x33_35rnd">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>              
     </type>
     <type name="air_weapon_ots33">
         <lifetime>28800</lifetime>

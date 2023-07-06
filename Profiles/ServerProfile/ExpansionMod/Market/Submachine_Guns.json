@@ -64,7 +64,7 @@
         {
             "ClassName": "air_weapon_9a91",
             "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 900,
+            "MinPriceThreshold": 1300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
