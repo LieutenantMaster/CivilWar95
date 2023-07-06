@@ -131,7 +131,7 @@
             "Variants": []
         },
         {
-            "ClassName": "air_modair_module_x8",
+            "ClassName": "air_module_x8",
             "MaxPriceThreshold": 700,
             "MinPriceThreshold": 650,
             "SellPricePercent": -1.0,
