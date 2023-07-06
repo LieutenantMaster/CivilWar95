@@ -15,7 +15,7 @@
     "ShowAIMissionStarted": 0,
     "ShowAIMissionAction": 0,
     "ShowAIMissionEnded": 0,
-    "ShowTerritoryNotifications": 1,
+    "ShowTerritoryNotifications": 0,
     "EnableKillFeed": 0,
     "KillFeedMessageType": 0,
     "KillFeedFall": 0,

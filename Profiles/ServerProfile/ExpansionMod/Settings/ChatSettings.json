@@ -1,6 +1,6 @@
 {
     "m_Version": 2,
-    "EnableGlobalChat": 1,
+    "EnableGlobalChat": 0,
     "EnablePartyChat": 0,
     "EnableTransportChat": 0,
     "ChatColors": {
