@@ -10,10 +10,7 @@ class CV95_Effect_Base extends House
         }
     }
 
-    void DoEffect()
-    {
-
-    }
+    void DoEffect() {}
 
 	override void EEDelete(EntityAI parent)
 	{

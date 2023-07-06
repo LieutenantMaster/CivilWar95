@@ -88,13 +88,34 @@ class CustomMission: MissionServer
  	{
 		super.OnMissionStart();
 
-		UpdateTraderZones();
+		if ( IsScheaduledRestart() )
+			UpdateTraderZones();
 	}
 
 	static void UpdateTraderZones()
 	{
 		IncrementStockForTraderzonePos("2640 200 5175", 10); 	// Zelenogorsk
 		IncrementStockForTraderzonePos("6510 0 2550", 1); 		// Chernogorsk
+	}
+
+	static bool IsScheaduledRestart()
+	{
+		CF_Date now = CF_Date.Now(true);
+		int timestamp = now.DateToEpoch();
+		
+		for (int i = 0; i < GetExpansionSettings().GetNotificationScheduler().Notifications.Count(); i++)
+		{
+			ExpansionNotificationSchedule schedule = GetExpansionSettings().GetNotificationScheduler().Notifications[i];
+			if (!schedule || schedule.m_LastShownTimestamp == timestamp)
+				continue;
+			
+			if (( schedule.Hour + 1 ) == now.GetHours() && now.GetMinutes() < 10.0)
+			{
+				return true;
+			}
+		}
+		
+		return false;
 	}
 
 	static void IncrementStockForTraderzonePos( vector position, float amount )

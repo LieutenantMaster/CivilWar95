@@ -95,6 +95,6 @@
 		"ignoreMapOwnership": true,
 		"ignoreNavItemsOwnership": true,
 		"displayPlayerPosition": false,
-		"displayNavInfo": true
+		"displayNavInfo": false
 	}
 }
