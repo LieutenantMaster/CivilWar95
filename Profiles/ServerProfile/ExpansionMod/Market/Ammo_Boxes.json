@@ -143,6 +143,17 @@
             "Variants": []
         },
         {
+            "ClassName": "air_ammo_9x18",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 500,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "air_ammo_792x25",
             "MaxPriceThreshold": 350,
             "MinPriceThreshold": 220,
