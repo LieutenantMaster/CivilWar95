@@ -270,7 +270,7 @@
             "Variants": []
         },        
         {
-            "ClassName": "air_ammo_762x25_25rnd",
+            "ClassName": "air_ammobox_762x25_25rnd",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,
@@ -281,7 +281,7 @@
             "Variants": []
         },
         {
-            "ClassName": "air_ammo_792x33_35rnd",
+            "ClassName": "air_ammobox_792x33_35rnd",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,
