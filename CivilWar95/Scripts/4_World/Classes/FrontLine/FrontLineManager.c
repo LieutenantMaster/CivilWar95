@@ -1,4 +1,5 @@
-class FrontLineManager
+[CF_RegisterModule(FrontLineManager)]
+class FrontLineManager: CF_ModuleWorld
 {
     // ==================== SHARED ====================
     private static autoptr TVectorArray m_PolygonFrontline =
@@ -71,6 +72,23 @@ class FrontLineManager
     // ///////////////////////////////////////////////////////////////////////////////////////////
     // /////////////////////////////////////// SERVER SIDE ///////////////////////////////////////
     // ///////////////////////////////////////////////////////////////////////////////////////////
+	
+	override void OnInit()
+	{
+		super.OnInit();
+
+		EnableRPC();
+	}
+	
+	override int GetRPCMin()
+	{
+		return CV95SettingsRPC.INVALID;
+	}
+	
+	override int GetRPCMax()
+	{
+		return CV95SettingsRPC.COUNT;
+	}
 
     /// <summary>
     /// SERVER SIDE | Spawn a random event ahead of the player position.
@@ -81,26 +99,29 @@ class FrontLineManager
 
         position        = position * (direction * 100);
         float radius    = Math.RandomFloatInclusive(10, 50);
-        int quanity     = Math.RandomFloatInclusive(1, 10);
-        int selectedEventType = Math.RandomIntInclusive(0, FrontLineTypes.COUNT - 1);
+        int quantity     = Math.RandomFloatInclusive(1, 10);
+        int selectedEventType = FrontLineTypes.ARTI; //= Math.RandomIntInclusive(0, FrontLineTypes.COUNT - 1);
 
-        /*
+        Print("DEBUG | SERVER | SpawnEventAhead");
         switch(selectedEventType)
         {
             case FrontLineTypes.AI:
-                m_Events.Insert(new FrontLineAI(position, radius, quanity));
-            break; 
+                m_Events.Insert(new FrontLineAI(position, radius, quantity));
+            break;
             case FrontLineTypes.MINE:
-                m_Events.Insert(new FrontLineMines(position, radius * 2, quanity * 5));
-            break; 
+                m_Events.Insert(new FrontLineMines(position, radius * 2, quantity * 5));
+            break;
             case FrontLineTypes.ARTI:
-                m_Events.Insert(new FrontLineArtillery(position, radius, quanity));
-            break; 
+                Print("DEBUG | SERVER | FrontLineTypes.ARTI");
+                Print("DEBUG | SERVER | FrontLineTypes.ARTI | position "+ position);
+                Print("DEBUG | SERVER | FrontLineTypes.ARTI | radius "+ radius * 10);
+                Print("DEBUG | SERVER | FrontLineTypes.ARTI | quantity "+ quantity);
+                m_Events.Insert(new FrontLineArtillery(position, radius * 10, quantity));
+            break;
             case FrontLineTypes.SFX:
-                m_Events.Insert(new FrontLineSoundEffect(position, -1, quanity));
+                m_Events.Insert(new FrontLineSoundEffect(position, -1, quantity));
             break;
         }
-        */
     }
 
     /// <summary>
@@ -127,6 +148,35 @@ class FrontLineManager
         }
     }
 
+	override void OnRPC(Class sender, CF_EventArgs args)
+	{
+		super.OnRPC(sender, args);
+
+		auto rpc = CF_EventRPCArgs.Cast(args);
+
+		switch ( rpc.ID )
+		{
+			case CV95SettingsRPC.FrontLineTrigger:
+				RPC_FrontLineTrigger(rpc.Context, rpc.Sender, rpc.Target);
+            break;
+		}
+	}
+
+	private void RPC_FrontLineTrigger( ParamsReadContext ctx, PlayerIdentity senderRPC, Object target )
+	{
+		if (!ExpansionScriptRPC.CheckMagicNumber(ctx))
+			return;
+
+        vector position;
+		if ( !ctx.Read( position ) )
+		{
+			Error("FrontLineManager::RPC_FrontLineTrigger position");
+			return;
+		}
+
+        SpawnEventAhead(position);
+	}
+
     // ///////////////////////////////////////////////////////////////////////////////////////////
     // /////////////////////////////////////// CLIENT SIDE ///////////////////////////////////////
     // ///////////////////////////////////////////////////////////////////////////////////////////
@@ -136,7 +186,7 @@ class FrontLineManager
     /// Change the frequency of checks based of the distance.
     /// If we are inside let the server know.
     /// </summary>
-    void CheckPlayerPosition(bool doAdvancedDistanceCheck)
+    void CheckPlayerPosition(bool doAdvancedDistanceCheck = false)
     {
 		PlayerBase player = PlayerBase.Cast(GetGame().GetPlayer());
 		if (!player)
@@ -152,6 +202,9 @@ class FrontLineManager
             else
             {
                 // RPC Server !
+                auto rpc = ExpansionScriptRPC.Create();
+                rpc.Write( player.GetPosition() );
+                rpc.Send( null, CV95SettingsRPC.FrontLineTrigger, true, player.GetIdentity() );
             }
         }
     }
@@ -198,7 +251,7 @@ class FrontLineManager
             }
 
         }
-        return isInside;
+        return true;//isInside;
     }
 
     /// <summary>

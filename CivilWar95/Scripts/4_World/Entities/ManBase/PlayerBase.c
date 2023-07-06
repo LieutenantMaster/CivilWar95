@@ -1,5 +1,21 @@
 modded class PlayerBase
 {
+	private ref FrontLineManager m_FrontLineManager;
+
+	void PlayerBase()
+	{
+		if (!IsAI() && !GetGame().IsServer())
+		{
+			GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).CallLater( CV95_DelayedInit, 1000, false );
+		}
+	}
+
+	void CV95_DelayedInit()
+	{
+		m_FrontLineManager = new FrontLineManager();
+		m_FrontLineManager.CheckPlayerPosition();
+	}
+
 	#ifdef EXPANSION_MODSTORAGE
 	override void CF_OnStoreSave(CF_ModStorageMap storage)
 	{
