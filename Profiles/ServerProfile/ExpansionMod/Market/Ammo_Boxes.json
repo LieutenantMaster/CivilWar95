@@ -259,7 +259,7 @@
             "Variants": []
         },
         {
-            "ClassName": "air_ammo_9x18_20rnd",
+            "ClassName": "air_ammobox_9x18_20rnd",
             "MaxPriceThreshold": 80,
             "MinPriceThreshold": 40,
             "SellPricePercent": -1.0,
