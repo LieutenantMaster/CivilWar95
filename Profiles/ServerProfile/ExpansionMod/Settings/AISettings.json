@@ -7,7 +7,7 @@
     "Admins": [
         "76561198152677868"
     ],
-    "MaximumDynamicPatrols": 0,
+    "MaximumDynamicPatrols": 20,
     "Vaulting": 1,
     "SniperProneDistanceThreshold": 150.0,
     "Manners": 0,
