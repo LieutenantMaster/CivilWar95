@@ -49,6 +49,21 @@
             ]
         },
         {
+            "ClassName": "Msp_MedicBag_Red",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Msp_MedicBag_Blue",
+                "Msp_MedicBag_Green",
+                "Msp_MedicBag_black"
+                ]
+        },
+        {
             "ClassName": "drybag_green",
             "MaxPriceThreshold": 170,
             "MinPriceThreshold": 135,
