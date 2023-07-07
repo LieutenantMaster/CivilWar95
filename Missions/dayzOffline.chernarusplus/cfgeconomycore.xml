@@ -47,5 +47,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="windstride_types.xml" type="types" />
 		<file name="zennotes_types.xml" type="types" />
 		<file name="moredoors_types.xml" type="types" />
+		<file name="dayzdogs_types.xml" type="types" />
 	</ce>
 </economycore>
