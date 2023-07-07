@@ -2,8 +2,8 @@
     "m_Version": 15,
     "Enabled": 1,
     "DespawnTime": 600.0,
-    "RespawnTime": -1.0,
-    "MinDistRadius": 1.0,
+    "RespawnTime": 600.0,
+    "MinDistRadius": 100.0,
     "MaxDistRadius": 1000.0,
     "DespawnRadius": 1100.0,
     "AccuracyMin": -1.0,
@@ -68,7 +68,26 @@
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
-
+                [
+                    6397.32,
+                    14.4347,
+                    2883.35
+                ],
+                [
+                    6564.61,
+                    6.21514,
+                    2537.47
+                ],
+                [
+                    6471.27,
+                    9.32,
+                    2800.99
+                ],
+                [
+                    6251.2,
+                    8.96267,
+                    2732.4
+                ]
             ]
         },
         {
