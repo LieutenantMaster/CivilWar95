@@ -9,7 +9,7 @@
         {
             "ClassName": "gardenlime",
             "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 34,
+            "MinPriceThreshold": 30,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "greenbellpepper",
-            "MaxPriceThreshold": 8,
-            "MinPriceThreshold": 8,
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 12,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "tomato",
-            "MaxPriceThreshold": 8,
-            "MinPriceThreshold": 8,
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 12,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -63,8 +63,8 @@
         },
         {
             "ClassName": "pumpkin",
-            "MaxPriceThreshold": 8,
-            "MinPriceThreshold": 8,
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 12,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -74,8 +74,8 @@
         },
         {
             "ClassName": "zucchini",
-            "MaxPriceThreshold": 8,
-            "MinPriceThreshold": 8,
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 12,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
