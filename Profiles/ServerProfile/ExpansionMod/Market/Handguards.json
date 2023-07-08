@@ -40,6 +40,17 @@
             "Variants": []
         },
         {
+            "ClassName": "tf_an94_plasticbttstck",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "ak_woodhndgrd",
             "MaxPriceThreshold": 400,
             "MinPriceThreshold": 200,

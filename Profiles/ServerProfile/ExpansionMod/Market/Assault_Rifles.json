@@ -66,7 +66,7 @@
             "Variants": []
         },
         {
-            "ClassName": "air_weapon_abakan",
+            "ClassName": "tf_an94",
             "MaxPriceThreshold": 13000,
             "MinPriceThreshold": 12000,
             "SellPricePercent": -1.0,
@@ -74,7 +74,8 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
-                "mag_ak74_30rnd"
+                "mag_ak74_30rnd",
+                "tf_an94_plasticbttstck"
             ],
             "Variants": []
         },

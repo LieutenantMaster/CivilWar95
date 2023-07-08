@@ -35,6 +35,17 @@
             "Variants": []
         },
         {
+            "ClassName": "TF_WeldingMask",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 75,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "skatehelmet_blue",
             "MaxPriceThreshold": 60,
             "MinPriceThreshold": 45,
@@ -442,6 +453,42 @@
             "ClassName": "ssh68helmet",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 250,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_Maska1Helmet",
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 350,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_Maska1Visor",
+                "TF_Maska1SchVisor"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_Maska1Visor",
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 75,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_Maska1SchVisor",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

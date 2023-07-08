@@ -22,6 +22,20 @@
             ]
         },
         {
+            "ClassName": "TF_RifleSling_Black",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [                
+                    "TF_RifleSling_Brown",
+                    "TF_RifleSling_OD"
+            ]
+        },
+        {
             "ClassName": "militarybelt",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
