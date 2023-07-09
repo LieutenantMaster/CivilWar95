@@ -11,6 +11,32 @@
             <usage name="Office" />
             <usage name="School" />
         </user>
+        <user name="Chernogorsk">
+            <usage name="Industrial"/>
+            <usage name="Farm"/>
+            <usage name="Coast"/>
+            <usage name="Town"/>
+            <usage name="Village"/>
+            <usage name="Hunting"/>
+            <usage name="Office"/>
+            <usage name="School"/>
+            <usage name="Lunapark"/>
+            <usage name="SeasonalEvent"/>
+        </user>
+        <user name="ChernogorskFull">
+            <usage name="Military"/>
+            <usage name="Police"/>
+            <usage name="Industrial"/>
+            <usage name="Farm"/>
+            <usage name="Coast"/>
+            <usage name="Town"/>
+            <usage name="Village"/>
+            <usage name="Hunting"/>
+            <usage name="Office"/>
+            <usage name="School"/>
+            <usage name="Lunapark"/>
+            <usage name="SeasonalEvent"/>
+        </user>
     </usageflags>
 
     <valueflags>
