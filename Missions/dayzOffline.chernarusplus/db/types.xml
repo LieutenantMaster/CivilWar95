@@ -8354,7 +8354,7 @@
         <usage name="ChernogorskFull"/>
     </type>
     <type name="PoliceVest_Black">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8380,7 +8380,7 @@
         <usage name="ChernogorskFull"/>
     </type>
     <type name="TF_CamelBakBag_Black">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8393,7 +8393,7 @@
         <usage name="ChernogorskFull"/>
     </type>
     <type name="TF_CamelBakBag_Brown">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8406,7 +8406,7 @@
         <usage name="ChernogorskFull"/>
     </type>
     <type name="TF_CamelBakBag_Tan">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8432,7 +8432,7 @@
         <usage name="ChernogorskFull"/>                            
     </type>
     <type name="pressvest_blue">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8445,7 +8445,7 @@
         <usage name="ChernogorskFull"/>
     </type>
     <type name="Tactical_Leg_Holster_Black">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8458,7 +8458,7 @@
         <usage name="ChernogorskFull"/>         
     </type>
     <type name="morphine">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8470,7 +8470,7 @@
         <usage name="ChernogorskFull"/>
     </type>
     <type name="epinephrine">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8495,7 +8495,7 @@
         <usage name="ChernogorskFull"/>    
     </type>
     <type name="SKS">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>1</min>
@@ -8508,7 +8508,7 @@
         <usage name="ChernogorskFull"/>
     </type>
     <type name="air_weapon_k98">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>1</min>
@@ -8521,7 +8521,7 @@
         <usage name="ChernogorskFull"/>
     </type>
     <type name="air_ammobox_792x57_60rnd">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>1</min>
@@ -8534,7 +8534,7 @@
         <usage name="ChernogorskFull"/>
     </type>
     <type name="air_weapon_mp40">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8547,7 +8547,7 @@
         <usage name="ChernogorskFull"/>
     </type>
     <type name="air_weapon_mag_mp40_30rnd">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>1</min>
@@ -8560,7 +8560,7 @@
         <usage name="ChernogorskFull"/>
     </type>
     <type name="SKS_Bayonet">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8573,7 +8573,7 @@
         <usage name="ChernogorskFull"/>
     </type>
     <type name="ammobox_762x39_20rnd">
-        <nominal>4</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>2</min>
@@ -8599,7 +8599,7 @@
         <usage name="ChernogorskFull"/>
     </type>
     <type name="izh18">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8612,7 +8612,7 @@
         <usage name="ChernogorskFull"/>
     </type>
     <type name="izh43shotgun">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8625,7 +8625,7 @@
         <usage name="ChernogorskFull"/>
     </type>
     <type name="mp133shotgun">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8651,7 +8651,7 @@
         <usage name="ChernogorskFull"/>
     </type>
     <type name="AmmoBox_00buck_10rnd">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8677,7 +8677,7 @@
         <usage name="ChernogorskFull"/>
     </type>
     <type name="mosin9130">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>1</min>
