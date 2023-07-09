@@ -9828,7 +9828,7 @@
         <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -9840,7 +9840,7 @@
         <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -9852,7 +9852,7 @@
         <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -9876,7 +9876,7 @@
         <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -9900,7 +9900,7 @@
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -9912,7 +9912,7 @@
         <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -9996,7 +9996,7 @@
         <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10017,10 +10017,10 @@
         <value name="Tier3"/>
     </type>
     <type name="ammobox_762x54_20rnd">
-        <nominal>4</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10077,10 +10077,10 @@
         <value name="Tier3"/>
     </type>
     <type name="ammobox_380_35rnd">
-        <nominal>5</nominal>
+        <nominal>7</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10101,10 +10101,10 @@
         <value name="Tier3"/>
     </type>
     <type name="mag_cz61_20rnd">
-        <nominal>5</nominal>
+        <nominal>6</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10137,10 +10137,10 @@
         <value name="Tier3"/>
     </type>
     <type name="ammobox_9x19_25rnd">
-        <nominal>6</nominal>
+        <nominal>7</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
