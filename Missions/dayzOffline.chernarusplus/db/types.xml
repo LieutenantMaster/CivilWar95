@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
     <type name="batterycharger">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -16,7 +16,7 @@
         <usage name="School"/>
     </type>
     <type name="powergenerator">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>604800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -31,7 +31,7 @@
         <usage name="School"/>
     </type>
     <type name="carbattery">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -46,7 +46,7 @@
         <usage name="School"/>
     </type>
     <type name="GlowPlug">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -61,7 +61,7 @@
         <usage name="School"/>
     </type>
     <type name="CarRadiator">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -76,7 +76,7 @@
         <usage name="School"/>
     </type>
     <type name="sickle">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -91,7 +91,7 @@
         <usage name="School"/>
     </type>
     <type name="crowbar">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -106,7 +106,7 @@
         <usage name="School"/>
     </type>
     <type name="burlapsack">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -121,7 +121,7 @@
         <usage name="School"/>
     </type>
     <type name="shovel">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -136,7 +136,7 @@
         <usage name="School"/>
     </type>
     <type name="pickaxe">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -151,7 +151,7 @@
         <usage name="School"/>
     </type>
     <type name="sledgehammer">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -166,7 +166,7 @@
         <usage name="School"/>
     </type>
     <type name="woodaxe">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -181,7 +181,7 @@
         <usage name="School"/>
     </type>
     <type name="blowtorch">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -196,7 +196,7 @@
         <usage name="School"/>
     </type>
     <type name="smallgascanister">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -211,7 +211,7 @@
         <usage name="School"/>
     </type>
     <type name="expansionpropanetorch">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -226,7 +226,7 @@
         <usage name="School"/>
     </type>
     <type name="nailbox">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -241,7 +241,7 @@
         <usage name="School"/>
     </type>
     <type name="expansioncodelock">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -256,7 +256,7 @@
         <usage name="School"/>
     </type>
     <type name="portablegasstove">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -271,7 +271,7 @@
         <usage name="School"/>
     </type>
     <type name="pot">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -286,7 +286,7 @@
         <usage name="School"/>
     </type>
     <type name="ducttape">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -301,7 +301,7 @@
         <usage name="School"/>
     </type>
     <type name="epoxyputty">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -316,7 +316,7 @@
         <usage name="School"/>
     </type>
     <type name="leathersewingkit">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -331,7 +331,7 @@
         <usage name="School"/>
     </type>
     <type name="sewingkit">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -346,7 +346,7 @@
         <usage name="School"/>
     </type>
     <type name="cargopants_beige">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -361,7 +361,7 @@
         <usage name="School"/>
     </type>
     <type name="cargopants_black">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -376,7 +376,7 @@
         <usage name="School"/>
     </type>
     <type name="cargopants_blue">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -391,7 +391,7 @@
         <usage name="School"/>
     </type>
     <type name="TF_WeldingMask_Tagilla">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -406,7 +406,7 @@
         <usage name="School"/>
     </type>
     <type name="TF_FannyPack_Coyote">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -421,7 +421,7 @@
         <usage name="School"/>        
     </type>
     <type name="cargopants_green">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -436,7 +436,7 @@
         <usage name="School"/>
     </type>
     <type name="cargopants_grey">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -451,7 +451,7 @@
         <usage name="School"/>
     </type>
     <type name="Msp_BaseballCap_Beige">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -466,7 +466,7 @@
         <usage name="School"/>
     </type>
     <type name="Msp_BaseballCap_Black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -481,7 +481,7 @@
         <usage name="School"/>
     </type>
     <type name="Msp_BaseballCap_Blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -496,7 +496,7 @@
         <usage name="School"/>
     </type>
     <type name="Msp_BaseballCap_Camo">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -511,7 +511,7 @@
         <usage name="School"/>
     </type>
     <type name="Msp_BaseballCap_Olive">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -526,7 +526,7 @@
         <usage name="School"/>
     </type>
     <type name="Msp_BaseballCap_Pink">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -541,7 +541,7 @@
         <usage name="School"/>
     </type>
     <type name="Msp_BaseballCap_Red">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -556,7 +556,7 @@
         <usage name="School"/>
     </type>
     <type name="Msp_BaseballCap_CMMG_Pink">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -571,7 +571,7 @@
         <usage name="School"/>
     </type>
     <type name="Msp_BaseballCap_CMMG_Black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -586,7 +586,7 @@
         <usage name="School"/>
     </type>
     <type name="Msp_BaseballBat_Chain">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -601,7 +601,7 @@
         <usage name="School"/>
     </type>
     <type name="Msp_BaseballBat_Nailed">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -616,7 +616,7 @@
         <usage name="School"/>
     </type>
     <type name="Msp_BaseballBat_BarbedWire">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -631,7 +631,7 @@
         <usage name="School"/>
     </type>
     <type name="Msp_BaseballBat">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -646,7 +646,7 @@
         <usage name="School"/>
     </type>     
     <type name="sneakers_green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -661,7 +661,7 @@
         <usage name="School"/>
     </type>
     <type name="sneakers_red">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -676,7 +676,7 @@
         <usage name="School"/>
     </type>
     <type name="sneakers_white">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -691,7 +691,7 @@
         <usage name="School"/>
     </type>
     <type name="sneakers_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -706,7 +706,7 @@
         <usage name="School"/>
     </type>
     <type name="sneakers_gray">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -721,7 +721,7 @@
         <usage name="School"/>
     </type>
     <type name="ballerinas_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -751,7 +751,7 @@
         <usage name="School"/>
     </type>
     <type name="ballerinas_white">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -781,7 +781,7 @@
         <usage name="School"/>
     </type>
     <type name="sweater_gray">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -796,7 +796,7 @@
         <usage name="School"/>
     </type>
     <type name="sweater_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -811,7 +811,7 @@
         <usage name="School"/>
     </type>
     <type name="sweater_red">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -826,7 +826,7 @@
         <usage name="School"/>
     </type>
     <type name="sweater_green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -841,7 +841,7 @@
         <usage name="School"/>
     </type>
     <type name="shirt_bluecheck">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -856,7 +856,7 @@
         <usage name="School"/>
     </type>
     <type name="shirt_bluecheckbright">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -871,7 +871,7 @@
         <usage name="School"/>
     </type>
     <type name="shirt_redcheck">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -886,7 +886,7 @@
         <usage name="School"/>
     </type>
     <type name="shirt_whitecheck">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -901,7 +901,7 @@
         <usage name="School"/>
     </type>
     <type name="shirt_planeblack">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -916,7 +916,7 @@
         <usage name="School"/>
     </type>
     <type name="shirt_greencheck">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -931,7 +931,7 @@
         <usage name="School"/>
     </type>
     <type name="eyepatch">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -946,7 +946,7 @@
         <usage name="School"/>
     </type>
     <type name="fingerless_gloves">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -961,7 +961,7 @@
         <usage name="School"/>
     </type>
     <type name="fingerless_gloves_brown">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -976,7 +976,7 @@
         <usage name="School"/>
     </type>
     <type name="fingerless_gloves_wool">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -991,7 +991,7 @@
         <usage name="School"/>
     </type>
     <type name="fingerless_gloves_wool_grey">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1006,7 +1006,7 @@
         <usage name="School"/>
     </type>
     <type name="fingerless_gloves_wool_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1021,7 +1021,7 @@
         <usage name="School"/>
     </type>
     <type name="flipflops_colorbase">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1036,7 +1036,7 @@
         <usage name="School"/>
     </type>
     <type name="galife_pants_navy">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1051,7 +1051,7 @@
         <usage name="School"/>
     </type>
     <type name="high_knee_sneakers_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1066,7 +1066,7 @@
         <usage name="School"/>
     </type>
     <type name="high_knee_sneakers">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1081,7 +1081,7 @@
         <usage name="School"/>
     </type>
     <type name="kneepads_jeans_base">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1096,7 +1096,7 @@
         <usage name="School"/>
     </type>
     <type name="kneepads_jeans_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1111,7 +1111,7 @@
         <usage name="School"/>
     </type>
     <type name="layered_shirt_base">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1126,7 +1126,7 @@
         <usage name="School"/>
     </type>
     <type name="layered_shirt_cheburashka">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1141,7 +1141,7 @@
         <usage name="School"/>
     </type>
     <type name="layered_shirt_white">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1156,7 +1156,7 @@
         <usage name="School"/>
     </type>
     <type name="layered_shirt_courage">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1171,7 +1171,7 @@
         <usage name="School"/>
     </type>
     <type name="layered_shirt_lily">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1186,7 +1186,7 @@
         <usage name="School"/>
     </type>
     <type name="medium_sleeves_shirt">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1201,7 +1201,7 @@
         <usage name="School"/>
     </type>
     <type name="medium_sleeves_shirt_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1216,7 +1216,7 @@
         <usage name="School"/>
     </type>
     <type name="Kirza_Boots">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1231,7 +1231,7 @@
         <usage name="School"/>    
     </type>
     <type name="medium_sleeves_shirt_red">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1246,7 +1246,7 @@
         <usage name="School"/>
     </type>
     <type name="round_glasses">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1261,7 +1261,7 @@
         <usage name="School"/>
     </type>
     <type name="round_glasses_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1276,7 +1276,7 @@
         <usage name="School"/>
     </type>
     <type name="scarf_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1291,7 +1291,7 @@
         <usage name="School"/>
     </type>
     <type name="scarf_brown">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1306,7 +1306,7 @@
         <usage name="School"/>
     </type>
     <type name="sk8_sneakers_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1321,7 +1321,7 @@
         <usage name="School"/>
     </type>
     <type name="sk8_sneakers_fullblack">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1336,7 +1336,7 @@
         <usage name="School"/>
     </type>
     <type name="sk8_sneakers_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1351,7 +1351,7 @@
         <usage name="School"/>
     </type>
     <type name="skinny_jeans_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1366,7 +1366,7 @@
         <usage name="School"/>
     </type>
     <type name="skinny_jeans_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1381,7 +1381,7 @@
         <usage name="School"/>
     </type>
     <type name="taloonbag_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1396,7 +1396,7 @@
         <usage name="School"/>
     </type>
     <type name="taloonbag_red">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1411,7 +1411,7 @@
         <usage name="School"/>
     </type>
     <type name="taloonbag_yellow">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1426,7 +1426,7 @@
         <usage name="School"/>
     </type>
     <type name="taloonbag_woodland">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1441,7 +1441,7 @@
         <usage name="School"/>
     </type>
     <type name="taloonbag_winter">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1456,7 +1456,7 @@
         <usage name="School"/>
     </type>
     <type name="civilianbelt_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1471,7 +1471,7 @@
         <usage name="School"/>
     </type>
     <type name="civilianbelt_grey">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1486,7 +1486,7 @@
         <usage name="School"/>
     </type>
     <type name="civilianbelt_red">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1501,7 +1501,7 @@
         <usage name="School"/>
     </type>
     <type name="hoodie_sport1">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1516,7 +1516,7 @@
         <usage name="School"/>
     </type>
     <type name="hoodie_sport2">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1531,7 +1531,7 @@
         <usage name="School"/>
     </type>
     <type name="wellies_white">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1546,7 +1546,7 @@
         <usage name="School"/>
     </type>
     <type name="wellies_yellow">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1561,7 +1561,7 @@
         <usage name="School"/>
     </type>
     <type name="wellies_pink">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1576,7 +1576,7 @@
         <usage name="School"/>
     </type>
     <type name="canvas_backpack_base">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1591,7 +1591,7 @@
         <usage name="School"/>
     </type>
     <type name="canvas_backpack_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1606,7 +1606,7 @@
         <usage name="School"/>
     </type>
     <type name="canvas_backpack_white">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1621,7 +1621,7 @@
         <usage name="School"/>
     </type>
     <type name="canvas_backpack_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1636,7 +1636,7 @@
         <usage name="School"/>
     </type>
     <type name="canvas_backpack_red">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1651,7 +1651,7 @@
         <usage name="School"/>
     </type>
     <type name="canvas_backpack_purple">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1666,7 +1666,7 @@
         <usage name="School"/>
     </type>  
     <type name="witchhood_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1681,7 +1681,7 @@
         <usage name="School"/>
     </type>
     <type name="witchhood_brown">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1696,7 +1696,7 @@
         <usage name="School"/>
     </type>
     <type name="witchhood_red">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1711,7 +1711,7 @@
         <usage name="School"/>
     </type>
     <type name="balaclavamask_beige">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1726,7 +1726,7 @@
         <usage name="School"/>
     </type>
     <type name="balaclavamask_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1741,7 +1741,7 @@
         <usage name="School"/>
     </type>
     <type name="balaclavamask_pink">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1756,7 +1756,7 @@
         <usage name="School"/>
     </type>
     <type name="balaclavamask_white">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1771,7 +1771,7 @@
         <usage name="School"/>
     </type>
     <type name="balaclavamask_blackskull">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1786,7 +1786,7 @@
         <usage name="School"/>
     </type>
     <type name="balaclavamask_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1801,7 +1801,7 @@
         <usage name="School"/>
     </type>
     <type name="balaclavamask_green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1816,7 +1816,7 @@
         <usage name="School"/>
     </type>
     <type name="balaclava3holes_beige">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1831,7 +1831,7 @@
         <usage name="School"/>
     </type>
     <type name="balaclava3holes_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1846,7 +1846,7 @@
         <usage name="School"/>
     </type>
     <type name="balaclava3holes_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1861,7 +1861,7 @@
         <usage name="School"/>
     </type>
     <type name="balaclava3holes_green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1876,7 +1876,7 @@
         <usage name="School"/>
     </type>
     <type name="hunterpants_winter">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1891,7 +1891,7 @@
         <usage name="School"/>
     </type>
     <type name="hunterpants_autumn">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1906,7 +1906,7 @@
         <usage name="School"/>
     </type>
     <type name="hunterpants_brown">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1921,7 +1921,7 @@
         <usage name="School"/>
     </type>
     <type name="hunterpants_spring">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1936,7 +1936,7 @@
         <usage name="School"/>
     </type>
     <type name="jeans_green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1952,7 +1952,7 @@
         <usage name="School"/>
     </type>
     <type name="hunterpants_summer">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1967,7 +1967,7 @@
         <usage name="School"/>
     </type>
     <type name="huntingjacket_autumn">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1982,7 +1982,7 @@
         <usage name="School"/>
     </type>
     <type name="huntingjacket_brown">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1997,7 +1997,7 @@
         <usage name="School"/>
     </type>
     <type name="huntingjacket_spring">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2012,7 +2012,7 @@
         <usage name="School"/>
     </type>
     <type name="huntingjacket_summer">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2027,7 +2027,7 @@
         <usage name="School"/>
     </type>
     <type name="huntingjacket_winter">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2042,7 +2042,7 @@
         <usage name="School"/>
     </type>
     <type name="huntingvest">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2057,7 +2057,7 @@
         <usage name="School"/>
     </type>
     <type name="hikingjacket_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2072,7 +2072,7 @@
         <usage name="School"/>
     </type>
     <type name="hikingjacket_red">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2087,7 +2087,7 @@
         <usage name="School"/>
     </type>
     <type name="hikingjacket_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2102,7 +2102,7 @@
         <usage name="School"/>
     </type>
     <type name="hikingjacket_green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2117,7 +2117,7 @@
         <usage name="School"/>
     </type>
     <type name="raincoat_pink">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2132,7 +2132,7 @@
         <usage name="School"/>
     </type>
     <type name="raincoat_orange">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2147,7 +2147,7 @@
         <usage name="School"/>
     </type>
     <type name="raincoat_yellow">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2162,7 +2162,7 @@
         <usage name="School"/>
     </type>
     <type name="raincoat_red">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2177,7 +2177,7 @@
         <usage name="School"/>
     </type>
     <type name="raincoat_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2192,7 +2192,7 @@
         <usage name="School"/>
     </type>
     <type name="raincoat_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2207,7 +2207,7 @@
         <usage name="School"/>
     </type>
     <type name="raincoat_green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2222,7 +2222,7 @@
         <usage name="School"/>
     </type>
     <type name="workinggloves_yellow">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2237,7 +2237,7 @@
         <usage name="School"/>
     </type>
     <type name="workinggloves_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2252,7 +2252,7 @@
         <usage name="School"/>
     </type>
     <type name="workinggloves_beige">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2267,7 +2267,7 @@
         <usage name="School"/>
     </type>
     <type name="workinggloves_brown">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2282,7 +2282,7 @@
         <usage name="School"/>
     </type>
     <type name="woolgloves_green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2297,7 +2297,7 @@
         <usage name="School"/>
     </type>
     <type name="woolgloves_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2312,7 +2312,7 @@
         <usage name="School"/>
     </type>
     <type name="woolgloves_tan">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2327,7 +2327,7 @@
         <usage name="School"/>
     </type>
     <type name="woolgloves_white">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2342,7 +2342,7 @@
         <usage name="School"/>
     </type>
     <type name="woolglovesfingerless_green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2357,7 +2357,7 @@
         <usage name="School"/>
     </type>
     <type name="woolglovesfingerless_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2372,7 +2372,7 @@
         <usage name="School"/>
     </type>
     <type name="woolglovesfingerless_tan">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2387,7 +2387,7 @@
         <usage name="School"/>
     </type>
     <type name="drybag_orange">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2402,7 +2402,7 @@
         <usage name="School"/>
     </type>
     <type name="drybag_yellow">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2417,7 +2417,7 @@
         <usage name="School"/>
     </type>
     <type name="drybag_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2432,7 +2432,7 @@
         <usage name="School"/>
     </type>
     <type name="drybag_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2447,7 +2447,7 @@
         <usage name="School"/>
     </type>
     <type name="drybag_red">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2462,7 +2462,7 @@
         <usage name="School"/>
     </type>
     <type name="drybag_green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2477,7 +2477,7 @@
         <usage name="School"/>
     </type>
     <type name="huntingbag">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2492,7 +2492,7 @@
         <usage name="School"/>
     </type>
     <type name="HuntingBag_Hannah">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2507,7 +2507,7 @@
         <usage name="School"/>
     </type>
     <type name="mountainbag_red">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2522,7 +2522,7 @@
         <usage name="School"/>
     </type>
     <type name="mountainbag_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2537,7 +2537,7 @@
         <usage name="School"/>
     </type>
     <type name="mountainbag_orange">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2552,7 +2552,7 @@
         <usage name="School"/>
     </type>
     <type name="mountainbag_green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2567,7 +2567,7 @@
         <usage name="School"/>
     </type>
     <type name="nylonknifesheath">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2582,7 +2582,7 @@
         <usage name="School"/>
     </type>
     <type name="kitchenknife">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2597,7 +2597,7 @@
         <usage name="School"/>
     </type>
     <type name="steakknife">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2612,7 +2612,7 @@
         <usage name="School"/>
     </type>
     <type name="kukriknife">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2627,7 +2627,7 @@
         <usage name="School"/>
     </type>
     <type name="fangeknife">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2642,7 +2642,7 @@
         <usage name="School"/>
     </type>
     <type name="huntingknife">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2657,7 +2657,7 @@
         <usage name="School"/>
     </type>
     <type name="whetstone">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2673,7 +2673,7 @@
         <usage name="School"/>
     </type>
     <type name="binoculars">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2688,7 +2688,7 @@
         <usage name="School"/>
     </type>
     <type name="chernarusmap">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2703,7 +2703,7 @@
         <usage name="School"/>
     </type>
     <type name="orienteeringcompass">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2718,7 +2718,7 @@
         <usage name="School"/>
     </type>
     <type name="compass">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2733,7 +2733,7 @@
         <usage name="School"/>
     </type>
     <type name="rangefinder">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2748,7 +2748,7 @@
         <usage name="School"/>
     </type>
     <type name="rope">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2763,7 +2763,7 @@
         <usage name="School"/>
     </type>
     <type name="fishingrod">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2778,7 +2778,7 @@
         <usage name="School"/>
     </type>
     <type name="hook">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2793,7 +2793,7 @@
         <usage name="School"/>
     </type>
     <type name="worm">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2808,7 +2808,7 @@
         <usage name="School"/>
     </type>
     <type name="military_sweater">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2823,7 +2823,7 @@
         <usage name="School"/>
     </type>
     <type name="military_sweater_red">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2838,7 +2838,7 @@
         <usage name="School"/>
     </type>
     <type name="military_sweater_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2853,7 +2853,7 @@
         <usage name="School"/>
     </type>
     <type name="military_sweater_white">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2868,7 +2868,7 @@
         <usage name="School"/>
     </type>  
     <type name="military_sweater_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2883,7 +2883,7 @@
         <usage name="School"/>
     </type>
     <type name="military_sweater_green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2898,7 +2898,7 @@
         <usage name="School"/>
     </type>
     <type name="hikingjacket_greenalt">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2913,7 +2913,7 @@
         <usage name="School"/>
     </type>
     <type name="hikingjacket_whitegreen">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2928,7 +2928,7 @@
         <usage name="School"/>
     </type>
     <type name="hikingjacket_whiteblack">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2943,7 +2943,7 @@
         <usage name="School"/>
     </type>
     <type name="hikingjacket_blackyellow">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2958,7 +2958,7 @@
         <usage name="School"/>
     </type>
     <type name="hikingjacket_blackpink">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2973,7 +2973,7 @@
         <usage name="School"/>
     </type>
     <type name="hikingjacket_blackblue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2988,7 +2988,7 @@
         <usage name="School"/>
     </type>
     <type name="huntingjacket_white">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3003,7 +3003,7 @@
         <usage name="School"/>
     </type>
     <type name="huntingjacket_woodland">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3018,7 +3018,7 @@
         <usage name="School"/>
     </type>
     <type name="hunterpants_woodland">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3033,7 +3033,7 @@
         <usage name="School"/>
     </type>
     <type name="TF_CargoPantsShort_Black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3048,7 +3048,7 @@
         <usage name="School"/>    
     </type>
     <type name="mountainbag_winter">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3063,7 +3063,7 @@
         <usage name="School"/>
     </type>
     <type name="mountainbag_summer">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3078,7 +3078,7 @@
         <usage name="School"/>
     </type>
     <type name="mountainbag_autumn">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3093,7 +3093,7 @@
         <usage name="School"/>
     </type>
     <type name="mountainbag_grey">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3108,7 +3108,7 @@
         <usage name="School"/>
     </type>
     <type name="mountainbag_brown">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3123,7 +3123,7 @@
         <usage name="School"/>
     </type>
     <type name="mountainbag_flt">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3138,7 +3138,7 @@
         <usage name="School"/>
     </type>
     <type name="canvaspants_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3153,7 +3153,7 @@
         <usage name="School"/>
     </type>
     <type name="huntingjacket_beige">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3168,7 +3168,7 @@
         <usage name="School"/>
     </type>
     <type name="hunterpants_beige">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3183,7 +3183,7 @@
         <usage name="School"/>
     </type>
     <type name="huntingvest_green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3198,7 +3198,7 @@
         <usage name="School"/>
     </type>
     <type name="Msp_DuffleBag_Green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3213,7 +3213,7 @@
         <usage name="School"/>    
     </type>
     <type name="Msp_DuffleBag_Black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3228,7 +3228,7 @@
         <usage name="School"/>    
     </type>
     <type name="Msp_DuffleBag_Blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3243,7 +3243,7 @@
         <usage name="School"/>    
     </type>
     <type name="Msp_DuffleBag_Red">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3258,7 +3258,7 @@
         <usage name="School"/>    
     </type>
     <type name="zagorkychocolate">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3274,7 +3274,7 @@
         <usage name="School"/>
     </type>
     <type name="TF_Foil_hat">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3290,7 +3290,7 @@
         <usage name="School"/>    
     </type>
     <type name="Msp_Slouchie_Red">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3306,7 +3306,7 @@
         <usage name="School"/>
     </type>
     <type name="SkullMask">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3322,7 +3322,7 @@
         <usage name="School"/>    
     </type>
     <type name="Msp_Slouchie_Blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3338,7 +3338,7 @@
         <usage name="School"/>
     </type>
     <type name="Msp_Slouchie_Black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3354,7 +3354,7 @@
         <usage name="School"/>
     </type>
     <type name="Msp_Slouchie_Beige">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3370,7 +3370,7 @@
         <usage name="School"/>
     </type>
     <type name="Msp_BunnyEarsHeadband">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3386,7 +3386,7 @@
         <usage name="School"/>
     </type>
     <type name="Msp_Bunny">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3402,7 +3402,7 @@
         <usage name="School"/>
     </type>
     <type name="Msp_WaistPack_Tan">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3418,7 +3418,7 @@
         <usage name="School"/>
     </type>
     <type name="Msp_WaistPack_Black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3434,7 +3434,7 @@
         <usage name="School"/>
     </type>
     <type name="Msp_WaistPack_Green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3450,7 +3450,7 @@
         <usage name="School"/>
     </type>
     <type name="Msp_WaistPack_Brown">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3466,7 +3466,7 @@
         <usage name="School"/>
     </type>
     <type name="Msp_WaistPack_UrbanFlektarn">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3482,7 +3482,7 @@
         <usage name="School"/>
     </type>
     <type name="Msp_WaistPack_Blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3498,7 +3498,7 @@
         <usage name="School"/>
     </type>    
     <type name="zagorkypeanuts">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3514,7 +3514,7 @@
         <usage name="School"/>
     </type>
     <type name="powderedmilk">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3530,7 +3530,7 @@
         <usage name="School"/>
     </type>
     <type name="boxcerealcrunchin">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3546,7 +3546,7 @@
         <usage name="School"/>
     </type>
     <type name="rice">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3562,7 +3562,7 @@
         <usage name="School"/>
     </type>
     <type name="marmalade">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3578,7 +3578,7 @@
         <usage name="School"/>
     </type>
     <type name="honey">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3594,7 +3594,7 @@
         <usage name="School"/>
     </type>
     <type name="saltysticks">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3610,7 +3610,7 @@
         <usage name="School"/>
     </type>
     <type name="crackers">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3626,7 +3626,7 @@
         <usage name="School"/>
     </type>
     <type name="chips">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3642,7 +3642,7 @@
         <usage name="School"/>
     </type>
     <type name="pajka">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3658,7 +3658,7 @@
         <usage name="School"/>
     </type>
     <type name="pate">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3674,7 +3674,7 @@
         <usage name="School"/>
     </type>
     <type name="brisketspread">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3690,7 +3690,7 @@
         <usage name="School"/>
     </type>
     <type name="sardinescan">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3706,7 +3706,7 @@
         <usage name="School"/>
     </type>
     <type name="tunacan">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3722,7 +3722,7 @@
         <usage name="School"/>
     </type>
     <type name="dogfoodcan">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3738,7 +3738,7 @@
         <usage name="School"/>
     </type>
     <type name="catfoodcan">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3754,7 +3754,7 @@
         <usage name="School"/>
     </type>
     <type name="porkcan">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3770,7 +3770,7 @@
         <usage name="School"/>
     </type>
     <type name="lunchmeat">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3786,7 +3786,7 @@
         <usage name="School"/>
     </type>
     <type name="unknownfoodcan">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3802,7 +3802,7 @@
         <usage name="School"/>
     </type>
     <type name="peachescan">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3818,7 +3818,7 @@
         <usage name="School"/>
     </type>
     <type name="spaghettican">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3834,7 +3834,7 @@
         <usage name="School"/>
     </type>
     <type name="bakedbeanscan">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3850,7 +3850,7 @@
         <usage name="School"/>
     </type>
     <type name="tacticalbaconcan">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3866,7 +3866,7 @@
         <usage name="School"/>
     </type>
     <type name="expansionbread1">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3882,7 +3882,7 @@
         <usage name="School"/>
     </type>
     <type name="expansionbread2">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3898,7 +3898,7 @@
         <usage name="School"/>
     </type>
     <type name="expansionbread3">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3913,7 +3913,7 @@
         <usage name="School"/>
     </type>
     <type name="expansioncheese1">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3929,7 +3929,7 @@
         <usage name="School"/>
     </type>
     <type name="expansioncheese2">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3945,7 +3945,7 @@
         <usage name="School"/>
     </type>
     <type name="expansioncheese3">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3961,7 +3961,7 @@
         <usage name="School"/>
     </type>
     <type name="expansioncheese4">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3977,7 +3977,7 @@
         <usage name="School"/>
     </type>
     <type name="sodacan_pipsi">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3993,7 +3993,7 @@
         <usage name="School"/>
     </type>
     <type name="sodacan_cola">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4009,7 +4009,7 @@
         <usage name="School"/>
     </type>
     <type name="sodacan_fronta">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4025,7 +4025,7 @@
         <usage name="School"/>
     </type>
     <type name="sodacan_kvass">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4041,54 +4041,6 @@
         <usage name="School"/>
     </type>
     <type name="sodacan_spite">
-        <nominal>3</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-    </type>
-    <type name="waterbottle">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-    </type>
-    <type name="vodka">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-    </type>
-    <type name="expansionmilkbottle">
         <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
@@ -4104,8 +4056,56 @@
         <usage name="Office"/>
         <usage name="School"/>
     </type>
-    <type name="disinfectantalcohol">
+    <type name="waterbottle">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+    </type>
+    <type name="vodka">
         <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+    </type>
+    <type name="expansionmilkbottle">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+    </type>
+    <type name="disinfectantalcohol">
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4121,7 +4121,7 @@
         <usage name="School"/>
     </type>
     <type name="bandagedressing">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4137,7 +4137,7 @@
         <usage name="School"/>
     </type>
     <type name="charcoaltablets">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4153,7 +4153,7 @@
         <usage name="School"/>
     </type>
     <type name="purificationtablets">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4169,7 +4169,7 @@
         <usage name="School"/>
     </type>
     <type name="bloodtestkit">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4185,7 +4185,7 @@
         <usage name="School"/>
     </type>
     <type name="thermometer">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4201,7 +4201,7 @@
         <usage name="School"/>
     </type>
     <type name="vitaminbottle">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4217,7 +4217,7 @@
         <usage name="School"/>
     </type>
     <type name="disinfectantspray">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4233,7 +4233,7 @@
         <usage name="School"/>
     </type>
     <type name="tetracyclineantibiotics">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4249,7 +4249,7 @@
         <usage name="School"/>
     </type>
     <type name="painkillertablets">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4265,7 +4265,7 @@
         <usage name="School"/>
     </type>
     <type name="startkitiv">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4281,7 +4281,7 @@
         <usage name="School"/>
     </type>
     <type name="heatpack">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4297,7 +4297,7 @@
         <usage name="School"/>
     </type>
     <type name="salinebag">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4313,7 +4313,7 @@
         <usage name="School"/>
     </type>
     <type name="bloodbagempty">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4329,7 +4329,7 @@
         <usage name="School"/>
     </type>
     <type name="firstaidkit">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4345,7 +4345,7 @@
         <usage name="School"/>
     </type>
     <type name="iodinetincture">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4362,7 +4362,7 @@
     </type>
 
     <type name="cablereel">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4377,7 +4377,7 @@
         <usage name="School"/>
     </type>
     <type name="battery9v">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4389,7 +4389,7 @@
         <value name="Tier2"/> 
     </type>
     <type name="personalradio">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4404,7 +4404,7 @@
         <usage name="School"/>
     </type>
     <type name="spotlight">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4419,7 +4419,7 @@
         <usage name="School"/>
     </type>
     <type name="sparkplug">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4434,7 +4434,7 @@
         <usage name="School"/>
     </type>
     <type name="electronicrepairkit">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4449,7 +4449,7 @@
         <usage name="School"/>
     </type>
     <type name="screwdriver">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4464,7 +4464,7 @@
         <usage name="School"/>
     </type>
     <type name="wrench">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4479,7 +4479,7 @@
         <usage name="School"/>
     </type>
     <type name="pliers">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4494,7 +4494,7 @@
         <usage name="School"/>
     </type>
     <type name="hammer">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4509,7 +4509,7 @@
         <usage name="School"/>
     </type>
     <type name="hacksaw">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4524,7 +4524,7 @@
         <usage name="School"/>
     </type>
     <type name="handsaw">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4539,7 +4539,7 @@
         <usage name="School"/>
     </type>
     <type name="hatchet">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4554,7 +4554,7 @@
         <usage name="School"/>
     </type>
     <type name="lugwrench">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4569,7 +4569,7 @@
         <usage name="School"/>
     </type>
     <type name="netting">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4584,7 +4584,7 @@
         <usage name="School"/>
     </type>
     <type name="pipewrench">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4599,7 +4599,7 @@
         <usage name="School"/>
     </type>
     <type name="workinggloves_yellow">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4614,7 +4614,7 @@
         <usage name="School"/>
     </type>
     <type name="workinggloves_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4629,7 +4629,7 @@
         <usage name="School"/>
     </type>
     <type name="workinggloves_beige">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4644,7 +4644,7 @@
         <usage name="School"/>
     </type>
     <type name="workinggloves_brown">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4659,7 +4659,7 @@
         <usage name="School"/>
     </type>
     <type name="baseballcap_cmmg_pink">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4674,7 +4674,7 @@
         <usage name="School"/>
     </type>
     <type name="baseballcap_pink">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4689,7 +4689,7 @@
         <usage name="School"/>
     </type>
     <type name="baseballcap_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4704,7 +4704,7 @@
         <usage name="School"/>
     </type>
     <type name="baseballcap_beige">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4719,7 +4719,7 @@
         <usage name="School"/>
     </type>
     <type name="baseballcap_red">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4734,7 +4734,7 @@
         <usage name="School"/>
     </type>
     <type name="baseballcap_cmmg_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4749,7 +4749,7 @@
         <usage name="School"/>
     </type>
     <type name="baseballcap_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4764,7 +4764,7 @@
         <usage name="School"/>
     </type>
     <type name="baseballcap_olive">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4779,7 +4779,7 @@
         <usage name="School"/>
     </type>
     <type name="baseballcap_camo">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4794,7 +4794,7 @@
         <usage name="School"/>
     </type>
     <type name="beaniehat_pink">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4809,7 +4809,7 @@
         <usage name="School"/>
     </type>
     <type name="beaniehat_beige">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4824,7 +4824,7 @@
         <usage name="School"/>
     </type>
     <type name="beaniehat_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4839,7 +4839,7 @@
         <usage name="School"/>
     </type>
     <type name="beaniehat_brown">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4854,7 +4854,7 @@
         <usage name="School"/>
     </type>
     <type name="beaniehat_grey">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4869,7 +4869,7 @@
         <usage name="School"/>
     </type>
     <type name="beaniehat_red">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4884,7 +4884,7 @@
         <usage name="School"/>
     </type>
     <type name="beaniehat_black">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4899,7 +4899,7 @@
         <usage name="School"/>
     </type>
     <type name="beaniehat_green">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4914,7 +4914,7 @@
         <usage name="School"/>
     </type>
     <type name="ushanka_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4929,7 +4929,7 @@
         <usage name="School"/>
     </type>
     <type name="ushanka_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4944,7 +4944,7 @@
         <usage name="School"/>
     </type>
     <type name="ushanka_green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4959,7 +4959,7 @@
         <usage name="School"/>
     </type>
     <type name="motohelmet_lime">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4974,7 +4974,7 @@
         <usage name="School"/>
     </type>
     <type name="motohelmet_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4989,7 +4989,7 @@
         <usage name="School"/>
     </type>
     <type name="motohelmet_red">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5004,7 +5004,7 @@
         <usage name="School"/>
     </type>
     <type name="motohelmet_yellow">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5019,7 +5019,7 @@
         <usage name="School"/>
     </type>
     <type name="motohelmet_white">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5034,7 +5034,7 @@
         <usage name="School"/>
     </type>
     <type name="motohelmet_grey">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5049,7 +5049,7 @@
         <usage name="School"/>
     </type>
     <type name="motohelmet_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5064,7 +5064,7 @@
         <usage name="School"/>
     </type>
     <type name="motohelmet_green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5079,7 +5079,7 @@
         <usage name="School"/>
     </type>
     <type name="darkmotohelmet_lime">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5094,7 +5094,7 @@
         <usage name="School"/>
     </type>
     <type name="darkmotohelmet_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5109,7 +5109,7 @@
         <usage name="School"/>
     </type>
     <type name="darkmotohelmet_red">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5124,7 +5124,7 @@
         <usage name="School"/>
     </type>
     <type name="darkmotohelmet_white">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5139,7 +5139,7 @@
         <usage name="School"/>
     </type>
     <type name="darkmotohelmet_grey">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5154,7 +5154,7 @@
         <usage name="School"/>
     </type>
     <type name="darkmotohelmet_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5169,7 +5169,7 @@
         <usage name="School"/>
     </type>
     <type name="darkmotohelmet_green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5184,7 +5184,7 @@
         <usage name="School"/>
     </type>
     <type name="bandana_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5199,7 +5199,7 @@
         <usage name="School"/>
     </type>
     <type name="bandana_pink">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5214,7 +5214,7 @@
         <usage name="School"/>
     </type>
     <type name="bandana_yellow">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5229,7 +5229,7 @@
         <usage name="School"/>
     </type>
     <type name="bandana_redpattern">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5244,7 +5244,7 @@
         <usage name="School"/>
     </type>
     <type name="bandana_blackpattern">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5259,7 +5259,7 @@
         <usage name="School"/>
     </type>
     <type name="bandana_polkapattern">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5274,7 +5274,7 @@
         <usage name="School"/>
     </type>
     <type name="radarcap_blue">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5289,7 +5289,7 @@
         <usage name="School"/>
     </type>
     <type name="radarcap_brown">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5304,7 +5304,7 @@
         <usage name="School"/>
     </type>
     <type name="radarcap_red">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5319,7 +5319,7 @@
         <usage name="School"/>
     </type>
     <type name="radarcap_black">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5334,7 +5334,7 @@
         <usage name="School"/>
     </type>
     <type name="radarcap_green">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5349,7 +5349,7 @@
         <usage name="School"/>
     </type>
     <type name="flatcap_blue">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5364,7 +5364,7 @@
         <usage name="School"/>
     </type>
     <type name="flatcap_red">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5379,7 +5379,7 @@
         <usage name="School"/>
     </type>
     <type name="flatcap_brown">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5394,7 +5394,7 @@
         <usage name="School"/>
     </type>
     <type name="flatcap_grey">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5409,7 +5409,7 @@
         <usage name="School"/>
     </type>
     <type name="flatcap_browncheck">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5424,7 +5424,7 @@
         <usage name="School"/>
     </type>
     <type name="flatcap_greycheck">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5439,7 +5439,7 @@
         <usage name="School"/>
     </type>
     <type name="flatcap_black">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5454,7 +5454,7 @@
         <usage name="School"/>
     </type>
     <type name="flatcap_blackcheck">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5469,7 +5469,7 @@
         <usage name="School"/>
     </type>
     <type name="zmijovkacap_blue">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5484,7 +5484,7 @@
         <usage name="School"/>
     </type>
     <type name="zmijovkacap_brown">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5499,7 +5499,7 @@
         <usage name="School"/>
     </type>
     <type name="zmijovkacap_red">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5514,7 +5514,7 @@
         <usage name="School"/>
     </type>
     <type name="zmijovkacap_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5529,7 +5529,7 @@
         <usage name="School"/>
     </type>
     <type name="zmijovkacap_green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5544,7 +5544,7 @@
         <usage name="School"/>
     </type>
     <type name="skatehelmet_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5559,7 +5559,7 @@
         <usage name="School"/>
     </type>
     <type name="skatehelmet_gray">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5574,7 +5574,7 @@
         <usage name="School"/>
     </type>
     <type name="skatehelmet_red">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5589,7 +5589,7 @@
         <usage name="School"/>
     </type>
     <type name="skatehelmet_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5604,7 +5604,7 @@
         <usage name="School"/>
     </type>
     <type name="skatehelmet_green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5619,7 +5619,7 @@
         <usage name="School"/>
     </type>
     <type name="dirtbikehelmet_chernarus">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5634,7 +5634,7 @@
         <usage name="School"/>
     </type> 
     <type name="dirtbikehelmet_red">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5649,7 +5649,7 @@
         <usage name="School"/>
     </type>
     <type name="dirtbikehelmet_green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5664,7 +5664,7 @@
         <usage name="School"/>
     </type>
     <type name="dirtbikehelmet_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5679,7 +5679,7 @@
         <usage name="School"/>
     </type>
     <type name="dirtbikehelmet_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5694,7 +5694,7 @@
         <usage name="School"/>
     </type>
     <type name="dirtbikehelmet_khaki">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5709,7 +5709,7 @@
         <usage name="School"/>
     </type>
     <type name="dirtbikehelmet_mouthguard">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5724,7 +5724,7 @@
         <usage name="School"/>
     </type>
     <type name="dirtbikehelmet_visor">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5739,7 +5739,7 @@
         <usage name="School"/>
     </type>
     <type name="nioshfacemask">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5754,7 +5754,7 @@
         <usage name="School"/>
     </type>
     <type name="surgicalmask">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5769,7 +5769,7 @@
         <usage name="School"/>
     </type>
     <type name="mimemask_female">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5784,7 +5784,7 @@
         <usage name="School"/>
     </type>
     <type name="mimemask_male">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5799,7 +5799,7 @@
         <usage name="School"/>
     </type>
     <type name="jeans_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5814,7 +5814,7 @@
         <usage name="School"/>
     </type>
     <type name="jeans_brown">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5829,7 +5829,7 @@
         <usage name="School"/>
     </type>
     <type name="jeans_grey">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5844,7 +5844,7 @@
         <usage name="School"/>
     </type>
     <type name="jeans_bluedark">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5859,7 +5859,7 @@
         <usage name="School"/>
     </type>
     <type name="jeans_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5874,7 +5874,7 @@
         <usage name="School"/>
     </type>
     <type name="tracksuitjacket_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5889,7 +5889,7 @@
         <usage name="School"/>
     </type>
     <type name="tracksuitjacket_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5904,7 +5904,7 @@
         <usage name="School"/>
     </type>
     <type name="tracksuitjacket_green">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5919,7 +5919,7 @@
         <usage name="School"/>
     </type>
     <type name="tracksuitjacket_lightblue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5934,7 +5934,7 @@
         <usage name="School"/>
     </type>
     <type name="tracksuitjacket_red">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5949,7 +5949,7 @@
         <usage name="School"/>
     </type>
     <type name="tracksuitpants_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5964,7 +5964,7 @@
         <usage name="School"/>
     </type>
     <type name="tracksuitpants_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5979,7 +5979,7 @@
         <usage name="School"/>
     </type>
     <type name="tracksuitpants_green">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5994,7 +5994,7 @@
         <usage name="School"/>
     </type>
     <type name="tracksuitpants_red">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6009,7 +6009,7 @@
         <usage name="School"/>
     </type>
     <type name="tracksuitpants_lightblue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6024,7 +6024,7 @@
         <usage name="School"/>
     </type>
     <type name="slackspants_beige">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6039,7 +6039,7 @@
         <usage name="School"/>
     </type>
     <type name="slackspants_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6054,7 +6054,7 @@
         <usage name="School"/>
     </type>
     <type name="slackspants_darkgrey">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6069,7 +6069,7 @@
         <usage name="School"/>
     </type>
     <type name="slackspants_lightgrey">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6084,7 +6084,7 @@
         <usage name="School"/>
     </type>
     <type name="slackspants_white">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6099,7 +6099,7 @@
         <usage name="School"/>
     </type>
     <type name="slackspants_brown">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6114,7 +6114,7 @@
         <usage name="School"/>
     </type>
     <type name="slackspants_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6129,7 +6129,7 @@
         <usage name="School"/>
     </type>
     <type name="slackspants_khaki">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6144,7 +6144,7 @@
         <usage name="School"/>
     </type>
     <type name="breeches_pink">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6159,7 +6159,7 @@
         <usage name="School"/>
     </type>
     <type name="breeches_red">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6174,7 +6174,7 @@
         <usage name="School"/>
     </type>
     <type name="breeches_white">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6189,7 +6189,7 @@
         <usage name="School"/>
     </type>
     <type name="breeches_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6204,7 +6204,7 @@
         <usage name="School"/>
     </type>
     <type name="breeches_beetcheck">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6219,7 +6219,7 @@
         <usage name="School"/>
     </type>
     <type name="breeches_beige">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6234,7 +6234,7 @@
         <usage name="School"/>
     </type>
     <type name="breeches_browncheck">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6249,7 +6249,7 @@
         <usage name="School"/>
     </type>
     <type name="breeches_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6264,7 +6264,7 @@
         <usage name="School"/>
     </type>
     <type name="breeches_blackcheck">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6279,7 +6279,7 @@
         <usage name="School"/>
     </type>
     <type name="breeches_green">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6294,7 +6294,7 @@
         <usage name="School"/>
     </type>
     <type name="shortjeans_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6309,7 +6309,7 @@
         <usage name="School"/>
     </type>
     <type name="shortjeans_brown">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6324,7 +6324,7 @@
         <usage name="School"/>
     </type>
     <type name="shortjeans_darkblue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6339,7 +6339,7 @@
         <usage name="School"/>
     </type>
     <type name="shortjeans_red">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6354,7 +6354,7 @@
         <usage name="School"/>
     </type>
     <type name="shortjeans_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6369,7 +6369,7 @@
         <usage name="School"/>
     </type>
     <type name="shortjeans_green">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6384,7 +6384,7 @@
         <usage name="School"/>
     </type>
     <type name="skirt_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6399,7 +6399,7 @@
         <usage name="School"/>
     </type>
     <type name="skirt_red">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6414,7 +6414,7 @@
         <usage name="School"/>
     </type>
     <type name="skirt_white">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6429,7 +6429,7 @@
         <usage name="School"/>
     </type>
     <type name="skirt_yellow">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6444,7 +6444,7 @@
         <usage name="School"/>
     </type>
     <type name="athleticshoes_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6459,7 +6459,7 @@
         <usage name="School"/>
     </type>
     <type name="athleticshoes_brown">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6474,7 +6474,7 @@
         <usage name="School"/>
     </type>
     <type name="athleticshoes_grey">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6489,7 +6489,7 @@
         <usage name="School"/>
     </type>
     <type name="athleticshoes_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6504,7 +6504,7 @@
         <usage name="School"/>
     </type>
     <type name="athleticshoes_green">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6519,7 +6519,7 @@
         <usage name="School"/>
     </type>
     <type name="hikingbootslow_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6534,7 +6534,7 @@
         <usage name="School"/>
     </type>
     <type name="hikingbootslow_grey">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6549,7 +6549,7 @@
         <usage name="School"/>
     </type>
     <type name="hikingbootslow_beige">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6564,7 +6564,7 @@
         <usage name="School"/>
     </type>
     <type name="hikingbootslow_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6579,7 +6579,7 @@
         <usage name="School"/>
     </type>
     <type name="wellies_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6594,7 +6594,7 @@
         <usage name="School"/>
     </type>
     <type name="wellies_brown">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6609,7 +6609,7 @@
         <usage name="School"/>
     </type>
     <type name="wellies_grey">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6624,7 +6624,7 @@
         <usage name="School"/>
     </type>
     <type name="wellies_green">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6639,7 +6639,7 @@
         <usage name="School"/>
     </type>
     <type name="workingboots_grey">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6654,7 +6654,7 @@
         <usage name="School"/>
     </type>
     <type name="workingboots_brown">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6669,7 +6669,7 @@
         <usage name="School"/>
     </type>
     <type name="workingboots_beige">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6684,7 +6684,7 @@
         <usage name="School"/>
     </type>
     <type name="workingboots_green">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6699,7 +6699,7 @@
         <usage name="School"/>
     </type>
     <type name="dressshoes_white">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6714,7 +6714,7 @@
         <usage name="School"/>
     </type>
     <type name="dressshoes_beige">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6729,7 +6729,7 @@
         <usage name="School"/>
     </type>
     <type name="dressshoes_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6744,7 +6744,7 @@
         <usage name="School"/>
     </type>
     <type name="dressshoes_brown">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6759,7 +6759,7 @@
         <usage name="School"/>
     </type>
     <type name="dressshoes_sunburst">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6774,7 +6774,7 @@
         <usage name="School"/>
     </type>
     <type name="tshirt_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6789,7 +6789,7 @@
         <usage name="School"/>
     </type>
     <type name="tshirt_orangewhitestripes">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6804,7 +6804,7 @@
         <usage name="School"/>
     </type>
     <type name="tshirt_red">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6819,7 +6819,7 @@
         <usage name="School"/>
     </type>
     <type name="tshirt_redblackstripes">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6834,7 +6834,7 @@
         <usage name="School"/>
     </type>
     <type name="tshirt_beige">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6849,7 +6849,7 @@
         <usage name="School"/>
     </type>
     <type name="tshirt_grey">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6864,7 +6864,7 @@
         <usage name="School"/>
     </type>
     <type name="tshirt_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6879,7 +6879,7 @@
         <usage name="School"/>
     </type>
     <type name="tshirt_green">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6894,7 +6894,7 @@
         <usage name="School"/>
     </type>
     <type name="hoodie_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6909,7 +6909,7 @@
         <usage name="School"/>
     </type>
     <type name="hoodie_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6924,7 +6924,7 @@
         <usage name="School"/>
     </type>
     <type name="hoodie_brown">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6939,7 +6939,7 @@
         <usage name="School"/>
     </type>
     <type name="hoodie_grey">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6954,7 +6954,7 @@
         <usage name="School"/>
     </type>
     <type name="hoodie_red">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6969,7 +6969,7 @@
         <usage name="School"/>
     </type>
     <type name="ridersjacket_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6984,7 +6984,7 @@
         <usage name="School"/>
     </type>
     <type name="expansionridersjacketbrown">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6999,7 +6999,7 @@
         <usage name="School"/>
     </type>
     <type name="expansionridersjacketdarkblue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7014,7 +7014,7 @@
         <usage name="School"/>
     </type>
     <type name="woolcoat_red">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7029,7 +7029,7 @@
         <usage name="School"/>
     </type>
     <type name="woolcoat_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7044,7 +7044,7 @@
         <usage name="School"/>
     </type>
     <type name="woolcoat_beige">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7059,7 +7059,7 @@
         <usage name="School"/>
     </type>
     <type name="woolcoat_redcheck">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7074,7 +7074,7 @@
         <usage name="School"/>
     </type>
     <type name="woolcoat_bluecheck">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7089,7 +7089,7 @@
         <usage name="School"/>
     </type>
     <type name="woolcoat_greycheck">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7104,7 +7104,7 @@
         <usage name="School"/>
     </type>
     <type name="woolcoat_browncheck">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7119,7 +7119,7 @@
         <usage name="School"/>
     </type>
     <type name="woolcoat_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7134,7 +7134,7 @@
         <usage name="School"/>
     </type>
     <type name="woolcoat_blackcheck">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7149,7 +7149,7 @@
         <usage name="School"/>
     </type>
     <type name="woolcoat_green">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7284,7 +7284,7 @@
         <usage name="School"/>
     </type>
     <type name="quiltedjacket_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7299,7 +7299,7 @@
         <usage name="School"/>
     </type>
     <type name="quiltedjacket_red">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7314,7 +7314,7 @@
         <usage name="School"/>
     </type>
     <type name="quiltedjacket_grey">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7329,7 +7329,7 @@
         <usage name="School"/>
     </type>
     <type name="quiltedjacket_orange">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7344,7 +7344,7 @@
         <usage name="School"/>
     </type>
     <type name="quiltedjacket_yellow">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7359,7 +7359,7 @@
         <usage name="School"/>
     </type>
     <type name="quiltedjacket_violet">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7374,7 +7374,7 @@
         <usage name="School"/>
     </type>
     <type name="quiltedjacket_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7389,7 +7389,7 @@
         <usage name="School"/>
     </type>
     <type name="quiltedjacket_green">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7404,7 +7404,7 @@
         <usage name="School"/>
     </type>
     <type name="bomberjacket_brown">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7419,7 +7419,7 @@
         <usage name="School"/>
     </type>
     <type name="bomberjacket_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7434,7 +7434,7 @@
         <usage name="School"/>
     </type>
     <type name="bomberjacket_grey">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7449,7 +7449,7 @@
         <usage name="School"/>
     </type>
     <type name="bomberjacket_maroon">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7464,7 +7464,7 @@
         <usage name="School"/>
     </type>
     <type name="bomberjacket_skyblue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7479,7 +7479,7 @@
         <usage name="School"/>
     </type>
     <type name="bomberjacket_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7494,7 +7494,7 @@
         <usage name="School"/>
     </type>
     <type name="bomberjacket_olive">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7509,7 +7509,7 @@
         <usage name="School"/>
     </type>
     <type name="blouse_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7524,7 +7524,7 @@
         <usage name="School"/>
     </type>
     <type name="blouse_violet">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7539,7 +7539,7 @@
         <usage name="School"/>
     </type>
     <type name="blouse_white">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7554,7 +7554,7 @@
         <usage name="School"/>
     </type>
     <type name="blouse_green">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7569,7 +7569,7 @@
         <usage name="School"/>
     </type>
     <type name="denimjacket">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7584,7 +7584,7 @@
         <usage name="School"/>
     </type>
     <type name="telnyashkashirt">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7599,7 +7599,7 @@
         <usage name="School"/>
     </type>
     <type name="chernarussportshirt">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7614,7 +7614,7 @@
         <usage name="School"/>
     </type>
     <type name="mansuit_beige">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7629,7 +7629,7 @@
         <usage name="School"/>
     </type>
     <type name="mansuit_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7644,7 +7644,7 @@
         <usage name="School"/>
     </type>
     <type name="mansuit_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7659,7 +7659,7 @@
         <usage name="School"/>
     </type>
     <type name="mansuit_brown">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7674,7 +7674,7 @@
         <usage name="School"/>
     </type>
     <type name="mansuit_darkgrey">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7689,7 +7689,7 @@
         <usage name="School"/>
     </type>
     <type name="mansuit_khaki">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7704,7 +7704,7 @@
         <usage name="School"/>
     </type>
     <type name="mansuit_lightgrey">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7719,7 +7719,7 @@
         <usage name="School"/>
     </type>
     <type name="mansuit_white">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7734,7 +7734,7 @@
         <usage name="School"/>
     </type>
     <type name="womansuit_beige">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7749,7 +7749,7 @@
         <usage name="School"/>
     </type>
     <type name="womansuit_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7764,7 +7764,7 @@
         <usage name="School"/>
     </type>
     <type name="womansuit_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7779,7 +7779,7 @@
         <usage name="School"/>
     </type>
     <type name="womansuit_brown">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7794,7 +7794,7 @@
         <usage name="School"/>
     </type>
     <type name="womansuit_darkgrey">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7809,7 +7809,7 @@
         <usage name="School"/>
     </type>
     <type name="womansuit_khaki">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7824,7 +7824,7 @@
         <usage name="School"/>
     </type>
     <type name="womansuit_lightgrey">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7839,7 +7839,7 @@
         <usage name="School"/>
     </type>
     <type name="womansuit_white">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7854,7 +7854,7 @@
         <usage name="School"/>
     </type>
     <type name="reflexvest">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7869,7 +7869,7 @@
         <usage name="School"/>
     </type>
     <type name="ExpansionTommy">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7884,7 +7884,7 @@
         <usage name="School"/>
     </type>
     <type name="taloonbag_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7899,7 +7899,7 @@
         <usage name="School"/>
     </type>
     <type name="taloonbag_orange">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7914,7 +7914,7 @@
         <usage name="School"/>
     </type>
     <type name="taloonbag_violet">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7929,7 +7929,7 @@
         <usage name="School"/>
     </type>
     <type name="taloonbag_green">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7944,7 +7944,7 @@
         <usage name="School"/>
     </type>
     <type name="childbag_red">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7959,7 +7959,7 @@
         <usage name="School"/>
     </type>
     <type name="childbag_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7974,7 +7974,7 @@
         <usage name="School"/>
     </type>
     <type name="childbag_green">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7989,7 +7989,7 @@
         <usage name="School"/>
     </type>
     <type name="civilianbelt">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8004,7 +8004,7 @@
         <usage name="School"/>
     </type>
     <type name="sportglasses_orange">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8019,7 +8019,7 @@
         <usage name="School"/>
     </type>
     <type name="sportglasses_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8034,7 +8034,7 @@
         <usage name="School"/>
     </type>
     <type name="sportglasses_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8049,7 +8049,7 @@
         <usage name="School"/>
     </type>
     <type name="sportglasses_green">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8064,7 +8064,7 @@
         <usage name="School"/>
     </type>
     <type name="aviatorglasses">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8079,7 +8079,7 @@
         <usage name="School"/>
     </type>
     <type name="designerglasses">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8094,7 +8094,7 @@
         <usage name="School"/>
     </type>
     <type name="eyemask_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8109,7 +8109,7 @@
         <usage name="School"/>
     </type>
     <type name="eyemask_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8124,7 +8124,7 @@
         <usage name="School"/>
     </type>
     <type name="eyemask_christmas">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8139,7 +8139,7 @@
         <usage name="School"/>
     </type>
     <type name="eyemask_dead">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8154,7 +8154,7 @@
         <usage name="School"/>
     </type>
     <type name="eyemask_newyears">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8169,7 +8169,7 @@
         <usage name="School"/>
     </type>
     <type name="eyemask_red">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8184,7 +8184,7 @@
         <usage name="School"/>
     </type>
     <type name="eyemask_valentines">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8199,7 +8199,7 @@
         <usage name="School"/>
     </type>
     <type name="eyemask_yellow">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8214,7 +8214,7 @@
         <usage name="School"/>
     </type>
     <type name="beanie_blackred">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8229,7 +8229,7 @@
         <usage name="School"/>
     </type>
     <type name="beanie_purple">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8244,7 +8244,7 @@
         <usage name="School"/>
     </type>
     <type name="beanie_white">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8259,7 +8259,7 @@
         <usage name="School"/>
     </type>
     <type name="beanie_blackwhite">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8274,7 +8274,7 @@
         <usage name="School"/>
     </type>
     <type name="beanie_green">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8289,7 +8289,7 @@
         <usage name="School"/>
     </type>
     <type name="baseballcap_greywhite">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8304,7 +8304,7 @@
         <usage name="School"/>
     </type>
     <type name="baseballcap_whitegreen">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8319,7 +8319,7 @@
         <usage name="School"/>
     </type>
     <type name="baseballcap_bluewhite">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8334,7 +8334,7 @@
         <usage name="School"/>
     </type>
     <type name="baseballcap_redblack">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8349,7 +8349,7 @@
         <usage name="School"/>
     </type>
     <type name="baseballcap_redwhite">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8364,7 +8364,7 @@
         <usage name="School"/>
     </type>
     <type name="baseballcap_blackwhite">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8379,7 +8379,7 @@
         <usage name="School"/>
     </type>
     <type name="shirt_checkhero">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8394,7 +8394,7 @@
         <usage name="School"/>
     </type>
     <type name="shirt_stripedyellow">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8409,7 +8409,7 @@
         <usage name="School"/>
     </type>
     <type name="shirt_hawaiian1">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8424,7 +8424,7 @@
         <usage name="School"/>
     </type>
     <type name="shirt_hawaiian2">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8439,7 +8439,7 @@
         <usage name="School"/>
     </type>
     <type name="ridersjacket_blackred">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8454,7 +8454,7 @@
         <usage name="School"/>
     </type>
     <type name="ridersjacket_blackwhite">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8469,7 +8469,7 @@
         <usage name="School"/>
     </type>
     <type name="ridersjacket_brown">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8484,7 +8484,7 @@
         <usage name="School"/>
     </type> 
     <type name="ridersjacket_grey">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8499,7 +8499,7 @@
         <usage name="School"/>
     </type>
     <type name="quiltedjacket_wedgewhite">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8514,7 +8514,7 @@
         <usage name="School"/>
     </type>
     <type name="quiltedjacket_wedgeorange">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8529,7 +8529,7 @@
         <usage name="School"/>
     </type>
     <type name="quiltedjacket_wedgegreen">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8544,7 +8544,7 @@
         <usage name="School"/>
     </type>
     <type name="quiltedjacket_wedgeblue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8559,7 +8559,7 @@
         <usage name="School"/>
     </type>
     <type name="quiltedjacket_blueorange">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8574,7 +8574,7 @@
         <usage name="School"/>
     </type>
     <type name="minidress_floral">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8589,7 +8589,7 @@
         <usage name="School"/>
     </type>
     <type name="minidress_floraldark">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8604,7 +8604,7 @@
         <usage name="School"/>
     </type>
     <type name="minidress_cherry">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8619,7 +8619,7 @@
         <usage name="School"/>
     </type>
     <type name="minidress_purple">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8634,7 +8634,7 @@
         <usage name="School"/>
     </type>
     <type name="minidress_green">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8649,7 +8649,7 @@
         <usage name="School"/>
     </type>
     <type name="cargopants_white">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8664,7 +8664,7 @@
         <usage name="School"/>
     </type>
     <type name="booniehat_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8679,7 +8679,7 @@
         <usage name="School"/>
     </type>
     <type name="booniehat_navyblue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8694,7 +8694,7 @@
         <usage name="School"/>
     </type>
     <type name="booniehat_orange">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8709,7 +8709,7 @@
         <usage name="School"/>
     </type>
     <type name="booniehat_red">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8724,7 +8724,7 @@
         <usage name="School"/>
     </type>
     <type name="booniehat_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8739,7 +8739,7 @@
         <usage name="School"/>
     </type>
     <type name="booniehat_tan">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8754,7 +8754,7 @@
         <usage name="School"/>
     </type>
     <type name="booniehat_olive">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8769,7 +8769,7 @@
         <usage name="School"/>
     </type>
     <type name="booniehat_dpm">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8784,7 +8784,7 @@
         <usage name="School"/>
     </type>
     <type name="booniehat_dubok">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8799,7 +8799,7 @@
         <usage name="School"/>
     </type>
     <type name="booniehat_flecktran">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8814,7 +8814,7 @@
         <usage name="School"/>
     </type>
     <type name="cowboyhat_brown">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8829,7 +8829,7 @@
         <usage name="School"/>
     </type>
     <type name="cowboyhat_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8844,7 +8844,7 @@
         <usage name="School"/>
     </type>
     <type name="cowboyhat_darkbrown">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8859,7 +8859,7 @@
         <usage name="School"/>
     </type>
     <type name="cowboyhat_green">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8874,7 +8874,7 @@
         <usage name="School"/>
     </type>
     <type name="expansioncowboyhatgator">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8889,7 +8889,7 @@
         <usage name="School"/>
     </type>
     <type name="expansioncowboyhatsnake">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8904,7 +8904,7 @@
         <usage name="School"/>
     </type>
     <type name="expansioncowboyhatrattlesnake">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8919,7 +8919,7 @@
         <usage name="School"/>
     </type>
     <type name="canvaspants_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8934,7 +8934,7 @@
         <usage name="School"/>
     </type>
     <type name="canvaspants_grey">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8949,7 +8949,7 @@
         <usage name="School"/>
     </type>
     <type name="canvaspants_red">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8964,7 +8964,7 @@
         <usage name="School"/>
     </type>
     <type name="canvaspants_violet">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8979,7 +8979,7 @@
         <usage name="School"/>
     </type>
     <type name="canvaspants_beige">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8994,7 +8994,7 @@
         <usage name="School"/>
     </type>
     <type name="canvaspantsmidi_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9009,7 +9009,7 @@
         <usage name="School"/>
     </type>
     <type name="canvaspantsmidi_grey">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9024,7 +9024,7 @@
         <usage name="School"/>
     </type>
     <type name="canvaspantsmidi_red">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9039,7 +9039,7 @@
         <usage name="School"/>
     </type>
     <type name="canvaspantsmidi_violet">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9054,7 +9054,7 @@
         <usage name="School"/>
     </type>
     <type name="canvaspantsmidi_beige">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9069,7 +9069,7 @@
         <usage name="School"/>
     </type>
     <type name="hikingboots_brown">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9084,7 +9084,7 @@
         <usage name="School"/>
     </type>
     <type name="hikingboots_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9099,7 +9099,7 @@
         <usage name="School"/>
     </type>
     <type name="combatboots_green">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9114,7 +9114,7 @@
         <usage name="School"/>
     </type>
     <type name="MedievalBoots">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9129,7 +9129,7 @@
         <usage name="School"/>
     </type>
     <type name="poncho_brown">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9144,7 +9144,7 @@
         <usage name="School"/>
     </type>
     <type name="poncho_green">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9159,7 +9159,7 @@
         <usage name="School"/>
     </type>
     <type name="poncho_red">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9174,7 +9174,7 @@
         <usage name="School"/>
     </type>
     <type name="poncho_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9189,7 +9189,7 @@
         <usage name="School"/>
     </type>
     <type name="poncho_white">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9204,7 +9204,7 @@
         <usage name="School"/>
     </type>
     <type name="bandana_polkapattern">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9219,7 +9219,7 @@
         <usage name="School"/>
     </type>
     <type name="poncho_blackandwhite">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9234,7 +9234,7 @@
         <usage name="School"/>
     </type>
     <type name="poncho_blackandwhite2">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9249,7 +9249,7 @@
         <usage name="School"/>
     </type>
     <type name="poncho_blue_checkered">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9264,7 +9264,7 @@
         <usage name="School"/>
     </type>
     <type name="shemagh_green">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9279,7 +9279,7 @@
         <usage name="School"/>
     </type>    
     <type name="shemagh_brown">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9294,7 +9294,7 @@
         <usage name="School"/>
     </type>
     <type name="shemagh_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9309,7 +9309,7 @@
         <usage name="School"/>
     </type>
     <type name="shemagh_white">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9324,7 +9324,7 @@
         <usage name="School"/>
     </type>
     <type name="shemagh_red">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9339,7 +9339,7 @@
         <usage name="School"/>
     </type>
     <type name="slouch_hat_brown">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9354,7 +9354,7 @@
         <usage name="School"/>
     </type>   
     <type name="winter_parka_base">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9369,7 +9369,7 @@
         <usage name="School"/>
     </type>   
     <type name="winter_parka_white">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9384,7 +9384,7 @@
         <usage name="School"/>
     </type>
     <type name="winter_parka_green">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9399,7 +9399,7 @@
         <usage name="School"/>
     </type>
     <type name="wool_greatcoat_navy">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9414,7 +9414,7 @@
         <usage name="School"/>
     </type>   
     <type name="wool_greatcoat_olive">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9429,7 +9429,7 @@
         <usage name="School"/>
     </type>
     <type name="wool_greatcoat_grey">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9444,7 +9444,7 @@
         <usage name="School"/>
     </type>
     <type name="ushanka_blackfurw">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9459,7 +9459,7 @@
         <usage name="School"/>
     </type>
     <type name="ushanka_greenlight">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9474,7 +9474,7 @@
         <usage name="School"/>
     </type>
     <type name="ushanka_whiteblackfurw">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9489,7 +9489,7 @@
         <usage name="School"/>
     </type>
     <type name="cowboyhat_blackbrown">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9504,7 +9504,7 @@
         <usage name="School"/>
     </type>
     <type name="cowboyhat_white">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9519,7 +9519,7 @@
         <usage name="School"/>
     </type>
     <type name="cowboyhat_grey">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9534,7 +9534,7 @@
         <usage name="School"/>
     </type>
     <type name="cowboyhat_darkgreen">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9549,7 +9549,7 @@
         <usage name="School"/>
     </type>
     <type name="cowboyhat_blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9564,7 +9564,7 @@
         <usage name="School"/>
     </type>
     <type name="canopener">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9580,7 +9580,7 @@
         <usage name="School"/>
     </type>
     <type name="zagorky">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9693,7 +9693,7 @@
         <value name="Tier2"/>                            
     </type>
     <type name="policevest">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9715,7 +9715,7 @@
         <value name="Tier3"/>
     </type>
     <type name="TF_Maska1Helmet">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9726,7 +9726,7 @@
         <value name="Tier3"/    
     </type>
     <type name="TF_CamelBakBag_Black">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9737,7 +9737,7 @@
         <value name="Tier3"/>
     </type>
     <type name="TF_CamelBakBag_Brown">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9770,7 +9770,7 @@
         <value name="Tier3"/>                            
     </type>
     <type name="pressvest_blue">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9781,7 +9781,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Tactical_Leg_Holster_Black">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9792,7 +9792,7 @@
         <value name="Tier3"/>         
     </type>
     <type name="morphine">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9803,7 +9803,7 @@
         <value name="Tier3"/>
     </type>
     <type name="epinephrine">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9814,7 +9814,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Msp_VorpalKnife">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9825,7 +9825,7 @@
         <value name="Tier3"/>    
     </type>
     <type name="SKS">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9837,7 +9837,7 @@
         <value name="Tier3"/>
     </type>
     <type name="air_weapon_k98">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9849,7 +9849,7 @@
         <value name="Tier3"/>
     </type>
     <type name="air_ammobox_792x57_60rnd">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9861,7 +9861,7 @@
         <value name="Tier3"/>
     </type>
     <type name="air_weapon_mp40">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9873,7 +9873,7 @@
         <value name="Tier3"/>
     </type>
     <type name="air_weapon_mag_mp40_30rnd">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9885,7 +9885,7 @@
         <value name="Tier3"/>
     </type>
     <type name="SKS_Bayonet">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9897,7 +9897,7 @@
         <value name="Tier3"/>
     </type>
     <type name="ammobox_762x39_20rnd">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9909,7 +9909,7 @@
         <value name="Tier3"/>
     </type>
     <type name="ammobox_762x39tracer_20rnd">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9921,7 +9921,7 @@
         <value name="Tier3"/>
     </type>
     <type name="izh18">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9933,7 +9933,7 @@
         <value name="Tier3"/>
     </type>
     <type name="izh43shotgun">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9945,7 +9945,7 @@
         <value name="Tier3"/>
     </type>
     <type name="mp133shotgun">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9957,7 +9957,7 @@
         <value name="Tier3"/>
     </type>
     <type name="ammobox_12gaslug_10rnd">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9969,7 +9969,7 @@
         <value name="Tier3"/>
     </type>
     <type name="AmmoBox_00buck_10rnd">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9981,7 +9981,7 @@
         <value name="Tier3"/>    
     </type>
     <type name="ammobox_12garubberslug_10rnd">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -9993,7 +9993,7 @@
         <value name="Tier3"/>
     </type>
     <type name="mosin9130">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -10005,54 +10005,6 @@
         <value name="Tier3"/>
     </type>
     <type name="puscopeoptic">
-        <nominal>3</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <value name="Tier3"/>
-    </type>
-    <type name="ammobox_762x54_20rnd">
-        <nominal>4</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <value name="Tier3"/>
-    </type>
-    <type name="weaponcleaningkit">
-        <nominal>3</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <value name="Tier3"/>    
-    </type>
-    <type name="ammobox_762x54tracer_20rnd">
-        <nominal>3</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <value name="Tier3"/>
-    </type>
-    <type name="makarovij70">
         <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
@@ -10064,8 +10016,56 @@
         <category name="weapons"/>
         <value name="Tier3"/>
     </type>
+    <type name="ammobox_762x54_20rnd">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="weaponcleaningkit">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <value name="Tier3"/>    
+    </type>
+    <type name="ammobox_762x54tracer_20rnd">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="makarovij70">
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <value name="Tier3"/>
+    </type>
     <type name="mag_ij70_8rnd">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -10077,7 +10077,7 @@
         <value name="Tier3"/>
     </type>
     <type name="ammobox_380_35rnd">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -10089,7 +10089,7 @@
         <value name="Tier3"/>
     </type>   
     <type name="cz61">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -10101,30 +10101,6 @@
         <value name="Tier3"/>
     </type>
     <type name="mag_cz61_20rnd">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <value name="Tier3"/>
-    </type>
-    <type name="p1">
-        <nominal>3</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <value name="Tier3"/>
-    </type>
-    <type name="mag_p1_8rnd">
         <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
@@ -10136,8 +10112,32 @@
         <category name="weapons"/>
         <value name="Tier3"/>
     </type>
+    <type name="p1">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <value name="Tier3"/>
+    </type>
+    <type name="mag_p1_8rnd">
+        <nominal>3</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <value name="Tier3"/>
+    </type>
     <type name="ammobox_9x19_25rnd">
-        <nominal>6</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -10185,7 +10185,7 @@
         <value name="Tier3"/>
     </type>
     <type name="ammobox_357_20rnd">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -10197,7 +10197,7 @@
         <value name="Tier3"/>
     </type>
     <type name="pistolsuppressor">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -10209,7 +10209,7 @@
         <value name="Tier3"/>
     </type>
     <type name="expansiongoldbar">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -10220,7 +10220,7 @@
         <value name="Tier3"/>
     </type>
     <type name="expansionsilverbar">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -10231,7 +10231,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Msp_Armybag">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -10270,7 +10270,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CP_CannabisSeedsPackSkunk">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -10284,7 +10284,7 @@
         <value name="Tier3"/>
     </type>
     <type name="CP_CannabisSeedsPackBlue">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -10298,7 +10298,7 @@
         <value name="Tier3"/>
     </type>
     <type name="CP_CannabisSeedsPackKush">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -10312,7 +10312,7 @@
         <value name="Tier3"/>
     </type>
     <type name="CP_CannabisSeedsPackStardawg">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -10326,7 +10326,7 @@
         <value name="Tier3"/>
     </type>
     <type name="CP_CannabisSeedsPackFuture">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -13844,7 +13844,7 @@
         <value name="Tier3"/>
     </type>
     <type name="PepperSeedsPack">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -14149,7 +14149,7 @@
         <value name="Tier3"/>
     </type>
     <type name="PumpkinSeedsPack">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -14785,7 +14785,7 @@
         <value name="Tier3"/>
     </type>
     <type name="TomatoSeedsPack">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -15081,7 +15081,7 @@
         <value name="Tier3"/>
     </type>
     <type name="ZucchiniSeedsPack">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
