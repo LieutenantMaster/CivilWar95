@@ -9,6 +9,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <category name="vehiclesparts"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -21,6 +23,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -33,6 +38,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <category name="vehiclesparts"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -45,6 +52,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <category name="vehiclesparts"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -57,6 +66,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <category name="vehiclesparts"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -69,6 +80,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -81,6 +93,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -93,6 +106,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -105,6 +119,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -117,6 +132,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -129,6 +145,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -141,6 +158,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -153,6 +171,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -165,6 +184,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -177,6 +197,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -189,6 +210,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -201,6 +223,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -213,6 +236,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -225,6 +249,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -237,6 +262,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -249,6 +275,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -261,6 +288,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -273,6 +301,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -285,6 +314,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -297,6 +327,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -309,6 +340,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -321,6 +353,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -333,6 +367,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>        
     </type>
@@ -345,6 +380,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -357,6 +393,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -369,6 +406,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -381,6 +419,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -393,6 +432,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -405,6 +445,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -417,6 +458,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -429,6 +471,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -441,6 +484,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -453,6 +497,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -465,6 +510,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -525,6 +571,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -537,6 +584,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -549,6 +597,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -561,6 +610,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -573,6 +623,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -585,6 +636,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -597,6 +649,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -609,6 +662,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -621,6 +675,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -633,6 +688,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -645,6 +701,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -657,6 +714,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -669,6 +727,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -681,6 +740,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -693,6 +753,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -705,6 +766,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -717,6 +779,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -729,6 +792,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -741,6 +805,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -753,6 +818,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -765,6 +831,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -777,6 +844,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -789,6 +857,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -801,6 +870,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -813,6 +883,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -825,6 +896,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -837,6 +909,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -849,6 +922,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -861,6 +935,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -873,6 +948,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -885,6 +961,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -897,6 +974,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -909,6 +987,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -921,6 +1000,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -933,6 +1013,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -945,6 +1026,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -957,6 +1039,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -969,6 +1052,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -981,6 +1065,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>    
     </type>
@@ -993,6 +1078,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1005,6 +1091,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1017,6 +1104,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1029,6 +1117,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1041,6 +1130,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1053,6 +1143,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1065,6 +1156,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1077,6 +1169,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1089,6 +1182,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1101,6 +1195,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1113,6 +1208,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1125,6 +1221,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1137,6 +1234,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1149,6 +1247,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1161,6 +1260,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1173,6 +1273,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1185,6 +1286,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1197,6 +1299,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1209,6 +1312,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1221,6 +1325,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1233,6 +1338,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1245,6 +1351,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1257,6 +1364,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1269,6 +1377,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1281,6 +1390,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1293,6 +1403,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1305,6 +1416,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1317,6 +1429,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1329,6 +1442,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>  
@@ -1341,6 +1455,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1353,6 +1468,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1365,6 +1481,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1377,6 +1494,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1389,6 +1507,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1401,6 +1520,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1413,6 +1533,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1425,6 +1546,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1437,6 +1559,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1449,6 +1572,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1461,6 +1585,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1473,6 +1598,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1485,6 +1611,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1497,6 +1624,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1509,6 +1637,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1521,6 +1650,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1533,6 +1663,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1545,6 +1676,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1569,6 +1701,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1581,6 +1714,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1593,6 +1727,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1605,6 +1740,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1617,6 +1753,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1629,6 +1766,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1641,6 +1779,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1653,6 +1792,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1665,6 +1805,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1677,6 +1818,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1689,6 +1831,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1701,6 +1844,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1713,6 +1857,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1725,6 +1870,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1737,6 +1883,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1749,6 +1896,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1761,6 +1909,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1773,6 +1922,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1785,6 +1935,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1797,6 +1948,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1809,6 +1961,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1821,6 +1974,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1833,6 +1987,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1845,6 +2000,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1857,6 +2013,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1869,6 +2026,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1881,6 +2039,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1893,6 +2052,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1905,6 +2065,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1917,6 +2078,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1929,6 +2091,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1941,6 +2104,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1953,6 +2117,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1965,6 +2130,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1977,6 +2143,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -1989,6 +2156,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2001,6 +2169,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2013,6 +2182,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2025,6 +2195,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2037,6 +2208,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2049,6 +2221,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2061,6 +2234,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2073,6 +2247,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2085,6 +2260,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2097,6 +2273,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2109,6 +2286,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2121,6 +2299,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2133,6 +2312,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2145,6 +2325,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2157,6 +2338,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2169,6 +2351,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2181,6 +2364,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2193,6 +2377,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2205,6 +2390,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2217,6 +2403,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2229,6 +2416,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2241,6 +2429,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2253,6 +2442,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2265,6 +2455,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2277,6 +2468,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2289,6 +2481,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>  
@@ -2301,6 +2494,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2313,6 +2507,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2325,6 +2520,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2337,6 +2533,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2349,6 +2546,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2361,6 +2559,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2373,6 +2572,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2385,6 +2585,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2397,6 +2598,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2409,6 +2611,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2421,6 +2624,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2433,6 +2637,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>    
     </type>
@@ -2445,6 +2650,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2457,6 +2663,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2469,6 +2676,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2481,6 +2689,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2493,6 +2702,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2505,6 +2715,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2517,6 +2728,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2529,6 +2741,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2541,6 +2754,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2553,6 +2767,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2565,6 +2780,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>    
     </type>
@@ -2577,6 +2793,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>    
     </type>
@@ -2589,6 +2806,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>    
     </type>
@@ -2601,6 +2819,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>    
     </type>
@@ -2613,6 +2832,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2625,6 +2845,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>    
     </type>
@@ -2637,6 +2858,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2649,6 +2871,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>    
     </type>
@@ -2661,6 +2884,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2673,6 +2897,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2685,6 +2910,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2697,6 +2923,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2721,6 +2948,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2733,6 +2961,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2745,6 +2974,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2757,6 +2987,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2769,6 +3000,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2781,6 +3013,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>    
@@ -2793,6 +3026,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2805,6 +3039,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2817,6 +3052,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2829,6 +3065,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2841,6 +3078,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2853,6 +3091,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2865,6 +3104,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2877,6 +3117,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2889,6 +3130,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2901,6 +3143,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2913,6 +3156,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2925,6 +3169,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2937,6 +3182,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2949,6 +3195,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2961,6 +3208,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2973,6 +3221,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2985,6 +3234,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -2997,6 +3247,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3009,6 +3260,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3021,6 +3273,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3033,6 +3286,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3045,6 +3299,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3057,6 +3312,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3069,6 +3325,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3081,6 +3338,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3093,6 +3351,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier2"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3117,6 +3376,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3129,6 +3389,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3141,6 +3402,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3153,6 +3415,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3165,6 +3428,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3177,6 +3441,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3189,6 +3454,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3213,6 +3479,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3225,6 +3492,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3237,6 +3505,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3442,6 +3711,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3477,6 +3747,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="floor"/>
+        <tag name="ground"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3489,6 +3761,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3513,6 +3786,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3525,6 +3799,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3537,6 +3812,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3549,6 +3825,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3561,6 +3838,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3573,6 +3851,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3585,6 +3864,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3597,6 +3877,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3609,6 +3890,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3621,6 +3903,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3633,6 +3916,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3645,6 +3929,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3657,6 +3942,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3669,6 +3955,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3681,6 +3968,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3693,6 +3981,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3705,6 +3994,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3717,6 +4007,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3729,6 +4020,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3741,6 +4033,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3753,6 +4046,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3765,6 +4059,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3777,6 +4072,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3789,6 +4085,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3801,6 +4098,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3813,6 +4111,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3825,6 +4124,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3837,6 +4137,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3849,6 +4150,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3861,6 +4163,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3873,6 +4176,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3885,6 +4189,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3897,6 +4202,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3909,6 +4215,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3921,6 +4228,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3933,6 +4241,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3945,6 +4254,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3957,6 +4267,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3969,6 +4280,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3981,6 +4293,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -3993,6 +4306,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4005,6 +4319,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4017,6 +4332,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4029,6 +4345,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4041,6 +4358,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4053,6 +4371,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4065,6 +4384,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4077,6 +4397,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4089,6 +4410,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4101,6 +4423,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4113,6 +4436,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4125,6 +4449,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4137,6 +4462,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4149,6 +4475,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4161,6 +4488,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4173,6 +4501,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4185,6 +4514,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4197,6 +4527,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4209,6 +4540,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4221,6 +4553,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4233,6 +4566,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4245,6 +4579,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4257,6 +4592,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4269,6 +4605,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4281,6 +4618,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4293,6 +4631,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4305,6 +4644,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4317,6 +4657,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4329,6 +4670,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4341,6 +4683,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4353,6 +4696,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4365,6 +4709,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4377,6 +4722,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4389,6 +4735,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4401,6 +4748,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4413,6 +4761,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4425,6 +4774,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4437,6 +4787,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4449,6 +4800,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type> 
@@ -4461,6 +4813,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4473,6 +4826,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4485,6 +4839,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4497,6 +4852,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4509,6 +4865,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4521,6 +4878,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4533,6 +4891,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4545,6 +4904,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4557,6 +4917,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4569,6 +4930,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4581,6 +4943,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4593,6 +4956,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4605,6 +4969,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4617,6 +4982,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4629,6 +4995,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4641,6 +5008,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4653,6 +5021,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4665,6 +5034,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4677,6 +5047,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4689,6 +5060,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4701,6 +5073,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4713,6 +5086,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4725,6 +5099,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4737,6 +5112,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4749,6 +5125,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4761,6 +5138,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4773,6 +5151,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4785,6 +5164,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4797,6 +5177,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4809,6 +5190,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4821,6 +5203,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4833,6 +5216,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4845,6 +5229,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4857,6 +5242,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4869,6 +5255,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4881,6 +5268,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4893,6 +5281,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4905,6 +5294,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4917,6 +5307,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4929,6 +5320,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4941,6 +5333,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4953,6 +5346,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4965,6 +5359,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4977,6 +5372,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -4989,6 +5385,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5001,6 +5398,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5013,6 +5411,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5025,6 +5424,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5037,6 +5437,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5049,6 +5450,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5061,6 +5463,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5073,6 +5476,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5085,6 +5489,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5097,6 +5502,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5109,6 +5515,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5121,6 +5528,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5133,6 +5541,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5145,6 +5554,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5157,6 +5567,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5169,6 +5580,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5181,6 +5593,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5193,6 +5606,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5205,6 +5619,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5217,6 +5632,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5229,6 +5645,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5241,6 +5658,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5253,6 +5671,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5265,6 +5684,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5277,6 +5697,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5289,6 +5710,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5301,6 +5723,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5313,6 +5736,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5325,6 +5749,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5337,6 +5762,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5349,6 +5775,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5361,6 +5788,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5373,6 +5801,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5385,6 +5814,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5397,6 +5827,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5409,6 +5840,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5421,6 +5853,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5433,6 +5866,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5445,6 +5879,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5457,6 +5892,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5469,6 +5905,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5481,6 +5918,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5493,6 +5931,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5505,6 +5944,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5517,6 +5957,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5529,6 +5970,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5541,6 +5983,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5553,6 +5996,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5565,6 +6009,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5577,6 +6022,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5589,6 +6035,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5601,6 +6048,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5613,6 +6061,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5625,6 +6074,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5637,6 +6087,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5649,6 +6100,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5661,6 +6113,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5673,6 +6126,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5685,6 +6139,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5697,6 +6152,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5709,6 +6165,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5721,6 +6178,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5733,6 +6191,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5745,6 +6204,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5757,6 +6217,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5769,6 +6230,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5781,6 +6243,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5793,6 +6256,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5805,6 +6269,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5817,6 +6282,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5829,6 +6295,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5841,6 +6308,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5853,6 +6321,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5865,6 +6334,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5877,6 +6347,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5889,6 +6360,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5901,6 +6373,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5913,6 +6386,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5925,6 +6399,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5937,6 +6412,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5949,6 +6425,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5961,6 +6438,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5973,6 +6451,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5985,6 +6464,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -5997,6 +6477,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6009,6 +6490,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6021,6 +6503,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6033,6 +6516,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6045,6 +6529,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6057,6 +6542,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6069,6 +6555,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6081,6 +6568,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6093,6 +6581,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6105,6 +6594,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6117,6 +6607,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6129,6 +6620,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6141,6 +6633,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6153,6 +6646,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6165,6 +6659,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6177,6 +6672,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6189,6 +6685,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6201,6 +6698,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6213,6 +6711,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6225,6 +6724,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6237,6 +6737,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6249,6 +6750,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6261,6 +6763,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6273,6 +6776,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6285,6 +6789,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6297,6 +6802,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6309,6 +6815,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6321,6 +6828,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6333,6 +6841,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6345,6 +6854,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6357,6 +6867,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6369,6 +6880,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6381,6 +6893,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6393,6 +6906,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6405,6 +6919,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6417,6 +6932,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6429,6 +6945,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6441,6 +6958,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6453,6 +6971,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6465,6 +6984,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6477,6 +6997,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6489,6 +7010,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6501,6 +7023,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6513,6 +7036,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6525,6 +7049,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6537,6 +7062,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6549,6 +7075,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6561,6 +7088,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6573,6 +7101,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6585,6 +7114,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6597,6 +7127,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6609,6 +7140,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6621,6 +7153,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6633,6 +7166,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6645,6 +7179,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6657,6 +7192,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6669,6 +7205,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6681,6 +7218,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6693,6 +7231,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6705,6 +7244,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6717,6 +7257,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6729,6 +7270,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type> 
@@ -6741,6 +7283,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6753,6 +7296,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6765,6 +7309,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6777,6 +7322,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6789,6 +7335,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6801,6 +7348,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6813,6 +7361,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6825,6 +7374,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6837,6 +7387,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6849,6 +7400,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6861,6 +7413,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6873,6 +7426,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6885,6 +7439,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6897,6 +7452,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6909,6 +7465,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6921,6 +7478,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6933,6 +7491,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6945,6 +7504,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6957,6 +7517,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6969,6 +7530,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6981,6 +7543,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -6993,6 +7556,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7005,6 +7569,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7017,6 +7582,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7029,6 +7595,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7041,6 +7608,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7053,6 +7621,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7065,6 +7634,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7077,6 +7647,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7089,6 +7660,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7101,6 +7673,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7113,6 +7686,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7125,6 +7699,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7137,6 +7712,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7149,6 +7725,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7161,6 +7738,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7173,6 +7751,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7185,6 +7764,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7197,6 +7777,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7209,6 +7790,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7221,6 +7803,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7233,6 +7816,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7245,6 +7829,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7257,6 +7842,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7269,6 +7855,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7281,6 +7868,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7293,6 +7881,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7305,6 +7894,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7317,6 +7907,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7329,6 +7920,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7341,6 +7933,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7353,6 +7946,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7365,6 +7959,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>    
@@ -7377,6 +7972,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7389,6 +7985,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7401,6 +7998,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7413,6 +8011,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7425,6 +8024,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>   
@@ -7437,6 +8037,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>   
@@ -7449,6 +8050,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7461,6 +8063,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7473,6 +8076,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>   
@@ -7485,6 +8089,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7497,6 +8102,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7509,6 +8115,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7521,6 +8128,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7533,6 +8141,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7545,6 +8154,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7557,6 +8167,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7569,6 +8180,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7581,6 +8193,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7593,6 +8206,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier1"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7605,6 +8219,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7617,6 +8232,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
         <value name="Tier12"/>
         <usage name="Chernogorsk"/>
     </type>
@@ -7733,6 +8349,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier3"/>
         <usage name="ChernogorskFull"/>
     </type>
@@ -7745,6 +8362,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier3"/>
         <usage name="ChernogorskFull"/>
     </type>
@@ -7757,6 +8375,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier3"/>
         <usage name="ChernogorskFull"/>
     </type>
@@ -7769,6 +8388,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier3"/>
         <usage name="ChernogorskFull"/>
     </type>
@@ -7781,6 +8401,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier3"/>
         <usage name="ChernogorskFull"/>
     </type>
@@ -7793,6 +8414,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier3"/>
         <usage name="ChernogorskFull"/>
     </type>
@@ -7805,6 +8427,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier3"/>
         <usage name="ChernogorskFull"/>                            
     </type>
@@ -7817,6 +8440,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier3"/>
         <usage name="ChernogorskFull"/>
     </type>
@@ -7829,6 +8453,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier3"/>
         <usage name="ChernogorskFull"/>         
     </type>
@@ -7865,6 +8490,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
         <value name="Tier3"/>
         <usage name="ChernogorskFull"/>    
     </type>
@@ -8395,6 +9021,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
         <value name="Tier3"/>
         <usage name="ChernogorskFull"/>    
     </type>
