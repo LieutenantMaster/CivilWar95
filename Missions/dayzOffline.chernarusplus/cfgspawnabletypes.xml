@@ -1191,7 +1191,7 @@
 	</type>
 	<type name="air_weapon_k98">
 		<damage min="0.3" max="0.7" />
-		<attachments chance="0.90">
+		<attachments chance="1.00">
 			<item name="air_module_k98" chance="1.00" />
 		</attachments>
 	</type>
@@ -1203,7 +1203,7 @@
 	</type>
 	<type name="air_weapon_ots33">
 		<damage min="0.3" max="0.7" />		
-		<attachments chance="0.70">
+		<attachments chance="0.80">
 			<item name="air_weapon_ots33_mag" chance="1.00" />
 		</attachments>			
 	</type>
