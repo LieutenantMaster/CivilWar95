@@ -30,15 +30,6 @@
             "Text": "10 minutes avant restart",
             "Icon": "Info",
             "Color": ""
-        },
-        {
-            "Hour": 5,
-            "Minute": 50,
-            "Second": 0,
-            "Title": "Restart 6h",
-            "Text": "10 minutes avant restart",
-            "Icon": "Info",
-            "Color": ""
         }
     ]
 }

@@ -4,12 +4,7 @@
     "PenConsumeQuantity": 3,
     "NoteDateFormat": {
         "Format": 1,
-        "DaySuffix": [
-            "st",
-            "nd",
-            "rd",
-            "th"
-        ],
+        "DaySuffix": [],
         "MonthName": [
             "January",
             "February",
