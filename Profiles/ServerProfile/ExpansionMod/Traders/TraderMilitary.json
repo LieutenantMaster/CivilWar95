@@ -67,15 +67,7 @@
         "TF_6sh112_EMR": 0,
         "TF_RifleSling_Black": 0,
         "TF_RifleSling_Brown": 0,
-        "TF_RifleSling_OD": 0,
-        "TF_AVSMag3Pouch_Khaki": 0,
-        "TF_AFAKMedPouch_Khaki": 0,
-        "TF_AVSGren2Pouch_Khaki": 0,
-        "TF_LargeUtilityPouch_Khaki": 0,
-        "TF_MedPouch2": 0,
-        "TF_6B43magpouch": 0,
-        "TF_6B43pelvisarmor": 0,
-        "TF_CamelBakBag_OD": 0,
+        "TF_RifleSling_OD": 0,     
 
 
 
@@ -151,7 +143,7 @@
         "ammobox_9x39_20rnd": 0,
         "ammobox_9x39ap_20rnd": 0,
 
-        "aks74u_bttstck": 0,
+       "aks74u_bttstck": 0,
 
         "makarovij70": 0,
         "mag_ij70_8rnd": 0,
