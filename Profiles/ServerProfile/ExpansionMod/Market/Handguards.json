@@ -59,7 +59,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "ak_woodhndgrd_black"
+            ]
         },
         {
             "ClassName": "ak_railhndgrd",

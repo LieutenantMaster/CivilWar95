@@ -241,8 +241,8 @@
         },
         {
             "ClassName": "pso1optic",
-            "MaxPriceThreshold": 2200,
-            "MinPriceThreshold": 1100,
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -254,8 +254,8 @@
         },
         {
             "ClassName": "pso11optic",
-            "MaxPriceThreshold": 2800,
-            "MinPriceThreshold": 1400,
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

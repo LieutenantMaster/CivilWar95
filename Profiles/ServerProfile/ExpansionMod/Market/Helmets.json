@@ -451,8 +451,8 @@
         },
         {
             "ClassName": "ssh68helmet",
-            "MaxPriceThreshold": 250,
-            "MinPriceThreshold": 250,
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 150,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -462,8 +462,8 @@
         },
         {
             "ClassName": "TF_Maska1Helmet",
-            "MaxPriceThreshold": 350,
-            "MinPriceThreshold": 350,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 950,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -476,8 +476,8 @@
         },
         {
             "ClassName": "TF_Maska1Visor",
-            "MaxPriceThreshold": 75,
-            "MinPriceThreshold": 75,
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 135,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -487,8 +487,8 @@
         },
         {
             "ClassName": "TF_Maska1SchVisor",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 100,
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 250,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

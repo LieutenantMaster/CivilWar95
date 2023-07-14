@@ -443,6 +443,17 @@
             "Variants": []
         },
         {
+            "ClassName": "FOG_Operator_Boots_Black",
+            "MaxPriceThreshold": 220,
+            "MinPriceThreshold": 190,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "nbcbootsgray",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 150,

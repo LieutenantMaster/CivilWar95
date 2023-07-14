@@ -114,7 +114,10 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "FOGR_Smersh_Khaki",
+                "FOGR_Smersh_Green"
+            ]
         },
         {
             "ClassName": "assaultbag_black",
@@ -130,6 +133,17 @@
                 "assaultbag_ttsko"
             ]
         },
+        {
+            "ClassName": "FOGR_AssaultBag_Green_Mod",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }, 
         {
             "ClassName": "assaultbag_ttsko",
             "MaxPriceThreshold": 260,

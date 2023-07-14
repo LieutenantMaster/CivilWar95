@@ -70,7 +70,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "ak74_woodbttstck_black"
+            ]
         },
         {
             "ClassName": "ak_plasticbttstck",
@@ -92,7 +94,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "ak_woodbttstck_black"
+            ]
         },
         {
             "ClassName": "ak_foldingbttstck",
