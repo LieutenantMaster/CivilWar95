@@ -8,7 +8,7 @@
     ],
     "Radius": 500.0,
     "BuyPricePercent": 100.0,
-    "SellPricePercent": -1.0,
+    "SellPricePercent": 100.0,
     "Stock": {
         "aviatorglasses": 100,
         "booniehat_blue": 100,
