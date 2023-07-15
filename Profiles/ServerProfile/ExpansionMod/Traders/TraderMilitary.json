@@ -73,7 +73,7 @@
         "TTSKOPants" : 0,
         "TTSKOBoots" : 0,
         "FOG_Cronen_Shirt_RG": 0,
-        "FOG_Crye_G3_Shirt_MCT": 0,
+        "FOG_Crye_G3_Shirt_CB ": 0,
         "FOG_Crye_G3_Shirt_M81": 0,
         "FOG_Shirt_ISOF_Jacket_M81": 0,
         "FOG_MTF_Shirt_ERDL": 0,
@@ -106,7 +106,9 @@
         "epinephrine": 0,
 
 
-        "ak74": 0,
+        "TF_AK74M": 0,
+        "TF_AK_ZenitDTK1Compensator": 0,
+        "TF_Mag_AK74_Plum30Rnd": 0,
         "ak74_woodbttstck": 0,
         "ak74_hndgrd": 0,
         "mag_ak74_30rnd": 0,
@@ -117,6 +119,9 @@
         "ak_bayonet": 0,
         "ak_woodbttstck_black": 0,
         "ak_woodhndgrd_black": 0,
+        "TF_Mag_AK74_Bakelit30Rnd": 0,
+        "TF_AK_6p20Compensator": 0,
+       
 
         "sks": 0,
         "air_weapon_sks_tactical": 0,

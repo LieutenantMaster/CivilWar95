@@ -66,6 +66,22 @@
             "Variants": []
         },
         {
+            "ClassName": "TF_AK74M",
+            "MaxPriceThreshold": 3200,
+            "MinPriceThreshold": 1600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "ak74_woodbttstck",
+                "ak74_hndgrd",
+                "TF_AK_ZenitDTK1Compensator",
+                "TF_Mag_AK74_Plum30Rnd"
+            ],
+            "Variants": []
+        },
+        {
             "ClassName": "tf_an94",
             "MaxPriceThreshold": 13000,
             "MinPriceThreshold": 12000,
