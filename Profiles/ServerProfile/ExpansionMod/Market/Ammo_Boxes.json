@@ -109,8 +109,8 @@
         },
         {
             "ClassName": "ammobox_545x39_20rnd",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 150,
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 65,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -122,8 +122,8 @@
         },
         {
             "ClassName": "ammobox_545x39tracer_20rnd",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 175,
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 55,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -167,7 +167,7 @@
         {
             "ClassName": "ammobox_556x45_20rnd",
             "MaxPriceThreshold": 90,
-            "MinPriceThreshold": 75,
+            "MinPriceThreshold": 55,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -180,7 +180,7 @@
         {
             "ClassName": "ammobox_556x45tracer_20rnd",
             "MaxPriceThreshold": 90,
-            "MinPriceThreshold": 73,
+            "MinPriceThreshold": 50,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,

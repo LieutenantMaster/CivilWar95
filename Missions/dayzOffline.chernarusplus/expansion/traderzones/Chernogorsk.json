@@ -8,7 +8,7 @@
     ],
     "Radius": 500.0,
     "BuyPricePercent": 175.0,
-    "SellPricePercent": -1.0,
+    "SellPricePercent": 100.0,
     "Stock": {
         "tf_riflesling_od": 6,
         "tf_mag_ak74_bakelit30rnd": 75,
