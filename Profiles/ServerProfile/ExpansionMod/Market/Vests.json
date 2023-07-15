@@ -133,16 +133,25 @@
         },
         {
             "ClassName": "TF_PlateCarrierVest_Coyote",
-            "MaxPriceThreshold": 220,
-            "MinPriceThreshold": 200,
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 2000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "TF_PlateCarrierVest_EMR"
-            ]
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_PlateCarrierVest_EMR",
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         },
         {
             "ClassName": "TF_6B23_112Vest_EMR",
