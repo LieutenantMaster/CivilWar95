@@ -53,9 +53,7 @@
         "BallisticHelmet_Green": 0,
         
 
-        "TF_PlateCarrierVest_Coyote": 0,
-        "TF_PlateCarrierPouches_Coyote": 0,
-        "TF_PlateCarrierHolster_Coyote" : 0,
+        
         "TF_PlateCarrierVest_EMR": 0,
         "TF_PlateCarrierPouches_EMR": 0,
         "TF_PlateCarrierHolster_EMR": 0,
@@ -80,9 +78,7 @@
         "FOG_Shirt_ISOF_Jacket_M81": 0,
         "FOG_MTF_Shirt_ERDL": 0,
 
-        "UKAssVest_Olive": 0,
-        "FOGR_Smersh_Khaki_Vest": 0,
-        "FOGR_Smersh_Khaki": 0,
+        "UKAssVest_Olive": 0,        
         "FOGR_Smersh_Green_Vest": 0,
         "FOGR_Smersh_Green": 0,
         "FOGR_AssaultBag_Green_Mod": 0,
