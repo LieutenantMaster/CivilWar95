@@ -133,8 +133,8 @@
         },
         {
             "ClassName": "TF_PlateCarrierVest_Coyote",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 2250,
+            "MaxPriceThreshold": 220,
+            "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
