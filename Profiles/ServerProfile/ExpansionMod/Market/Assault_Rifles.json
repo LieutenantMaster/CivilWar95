@@ -83,8 +83,8 @@
         },
         {
             "ClassName": "tf_an94",
-            "MaxPriceThreshold": 11000,
-            "MinPriceThreshold": 10500,
+            "MaxPriceThreshold": 8000,
+            "MinPriceThreshold": 7500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -126,8 +126,8 @@
         },
         {
             "ClassName": "air_weapon_stg",
-            "MaxPriceThreshold": 10000,
-            "MinPriceThreshold": 8900,
+            "MaxPriceThreshold": 7500,
+            "MinPriceThreshold": 6900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -137,6 +137,19 @@
             ],
             "Variants": []
         },
+        {
+            "ClassName": "air_weapon_mp40",
+            "MaxPriceThreshold": 2400,
+            "MinPriceThreshold": 1100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "air_weapon_stg_mag"
+            ],
+            "Variants": []
+        },        
         {
             "ClassName": "famas",
             "MaxPriceThreshold": 3200,
