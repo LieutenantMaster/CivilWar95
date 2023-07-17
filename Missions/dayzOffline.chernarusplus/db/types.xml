@@ -8481,6 +8481,19 @@
         <value name="Tier3"/>
         <usage user="ChernogorskFull"/>
     </type>
+    <type name="AmmoBox_545x39_20Rnd">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>200</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <value name="Tier3"/>
+        <usage user="ChernogorskFull"/>    
+    </type>
     <type name="mp133shotgun">
         <nominal>2</nominal>
         <lifetime>14400</lifetime>
