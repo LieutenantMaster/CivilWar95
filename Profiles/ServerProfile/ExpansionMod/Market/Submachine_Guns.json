@@ -49,8 +49,8 @@
         },
         {
             "ClassName": "aks74u",
-            "MaxPriceThreshold": 4000,
-            "MinPriceThreshold": 3500,
+            "MaxPriceThreshold": 3800,
+            "MinPriceThreshold": 3000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -88,8 +88,8 @@
         },
         {
             "ClassName": "air_weapon_ppsh41",
-            "MaxPriceThreshold": 2750,
-            "MinPriceThreshold": 2500,
+            "MaxPriceThreshold": 2550,
+            "MinPriceThreshold": 2200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -99,8 +99,8 @@
         },
         {
             "ClassName": "air_weapon_groza",
-            "MaxPriceThreshold": 8000,
-            "MinPriceThreshold": 7150,
+            "MaxPriceThreshold": 7900,
+            "MinPriceThreshold": 6900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
