@@ -235,18 +235,7 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
-        },
-        {
-            "ClassName": "ammobox_9x19_25rnd",
-            "MaxPriceThreshold": 80,
-            "MinPriceThreshold": 40,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 250,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+        },        
         {
             "ClassName": "ammobox_9x19_25rnd",
             "MaxPriceThreshold": 80,
@@ -271,8 +260,8 @@
         },        
         {
             "ClassName": "air_ammobox_762x25_25rnd",
-            "MaxPriceThreshold": 170,
-            "MinPriceThreshold": 120,
+            "MaxPriceThreshold": 90,
+            "MinPriceThreshold": 80,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -282,8 +271,8 @@
         },
         {
             "ClassName": "air_ammobox_792x33_35rnd",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 120,
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 80,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -292,9 +281,20 @@
             "Variants": []
         },
         {
+            "ClassName": "air_ammobox_792x57_60rnd",
+            "MaxPriceThreshold": 130,
+            "MinPriceThreshold": 120,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },        
+        {
             "ClassName": "ammobox_9x39_20rnd",
-            "MaxPriceThreshold": 250,
-            "MinPriceThreshold": 125,
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 80,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -306,8 +306,8 @@
         },
         {
             "ClassName": "ammobox_9x39ap_20rnd",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 130,
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 85,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
