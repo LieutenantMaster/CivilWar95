@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
     <type name="batterycharger">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -15,7 +15,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="powergenerator">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>604800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -30,7 +30,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="carbattery">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -44,7 +44,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="GlowPlug">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -58,7 +58,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="CarRadiator">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -72,7 +72,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="sickle">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -85,7 +85,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="crowbar">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -98,7 +98,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="burlapsack">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -111,7 +111,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="shovel">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -124,7 +124,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="pickaxe">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -137,7 +137,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="sledgehammer">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -150,7 +150,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="woodaxe">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -163,7 +163,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="blowtorch">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -176,7 +176,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="smallgascanister">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -189,7 +189,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="expansionpropanetorch">
-        <nominal>4</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -202,7 +202,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="nailbox">
-        <nominal>4</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -215,7 +215,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="expansioncodelock">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -228,7 +228,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="portablegasstove">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -241,7 +241,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="pot">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -254,7 +254,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="ducttape">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -267,7 +267,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="epoxyputty">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -280,7 +280,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="leathersewingkit">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -293,7 +293,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="sewingkit">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -306,7 +306,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="cargopants_beige">
-        <nominal>4</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -319,7 +319,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="cargopants_black">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -332,7 +332,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="cargopants_blue">
-        <nominal>4</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -345,7 +345,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="TF_WeldingMask_Tagilla">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -372,7 +372,7 @@
         <user name="Chernogorsk"/>        
     </type>
     <type name="cargopants_green">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -385,7 +385,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="cargopants_grey">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -398,7 +398,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="Msp_BaseballCap_Beige">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -463,7 +463,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="Msp_BaseballCap_Pink">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -489,7 +489,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="Msp_BaseballCap_CMMG_Pink">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -628,7 +628,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="ballerinas_blue">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1174,7 +1174,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="skinny_jeans_black">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1252,7 +1252,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="taloonbag_winter">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1265,7 +1265,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="civilianbelt_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1278,7 +1278,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="civilianbelt_grey">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1291,7 +1291,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="civilianbelt_red">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1343,7 +1343,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="wellies_yellow">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1356,7 +1356,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="wellies_pink">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1460,7 +1460,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="witchhood_brown">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1473,7 +1473,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="witchhood_red">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1651,11 +1651,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hunterpants_brown">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1664,11 +1664,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hunterpants_spring">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1677,7 +1677,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="jeans_green">
@@ -1689,11 +1689,11 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value user="Tier12"/>
+        <value user="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hunterpants_summer">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1702,11 +1702,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="huntingjacket_autumn">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1715,7 +1715,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="huntingjacket_brown">
@@ -1728,11 +1728,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="huntingjacket_spring">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1741,11 +1741,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="huntingjacket_summer">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1754,11 +1754,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="huntingjacket_winter">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1767,7 +1767,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="huntingvest">
@@ -1784,7 +1784,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="hikingjacket_black">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1793,11 +1793,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hikingjacket_red">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1806,11 +1806,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hikingjacket_blue">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1819,11 +1819,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hikingjacket_green">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1832,11 +1832,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="raincoat_pink">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1845,11 +1845,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="raincoat_orange">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1858,11 +1858,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="raincoat_yellow">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1871,11 +1871,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="raincoat_red">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1884,7 +1884,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="raincoat_blue">
@@ -1897,7 +1897,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="raincoat_black">
@@ -1952,32 +1952,6 @@
         <value name="Tier2"/>
         <user name="Chernogorsk"/>
     </type>
-    <type name="workinggloves_beige">
-        <nominal>2</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <value name="Tier2"/>
-        <user name="Chernogorsk"/>
-    </type>
-    <type name="workinggloves_brown">
-        <nominal>2</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <value name="Tier2"/>
-        <user name="Chernogorsk"/>
-    </type>
     <type name="woolgloves_green">
         <nominal>2</nominal>
         <lifetime>14400</lifetime>
@@ -2018,7 +1992,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="woolgloves_white">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2031,7 +2005,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="woolglovesfingerless_green">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2044,7 +2018,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="woolglovesfingerless_black">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2070,7 +2044,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="drybag_orange">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2083,7 +2057,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="drybag_yellow">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2096,7 +2070,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="drybag_blue">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2122,7 +2096,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="drybag_red">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2174,7 +2148,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="mountainbag_red">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2187,7 +2161,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="mountainbag_blue">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2200,7 +2174,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="mountainbag_orange">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2213,7 +2187,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="mountainbag_green">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2239,7 +2213,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="kitchenknife">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2248,11 +2222,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="steakknife">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2261,11 +2235,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="kukriknife">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2278,7 +2252,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="fangeknife">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2291,7 +2265,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="huntingknife">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2313,7 +2287,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value user="Tier12"/>
+        <value user="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="binoculars">
@@ -2326,7 +2300,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="chernarusmap">
@@ -2339,7 +2313,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="orienteeringcompass">
@@ -2352,7 +2326,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="compass">
@@ -2365,7 +2339,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="rangefinder">
@@ -2378,7 +2352,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="rope">
@@ -2391,7 +2365,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="fishingrod">
@@ -2404,7 +2378,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hook">
@@ -2417,11 +2391,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="worm">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2430,7 +2404,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="military_sweater">
@@ -2456,7 +2430,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="military_sweater_blue">
@@ -2469,7 +2443,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="military_sweater_white">
@@ -2482,7 +2456,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>  
     <type name="military_sweater_black">
@@ -2521,7 +2495,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hikingjacket_whitegreen">
@@ -2534,7 +2508,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hikingjacket_whiteblack">
@@ -2547,7 +2521,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hikingjacket_blackyellow">
@@ -2560,7 +2534,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hikingjacket_blackpink">
@@ -2573,7 +2547,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hikingjacket_blackblue">
@@ -2586,7 +2560,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="huntingjacket_white">
@@ -2599,7 +2573,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="huntingjacket_woodland">
@@ -2612,7 +2586,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hunterpants_woodland">
@@ -2625,7 +2599,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="TF_CargoPantsShort_Black">
@@ -2642,7 +2616,7 @@
         <user name="Chernogorsk"/>    
     </type>
     <type name="mountainbag_winter">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2651,7 +2625,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="mountainbag_summer">
@@ -2668,7 +2642,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="mountainbag_autumn">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2677,11 +2651,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="mountainbag_grey">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2690,11 +2664,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="mountainbag_brown">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2703,11 +2677,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="mountainbag_flt">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2716,7 +2690,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="canvaspants_black">
@@ -2729,11 +2703,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="huntingjacket_beige">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2742,11 +2716,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hunterpants_beige">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2755,11 +2729,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="huntingvest_green">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2768,7 +2742,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier2"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="Msp_DuffleBag_Green">
@@ -2823,19 +2797,6 @@
         <value name="Tier2"/>
         <user name="Chernogorsk"/>    
     </type>
-    <type name="zagorkychocolate">
-        <nominal>2</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="food"/>
-        <value user="Tier12"/>
-        <user name="Chernogorsk"/>
-    </type>
     <type name="TF_Foil_hat">
         <nominal>1</nominal>
         <lifetime>14400</lifetime>
@@ -2850,7 +2811,7 @@
         <user name="Chernogorsk"/>    
     </type>
     <type name="Msp_Slouchie_Red">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2859,11 +2820,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value user="Tier12"/>
+        <value user="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="SkullMask">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2876,7 +2837,7 @@
         <user name="Chernogorsk"/>    
     </type>
     <type name="Msp_Slouchie_Blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2885,11 +2846,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value user="Tier12"/>
+        <value user="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="Msp_Slouchie_Black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2898,11 +2859,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value user="Tier12"/>
+        <value user="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="Msp_Slouchie_Beige">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2911,11 +2872,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value user="Tier12"/>
+        <value user="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="Msp_BunnyEarsHeadband">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2962,7 +2923,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value user="Tier12"/>
+        <value user="Tier2"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="Msp_WaistPack_Green">
@@ -2975,7 +2936,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value user="Tier12"/>
+        <value user="Tier2"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="Msp_WaistPack_Brown">
@@ -2988,7 +2949,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value user="Tier12"/>
+        <value user="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="Msp_WaistPack_UrbanFlektarn">
@@ -3001,7 +2962,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value user="Tier12"/>
+        <value user="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="Msp_WaistPack_Blue">
@@ -3016,22 +2977,9 @@
         <category name="clothes"/>
         <value user="Tier12"/>
         <user name="Chernogorsk"/>
-    </type>    
-    <type name="zagorkypeanuts">
-        <nominal>4</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="food"/>
-        <value user="Tier12"/>
-        <user name="Chernogorsk"/>
     </type>
     <type name="powderedmilk">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3040,11 +2988,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <value user="Tier12"/>
+        <value user="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="boxcerealcrunchin">
-        <nominal>4</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3053,7 +3001,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <value user="Tier12"/>
+        <value user="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="rice">
@@ -3066,7 +3014,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <value user="Tier12"/>
+        <value user="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="marmalade">
@@ -3092,7 +3040,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <value user="Tier12"/>
+        <value user="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="saltysticks">
@@ -3105,7 +3053,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <value user="Tier12"/>
+        <value user="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="crackers">
@@ -3118,11 +3066,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <value user="Tier12"/>
+        <value user="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="chips">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3144,7 +3092,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <value user="Tier12"/>
+        <value user="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="pate">
@@ -3157,7 +3105,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <value user="Tier12"/>
+        <value user="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="brisketspread">
@@ -3170,7 +3118,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <value user="Tier12"/>
+        <value user="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="sardinescan">
@@ -3209,7 +3157,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <value user="Tier12"/>
+        <value user="Tier2"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="catfoodcan">
@@ -3304,7 +3252,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="tacticalbaconcan">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3313,46 +3261,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <value user="Tier12"/>
-        <user name="Chernogorsk"/>
-    </type>
-    <type name="expansionbread1">
-        <nominal>1</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="food"/>
-        <value user="Tier12"/>
-        <user name="Chernogorsk"/>
-    </type>
-    <type name="expansionbread2">
-        <nominal>1</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="food"/>
-        <value user="Tier12"/>
-        <user name="Chernogorsk"/>
-    </type>
-    <type name="expansionbread3">
-        <nominal>1</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="food"/>
-        <value name="Tier2"/>
+        <value user="Tier2"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="expansioncheese1">
@@ -3442,7 +3351,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <value user="Tier12"/>
+        <value user="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="sodacan_kvass">
@@ -3455,7 +3364,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <value user="Tier12"/>
+        <value user="Tier2"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="sodacan_spite">
@@ -3471,7 +3380,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="waterbottle">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3569,19 +3478,7 @@
         <value user="Tier12"/>
         <user name="Chernogorsk"/>
     </type>
-    <type name="thermometer">
-        <nominal>2</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value user="Tier12"/>
-        <user name="Chernogorsk"/>
-    </type>
-    <type name="vitaminbottle">
+   <type name="vitaminbottle">
         <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
@@ -3642,7 +3539,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="heatpack">
-        <nominal>4</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3650,7 +3547,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value user="Tier12"/>
+        <value user="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="salinebag">
@@ -3703,7 +3600,7 @@
     </type>
 
     <type name="cablereel">
-        <nominal>4</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3716,7 +3613,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="battery9v">
-        <nominal>4</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3739,7 +3636,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="spotlight">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3753,7 +3650,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="sparkplug">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3766,7 +3663,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="electronicrepairkit">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3778,7 +3675,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="screwdriver">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3791,7 +3688,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="wrench">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3804,7 +3701,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="pliers">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3817,7 +3714,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="hammer">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3830,7 +3727,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="hacksaw">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3856,7 +3753,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="hatchet">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3869,7 +3766,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="lugwrench">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3921,7 +3818,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="workinggloves_black">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4142,7 +4039,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="motohelmet_grey">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4155,7 +4052,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="motohelmet_black">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4168,7 +4065,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="motohelmet_green">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4181,7 +4078,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="darkmotohelmet_lime">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4194,7 +4091,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="darkmotohelmet_blue">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4207,7 +4104,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="darkmotohelmet_red">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4246,7 +4143,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="darkmotohelmet_black">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4259,7 +4156,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="darkmotohelmet_green">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4272,7 +4169,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="bandana_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4311,7 +4208,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="bandana_redpattern">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4324,7 +4221,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="bandana_blackpattern">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4337,7 +4234,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="bandana_polkapattern">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4506,7 +4403,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="flatcap_blackcheck">
-        <nominal>4</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4545,7 +4442,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="zmijovkacap_red">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4571,7 +4468,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="zmijovkacap_green">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4584,7 +4481,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="skatehelmet_blue">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4597,7 +4494,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="skatehelmet_gray">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4610,7 +4507,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="skatehelmet_red">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4623,7 +4520,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="skatehelmet_black">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4636,7 +4533,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="skatehelmet_green">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4649,7 +4546,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="dirtbikehelmet_chernarus">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4662,7 +4559,7 @@
         <user name="Chernogorsk"/>
     </type> 
     <type name="dirtbikehelmet_red">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4675,7 +4572,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="dirtbikehelmet_green">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4688,7 +4585,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="dirtbikehelmet_blue">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4701,7 +4598,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="dirtbikehelmet_black">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4714,7 +4611,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="dirtbikehelmet_khaki">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4727,7 +4624,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="dirtbikehelmet_mouthguard">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4740,7 +4637,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="dirtbikehelmet_visor">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4779,7 +4676,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="mimemask_female">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4792,7 +4689,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="mimemask_male">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4805,7 +4702,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="jeans_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4818,7 +4715,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="jeans_brown">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4831,7 +4728,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="jeans_grey">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4844,7 +4741,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="jeans_bluedark">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4857,7 +4754,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="jeans_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4870,7 +4767,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="tracksuitjacket_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4883,7 +4780,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="tracksuitjacket_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4896,7 +4793,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="tracksuitjacket_green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4909,7 +4806,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="tracksuitjacket_lightblue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4922,7 +4819,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="tracksuitjacket_red">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4935,7 +4832,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="tracksuitpants_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4948,7 +4845,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="tracksuitpants_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4961,7 +4858,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="tracksuitpants_green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4974,7 +4871,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="tracksuitpants_red">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4987,7 +4884,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="tracksuitpants_lightblue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5000,7 +4897,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="slackspants_beige">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5013,7 +4910,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="slackspants_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5026,7 +4923,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="slackspants_darkgrey">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5039,7 +4936,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="slackspants_lightgrey">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5052,7 +4949,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="slackspants_white">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5065,7 +4962,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="slackspants_brown">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5078,7 +4975,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="slackspants_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5091,7 +4988,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="slackspants_khaki">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5104,7 +5001,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="breeches_pink">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5117,7 +5014,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="breeches_red">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5130,7 +5027,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="breeches_white">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5143,7 +5040,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="breeches_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5156,7 +5053,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="breeches_beetcheck">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5169,7 +5066,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="breeches_beige">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5182,7 +5079,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="breeches_browncheck">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5195,7 +5092,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="breeches_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5208,7 +5105,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="breeches_blackcheck">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5221,7 +5118,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="breeches_green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5234,7 +5131,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="shortjeans_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5247,7 +5144,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="shortjeans_brown">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5260,7 +5157,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="shortjeans_darkblue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5273,7 +5170,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="shortjeans_red">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5286,7 +5183,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="shortjeans_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5299,7 +5196,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="shortjeans_green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5312,7 +5209,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="skirt_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5325,7 +5222,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="skirt_red">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5338,7 +5235,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="skirt_white">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5351,7 +5248,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="skirt_yellow">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5364,7 +5261,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="athleticshoes_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5377,7 +5274,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="athleticshoes_brown">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5390,7 +5287,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="athleticshoes_grey">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5403,7 +5300,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="athleticshoes_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5416,7 +5313,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="athleticshoes_green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5455,7 +5352,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="hikingbootslow_beige">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5481,7 +5378,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="wellies_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5494,7 +5391,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="wellies_brown">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5507,7 +5404,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="wellies_grey">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5520,7 +5417,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="wellies_green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5533,7 +5430,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="workingboots_grey">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5546,7 +5443,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="workingboots_brown">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5559,7 +5456,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="workingboots_beige">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5585,7 +5482,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="dressshoes_white">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5598,7 +5495,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="dressshoes_beige">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5611,7 +5508,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="dressshoes_black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5624,7 +5521,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="dressshoes_brown">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -5637,7 +5534,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="dressshoes_sunburst">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7509,7 +7406,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="canvaspants_blue">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7522,7 +7419,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="canvaspants_grey">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7535,7 +7432,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="canvaspants_red">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7548,7 +7445,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="canvaspants_violet">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7561,7 +7458,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="canvaspants_beige">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7574,7 +7471,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="canvaspantsmidi_blue">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7587,7 +7484,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="canvaspantsmidi_grey">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7600,7 +7497,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="canvaspantsmidi_red">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7613,7 +7510,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="canvaspantsmidi_violet">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7691,7 +7588,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="poncho_brown">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7743,7 +7640,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="poncho_white">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7756,7 +7653,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="bandana_polkapattern">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7769,7 +7666,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="poncho_blackandwhite">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7782,7 +7679,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="poncho_blackandwhite2">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7795,7 +7692,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="poncho_blue_checkered">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7873,7 +7770,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="slouch_hat_brown">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7938,7 +7835,7 @@
         <user name="Chernogorsk"/>
     </type>   
     <type name="wool_greatcoat_olive">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7951,7 +7848,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="wool_greatcoat_grey">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7964,7 +7861,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="ushanka_blackfurw">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7977,7 +7874,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="ushanka_greenlight">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7990,7 +7887,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="ushanka_whiteblackfurw">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8003,7 +7900,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="cowboyhat_blackbrown">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8016,7 +7913,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="cowboyhat_white">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8029,7 +7926,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="cowboyhat_grey">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8042,20 +7939,7 @@
         <user name="Chernogorsk"/>
     </type>
     <type name="cowboyhat_darkgreen">
-        <nominal>3</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <value name="Tier1"/>
-        <user name="Chernogorsk"/>
-    </type>
-    <type name="cowboyhat_blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8079,21 +7963,7 @@
         <category name="food"/>
         <value user="Tier12"/>
         <user name="Chernogorsk"/>
-    </type>
-    <type name="zagorky">
-        <nominal>4</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="food"/>
-        <value user="Tier12"/>
-        <user name="Chernogorsk"/>
-    </type>
-
+    </type> 
     <type name="combatknife">
         <nominal>1</nominal>
         <lifetime>14400</lifetime>
@@ -8198,7 +8068,7 @@
         <value name="Tier2"/>                            
     </type>
     <type name="policevest">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8207,7 +8077,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value name="Tier2"/>
         <usage user="ChernogorskFull"/>
     </type>
     <type name="PoliceVest_Black">
@@ -8250,7 +8120,7 @@
         <usage user="ChernogorskFull"/>
     </type>
     <type name="TF_CamelBakBag_Brown">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8417,7 +8287,7 @@
         <usage user="ChernogorskFull"/>
     </type>
     <type name="SKS_Bayonet">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8482,7 +8352,7 @@
         <usage user="ChernogorskFull"/>
     </type>
     <type name="AmmoBox_545x39_20Rnd">
-        <nominal>6</nominal>
+        <nominal>7</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
