@@ -47,11 +47,11 @@ class CustomMission: MissionServer
 
 				if ( !FindUserInWhitelist( "$profile:whitelist.txt", steamid ) )
 				{
-					Print("[CivilWar95] Connection denied to the player " + steamid);
+					Print("[CivilWar95]:: LOGIN:: Connection denied to the player " + steamid);
 					OnClientDisconnectedEvent(identity, NULL, 0, true);
 					return;
 				}
-				Print("[CivilWar95] Connection granted to the player " + steamid);
+				Print("[CivilWar95]:: LOGIN:: Connection granted to the player " + steamid);
 
 			break;
 		}
@@ -65,7 +65,7 @@ class CustomMission: MissionServer
 
 		if ( !file )
 		{
-			Print("[CivilWar95] ERROR !!!! Couldn't find " + filePath);
+			Print("[CivilWar95]:: WHITELIST:: ERROR !!!! Couldn't find " + filePath);
 			return false;
 		}
 
@@ -74,7 +74,7 @@ class CustomMission: MissionServer
 		{
 			if ( steamid == whitelistSteamId )
 			{
-				Print("Found matching steam id ! " + steamid + " == " + whitelistSteamId );
+				Print("[CivilWar95]:: WHITELIST:: Found matching steam id ! " + steamid + " == " + whitelistSteamId );
 				CloseFile( file );
 				return true;
 			}
@@ -91,7 +91,7 @@ class CustomMission: MissionServer
 		if ( IsScheaduledRestart() )
 			UpdateTraderZones();
 	}
-
+	
 	static void UpdateTraderZones()
 	{
 		IncrementStockForTraderzonePos("2640 200 5175", 10); 	// Zelenogorsk
@@ -111,9 +111,14 @@ class CustomMission: MissionServer
 			
 			if (( schedule.Hour + 1 ) == now.GetHours() && now.GetMinutes() < 10.0)
 			{
+				Print("[CivilWar95]:: TRADERZONE:: IsScheaduledRestart:: TRUE");
+				Print("[CivilWar95]:: Time: "+ now.GetHours() + "H "+ now.GetMinutes() + "m");
 				return true;
 			}
 		}
+
+		Print("[CivilWar95]:: TRADERZONE:: IsScheaduledRestart:: FALSE");
+		Print("[CivilWar95]:: Time: "+ now.GetHours() + "H "+ now.GetMinutes() + "m");
 		
 		return false;
 	}
