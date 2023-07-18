@@ -1,0 +1,137 @@
+{
+    "BomberAltitude": 550,
+    "BomberSpeed": 10,
+    "NumOfBombs": 20,
+    "Notifications": 0,
+    "EnableShips": 1,
+    "EnableSubmarine": 1,
+    "EnableAndula": 0,
+    "EnableMig21": 1,
+    "EnableUFO": 0,
+    "EnableMi24": 1,
+    "EnableMi6": 1,
+    "Interval": 20.0,
+    "SubmarineInterval": 120.0,
+    "BoatInterval": 80.0,
+    "AndulaInterval": 60.0,
+    "Mig21Interval": 120.0,
+    "UFOInterval": 920.0,
+    "Mi24Interval": 30.0,
+    "Mi6Interval": 30.0,
+    "AirRaidLocations": [
+        {
+            "name": "Chernogorsk railstation",
+            "sirenpos": "6250 24 2710",
+            "target": "6543 0 2636",
+            "type": "normal"
+        },
+        {
+            "name": "Chernogorsk factory1",
+            "sirenpos": "6250 24 2710",
+            "target": "7066 0 2828",
+            "type": "normal"
+        },
+        {
+            "name": "Chernogorsk factory2",
+            "sirenpos": "6250 24 2710",
+            "target": "7049 0 2653",
+            "type": "normal"
+        },
+        {
+            "name": "Chernogorsk factory3",
+            "sirenpos": "6250 24 2710",
+            "target": "7551 0 3204",
+            "type": "normal"
+        },
+        {
+            "name": "Chernogorsk railstation 2",
+            "sirenpos": "6543 0 2636",
+            "target": "6250 24 2710",
+            "type": "normal"
+        },
+        {
+            "name": "Chernogorsk factory1 2",
+            "sirenpos": "7066 0 2828",
+            "target": "6250 24 2710",
+            "type": "normal"
+        },
+        {
+            "name": "Chernogorsk factory2 2",
+            "sirenpos": "7049 0 2653",
+            "target": "6250 24 2710",
+            "type": "normal"
+        },
+        {
+            "name": "Chernogorsk factory3 2",
+            "sirenpos": "7551 0 3204",
+            "target": "6250 24 2710",
+            "type": "normal"
+        },
+        {
+            "name": "Elektrozavodsk dock",
+            "sirenpos": "10258 24 2169",
+            "target": "10275 0 1859",
+            "type": "normal"
+        },
+        {
+            "name": "Elektrozavodsk powerplant",
+            "sirenpos": "10258 24 2169",
+            "target": "10427 0 2581",
+            "type": "normal"
+        },
+        {
+            "name": "Elektrozavodsk square",
+            "sirenpos": "10258 24 2169",
+            "target": "10484 0 2350",
+            "type": "normal"
+        }
+    ],
+    "SubTrajectory": [
+        {
+            "name": "1",
+            "pos": [
+                "0 -1 800",
+                "3092 -1 985",
+                "3676 -1 1677",
+                "6491 -1 1599",
+                "10310 -1 1319",
+                "15500 -1 2500"
+            ]
+        },
+        {
+            "name": "2",
+            "pos": [
+                "3092 -1 985"
+            ]
+        },
+        {
+            "name": "3",
+            "pos": [
+                "15500 -1 2500",
+                "10310 -1 1319",
+                "6491 -1 1599",
+                "3676 -1 1677",
+                "3092 -1 985",
+                "0 -1 800"
+            ]
+        }
+    ],
+    "BoatTrajectory": [
+        {
+            "name": "1",
+            "pos": [
+                "15323 -1 13495",
+                "13981 -1 8879",
+                "15272 -1 153"
+            ]
+        },
+        {
+            "name": "1",
+            "pos": [
+                "15272 -1 153",
+                "13981 -1 8879",
+                "15323 -1 13495"
+            ]
+        }
+    ]
+}
