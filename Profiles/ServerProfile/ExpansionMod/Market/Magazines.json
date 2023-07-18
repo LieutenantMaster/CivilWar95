@@ -374,8 +374,8 @@
         },
         {
             "ClassName": "air_weapon_stg_mag",
-            "MaxPriceThreshold": 480,
-            "MinPriceThreshold": 320,
+            "MaxPriceThreshold": 110,
+            "MinPriceThreshold": 90,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
