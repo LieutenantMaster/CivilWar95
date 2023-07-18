@@ -271,8 +271,8 @@
         },
         {
             "ClassName": "air_ammobox_792x33_35rnd",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 80,
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 60,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -293,8 +293,8 @@
         },        
         {
             "ClassName": "ammobox_9x39_20rnd",
-            "MaxPriceThreshold": 120,
-            "MinPriceThreshold": 80,
+            "MaxPriceThreshold": 110,
+            "MinPriceThreshold": 60,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
