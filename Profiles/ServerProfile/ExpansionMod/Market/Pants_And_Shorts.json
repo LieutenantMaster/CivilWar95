@@ -154,6 +154,48 @@
             "Variants": []
         },
         {
+            "ClassName": "FOGR_Gorka_Pants_Green",
+            "MaxPriceThreshold": 202,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOGR_Gorka_Pants_Kaki",
+                "FOGR_Gorka_Pants_SAS"
+            ]
+        },
+        {
+            "ClassName": "FOG_Gorka_Pants_Black",
+            "MaxPriceThreshold": 202,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Gorka_Pants_Kaki"                
+            ]
+        },
+        {
+            "ClassName": "FOG_UFP_Pants_Grey",
+            "MaxPriceThreshold": 202,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_UFP_Pants_RG",
+                "FOG_UFP_Pants_Urban",
+                "FOG_UFP_Pants_Black"
+            ]
+        },
+        {
             "ClassName": "slackspants_black",
             "MaxPriceThreshold": 44,
             "MinPriceThreshold": 22,

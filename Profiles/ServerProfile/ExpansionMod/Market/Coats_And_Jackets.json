@@ -418,6 +418,69 @@
             "Variants": []
         },
         {
+            "ClassName": "FOG_Shirt_Tactical_Coat_Black",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_Tactical_Hoodie_Black",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_Tshirt_White_Pinup",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOGR_Gorka_Jacket_Green",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOGR_Gorka_Jacket_ATACS_Green",
+                "FOGR_Gorka_Jacket_Kaki",
+                "FOGR_Gorka_Jacket_Partizan_Summer_Green"
+            ]
+        },
+        {
+            "ClassName": "FOG_Gorka_Jacket_Green",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Gorka_Jacket_Khaki",                
+                "FOG_Gorka_Jacket_Black",
+                "FOG_Hooded_Cloak_Black"
+            ]
+        },
+        {
             "ClassName": "huntingjacket_autumn",
             "MaxPriceThreshold": 180,
             "MinPriceThreshold": 120,
