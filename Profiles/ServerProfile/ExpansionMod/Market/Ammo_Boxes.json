@@ -64,9 +64,22 @@
             ]
         },
         {
-            "ClassName": "ammobox_308wintracer_20rnd",
-            "MaxPriceThreshold": 128,
-            "MinPriceThreshold": 64,
+            "ClassName": "ammobox_308win_20rnd",
+            "MaxPriceThreshold": 64,
+            "MinPriceThreshold": 32,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ammobox_308wintracer_20rnd"
+            ]
+        },        
+        {
+            "ClassName": "Ammo_HuntingBolt",
+            "MaxPriceThreshold": 7,
+            "MinPriceThreshold": 3,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,

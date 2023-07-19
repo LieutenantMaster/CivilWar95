@@ -33,13 +33,26 @@
         {
             "ClassName": "repeater",
             "MaxPriceThreshold": 700,
-            "MinPriceThreshold": 350,
+            "MinPriceThreshold": 430,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "Crossbow_Wood",
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Crossbow_Black"
+            ]
         },
         {
             "ClassName": "mosin9130",
