@@ -7,11 +7,11 @@
     "Admins": [
         "76561198152677868"
     ],
-    "MaximumDynamicPatrols": 20,
+    "MaximumDynamicPatrols": 30,
     "Vaulting": 1,
     "SniperProneDistanceThreshold": 150.0,
     "Manners": 0,
-    "CanRecruitGuards": 0,
+    "CanRecruitGuards": 1,
     "FormationScale": 0.75,
     "PlayerFactions": []
 }
