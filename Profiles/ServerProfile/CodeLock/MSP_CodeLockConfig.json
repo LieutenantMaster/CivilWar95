@@ -3,8 +3,8 @@
     "CanAttach": "true",
     "CanRaid": "false",
     "DeleteLockOnRaid": "false",
-    "ToolDamageOnRaid": 100,
+    "ToolDamageOnRaid": 25,
     "RaidTools": [
-        "Hacksaw"
+        "FOG_SOCOM_Slammer_Black"
     ]
 }
