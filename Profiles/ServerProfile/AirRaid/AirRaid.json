@@ -1,6 +1,6 @@
 {
     "BomberAltitude": 550,
-    "BomberSpeed": 10,
+    "BomberSpeed": 6,
     "NumOfBombs": 20,
     "Notifications": 0,
     "EnableShips": 1,
@@ -12,78 +12,78 @@
     "EnableMi6": 1,
     "Interval": 20.0,
     "SubmarineInterval": 120.0,
-    "BoatInterval": 80.0,
+    "BoatInterval": 60.0,
     "AndulaInterval": 60.0,
-    "Mig21Interval": 120.0,
+    "Mig21Interval": 20.0,
     "UFOInterval": 920.0,
-    "Mi24Interval": 30.0,
-    "Mi6Interval": 30.0,
+    "Mi24Interval": 20.0,
+    "Mi6Interval": 20.0,
     "AirRaidLocations": [
         {
-            "name": "Chernogorsk railstation",
-            "sirenpos": "6250 24 2710",
-            "target": "6543 0 2636",
-            "type": "normal"
+            "name": "AvantPosteChDKZ",
+            "sirenpos": "7223 34 3017",
+            "target": "7239 29 3032",
+            "type": "light"
         },
         {
-            "name": "Chernogorsk factory1",
-            "sirenpos": "6250 24 2710",
-            "target": "7066 0 2828",
-            "type": "normal"
+            "name": "AvantPosteCDF",
+            "sirenpos": "5969 89 2654",
+            "target": "5950 70 2649",
+            "type": "light"
         },
         {
-            "name": "Chernogorsk factory2",
-            "sirenpos": "6250 24 2710",
-            "target": "7049 0 2653",
-            "type": "normal"
+            "name": "ChernoMairie",
+            "sirenpos": "6605 47 2421",
+            "target": "6568 7 2455",
+            "type": "heavy"
         },
         {
-            "name": "Chernogorsk factory3",
-            "sirenpos": "6250 24 2710",
-            "target": "7551 0 3204",
-            "type": "normal"
+            "name": "ChernoComissariat",
+            "sirenpos": "6605 47 2421",
+            "target": "6615 7 2566",
+            "type": "heavy"
         },
         {
-            "name": "Chernogorsk railstation 2",
-            "sirenpos": "6543 0 2636",
-            "target": "6250 24 2710",
-            "type": "normal"
+            "name": "ChernoEglise",
+            "sirenpos": "6605 47 2421",
+            "target": "6449 9 2370",
+            "type": "heavy"
         },
         {
-            "name": "Chernogorsk factory1 2",
-            "sirenpos": "7066 0 2828",
-            "target": "6250 24 2710",
-            "type": "normal"
+            "name": "ChernoPontRails",
+            "sirenpos": "6605 47 2421",
+            "target": "6462 15 2550",
+            "type": "heavy"
         },
         {
-            "name": "Chernogorsk factory2 2",
-            "sirenpos": "7049 0 2653",
-            "target": "6250 24 2710",
-            "type": "normal"
+            "name": "ChernoHopital",
+            "sirenpos": "6605 47 2421",
+            "target": "6459 10 2705",
+            "type": "heavy"
         },
         {
-            "name": "Chernogorsk factory3 2",
-            "sirenpos": "7551 0 3204",
-            "target": "6250 24 2710",
-            "type": "normal"
+            "name": "ChernoOuest",
+            "sirenpos": "6605 47 2421",
+            "target": "6337 10 2566",
+            "type": "heavy"
         },
         {
-            "name": "Elektrozavodsk dock",
-            "sirenpos": "10258 24 2169",
-            "target": "10275 0 1859",
-            "type": "normal"
+            "name": "ChernoLigneDeFront1",
+            "sirenpos": "6605 47 2421",
+            "target": "6606 10 2803",
+            "type": "heavy"
         },
         {
-            "name": "Elektrozavodsk powerplant",
-            "sirenpos": "10258 24 2169",
-            "target": "10427 0 2581",
-            "type": "normal"
+            "name": "ChernoLigneDeFront2",
+            "sirenpos": "6605 47 2421",
+            "target": "6511 9 2968",
+            "type": "heavy"
         },
         {
-            "name": "Elektrozavodsk square",
-            "sirenpos": "10258 24 2169",
-            "target": "10484 0 2350",
-            "type": "normal"
+            "name": "ZelenoGreenMountain",
+            "sirenpos": "6511 9 2968",
+            "target": "3699 403 5982",
+            "type": "heavy"
         }
     ],
     "SubTrajectory": [
