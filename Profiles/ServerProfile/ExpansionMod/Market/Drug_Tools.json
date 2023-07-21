@@ -52,8 +52,8 @@
         },
 		{
             "ClassName": "CP_EmptyBag",
-            "MaxPriceThreshold": 5,
-            "MinPriceThreshold": 5,
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 2,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
