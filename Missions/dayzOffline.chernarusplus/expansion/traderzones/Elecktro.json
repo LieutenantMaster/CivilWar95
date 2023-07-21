@@ -1,0 +1,13 @@
+{
+    "m_Version": 6,
+    "m_DisplayName": "Elecktro Trading Zone",
+    "Position": [
+        10453.451172,
+        13.287232,
+        2393.180176
+    ],
+    "Radius": 500.0,
+    "BuyPricePercent": 175.0,
+    "SellPricePercent": 100.0,
+    "Stock": {}
+}
