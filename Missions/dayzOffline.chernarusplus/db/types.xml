@@ -8802,7 +8802,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CP_CannabisSeedsPackSkunk">
-        <nominal>2</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8814,7 +8814,7 @@
         <value user="Tier123"/>
     </type>
     <type name="CP_CannabisSeedsPackBlue">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8826,7 +8826,7 @@
         <value user="Tier123"/>
     </type>
     <type name="CP_CannabisSeedsPackKush">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8838,7 +8838,7 @@
         <value user="Tier123"/>
     </type>
     <type name="CP_CannabisSeedsPackStardawg">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8850,7 +8850,7 @@
         <value user="Tier123"/>
     </type>
     <type name="CP_CannabisSeedsPackFuture">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8862,7 +8862,7 @@
         <value user="Tier123"/>
     </type>
     <type name="CP_CannabisSeedsPackS1">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8874,7 +8874,7 @@
         <value user="Tier123"/>
     </type>
     <type name="CP_CannabisSeedsPackNomad">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8886,7 +8886,7 @@
         <value user="Tier123"/>
     </type>
     <type name="CP_CannabisSeedsPackBlackFrost">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
