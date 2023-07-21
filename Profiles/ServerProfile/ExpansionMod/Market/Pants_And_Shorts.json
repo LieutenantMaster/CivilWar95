@@ -176,9 +176,40 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "FOG_Gorka_Pants_Khaki"                
-            ]
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_Gorka_Pants_Khaki",
+            "MaxPriceThreshold": 202,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_MTF_Pants_TS",
+            "MaxPriceThreshold": 202,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOGR_UFP_Reed_URBN",
+            "MaxPriceThreshold": 202,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         },
         {
             "ClassName": "FOG_UFP_Pants_Grey",

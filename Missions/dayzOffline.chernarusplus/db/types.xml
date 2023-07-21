@@ -8770,23 +8770,27 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CP_Bagger">
-        <lifetime>14400</lifetime>
+        <lifetime>14400000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CP_PlasticWrapper">
-        <lifetime>14400</lifetime>
+        <lifetime>14400000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="CP_PlasticRoll">
+        <lifetime>14400000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CP_Workbench_Kit">
-        <lifetime>14400</lifetime>
+        <lifetime>1440000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CP_DryPost_Kit">
-        <lifetime>14400</lifetime>
+        <lifetime>14400000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CP_Relief_Balm">
-        <lifetime>14400</lifetime>
+        <lifetime>14400000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CP_RollingPapers">

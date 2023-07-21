@@ -52,9 +52,18 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "TF_PlateCarrierHolster_EMR"
-            ]
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_PlateCarrierHolster_EMR",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         },
         {
             "ClassName": "platecarrierpouches",
@@ -80,9 +89,18 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "TF_PlateCarrierPouches_EMR"
-            ]
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_PlateCarrierPouches_EMR",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         },
         {
             "ClassName": "platecarrierpouches_camo",

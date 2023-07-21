@@ -177,9 +177,20 @@
             "Variants": []
         },
         {
-            "ClassName": "TF_6B23Vest_GFlora",
+            "ClassName": "TF_6B23_112Vest_GFlora",
             "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 2500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_6B23Vest_GFlora",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 2000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

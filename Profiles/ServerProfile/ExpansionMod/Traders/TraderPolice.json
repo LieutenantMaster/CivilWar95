@@ -13,13 +13,9 @@
     "Items": {
 
     "cz75": 0,
-    "mag_cz75_15rnd": 1,
-     "fnx45": 0,
-    "mag_fnx45_15rnd": 1,
+    "mag_cz75_15rnd": 1,     
     "glock19": 0,
-    "mag_glock_15rnd": 1,
-    "colt1911": 0,
-    "mag_1911_7rnd": 1,
+    "mag_glock_15rnd": 1,    
     "magnum": 0,
     "p1": 0,
     "mag_p1_8rnd": 1,
@@ -50,7 +46,7 @@
     "pp19": 0,
     "pp19_bttstck": 1,
     "mag_pp19_64rnd": 1,
-    "aks74u": 0,
+    "air_weapon_aksu": 0,
     "aks74u_bttstck": 1,
     "mag_ak74_30rnd": 1,
 
@@ -68,7 +64,6 @@
 
     "ammobox_380_35rnd": 1,
     "ammobox_9x19_25rnd": 1,
-    "ammobox_45acp_25rnd": 1,
     "ammobox_357_20rnd": 1,
     "ammo_flare": 1,
                 "ammo_flareblue": 1,
@@ -109,7 +104,7 @@
                 "m18smokegrenade_white": 1,
                 "rdg2smokegrenade_black": 1,
                 "rdg2smokegrenade_white": 1,
-                "expansion_m18smokegrenade_teargas": 1,
+                "TF_TeargasGrenade": 1,
 
     "m79": 0,
     "ammo_expansion_m203_smoke_teargas": 1,

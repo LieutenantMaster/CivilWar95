@@ -375,7 +375,7 @@
         {
             "ClassName": "air_weapon_stg_mag",
             "MaxPriceThreshold": 110,
-            "MinPriceThreshold": 90,
+            "MinPriceThreshold": 80,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -385,8 +385,8 @@
         },
         {
             "ClassName": "air_weapon_groza_mag",
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 90,
+            "MaxPriceThreshold": 110,
+            "MinPriceThreshold": 80,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

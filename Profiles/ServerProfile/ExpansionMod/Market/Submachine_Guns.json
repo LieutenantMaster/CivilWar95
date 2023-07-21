@@ -99,8 +99,8 @@
         },
         {
             "ClassName": "air_weapon_groza",
-            "MaxPriceThreshold": 6500,
-            "MinPriceThreshold": 5600,
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 5300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

@@ -372,6 +372,77 @@
             "Variants": []
         },
         {
+            "ClassName": "FOG_511_Shirt_Flanel_Black",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_Hoodie_Jacket_ERDL",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_Shirt_ISOF_Jacket_Black",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOGR_Enhanced_PCU_Reed_URBN",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOGR_ISOF_Jacket_Veteran",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOGR_ISOF_Jacket_Flannel_Warlord"
+            ]
+        },
+        {
+            "ClassName": "FOG_Tshirt_White_Star",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_MTF_Shirt_RG",
+                "FOG_MTF_Shirt_TS"
+            ]
+        },
+        {
             "ClassName": "FOG_MTF_Shirt_ERDL",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 120,

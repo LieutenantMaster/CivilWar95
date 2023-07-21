@@ -46,10 +46,6 @@
         
         "Ssh68Helmet": 0,
 
-        "PlateCarrierVest_Green": 0,
-        "PlateCarrierPouches_Green": 0,
-        "PlateCarrierHolster_Green" : 0,
-
         "smershvest": 0,
         "smershbag": 0,
 
@@ -70,9 +66,9 @@
         "morphine": 0,
         "epinephrine": 0,
 
-        "ak74": 0,
+        
         "ak74_woodbttstck": 0,
-        "ak74_hndgrd": 0,
+        "mag_ak74_45rnd": 0,        
         "mag_ak74_30rnd": 0,
         "ammobox_545x39_20rnd": 0,
         "ammobox_545x39tracer_20rnd": 0,
@@ -90,11 +86,46 @@
         "ammobox_762x54_20rnd": 0,
         "ammobox_762x54tracer_20rnd": 0,
 
-        "aks74u": 0,
-        "aks74u_bttstck": 0,
+        "air_weapon_aksu": 0,
+        "aks74u_bttstck": 0,        
+        "air_weapon_svt": 0,
+        "air_weapon_svt_mag": 0,
+        "air_weapon_9a91": 0,
+        "air_weapon_mag_9a91": 0,
 
         "makarovij70": 0,
         "mag_ij70_8rnd": 0,
-        "ammobox_380_35rnd": 0
+        "ammobox_380_35rnd": 0,
+        "FOG_Gorka_Pants_Khaki": 0,
+        "FOG_MTF_Pants_TS": 0,
+        "BDUPants": 0,
+        "FOGR_UFP_Reed_URBN": 0,
+        "FOG_511_Shirt_Flanel_Black": 0,
+        "FOG_Hoodie_Jacket_ERDL": 0,
+        "FOG_Shirt_ISOF_Jacket_Black": 0,
+       "FOG_Tactical_Hoodie_Black": 0,
+        "FOG_Tshirt_White_Star": 0,
+        "FOG_MTF_Shirt_RG": 0,
+        "FOG_MTF_Shirt_TS": 0,
+        "TTsKOJacket_Camo": 0, 
+        "FOGR_ISOF_Jacket_Veteran": 0,
+        "FOGR_ISOF_Jacket_Flannel_Warlord": 0,
+        "FOGR_Enhanced_PCU_Reed_URBN": 0,        
+        "TF_6B23_112Vest_GFlora": 0,
+        "TF_6sh112_EMR": 0,
+        "TF_6B23Vest_GFlora": 0,
+        "TF_RifleSling_Black": 0,
+        "TF_RifleSling_Brown": 0,
+        "TF_RifleSling_OD": 0,    
+        "TF_PlateCarrierVest_Coyote": 0,
+        "TF_PlateCarrierPouches_Coyote": 0,
+        "TF_PlateCarrierHolster_Coyote": 0,
+        "JungleBoots_Black": 0,
+        "MilitaryBoots_Black": 0,
+        "MilitaryBoots_Brown": 0,
+        "TTSKOBoots": 0,        
+        "FOGR_Smersh_Khaki_Vest": 0,
+        "FOGR_Smersh_Khaki": 0,        
+        "FOGR_AssaultBag_Khaki": 0
     }
 }

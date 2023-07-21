@@ -271,6 +271,21 @@
             ]
         },
         {
+            "ClassName": "ammo_40mm_smoke_black",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 500,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [                
+                "ammo_40mm_smoke_green",
+                "ammo_40mm_smoke_white",
+                "ammo_40mm_smoke_red"
+            ]
+        },
+        {
             "ClassName": "expansion_ammo_arrowbolt",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 5,
