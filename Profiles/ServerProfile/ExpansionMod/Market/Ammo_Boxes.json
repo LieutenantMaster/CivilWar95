@@ -100,7 +100,7 @@
         },
         {
             "ClassName": "ammobox_380_35rnd",
-            "MaxPriceThreshold": 112,
+            "MaxPriceThreshold": 62,
             "MinPriceThreshold": 50,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
@@ -122,8 +122,8 @@
         },
         {
             "ClassName": "ammobox_545x39_20rnd",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 65,
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 55,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -135,7 +135,7 @@
         },
         {
             "ClassName": "ammobox_545x39tracer_20rnd",
-            "MaxPriceThreshold": 100,
+            "MaxPriceThreshold": 80,
             "MinPriceThreshold": 55,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
@@ -273,8 +273,8 @@
         },        
         {
             "ClassName": "air_ammobox_762x25_25rnd",
-            "MaxPriceThreshold": 90,
-            "MinPriceThreshold": 80,
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 50,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -284,8 +284,8 @@
         },
         {
             "ClassName": "air_ammobox_792x33_35rnd",
-            "MaxPriceThreshold": 80,
-            "MinPriceThreshold": 60,
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 50,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -306,7 +306,7 @@
         },        
         {
             "ClassName": "ammobox_9x39_20rnd",
-            "MaxPriceThreshold": 110,
+            "MaxPriceThreshold": 70,
             "MinPriceThreshold": 60,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
@@ -319,8 +319,8 @@
         },
         {
             "ClassName": "ammobox_9x39ap_20rnd",
-            "MaxPriceThreshold": 120,
-            "MinPriceThreshold": 85,
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 70,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
