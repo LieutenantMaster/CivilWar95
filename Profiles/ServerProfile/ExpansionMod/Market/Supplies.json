@@ -44,6 +44,17 @@
             "Variants": []
         },
         {
+            "ClassName": "Tripod",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 14,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "tannedleather",
             "MaxPriceThreshold": 8,
             "MinPriceThreshold": 4,
@@ -245,7 +256,7 @@
             "ClassName": "nailbox",
             "MaxPriceThreshold": 600,
             "MinPriceThreshold": 300,
-            "SellPricePercent": -1.0,
+            "SellPricePercent": 100.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
