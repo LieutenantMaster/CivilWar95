@@ -15,5 +15,10 @@
         "Vehicle_Parts:3",
         "Batteries:3"
     ],
-    "Items": {}
+    "Items": {
+        "expansionvodnik": 0,
+        "expansionvodnikdoordriver": 0,
+        "expansionvodnikdoorcodriver": 0,
+        "expansionvodnikwheel": 0
+    }
 }
