@@ -7,7 +7,8 @@ class CfgPatches
 		requiredVersion=0.1;
 		requiredAddons[]=
 		{
-			"DZ_Gear_Consumables"
+			"DZ_Gear_Consumables",
+			"DZ_Weapons_Melee"
 		};
 	};
 };
@@ -19,4 +20,28 @@ class CfgVehicles
 	{
 		itemSize[]={3,9};
     };
+};
+
+class CfgAmmo
+{
+	class MeleeDamage;
+	class MeleeBlunt: MeleeDamage
+	{
+		class DamageApplied
+		{
+			type="Melee";
+			class Health
+			{
+				damage=10;
+			};
+			class Blood
+			{
+				damage=0;
+			};
+			class Shock
+			{
+				damage=35;
+			};
+		};
+	};
 };
