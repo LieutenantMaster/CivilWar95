@@ -11,12 +11,12 @@ modded class AntibioticsMdfr
 		m_ID 					= eModifiers.MDF_ANTIBIOTICS;
 		m_TickIntervalInactive 	= DEFAULT_TICK_TIME_INACTIVE;
 		m_TickIntervalActive 	= 3;
-		m_RegenTime = GetExpansionSettings().GetCV95().AntibioticsDuration;
+		m_RegenTime = 60;
 	}	
 
 	override void OnTick(PlayerBase player, float deltaT)
 	{
-		player.AddHealth("","",(GetExpansionSettings().GetCV95().TotalAntibioticsHealth / m_RegenTime));
+		player.AddHealth("","",(35 / m_RegenTime));
 		player.AntibioticsAttack( ANTIBIOTICS_STRENGTH * deltaT );
 	}
 };

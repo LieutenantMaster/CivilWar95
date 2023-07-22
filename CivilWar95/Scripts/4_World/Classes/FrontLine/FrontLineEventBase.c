@@ -1,12 +1,12 @@
 class FrontLineEventBase
 {
-    private vector m_TargetPos;
-    private vector m_NewPosition;
-    private float m_Radius;
-    private float m_MaxRadius;
-    private float m_Quantity;
+    vector m_TargetPos;
+    vector m_NewPosition;
+    float m_Radius;
+    float m_MaxRadius;
+    float m_Quantity;
     
-    private array<Object> m_Objects;
+    array<Object> m_Objects;
 
     void FrontLineEventBase(vector position, float radius, float quantity)
     {

@@ -337,3 +337,47 @@ class CfgVehicles
 		};
 	};
 };
+
+class CfgNonAIVehicles
+{
+	class ProxyAttachment;
+	//class ProxyCV95Radio: ProxyAttachment
+	//{
+	//	scope=2;
+	//	inventorySlot[]=
+	//	{
+	//		"CV95_ExternalBag"
+	//	};
+		//model="Silens-Nox-Redux\CV95_CLOTHES\Attachments\NBCBag\Models\cannister.p3d";
+	//};
+	class ProxyCV95_Cassette: ProxyAttachment
+	{
+		scope=2;
+		inventorySlot[]=
+		{
+			"CV95_Cassette"
+		};
+		model="\dz\gear\tools\cassette.p3d";
+	};
+};
+class CfgSlots
+{
+	class Slot_CV95_ExternalBag
+	{
+		name="CV95_ExternalBag";
+		displayName="External Bag";
+		ghostIcon="set:dayz_inventory image:back";
+	};
+	class Slot_CV95_Cassette
+	{
+		name="CV95_Cassette";
+		displayName="Cassette";
+		ghostIcon="plant";
+	};
+	class Slot_CV95_Radio
+	{
+		name="CV95_Radio";
+		displayName="Cassette Player";
+		ghostIcon="plant";
+	};
+};

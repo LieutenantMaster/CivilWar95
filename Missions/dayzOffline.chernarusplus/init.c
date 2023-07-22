@@ -116,9 +116,10 @@ class CustomMission: MissionServer
 				Print("[CivilWar95]:: Target Hour: "+ schedule.Hour);
 				return true;
 			}
+			
+			Print("[CivilWar95]:: Schedule Hour: "+ schedule.Hour);
 		}
 
-		Print("[CivilWar95]:: Target Hour: "+ schedule.Hour);
 		Print("[CivilWar95]:: TRADERZONE:: IsScheaduledRestart:: FALSE");
 		Print("[CivilWar95]:: Time: "+ now.GetHours() + "H "+ now.GetMinutes() + "m");
 		

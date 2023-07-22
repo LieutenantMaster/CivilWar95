@@ -46,6 +46,7 @@ class FrontLineAI: FrontLineEventBase
 		return ai;
 	}
 
+    /*
     eAIFormation GetRandomFormation()
     {
         int rndFormation = Math.RandomFloatInclusive(0, CV95FormationsAI.COUNT);
@@ -85,5 +86,7 @@ class FrontLineAI: FrontLineEventBase
                 return new eAIFormationStarDot(g);
                 break;
         }
+        return new eAIFormationVee(g);
     }
+    */
 };

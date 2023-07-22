@@ -182,7 +182,7 @@ class FrontLineManager: CF_ModuleWorld
 		}
 
 
-        SpawnEventAhead(position, isFlying);
+        //SpawnEventAhead(position, isFlying);
 	}
 
     // ///////////////////////////////////////////////////////////////////////////////////////////
