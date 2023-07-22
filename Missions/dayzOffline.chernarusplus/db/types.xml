@@ -2,7 +2,7 @@
 <types>
     <type name="batterycharger">
         <nominal>3</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>144000000</lifetime>
         <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -16,7 +16,7 @@
     </type>
     <type name="powergenerator">
         <nominal>3</nominal>
-        <lifetime>604800</lifetime>
+        <lifetime>6048000</lifetime>
         <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
