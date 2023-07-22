@@ -24,8 +24,9 @@ class CfgMods
 
 		tooltip = "CivilWar95";
 		overview = "";
-		author = "";
+		author = "LieutenantMaster";
 		authorID = "";
+		//inputs="CivilWar95/CivilWar95/Data/inputs.xml";
 
 		dependencies[]=
 		{

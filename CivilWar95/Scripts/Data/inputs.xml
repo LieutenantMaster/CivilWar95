@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<modded_inputs>
+	<inputs>
+		<actions>
+			<input loc="Vechile Turret Left" name="abobusLeft"/>
+			<input loc="Vechile Turret Right" name="abobusRight"/>
+			<input loc="Vechile Turret Fire" name="abobusGrenadeBAM"/>
+			<input loc="Vechile Turret Ammo Next" name="abobusGrenadeBAM"/>
+			<input loc="Vechile Turret Ammo Prev" name="abobusGrenadeBAM"/>
+		</actions>
+	</inputs>
+	<preset>	
+		<input name="abobusLeft">
+			<btn name="k1" />
+		</input>
+		<input name="abobusRight">
+			<btn name="k3" />
+		</input>
+		<input name="abobusGrenadeBAM">
+			<btn name="kSpace" />
+		</input>
+	</preset>
+</modded_inputs>

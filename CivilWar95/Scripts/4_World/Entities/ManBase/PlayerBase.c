@@ -1,6 +1,6 @@
 modded class PlayerBase
 {
-	private ref FrontLineManager m_FrontLineManager;
+	private FrontLineManager m_FrontLineManager;
 
 	void PlayerBase()
 	{
@@ -12,8 +12,8 @@ modded class PlayerBase
 
 	void CV95_DelayedInit()
 	{
-		m_FrontLineManager = new FrontLineManager();
-		m_FrontLineManager.CheckPlayerPosition();
+		//m_FrontLineManager = new FrontLineManager();
+		//m_FrontLineManager.CheckPlayerPosition();
 	}
 
 	#ifdef EXPANSION_MODSTORAGE
@@ -59,4 +59,10 @@ modded class PlayerBase
 		return true;
 	}
 	#endif
+	
+	override EStatLevels GetStatLevelHealth()
+	{
+		float health = GetHealth("","");
+		return GetStatLevel(health, 20, 40, 70, 85);
+	}
 };

@@ -7,7 +7,8 @@ class CfgPatches
 		requiredVersion=0.1;
 		requiredAddons[]=
 		{
-			"DZ_Data"
+			"DZ_Data",
+			"DZ_Gear_Navigation"
 		};
 	};
 };
@@ -79,4 +80,22 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\dayzexpansion\objects\basebuilding\misc\signs\data\sign_one_leg_v_quarry_co.paa"};
 	}
+	
+	class ChernarusMap;
+	class CV95_ZelenoMap: ChernarusMap
+	{
+		hiddenSelections[]=
+		{
+			"texture_map_closed",
+			"texture_map_opened",
+			"texture_legend"
+		};
+		hiddenSelectionsTextures[] =
+		{
+			"dz\gear\navigation\data\map_chernarus_co.paa",
+			"dz\structures\signs\tourist\data\karta_side_co.paa",
+			"CivilWar95\Objects\Skins\Data\Carte_Zeleno.paa"
+		};
+	}
+	class CV95_ZelenoMap_Open: CV95_ZelenoMap {};
 };

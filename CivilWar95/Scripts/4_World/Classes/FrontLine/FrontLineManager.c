@@ -174,7 +174,15 @@ class FrontLineManager: CF_ModuleWorld
 			return;
 		}
 
-        SpawnEventAhead(position);
+        bool isFlying;
+		if ( !ctx.Read( isFlying ) )
+		{
+			Error("FrontLineManager::RPC_FrontLineTrigger isFlying");
+			return;
+		}
+
+
+        SpawnEventAhead(position, isFlying);
 	}
 
     // ///////////////////////////////////////////////////////////////////////////////////////////
@@ -201,6 +209,8 @@ class FrontLineManager: CF_ModuleWorld
             }
             else
             {
+				ExpansionNotification("Warning", "You entered a War Zone !", "DayZExpansion\\Core\\GUI\\icons\\misc\\T_HumanSkull_256x256.edds", COLOR_EXPANSION_NOTIFICATION_EXPANSION, 10).Create(player.GetIdentity());
+                
                 // RPC Server !
                 auto rpc = ExpansionScriptRPC.Create();
                 rpc.Write( player.GetPosition() );
