@@ -1,0 +1,88 @@
+************************** 2023-07-22T10:00:08+00:00 **************************
+2023-07-22T10:00:16+00:00 | [INFO	] Server up (GameLabs v1.910)
+2023-07-22T10:00:16+00:00 | [INFO	] Experimental speed check is enabled
+2023-07-22T10:52:38+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-07-22T10:52:38+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T10:52:38+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198092307102, distance=20.9901u, unitsPerSecond=8.38865 [threshold=8, inVehicle=0, triggers=1])
+2023-07-22T10:52:38+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T10:52:38+00:00 | [WARN	] ****************************************
+2023-07-22T10:52:40+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-07-22T10:52:40+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T10:52:40+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198092307102, distance=106.626u, unitsPerSecond=42.6506 [threshold=8, inVehicle=0, triggers=2])
+2023-07-22T10:52:40+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T10:52:40+00:00 | [WARN	] ****************************************
+2023-07-22T10:52:43+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-07-22T10:52:43+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T10:52:43+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198092307102, distance=42.9528u, unitsPerSecond=17.161 [threshold=8, inVehicle=0, triggers=3])
+2023-07-22T10:52:43+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T10:52:43+00:00 | [WARN	] ****************************************
+2023-07-22T11:00:28+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-07-22T11:00:28+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-07-22T11:00:28+00:00 | [WARN	] RegisterAsync re-authorized
+2023-07-22T11:08:58+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-07-22T11:08:58+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:08:58+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198092307102, distance=4177.81u, unitsPerSecond=1671.12 [threshold=8, inVehicle=0, triggers=4])
+2023-07-22T11:08:58+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:08:58+00:00 | [WARN	] ****************************************
+2023-07-22T11:09:33+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-07-22T11:09:33+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:09:33+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198092307102, distance=61.1038u, unitsPerSecond=24.4224 [threshold=8, inVehicle=0, triggers=5])
+2023-07-22T11:09:33+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:09:33+00:00 | [WARN	] ****************************************
+2023-07-22T11:09:41+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-07-22T11:09:41+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:09:41+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198092307102, distance=119.468u, unitsPerSecond=47.7874 [threshold=8, inVehicle=0, triggers=6])
+2023-07-22T11:09:41+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:09:41+00:00 | [WARN	] ****************************************
+2023-07-22T11:10:26+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-07-22T11:10:26+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:10:26+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198092307102, distance=48.5533u, unitsPerSecond=19.3986 [threshold=8, inVehicle=0, triggers=7])
+2023-07-22T11:10:26+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:10:26+00:00 | [WARN	] ****************************************
+2023-07-22T11:10:28+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-07-22T11:10:28+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:10:28+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198092307102, distance=44.0978u, unitsPerSecond=17.6391 [threshold=8, inVehicle=0, triggers=8])
+2023-07-22T11:10:28+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:10:28+00:00 | [WARN	] ****************************************
+2023-07-22T11:10:43+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-07-22T11:10:43+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:10:43+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198092307102, distance=22.6964u, unitsPerSecond=9.07149 [threshold=8, inVehicle=0, triggers=9])
+2023-07-22T11:10:43+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:10:43+00:00 | [WARN	] ****************************************
+2023-07-22T11:10:46+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-07-22T11:10:46+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:10:46+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198092307102, distance=24.3587u, unitsPerSecond=9.73208 [threshold=8, inVehicle=0, triggers=10])
+2023-07-22T11:10:46+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:10:46+00:00 | [WARN	] ****************************************
+2023-07-22T11:10:48+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-07-22T11:10:48+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:10:48+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198092307102, distance=32.547u, unitsPerSecond=13.0036 [threshold=8, inVehicle=0, triggers=11])
+2023-07-22T11:10:48+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:10:48+00:00 | [WARN	] ****************************************
+2023-07-22T11:11:06+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-07-22T11:11:06+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:11:06+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198092307102, distance=31.2241u, unitsPerSecond=12.4897 [threshold=8, inVehicle=0, triggers=12])
+2023-07-22T11:11:06+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:11:06+00:00 | [WARN	] ****************************************
+2023-07-22T11:11:08+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-07-22T11:11:08+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:11:08+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198092307102, distance=40.4233u, unitsPerSecond=16.1567 [threshold=8, inVehicle=0, triggers=13])
+2023-07-22T11:11:08+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:11:08+00:00 | [WARN	] ****************************************
+2023-07-22T11:13:41+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-07-22T11:13:41+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:13:41+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198092307102, distance=22.6568u, unitsPerSecond=9.0521 [threshold=8, inVehicle=0, triggers=14])
+2023-07-22T11:13:41+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:13:41+00:00 | [WARN	] ****************************************
+2023-07-22T11:14:03+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-07-22T11:14:03+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:14:03+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198092307102, distance=32.1962u, unitsPerSecond=12.8559 [threshold=8, inVehicle=0, triggers=15])
+2023-07-22T11:14:03+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:14:03+00:00 | [WARN	] ****************************************
+2023-07-22T11:15:08+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-07-22T11:15:08+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:15:08+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198092307102, distance=49.2003u, unitsPerSecond=19.6571 [threshold=8, inVehicle=0, triggers=16])
+2023-07-22T11:15:08+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-22T11:15:08+00:00 | [WARN	] ****************************************
+2023-07-22T11:15:16+00:00 | [INFO	] (Reporter) Disabled
+2023-07-22T11:15:16+00:00 | [INFO	] (Core) Attempting graceful exit
