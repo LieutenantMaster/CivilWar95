@@ -12,7 +12,7 @@ renderFlags[]=
 };
 class Stage1
 {
-	texture="CivilWar95\Objects\Gear\MusicPlayer\Textures\musicPlayer_nohq.paa";
+	texture="CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Textures\musicPlayer_nohq.paa";
 	uvSource="tex";
 	class uvTransform
 	{

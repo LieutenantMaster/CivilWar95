@@ -19,7 +19,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\Sounds\MusicPlayer\Tapes\BosanskaArtiljerija",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\BosanskaArtiljerija",
 				1
 			}
 		};
@@ -31,7 +31,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\Sounds\MusicPlayer\Tapes\ChDKZAnthem",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\ChDKZAnthem",
 				1
 			}
 		};
@@ -43,7 +43,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\Sounds\MusicPlayer\Tapes\ChernarussianAnthem",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\ChernarussianAnthem",
 				1
 			}
 		};
@@ -55,7 +55,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\Sounds\MusicPlayer\Tapes\CrniBombarderi",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\CrniBombarderi",
 				1
 			}
 		};
@@ -67,7 +67,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\Sounds\MusicPlayer\Tapes\DarkIsTheNight",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\DarkIsTheNight",
 				1
 			}
 		};
@@ -79,7 +79,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\Sounds\MusicPlayer\Tapes\DontTellMomImInChechnya",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\DontTellMomImInChechnya",
 				1
 			}
 		};
@@ -91,7 +91,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\Sounds\MusicPlayer\Tapes\International",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\International",
 				1
 			}
 		};
@@ -103,7 +103,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\Sounds\MusicPlayer\Tapes\Karavan",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\Karavan",
 				1
 			}
 		};
@@ -115,7 +115,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\Sounds\MusicPlayer\Tapes\Katyusha",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\Katyusha",
 				1
 			}
 		};
@@ -127,7 +127,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\Sounds\MusicPlayer\Tapes\Kombat",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\Kombat",
 				1
 			}
 		};
@@ -139,7 +139,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\Sounds\MusicPlayer\Tapes\MyDadIsAWarCriminal",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\MyDadIsAWarCriminal",
 				1
 			}
 		};
@@ -151,7 +151,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\Sounds\MusicPlayer\Tapes\NoviGod",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\NoviGod",
 				1
 			}
 		};
@@ -163,7 +163,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\Sounds\MusicPlayer\Tapes\OjAlijaAljo",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\OjAlijaAljo",
 				1
 			}
 		};
@@ -175,7 +175,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\Sounds\MusicPlayer\Tapes\PolyushkaPolye",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\PolyushkaPolye",
 				1
 			}
 		};
@@ -187,7 +187,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\Sounds\MusicPlayer\Tapes\RemoveTakistani",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\RemoveTakistani",
 				1
 			}
 		};
@@ -199,7 +199,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\Sounds\MusicPlayer\Tapes\ThreeChoppersOverMozdok",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\ThreeChoppersOverMozdok",
 				1
 			}
 		};
@@ -211,7 +211,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\Sounds\MusicPlayer\Tapes\Troika",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\Troika",
 				1
 			}
 		};
@@ -223,7 +223,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\Sounds\MusicPlayer\Static\SongRuined",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Static\SongRuined",
 				1
 			}
 		};
@@ -235,7 +235,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\Sounds\MusicPlayer\Actions\cassette_rewind",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Actions\cassette_rewind",
 				1
 			}
 		};
@@ -247,7 +247,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\Sounds\MusicPlayer\Actions\cassette_fastforward",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Actions\cassette_fastforward",
 				1
 			}
 		};
@@ -259,15 +259,15 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\Sounds\MusicPlayer\Actions\cassette_button_a",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Actions\cassette_button_a",
 				1
 			},
 			{
-				"CivilWar95\Sounds\MusicPlayer\Actions\cassette_button_b",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Actions\cassette_button_b",
 				1
 			},
 			{
-				"CivilWar95\Sounds\MusicPlayer\Actions\cassette_button_c",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Actions\cassette_button_c",
 				1
 			}
 		};
@@ -280,7 +280,7 @@ class CfgSoundShaders
 		{
 			
 			{
-				"CivilWar95\Sounds\MusicPlayer\Actions\cassette_door_open",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Actions\cassette_door_open",
 				1
 			}
 		};
@@ -293,7 +293,7 @@ class CfgSoundShaders
 		{
 			
 			{
-				"CivilWar95\Sounds\MusicPlayer\Actions\cassette_door_close",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Actions\cassette_door_close",
 				1
 			}
 		};

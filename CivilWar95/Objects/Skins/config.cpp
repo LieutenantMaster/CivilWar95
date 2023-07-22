@@ -84,17 +84,11 @@ class CfgVehicles
 	class ChernarusMap;
 	class CV95_ZelenoMap: ChernarusMap
 	{
-		hiddenSelections[]=
-		{
-			"texture_map_closed",
-			"texture_map_opened",
-			"texture_legend"
-		};
 		hiddenSelectionsTextures[] =
 		{
 			"dz\gear\navigation\data\map_chernarus_co.paa",
 			"dz\structures\signs\tourist\data\karta_side_co.paa",
-			"CivilWar95\Objects\Skins\Data\Carte_Zeleno.paa"
+			"CivilWar95\CivilWar95\Objects\Skins\Data\Carte_Zeleno.paa"
 		};
 	}
 	class CV95_ZelenoMap_Open: CV95_ZelenoMap {};

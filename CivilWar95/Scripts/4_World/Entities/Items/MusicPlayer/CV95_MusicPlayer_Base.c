@@ -8,7 +8,7 @@
 class CV95_MusicPlayer: Inventory_Base
 {
 	private const string LIGHT_GLOW_ON	= "dz\\gear\\camping\\data\\battery_charger_light_r.rvmat";
-	private const string LIGHT_GLOW_OFF	= "CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer.rvmat";
+	private const string LIGHT_GLOW_OFF	= "CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer.rvmat";
 
 	private float m_Volume 			= 0.5;		// Default volume will be set to 0.5 aka 50%
 	private float m_VolumeSteps 	= 0.1;		// Each increments will increase the volume by 0.1 aka 10%

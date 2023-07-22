@@ -30,7 +30,7 @@ class CfgVehicles
 		rotationFlags=1;
 		displayName="Cassette Player";
 		descriptionShort="Put some cassettes in me senpai";
-		model="\CivilWar95\Objects\Gear\MusicPlayer\Models\musicPlayer.p3d";
+		model="CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Models\musicPlayer.p3d";
 		weight=200;
 		itemSize[]={2,2};
 		soundImpactType="plastic";
@@ -52,15 +52,15 @@ class CfgVehicles
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"CivilWar95\Objects\Gear\MusicPlayer\Textures\musicPlayer_co.paa",
+			"CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Textures\musicPlayer_co.paa",
 			"dz\characters\headgear\data\motohelmetvisor_ca.paa",
-			"CivilWar95\Objects\Gear\MusicPlayer\Textures\musicPlayer_co.paa",
+			"CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Textures\musicPlayer_co.paa",
 		};
 		hiddenSelectionsMaterials[]=
 		{
-			"CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer.rvmat",
-			"CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass.rvmat",
-			"CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer.rvmat"
+			"CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer.rvmat",
+			"CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass.rvmat",
+			"CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer.rvmat"
 		};	
 		class NoiseCassette
 		{
@@ -105,11 +105,11 @@ class CfgVehicles
 					hitpoints=100;
 					healthLevels[]=
 					{
-						{1.0,{"CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer.rvmat","CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass.rvmat"}},
-						{0.69999999,{"CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer.rvmat","CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass.rvmat"}},
-						{0.5,{"CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer_damage.rvmat","CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass_damage.rvmat"}},
-						{0.30000001,{"CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer_damage.rvmat","CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass_damage.rvmat"}},
-						{0.0,{"CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer_destruct.rvmat","CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass_destruct.rvmat"}}
+						{1.0,{"CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer.rvmat","CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass.rvmat"}},
+						{0.69999999,{"CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer.rvmat","CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass.rvmat"}},
+						{0.5,{"CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer_damage.rvmat","CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass_damage.rvmat"}},
+						{0.30000001,{"CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer_damage.rvmat","CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass_damage.rvmat"}},
+						{0.0,{"CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer_destruct.rvmat","CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass_destruct.rvmat"}}
 					};
 				};
 			};
