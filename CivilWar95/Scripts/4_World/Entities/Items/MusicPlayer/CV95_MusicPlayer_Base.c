@@ -602,7 +602,7 @@ class CV95_MusicPlayer: Inventory_Base
 			{
 				m_Tracktimer = m_Cassette.GetCurrPlaytime();
 					
-				m_Timer.Run(0.1, this,"TimerIncrease", NULL, true);
+				m_Timer.Run(0.1, this, "TimerIncrease", NULL, true);
 			}
 
 			//if (!GetGame().IsDedicatedServer()) 

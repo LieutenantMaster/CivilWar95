@@ -2,7 +2,6 @@ class MP_OpenDoorCB : ActionBaseCB
 {
 	override void CreateActionComponent()
 	{
-        
 		m_ActionData.m_ActionComponent = new CASingleUse;
 	}
 };
