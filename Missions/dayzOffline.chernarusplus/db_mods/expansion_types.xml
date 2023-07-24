@@ -432,7 +432,7 @@
     <!-- M3S -->
     <type name="Truck_01_Covered_Red">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -475,7 +475,7 @@
     </type>
     <type name="Truck_01_Covered_White">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -518,7 +518,7 @@
     </type>
     <type name="Truck_01_Covered_Black">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -561,7 +561,7 @@
     </type>
     <type name="Truck_01_Covered_Wine">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -604,7 +604,7 @@
     </type>
     <type name="Truck_01_Covered_Lime">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -647,7 +647,7 @@
     </type>
     <type name="Truck_01_Covered_Yellow">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -690,7 +690,7 @@
     </type>
     <type name="Truck_01_Covered_YellowBright">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -931,8 +931,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    </type>
+    </type>    
     <type name="ExpansionUh1h_Green">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -1052,7 +1051,7 @@
     </type>
      <type name="ExpansionZodiacBoat_Orange">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1062,7 +1061,7 @@
     </type>
     <type name="ExpansionZodiacBoat_Black">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1072,7 +1071,7 @@
     </type>
     <type name="ExpansionZodiacBoat_Green">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1180,17 +1179,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="ExpansionUAZCargoRoofless_Black">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
+    </type>    
     <type name="ExpansionUAZCargoRoofless_LightGreen">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -1222,6 +1211,26 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="ExpansionVodnik">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="ExpansionVodnik_Camo">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="ExpansionVodnik_CamoMedial">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>

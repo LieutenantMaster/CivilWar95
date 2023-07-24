@@ -122,19 +122,19 @@
     </type>
     <!-- Garden -->
     <type name="Msp_EmptySquarePlanterBox">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_SquarePlanterBox">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_EmptyPlanterBox">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_PlanterBox">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_Greenhouse_Kit">
@@ -152,7 +152,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_Greenhouse">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_GreenhouseWood_Kit">
@@ -170,25 +170,25 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_GreenhouseWood">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <!-- Storage Standalone -->
     <type name="Msp_LargeAmmoBox">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_AmericanAppleCrate">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_AppleCrate">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_TackleBox">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -200,7 +200,7 @@
     </type>
     <type name="Msp_TackleBox_Black">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -212,7 +212,7 @@
     </type>
     <type name="Msp_CoolerBox">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -224,7 +224,7 @@
     </type>
     <type name="Msp_CoolerBox_Black">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -236,7 +236,7 @@
     </type>
     <type name="Msp_AmmoCrate">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -250,7 +250,7 @@
     </type>
     <type name="Msp_MedievalChest">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -264,7 +264,7 @@
     </type>
     <type name="Msp_PlasticCrate">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -278,7 +278,7 @@
     </type>
     <type name="Msp_GrenadeBox">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -292,7 +292,7 @@
     </type>
     <type name="Msp_TreasureChest">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -306,7 +306,7 @@
     </type>
     <type name="Msp_Basket_Rectangular">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -320,7 +320,7 @@
     </type>
     <type name="Msp_Basket_Wicker">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -334,7 +334,7 @@
     </type>
     <type name="Msp_Safe">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -376,7 +376,7 @@
     </type>
     <type name="Msp_MilitaryCrate_Brown">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -389,7 +389,7 @@
     </type>
     <type name="Msp_MilitaryCrate_Green">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -402,7 +402,7 @@
     </type>
     <type name="Msp_MilitaryCrate_Grey">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -415,7 +415,7 @@
     </type>
     <type name="Msp_MilitaryCrate_Olive">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -428,7 +428,7 @@
     </type>
     <type name="Msp_MilitaryCrate_Tan">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -441,27 +441,27 @@
     </type>
     <!-- Donation Barrels -->
     <type name="Msp_Barrel_Donation">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_Barrel_Donation_Ammo">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_Barrel_Donation_Guns">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_Barrel_Donation_Food">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_Barrel_Donation_Medical">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_Barrel_Donation_BloodONegative">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_Static_Barrel_Donation">
@@ -504,7 +504,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_Gazebo">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_StoneFireplace_Kit">
@@ -522,7 +522,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_StoneFireplace">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <!-- Fridges -->
@@ -541,7 +541,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_MoskvaFridge_Blue">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_MoskvaFridge_Cream_Kit">
@@ -559,7 +559,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_MoskvaFridge_Cream">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_MoskvaFridge_Red_Kit">
@@ -577,7 +577,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_MoskvaFridge_Red">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_SovietOkaFridge_Kit">
@@ -595,7 +595,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_SovietOkaFridge">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_SnowballFridge_Kit">
@@ -613,7 +613,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_SnowballFridge">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <!-- Kits Storage -->
@@ -632,7 +632,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_FishingRodsRack">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_Bookcase_Kit">
@@ -650,7 +650,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_Bookcase">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_GunCabinet_Kit">
@@ -668,7 +668,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_GunCabinet">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_DoubleGunRack_Kit">
@@ -686,7 +686,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_DoubleGunRack">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_GunRack_Kit">
@@ -704,7 +704,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_GunRack">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_Gunwall_Kit">
@@ -722,7 +722,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_Gunwall">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_MilitaryLocker_Kit">
@@ -740,7 +740,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_MilitaryLocker">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_StorageBox_Kit">
@@ -758,7 +758,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_StorageBox">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_ToolsBench_Blue_Kit">
@@ -776,7 +776,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_ToolsBench_Blue">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_ToolsBench_Grey_Kit">
@@ -794,7 +794,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_ToolsBench_Grey">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_ToolsBench_Red_Kit">
@@ -812,7 +812,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_ToolsBench_Red">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_Locker_Kit">
@@ -830,7 +830,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_Locker">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_SoloLocker_Kit">
@@ -848,7 +848,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_SoloLocker">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_SoloLocker_Black_Kit">
@@ -866,7 +866,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_SoloLocker_Black">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_SoloLocker_White_Kit">
@@ -884,7 +884,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_SoloLocker_White">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_SoloLocker_Green_Kit">
@@ -902,7 +902,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_SoloLocker_Green">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_SoloLocker_Red_Kit">
@@ -920,7 +920,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_SoloLocker_Red">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_SoloLocker_RedRusty_Kit">
@@ -938,7 +938,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_SoloLocker_RedRusty">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_SoloLocker_Yellow_Kit">
@@ -956,7 +956,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_SoloLocker_Yellow">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_SoloLocker_YellowRusty_Kit">
@@ -974,7 +974,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_SoloLocker_YellowRusty">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_OldLocker_Kit">
@@ -992,7 +992,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_OldLocker">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_OldLocker_Green_Kit">
@@ -1010,7 +1010,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_OldLocker_Green">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_FourDoor_MilitaryLocker_Kit">
@@ -1028,7 +1028,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_FourDoor_MilitaryLocker">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_FourDoor_MilitaryLocker_Green_Kit">
@@ -1046,7 +1046,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_FourDoor_MilitaryLocker_Green">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_WoodenGunRack_Kit">
@@ -1064,7 +1064,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_WoodenGunRack">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_RifleSafe_Kit">
@@ -1082,7 +1082,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_RifleSafe">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_RifleSafe_Grey_Kit">
@@ -1100,7 +1100,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_RifleSafe_Grey">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_RifleSafe_Green_Kit">
@@ -1118,7 +1118,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_RifleSafe_Green">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_RifleSafe_Purple_Kit">
@@ -1136,7 +1136,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_RifleSafe_Purple">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_RifleSafe_Tan_Kit">
@@ -1154,7 +1154,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_RifleSafe_Tan">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_MedicalBox_Kit">
@@ -1172,7 +1172,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_MedicalBox">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_Wardrobe_Brown_Kit">
@@ -1190,7 +1190,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_Wardrobe_Brown">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_Wardrobe_Green_Kit">
@@ -1208,7 +1208,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_Wardrobe_Green">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_Wardrobe_White_Kit">
@@ -1226,17 +1226,17 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_Wardrobe_White">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <!-- Misc / Utilities -->
     <type name="Msp_FireplaceRailing">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_WaterBarrel_Plastic">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1250,7 +1250,7 @@
     </type>
     <type name="Msp_WaterBarrel_Plastic_Yellow">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1264,7 +1264,7 @@
     </type>
     <type name="Msp_WaterBarrel_Plastic_Green">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1278,7 +1278,7 @@
     </type>
     <type name="Msp_WaterBarrel_Plastic_Red">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1292,7 +1292,7 @@
     </type>
     <type name="Msp_WaterBarrel_Plastic_Black">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1306,7 +1306,7 @@
     </type>
     <type name="Msp_WaterBarrel_Plastic_White">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1320,7 +1320,7 @@
     </type>
     <type name="Msp_WaterBarrel_Valve_Faucet">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1333,27 +1333,27 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_WaterBarrel_Stand">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_WaterBarrel_Stand_Darkwood">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_WaterBarrel">
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_WaterBarrel_Darkwood">
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_WaterBarrel_Valve">
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_WaterBarrel_Valve_Darkwood">
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <!-- Clothes -->
@@ -1435,20 +1435,20 @@
     </type>
     <!-- Static -->
     <type name="Msp_Static_TrashCan">
-        <lifetime>7888000</lifetime>
+        <lifetime>78880000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <!-- Deco -->
     <type name="Msp_Trophy_Gold">
-        <lifetime>5400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
     <type name="Msp_Trophy_Bronze">
-        <lifetime>5400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
     <type name="Msp_Trophy_Silver">
-        <lifetime>5400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
     <type name="Msp_Shelf_Kit">
@@ -1466,7 +1466,7 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_Shelf">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_MedievalGibbet_Kit">
@@ -1484,7 +1484,7 @@
         <usage name="Hunting" />
     </type>
     <type name="Msp_MedievalGibbet">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_MedievalGibbetWithMount_Kit">
@@ -1502,12 +1502,12 @@
         <usage name="Hunting" />
     </type>
     <type name="Msp_MedievalGibbetWithMount">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_SleepingBag_Green">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1520,7 +1520,7 @@
     </type>
     <type name="Msp_SleepingBag_Blue">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1533,7 +1533,7 @@
     </type>
     <type name="Msp_SleepingBag_LimeGreen">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1546,7 +1546,7 @@
     </type>
     <type name="Msp_SleepingBag_Orange">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1559,7 +1559,7 @@
     </type>
     <type name="Msp_SleepingBag_Purple">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1572,7 +1572,7 @@
     </type>
     <type name="Msp_SleepingBag_Red">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1585,7 +1585,7 @@
     </type>
     <type name="Msp_Mattress_Blue">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1598,7 +1598,7 @@
     </type>
     <type name="Msp_Mattress_Green">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1611,7 +1611,7 @@
     </type>
     <type name="Msp_Mattress_Pink">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1624,7 +1624,7 @@
     </type>
     <type name="Msp_Mattress_Yellow">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1636,7 +1636,7 @@
         <usage name="Coast" />
     </type>
     <type name="Msp_WoodenChair">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_WoodenTable_Kit">
@@ -1654,11 +1654,11 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_WoodenTable">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_DeskClock">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_RoomDivider_Kit">
@@ -1676,27 +1676,27 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_RoomDivider">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_RoomDivider_Flat">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_HousePlant_Philodendron">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_HousePlant_FicusTree">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_HousePlant_RubberFig">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_HousePlant_Succulent">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
 
@@ -1821,7 +1821,7 @@
     </type>
     <type name="Msp_CoffinBox">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1846,7 +1846,7 @@
     </type>
     <type name="MSP_WitchCauldron">
         <nominal>0</nominal>
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1870,7 +1870,7 @@
         <usage name="Coast" />
     </type>
     <type name="Msp_BeachChair">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_BeachBall">
@@ -1888,7 +1888,7 @@
     </type>
     <type name="Msp_BeachUmbrella">
         <nominal>0</nominal>
-        <lifetime>2700</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -2017,7 +2017,7 @@
         <usage name="Coast" />
     </type>
     <type name="Msp_KiddiePool">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_KiddiePool_Pink_Kit">
@@ -2034,7 +2034,7 @@
         <usage name="Coast" />
     </type>
     <type name="Msp_KiddiePool_Pink">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_KiddiePool_Yellow_Kit">
@@ -2051,7 +2051,7 @@
         <usage name="Coast" />
     </type>
     <type name="Msp_KiddiePool_Yellow">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_VolleyballNet_Kit">
@@ -2068,7 +2068,7 @@
         <usage name="Coast" />
     </type>
     <type name="Msp_VolleyballNet">
-        <lifetime>86400</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_Water_Gun">

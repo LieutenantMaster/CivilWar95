@@ -450,6 +450,19 @@
             ]
         },
         {
+            "ClassName": "GorkaHelmet_Blue",
+            "MaxPriceThreshold": 480,
+            "MinPriceThreshold": 240,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "gorkahelmetvisor"
+            ],
+            "Variants": []
+        },
+        {
             "ClassName": "ssh68helmet",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 150,

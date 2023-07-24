@@ -152,6 +152,17 @@
             "Variants": []
         },
         {
+            "ClassName": "GasMask_Filter",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 75,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },        
+        {
             "ClassName": "gp5gasmask",
             "MaxPriceThreshold": 240,
             "MinPriceThreshold": 120,
@@ -160,7 +171,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "gp5gasmask_Black"
+            ]
         },
         {
             "ClassName": "airbornemask",

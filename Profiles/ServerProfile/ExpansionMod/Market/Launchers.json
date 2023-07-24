@@ -29,6 +29,17 @@
             "Variants": []
         },
         {
+            "ClassName": "air_weapon_bulldog",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "expansionlaw",
             "MaxPriceThreshold": 5000,
             "MinPriceThreshold": 2500,
