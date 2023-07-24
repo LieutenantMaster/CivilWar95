@@ -3,7 +3,7 @@
     "AllowChangingFonts": 1,
     "PenConsumeQuantity": 3,
     "NoteDateFormat": {
-        "Format": 1,
+        "Format": 0,
         "DaySuffix": [],
         "MonthName": [
             "January",

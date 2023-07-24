@@ -1,0 +1,15 @@
+************************** 2023-07-23T11:12:31+00:00 **************************
+2023-07-23T11:12:39+00:00 | [INFO	] Server up (GameLabs v1.910)
+2023-07-23T11:12:39+00:00 | [INFO	] Experimental speed check is enabled
+2023-07-23T11:18:41+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-07-23T11:18:41+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-23T11:18:41+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198127027802, distance=352.638u, unitsPerSecond=141.055 [threshold=8, inVehicle=0, triggers=1])
+2023-07-23T11:18:41+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-23T11:18:41+00:00 | [WARN	] ****************************************
+2023-07-23T11:21:24+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-07-23T11:21:24+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-23T11:21:24+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198127027802, distance=8294.51u, unitsPerSecond=3317.81 [threshold=8, inVehicle=0, triggers=2])
+2023-07-23T11:21:24+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-07-23T11:21:24+00:00 | [WARN	] ****************************************
+2023-07-23T11:26:28+00:00 | [INFO	] (Reporter) Disabled
+2023-07-23T11:26:28+00:00 | [INFO	] (Core) Attempting graceful exit
