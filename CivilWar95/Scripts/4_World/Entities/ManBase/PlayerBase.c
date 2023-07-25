@@ -2,12 +2,11 @@ modded class PlayerBase
 {
 	private FrontLineManager m_FrontLineManager;
 
+#ifndef SERVER
 	void PlayerBase()
 	{
-		if (!IsAI() && !GetGame().IsServer())
-		{
+		if (!IsAI())
 			GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).CallLater( CV95_DelayedInit, 1000, false );
-		}
 	}
 
 	void CV95_DelayedInit()
@@ -15,6 +14,7 @@ modded class PlayerBase
 		//m_FrontLineManager = new FrontLineManager();
 		//m_FrontLineManager.CheckPlayerPosition();
 	}
+#endif
 
 	#ifdef EXPANSION_MODSTORAGE
 	override void CF_OnStoreSave(CF_ModStorageMap storage)
@@ -65,4 +65,49 @@ modded class PlayerBase
 		float health = GetHealth("","");
 		return GetStatLevel(health, 20, 40, 70, 85);
 	}
+
+#ifdef SERVER
+	override void EEKilled(Object killer)
+	{
+		if ( IsAI() )
+			return;
+
+		string steamID = GetIdentity().GetPlainId();
+		int factionID;
+		string loadoutType = "DEFAULT";
+		vector spawnPos = "0 0 0";
+
+		string filename = CV95_PATH_MISSION_PLAYERDATA + steamID + ".map";
+
+		FileHandle file;
+		if (FileExist( filename ))
+		{
+			file = OpenFile(filename , FileMode.READ );
+			if ( file )
+			{
+				string line;
+				if ( FGets( file, line ) != 0 )
+				{
+					TStringArray tokens = new TStringArray;
+					line.Split( "|", tokens );
+
+					factionID	= tokens.Get( 0 ).ToInt();
+					loadoutType = tokens.Get( 1 );
+					spawnPos 	= tokens.Get( 3 ).ToVector();
+				}
+			}
+		}
+
+		if ( factionID != eAI_GetFactionTypeID() )
+			factionID = eAI_GetFactionTypeID();
+
+		string output = factionID.ToString() + "|" + loadoutType + "|" + spawnPos.ToString();
+
+		file = OpenFile(filename, FileMode.WRITE);
+		FPrintln(file, output);
+		CloseFile(file);
+		
+		super.EEKilled(killer);
+	}
+#endif
 };

@@ -1,0 +1,13 @@
+ImageWidgetClass logo {
+ size 444 208
+ hexactpos 1
+ vexactpos 1
+ hexactsize 1
+ vexactsize 1
+ imageTexture "CivilWar95/CivilWar95/GUI/logo.edds"
+ mode blend
+ "src alpha" 1
+ "no wrap" 1
+ stretch 1
+ filter 1
+}

@@ -1,0 +1,4 @@
+class CustomLoadingScreenBackground
+{
+	string ImagePath;
+};

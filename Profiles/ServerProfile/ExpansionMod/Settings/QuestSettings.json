@@ -1,5 +1,5 @@
 {
-    "m_Version": 9,
+    "m_Version": 10,
     "EnableQuests": 0,
     "EnableQuestLogTab": 1,
     "CreateQuestNPCMarkers": 1,
@@ -30,5 +30,6 @@
     "DailyResetHour": 0,
     "DailyResetMinute": 0,
     "UseUTCTime": 1,
-    "UseQuestNPCIndicators": 1
+    "UseQuestNPCIndicators": 1,
+    "MaxActiveQuests": -1
 }
