@@ -92,6 +92,7 @@ class CustomMission: MissionServer
 	//! ============================== PLAYER FACTION AND LOADOUT SYSTEM ==============================
 	override void EquipCharacter(MenuDefaultCharacterData char_data)
 	{
+		Print("[CivilWar95]:: EquipCharacter");
 		if ( !IsMissionHost() )
 		{
 			super.EquipCharacter(char_data);
@@ -103,6 +104,7 @@ class CustomMission: MissionServer
 		string filename = CV95_PATH_MISSION_PLAYERDATA + steamID + ".map";
 
 		FileHandle file;
+		Print("[CivilWar95]:: !FileExist");
 		if (!FileExist( filename ))
 		{
 			m_player.SetPosition(GetCivilianSpawns().GetRandomElement());
@@ -114,6 +116,7 @@ class CustomMission: MissionServer
 			ExpansionHumanLoadout.Apply(m_player, loadoutType, false);
 			return;
 		}
+		Print("[CivilWar95]:: FileExist");
 
 		int factionID;
 		string factionName;
@@ -130,9 +133,10 @@ class CustomMission: MissionServer
 
 				factionID	= tokens.Get( 0 ).ToInt();
 				loadoutType = tokens.Get( 1 );
-				spawnPos 	= tokens.Get( 3 ).ToVector();
+				spawnPos 	= tokens.Get( 2 ).ToVector();
 			}
 		}
+		Print("[CivilWar95]:: FGets");
 
 		typename factionType = eAIFaction.GetTypeByID(factionID);
 		if (factionType)
@@ -151,12 +155,23 @@ class CustomMission: MissionServer
 				}
 			}
 		}
+		Print("[CivilWar95]:: factionType");
 
 		GetFactionData(factionName, m_player.IsMale(), loadoutType, spawnPos);
 
-		ExpansionHumanLoadout.Apply(m_player, loadoutType, false);
+		TStringArray gear = new TStringArray;
+		loadoutType.Split( ",", gear );
+		if ( gear.Count() > 1 )
+		{
+			Print("[CivilWar95]:: ExpansionObjectSpawnTools");
+			ExpansionObjectSpawnTools.ProcessGear(m_player, loadoutType);
+		} else {
+			Print("[CivilWar95]:: ExpansionHumanLoadout");
+			ExpansionHumanLoadout.Apply(m_player, loadoutType, false);
+		}
+
+		Print("[CivilWar95]:: SetPosition");
 		m_player.SetPosition(spawnPos);
-		m_player.SetHealth(70);
 	}
 
 	void GetFactionData(string factionName, bool isMale, out string loadoutType, out vector spawnPos)

@@ -1,5 +1,23 @@
 [
     {
-        "ImagePath": "CivilWar95/CivilWar95/GUI/LoadingScreens/loading1.edds"
+        "ImagePath": "CivilWar95/CivilWar95/GUI/LoadingScreens/Screen1.edds"
+    },
+    {
+        "ImagePath": "CivilWar95/CivilWar95/GUI/LoadingScreens/Screen2.edds"
+    },
+    {
+        "ImagePath": "CivilWar95/CivilWar95/GUI/LoadingScreens/Screen3.edds"
+    },
+    {
+        "ImagePath": "CivilWar95/CivilWar95/GUI/LoadingScreens/Screen4.edds"
+    },
+    {
+        "ImagePath": "CivilWar95/CivilWar95/GUI/LoadingScreens/Screen5.edds"
+    },
+    {
+        "ImagePath": "CivilWar95/CivilWar95/GUI/LoadingScreens/Screen6.edds"
+    },
+    {
+        "ImagePath": "CivilWar95/CivilWar95/GUI/LoadingScreens/Screen7.edds"
     }
 ]

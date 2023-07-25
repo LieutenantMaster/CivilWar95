@@ -17,6 +17,8 @@ modded class LoadingScreen
 		m_ExCustomLoadingScreenData = new CustomLoadingScreenData();
 		if (!m_ExCustomLoadingScreenData)
 			return;
+		
+		m_ModdedWarning.Show(false);
 
 		if (m_ExCustomLoadingScreenData.RandomizeBackgounds)
 			m_ShownBackgrounds = new array<int>;
@@ -34,6 +36,7 @@ modded class LoadingScreen
 		m_ExHintIcon = ImageWidget.Cast(game.GetLoadingWorkspace().CreateWidgets(CV95_PATH_GUI + "layouts\\hint_icon.layout", m_ExPanelWidget));
 		m_ExHintIcon.SetScreenPos(posHintIconX, posHintIconY, true);
 		m_ExHintIcon.LoadImageFile(0, m_ExCustomLoadingScreenData.HintIconPath);
+		m_ExHintIcon.SetSize(64,64);
 
 		//! Remove vanilla mask texture
 		m_ImageWidgetBackground.LoadMaskTexture("");
@@ -48,13 +51,22 @@ modded class LoadingScreen
 
 			m_ImageLogoCorner = ImageWidget.Cast(game.GetLoadingWorkspace().CreateWidgets(CV95_PATH_GUI + "layouts\\logo.layout", m_ExPanelWidget));
 			m_ImageLogoCorner.SetScreenPos(posLogoX, posLogoY, true);
-			m_ImageLogoCorner.LoadImageFile(0, m_ExCustomLoadingScreenData.LogoPath);
+			m_ImageLogoCorner.SetSize(256,256);
+
+			m_ImageLogoMid.SetSize(256,256);
 		}
 		//! Hide vanilla logo
 		else if (!m_ExCustomLoadingScreenData.ShowLogo)
 		{
 			m_ImageLogoCorner.Show(false);
 		}
+
+		if (m_ImageLogoCorner)
+			m_ImageLogoCorner.LoadImageFile(0, m_ExCustomLoadingScreenData.LogoPath);
+
+		if (m_ImageLogoMid)
+			m_ImageLogoMid.LoadImageFile(0, m_ExCustomLoadingScreenData.LogoPath);
+
 
 		if (m_ExCustomLoadingScreenData.LoadingBarColor != 0)
 		{

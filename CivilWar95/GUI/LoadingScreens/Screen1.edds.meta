@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{A29316C5AD4F2C51}Screen1.edds"
+ Author "win-musqq7ebvnp"
+ ChangeDate 126168825
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "Screen1.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

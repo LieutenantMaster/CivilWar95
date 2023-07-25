@@ -1,7 +1,7 @@
 class CustomLoadingScreenData
 {
 	bool ShowLogo = true;
-	string LogoPath = CV95_PATH_GUI + "logo.edds";
+	string LogoPath = CV95_PATH_GUI + "cw95vert.edds";
 	bool RandomizeBackgounds = true;
 	int LoadingBarColor = ARGB(255, 199, 38, 81);
 	bool UseCustomHints = true;

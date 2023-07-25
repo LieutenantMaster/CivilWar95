@@ -7,6 +7,8 @@ EMUServer.ini
 .vs/
 
 Missions/dayzOffline.chernarusplus/storage_*
+Missions/dayzOffline.chernarusplus/cv95/playerdata/
+Missions/dayzOffline.chernarusplus/expansion/traderzones/
 
 Profiles/ServerProfile/*.csv
 Profiles/ServerProfile/*.cfg
@@ -24,7 +26,11 @@ Profiles/ServerProfile/ExpansionMod/Groups/
 Profiles/ServerProfile/ExpansionMod/ATM/
 Profiles/ServerProfile/ExpansionMod/AI/
 Profiles/ServerProfile/ExpansionMod/Hardline/
+Profiles/ServerProfile/@Logging/
+Profiles/ServerProfile/CJ_Pass/DataBase/
+Profiles/ServerProfile/EventManagerLog/
 
+*.log
 *.RPT
 *.log
 *.ADM
