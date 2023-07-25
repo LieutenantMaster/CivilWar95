@@ -36,7 +36,6 @@ modded class LoadingScreen
 		m_ExHintIcon = ImageWidget.Cast(game.GetLoadingWorkspace().CreateWidgets(CV95_PATH_GUI + "layouts\\hint_icon.layout", m_ExPanelWidget));
 		m_ExHintIcon.SetScreenPos(posHintIconX, posHintIconY, true);
 		m_ExHintIcon.LoadImageFile(0, m_ExCustomLoadingScreenData.HintIconPath);
-		m_ExHintIcon.SetSize(64,64);
 
 		//! Remove vanilla mask texture
 		m_ImageWidgetBackground.LoadMaskTexture("");
