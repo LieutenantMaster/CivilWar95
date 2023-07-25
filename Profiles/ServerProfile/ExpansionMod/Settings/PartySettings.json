@@ -1,5 +1,5 @@
 {
-    "m_Version": 5,
+    "m_Version": 6,
     "EnableParties": 0,
     "MaxMembersInParty": 1,
     "UseWholeMapForInviteList": 0,
@@ -15,5 +15,6 @@
     "ShowHUDMemberStates": 0,
     "ShowHUDMemberStance": 0,
     "ShowPartyMemberMapMarkers": 0,
-    "ShowHUDMemberDistance": 0
+    "ShowHUDMemberDistance": 0,
+    "ForcePartyToHaveTags": 0
 }
