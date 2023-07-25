@@ -166,8 +166,8 @@
         },
         {
             "ClassName": "stone",
-            "MaxPriceThreshold": 110,
-            "MinPriceThreshold": 44,
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -177,8 +177,8 @@
         },
         {
             "ClassName": "woodenplank",
-            "MaxPriceThreshold": 25,
-            "MinPriceThreshold": 10,
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
