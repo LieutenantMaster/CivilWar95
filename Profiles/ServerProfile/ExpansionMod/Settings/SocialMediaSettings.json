@@ -2,20 +2,20 @@
     "m_Version": 2,
     "NewsFeedTexts": [
         {
-            "m_Title": "CHANGE ME",
-            "m_Text": "THIS IS A PLACEHOLDER TEXT"
+            "m_Title": "Civil War 95 BETA",
+            "m_Text": "Si quelque chose vous semble cassé ou étrange, n'hésitez pas à le signaler !"
         }
     ],
     "NewsFeedLinks": [
         {
             "m_Label": "Discord",
             "m_Icon": "set:expansion_iconset image:icon_discord",
-            "m_URL": "https://discord.gg/H5fRdJDPx5"
+            "m_URL": "https://discord.gg/bavQVQRMvv"
         },
         {
             "m_Label": "Steam",
             "m_Icon": "set:expansion_iconset image:icon_steam",
-            "m_URL": "https://www.google.com/"
+            "m_URL": "https://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=2996894040"
         }
     ]
 }
