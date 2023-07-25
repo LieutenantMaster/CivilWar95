@@ -41,7 +41,7 @@
 	},
 	{
 		"m_Headline": "Sirènes",
-		"m_ImagePath": "DayZExpansion\\Core\\GUI\\icons\\misc\\T_Helicopter_256x256.edds",
+		"m_ImagePath": "",
 		"m_Description": "Les sirènes alertent d'un danger imminent. Si vous l'entendez, hâtez-vous de trouver refuge."
 	},
 	{
