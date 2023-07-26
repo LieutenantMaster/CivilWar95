@@ -1,4 +1,4 @@
-class CV95_Effect_Base extends House
+class CV95_Effect_Base: House
 {
 	Particle m_ParticleEfx;
 
