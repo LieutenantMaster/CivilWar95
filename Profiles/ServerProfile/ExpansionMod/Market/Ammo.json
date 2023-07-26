@@ -346,7 +346,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Air_GP25_Teargas",
+            "ClassName": "Ammo_Air_GP25_Teargas",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 40,
             "SellPricePercent": -1.0,
