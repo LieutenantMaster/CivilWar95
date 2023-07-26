@@ -118,7 +118,6 @@ class CustomMission: MissionServer
 		}
 		Print("[CivilWar95]:: FileExist");
 
-		int factionID;
 		string factionName;
 		vector spawnPos = "0 0 0";
 
@@ -131,14 +130,15 @@ class CustomMission: MissionServer
 				TStringArray tokens = new TStringArray;
 				line.Split( "|", tokens );
 
-				factionID	= tokens.Get( 0 ).ToInt();
+				factionName	= tokens.Get( 0 );
 				loadoutType = tokens.Get( 1 );
 				spawnPos 	= tokens.Get( 2 ).ToVector();
 			}
 		}
+		CloseFile(file);
 		Print("[CivilWar95]:: FGets");
 
-		typename factionType = eAIFaction.GetTypeByID(factionID);
+		typename factionType = eAIFaction.GetType(factionName);
 		if (factionType)
 		{
 			eAIFaction faction = eAIFaction.Cast(factionType.Spawn());

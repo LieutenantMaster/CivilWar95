@@ -73,7 +73,7 @@ modded class PlayerBase
 			return;
 
 		string steamID = GetIdentity().GetPlainId();
-		int factionID;
+		string factionName;
 		string loadoutType = "DEFAULT";
 		vector spawnPos = "0 0 0";
 
@@ -91,20 +91,26 @@ modded class PlayerBase
 					TStringArray tokens = new TStringArray;
 					line.Split( "|", tokens );
 
-					factionID	= tokens.Get( 0 ).ToInt();
+					factionName	= tokens.Get( 0 );
 					loadoutType = tokens.Get( 1 );
 					spawnPos 	= tokens.Get( 3 ).ToVector();
 				}
 			}
+			CloseFile(file);
 		}
 
-		if ( factionID != eAI_GetFactionTypeID() )
-			factionID = eAI_GetFactionTypeID();
+		if ( GetGroup() )
+		{
+			if ( factionName != GetGroup().GetFaction().GetName() )
+				factionName = GetGroup().GetFaction().GetName();
+		}
 
-		string output = factionID.ToString() + "|" + loadoutType + "|" + spawnPos.ToString();
+		string primaryData 		= factionName + "|" + loadoutType + "|" + spawnPos.ToString();
+		string secondaryData 	= GetIdentity().GetName() + "|" + GetIdentity().GetId() + "|" + steamID;
 
 		file = OpenFile(filename, FileMode.WRITE);
-		FPrintln(file, output);
+		FPrintln(file, primaryData);
+		FPrintln(file, secondaryData);
 		CloseFile(file);
 		
 		super.EEKilled(killer);

@@ -50,9 +50,9 @@ modded class LoadingScreen
 
 			m_ImageLogoCorner = ImageWidget.Cast(game.GetLoadingWorkspace().CreateWidgets(CV95_PATH_GUI + "layouts\\logo.layout", m_ExPanelWidget));
 			m_ImageLogoCorner.SetScreenPos(posLogoX, posLogoY, true);
-			m_ImageLogoCorner.SetSize(256,256);
+			m_ImageLogoCorner.SetSize(300,300);
 
-			m_ImageLogoMid.SetSize(256,256);
+			m_ImageLogoMid.SetSize(300,300);
 		}
 		//! Hide vanilla logo
 		else if (!m_ExCustomLoadingScreenData.ShowLogo)
