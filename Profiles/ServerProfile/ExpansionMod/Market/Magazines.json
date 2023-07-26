@@ -494,6 +494,17 @@
             "Variants": []
         },
         {
+            "ClassName": "air_weapon_ots33_mag",
+            "MaxPriceThreshold": 90,
+            "MinPriceThreshold": 45,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "mag_cz550_4rnd",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 150,
