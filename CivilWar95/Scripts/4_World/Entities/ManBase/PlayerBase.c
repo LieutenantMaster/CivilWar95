@@ -1,6 +1,6 @@
 modded class PlayerBase
 {
-	private FrontLineManager m_FrontLineManager;
+	private ref FrontLineManager m_FrontLineManager;
 
 #ifndef SERVER
 	void PlayerBase()
@@ -11,8 +11,8 @@ modded class PlayerBase
 
 	void CV95_DelayedInit()
 	{
-		//m_FrontLineManager = new FrontLineManager();
-		//m_FrontLineManager.CheckPlayerPosition();
+		m_FrontLineManager = new FrontLineManager();
+		m_FrontLineManager.CheckPlayerPosition();
 	}
 #endif
 
