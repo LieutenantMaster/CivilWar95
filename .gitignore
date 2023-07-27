@@ -19,8 +19,7 @@ Profiles/ServerProfile/Users/
 Profiles/ServerProfile/DataCache/
 Profiles/ServerProfile/BattlEye/
 Profiles/ServerProfile/CommunityOnlineTools/
-Profiles/ServerProfile/PermissionsFramework/Players/
-Profiles/ServerProfile/PermissionsFramework/Permissions/
+Profiles/ServerProfile/PermissionsFramework/
 Profiles/ServerProfile/ExpansionMod/Logs/
 Profiles/ServerProfile/ExpansionMod/Groups/
 Profiles/ServerProfile/ExpansionMod/ATM/
