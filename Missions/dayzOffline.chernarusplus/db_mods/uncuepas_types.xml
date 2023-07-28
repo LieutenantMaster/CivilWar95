@@ -102,9 +102,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="ushanka_greenlight">
         <nominal>0</nominal>
@@ -117,9 +115,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="ushanka_blackfurw">
         <nominal>0</nominal>
@@ -132,9 +128,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="ushanka_beige">
         <nominal>0</nominal>
@@ -147,9 +141,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="ushanka_flt">
         <nominal>0</nominal>
@@ -162,9 +154,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="ushanka_white">
         <nominal>0</nominal>
@@ -177,9 +167,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="ushanka_whiteblackfur">
         <nominal>0</nominal>
@@ -192,9 +180,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="ushanka_woodland">
         <nominal>0</nominal>
@@ -207,9 +193,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="BaseballCap_greywhite">
         <nominal>0</nominal>
@@ -322,9 +306,7 @@
         <usage name="Farm"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="CowboyHat_white">
         <nominal>0</nominal>
@@ -339,9 +321,7 @@
         <usage name="Farm"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="CowboyHat_grey">
         <nominal>0</nominal>
@@ -356,9 +336,7 @@
         <usage name="Farm"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="CowboyHat_darkgreen">
         <nominal>0</nominal>
@@ -373,9 +351,7 @@
         <usage name="Farm"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="CowboyHat_blue">
         <nominal>0</nominal>
@@ -390,9 +366,7 @@
         <usage name="Farm"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="RadarCap_white">
         <nominal>0</nominal>
@@ -447,9 +421,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="ChestHolster_green">
         <nominal>0</nominal>
@@ -463,9 +435,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="ChestHolster_black">
         <nominal>0</nominal>
@@ -479,9 +449,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="Shirt_checkHero">
         <nominal>0</nominal>
@@ -547,8 +515,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="HikingJacket_whitegreen">
         <nominal>0</nominal>
@@ -562,8 +529,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="HikingJacket_whiteblue">
         <nominal>0</nominal>
@@ -577,8 +543,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="HikingJacket_whiteblack">
         <nominal>0</nominal>
@@ -592,8 +557,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="HikingJacket_blackyellow">
         <nominal>0</nominal>
@@ -607,8 +571,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="HikingJacket_blackpink">
         <nominal>0</nominal>
@@ -622,8 +585,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="HikingJacket_blackblue">
         <nominal>0</nominal>
@@ -637,8 +599,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="HikingJacket_orangegrey">
         <nominal>0</nominal>
@@ -652,8 +613,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="RidersJacket_BlackRed">
         <nominal>0</nominal>
@@ -714,8 +674,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="HuntingJacket_woodland">
         <nominal>0</nominal>
@@ -728,8 +687,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="HuntingJacket_maroon">
         <nominal>0</nominal>
@@ -742,8 +700,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="HuntingJacket_navy">
         <nominal>0</nominal>
@@ -756,8 +713,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="HuntingJacket_beige">
         <nominal>0</nominal>
@@ -770,8 +726,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="FirefightersJacket_red">
         <nominal>0</nominal>
@@ -809,9 +764,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="Sweater_greyblue">
         <nominal>0</nominal>
@@ -825,9 +778,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="Sweater_grey2tone">
         <nominal>0</nominal>
@@ -841,9 +792,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="Sweater_green2tone">
         <nominal>0</nominal>
@@ -857,9 +806,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="Sweater_bluestriped">
         <nominal>0</nominal>
@@ -873,9 +820,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="Sweater_festive">
         <nominal>0</nominal>
@@ -889,9 +834,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="QuiltedJacket_WedgeWhite">
         <nominal>0</nominal>
@@ -905,8 +848,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="QuiltedJacket_WedgeOrange">
         <nominal>0</nominal>
@@ -920,8 +862,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="QuiltedJacket_WedgeGreen">
         <nominal>0</nominal>
@@ -935,8 +876,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="QuiltedJacket_WedgeBlue">
         <nominal>0</nominal>
@@ -950,8 +890,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="QuiltedJacket_BlueOrange">
         <nominal>0</nominal>
@@ -965,8 +904,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="BomberJacket_blackblue">
         <nominal>0</nominal>
@@ -980,9 +918,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="BomberJacket_greyblack">
         <nominal>0</nominal>
@@ -996,9 +932,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="BomberJacket_red">
         <nominal>0</nominal>
@@ -1012,9 +946,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="LabCoat_Livonia">
         <nominal>0</nominal>
@@ -1134,8 +1066,7 @@
         <category name="clothes"/>
         <usage name="Industrial"/>
         <usage name="Farm"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="HunterPants_woodland">
         <nominal>0</nominal>
@@ -1148,8 +1079,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="HunterPants_maroon">
         <nominal>0</nominal>
@@ -1162,8 +1092,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="HunterPants_navy">
         <nominal>0</nominal>
@@ -1176,8 +1105,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="HunterPants_beige">
         <nominal>0</nominal>
@@ -1190,8 +1118,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="FirefightersPants_red">
         <nominal>0</nominal>
@@ -2024,9 +1951,7 @@
         <category name="clothes"/>
         <tag name="shelves"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="GorkaHelmet_Blue">
         <nominal>0</nominal>
@@ -2040,9 +1965,7 @@
         <category name="clothes"/>
         <tag name="shelves"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="OfficerHat_White">
         <nominal>0</nominal>
@@ -2069,8 +1992,7 @@
         <category name="clothes"/>
         <tag name="shelves"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="GP5GasMask_Black">
         <nominal>0</nominal>
@@ -2083,8 +2005,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="GasMask_Black">
         <nominal>0</nominal>
@@ -2098,8 +2019,7 @@
         <category name="clothes"/>
         <usage name="Military"/>
         <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <value user="Tier123"/>
     </type>
     <type name="Bandana_Black">
         <nominal>0</nominal>
@@ -2113,9 +2033,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="PoliceVest_Black">
         <nominal>0</nominal>
@@ -2166,8 +2084,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="RidersJacket_maroon">
         <nominal>0</nominal>
@@ -2218,8 +2135,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="CargoPants_Flecktarn">
         <nominal>0</nominal>
@@ -2233,8 +2149,7 @@
         <category name="clothes"/>
         <usage name="Industrial"/>
         <usage name="Farm"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="CivilianBelt_brown">
         <nominal>0</nominal>

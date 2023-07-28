@@ -102,9 +102,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="Golden_Winged_Pin">
         <nominal>0</nominal>
@@ -192,9 +190,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="Plague_Mask">
         <nominal>0</nominal>
@@ -208,9 +204,7 @@
         <category name="clothes"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="Kirza_Boots">
         <nominal>0</nominal>
@@ -236,8 +230,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="Defender_Vest_Black">
         <nominal>0</nominal>
@@ -250,8 +243,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>
     <type name="Defender_Vest_Green">
         <nominal>0</nominal>
@@ -264,7 +256,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier1234"/>
     </type>    
 </types>
