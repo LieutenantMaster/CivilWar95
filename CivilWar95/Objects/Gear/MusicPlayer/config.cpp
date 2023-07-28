@@ -174,7 +174,7 @@ class CfgVehicles
 	class CV95_Cassette_ChernarussianAnthem: CV95_Cassette_Base
 	{
 		scope=2;
-		trackTime = 133.0;
+		trackTime = 78.0;
 		displayName="Chernarussian Anthem";
 		descriptionShort="...";
 		Tracks[] = 
