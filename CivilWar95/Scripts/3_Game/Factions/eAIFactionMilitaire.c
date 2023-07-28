@@ -4,7 +4,7 @@ class eAIFactionMilitaire : eAIFaction
 {
 	void eAIFactionMilitaire()
 	{
-		m_Loadout = "WestLoadout";
+		m_Loadout = "MilitaireLoadout";
 	}
 
 	override bool IsFriendly(notnull eAIFaction other)

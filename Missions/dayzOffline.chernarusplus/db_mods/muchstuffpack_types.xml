@@ -2173,7 +2173,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value user="Tier1"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="Msp_Slouchie_Blue">
@@ -2186,7 +2186,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value user="Tier1"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="Msp_Slouchie_Black">
@@ -2199,7 +2199,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value user="Tier1"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="Msp_Slouchie_Beige">
@@ -2212,7 +2212,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value user="Tier1"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="Msp_BunnyEarsHeadband">
@@ -2263,7 +2263,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value user="Tier2"/>
+        <value name="Tier2"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="Msp_WaistPack_Green">
@@ -2276,7 +2276,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value user="Tier2"/>
+        <value name="Tier2"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="Msp_WaistPack_Brown">
@@ -2289,7 +2289,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value user="Tier1"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="Msp_WaistPack_UrbanFlektarn">
@@ -2302,7 +2302,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value user="Tier1"/>
+        <value name="Tier1"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="Msp_WaistPack_Blue">

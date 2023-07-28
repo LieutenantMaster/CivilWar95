@@ -1,0 +1,35 @@
+{
+	"Departments": [
+		{
+			"DepartmentName": "Civil War 95",
+			"Sections": [
+				{
+					"SectionName": "Mod Developers",
+					"SectionLines": [
+						"LieutenantMaster"
+					]
+				},
+				{
+					"SectionName": "Tools Developers",
+					"SectionLines": [
+						"RainMaker"
+					]
+				},
+				{
+					"SectionName": "UI Designers",
+					"SectionLines": [
+						"Novak"
+					]
+				},
+				{
+					"SectionName": "Integrator Developers",
+					"SectionLines": [
+						"La_Lessive_Lechat",
+						"Annarchy",
+						"Mouli"
+					]
+				}
+			]
+		}
+	]
+}

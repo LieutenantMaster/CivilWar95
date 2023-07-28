@@ -4,7 +4,7 @@ class eAIFactionMedic : eAIFaction
 {
 	void eAIFactionMedic()
 	{
-		m_Loadout = "SurvivorLoadout";
+		m_Loadout = "MedicLoadout";
 	}
 
 	override bool IsFriendly(notnull eAIFaction other)

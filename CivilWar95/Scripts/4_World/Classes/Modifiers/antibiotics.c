@@ -6,13 +6,13 @@ modded class AntibioticsMdfr
 	
 	override void Init()
 	{
-		m_TrackActivatedTime = true;
-		m_IsPersistent = true;
+		m_TrackActivatedTime 	= true;
+		m_IsPersistent 			= true;
 		m_ID 					= eModifiers.MDF_ANTIBIOTICS;
 		m_TickIntervalInactive 	= DEFAULT_TICK_TIME_INACTIVE;
 		m_TickIntervalActive 	= 3;
-		m_RegenTime = 60;
-	}	
+		m_RegenTime 			= 60;
+	}
 
 	override void OnTick(PlayerBase player, float deltaT)
 	{

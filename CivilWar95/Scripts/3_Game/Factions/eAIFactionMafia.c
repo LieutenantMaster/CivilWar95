@@ -4,7 +4,7 @@ class eAIFactionMafia : eAIFaction
 {
 	void eAIFactionMafia()
 	{
-		m_Loadout = "CivilianLoadout";
+		m_Loadout = "MafiaLoadout";
 	}
 
 	override bool IsFriendly(notnull eAIFaction other)

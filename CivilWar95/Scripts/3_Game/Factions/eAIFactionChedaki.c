@@ -4,7 +4,7 @@ class eAIFactionChedaki : eAIFaction
 {
 	void eAIFactionChedaki()
 	{
-		m_Loadout = "EastLoadout";
+		m_Loadout = "ChedakiLoadout";
 	}
 
 	override bool IsFriendly(notnull eAIFaction other)

@@ -4,7 +4,7 @@ class eAIFactionNapa : eAIFaction
 {
 	void eAIFactionNapa()
 	{
-		m_Loadout = "EastLoadout";
+		m_Loadout = "NapaLoadout";
 	}
 
 	override bool IsFriendly(notnull eAIFaction other)
