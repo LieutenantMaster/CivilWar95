@@ -92,7 +92,6 @@ class CustomMission: MissionServer
 	//! ============================== PLAYER FACTION AND LOADOUT SYSTEM ==============================
 	override void EquipCharacter(MenuDefaultCharacterData char_data)
 	{
-		Print("[CivilWar95]:: EquipCharacter");
 		if ( !IsMissionHost() )
 		{
 			super.EquipCharacter(char_data);
@@ -104,7 +103,6 @@ class CustomMission: MissionServer
 		string filename = CV95_PATH_MISSION_PLAYERDATA + steamID + ".map";
 
 		FileHandle file;
-		Print("[CivilWar95]:: !FileExist");
 		if (!FileExist( filename ))
 		{
 			m_player.SetPosition(GetCivilianSpawns().GetRandomElement());
@@ -116,7 +114,6 @@ class CustomMission: MissionServer
 			ExpansionHumanLoadout.Apply(m_player, loadoutType, false);
 			return;
 		}
-		Print("[CivilWar95]:: FileExist");
 
 		string factionName;
 		vector spawnPos = "0 0 0";
@@ -136,7 +133,8 @@ class CustomMission: MissionServer
 			}
 		}
 		CloseFile(file);
-		Print("[CivilWar95]:: FGets");
+
+		GetFactionData(factionName, m_player.IsMale(), loadoutType, spawnPos);
 
 		typename factionType = eAIFaction.GetType(factionName);
 		if (factionType)
@@ -155,26 +153,20 @@ class CustomMission: MissionServer
 				}
 			}
 		}
-		Print("[CivilWar95]:: factionType");
-
-		GetFactionData(factionName, m_player.IsMale(), loadoutType, spawnPos);
 
 		TStringArray gear = new TStringArray;
 		loadoutType.Split( ",", gear );
 		if ( gear.Count() > 1 )
 		{
-			Print("[CivilWar95]:: ExpansionObjectSpawnTools");
 			ExpansionObjectSpawnTools.ProcessGear(m_player, loadoutType);
 		} else {
-			Print("[CivilWar95]:: ExpansionHumanLoadout");
 			ExpansionHumanLoadout.Apply(m_player, loadoutType, false);
 		}
 
-		Print("[CivilWar95]:: SetPosition");
 		m_player.SetPosition(spawnPos);
 	}
 
-	void GetFactionData(string factionName, bool isMale, out string loadoutType, out vector spawnPos)
+	void GetFactionData(out string factionName, bool isMale, out string loadoutType, out vector spawnPos)
 	{
 		string factionLoadout;
 		vector SelectedPos;
@@ -185,47 +177,53 @@ class CustomMission: MissionServer
 		switch(factionName)
 		{
 			default:
-			case "": // civil !
-				SelectedPos = GetCivilianSpawns().GetRandomElement();
+				factionName = "Civilian"
+				SelectedPos = GetFistSpawns().GetRandomElement();
 				if ( isMale )
 					factionLoadout = "PlayerSurvivorLoadout";
 				else
 					factionLoadout = "PlayerSurvivorLoadout";
+			case "": // civil !
+				SelectedPos = GetCivilianSpawns().GetRandomElement();
+				if ( isMale )
+					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
+				else
+					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 			break;
 			case "Police":
 				SelectedPos = GetPoliceSpawns().GetRandomElement();
 				if ( isMale )
-					factionLoadout = "PoliceLoadout";
+					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 				else
-					factionLoadout = "PoliceLoadout";
+					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 			break;
 			case "Medic":
 				SelectedPos = GetCivilianSpawns().GetRandomElement();
 				if ( isMale )
-					factionLoadout = "PlayerSurvivorLoadout";
+					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 				else
-					factionLoadout = "PlayerSurvivorLoadout";
+					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 			break;
 			case "Militaire":
 				SelectedPos = GetChernaSpawns().GetRandomElement();
 				if ( isMale )
-					factionLoadout = "GorkaLoadout";
+					factionLoadout = "TTsKO_Boots,Armband_CDF,TTSKOPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Beige";
 				else
-					factionLoadout = "GorkaLoadout";
+					factionLoadout = "TTsKO_Boots,Armband_CDF,TTSKOPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Beige";
 			break;
 			case "Napa":
 				SelectedPos = GetNAPASpawns().GetRandomElement();
 				if ( isMale )
-					factionLoadout = "EastLoadout";
+					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 				else
-					factionLoadout = "EastLoadout";
+					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 			break;
 			case "Chedaki":
 				SelectedPos = GetChedakiSpawns().GetRandomElement();
 				if ( isMale )
-					factionLoadout = "TTSKOLoadout";
+					factionLoadout = "TTsKO_Boots Armband_Chedaki,BDUPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Green";
 				else
-					factionLoadout = "TTSKOLoadout";
+					factionLoadout = "TTsKO_Boots Armband_Chedaki,BDUPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Green";
 			break;
 		}
 
@@ -236,12 +234,16 @@ class CustomMission: MissionServer
 			loadoutType = factionLoadout;
 	}
 
-	static TVectorArray GetCivilianSpawns()
+	static TVectorArray GetFistSpawns()
 	{
 		return { "2474.515869 190.759171 5221.121582",
 				"2479.470215 191.753998 5221.046387",
-				"2481.639648 190.843170 5245.028809",
-				"2729.891846 200.718246 5186.811035"};
+				"2481.639648 190.843170 5245.028809"};
+	}
+
+	static TVectorArray GetCivilianSpawns()
+	{
+		return { "2729.891846 200.718246 5186.811035"};
 	}
 
 	static TVectorArray GetChedakiSpawns()
@@ -282,23 +284,19 @@ class CustomMission: MissionServer
 	static bool IsScheaduledRestart()
 	{
 		CF_Date now = CF_Date.Now(true);
-		int timestamp = now.DateToEpoch();
-		
-		for (int i = 0; i < GetExpansionSettings().GetNotificationScheduler().Notifications.Count(); i++)
+
+		if ( now.GetHours() != 8 && now.GetHours() != 16 & now.GetHours() != 0 )
 		{
-			ExpansionNotificationSchedule schedule = GetExpansionSettings().GetNotificationScheduler().Notifications[i];
-			if (!schedule || schedule.m_LastShownTimestamp == timestamp)
-				continue;
-			
-			if (( schedule.Hour + 1 ) == now.GetHours() && now.GetMinutes() < 10.0)
-			{
-				Print("[CivilWar95]:: TRADERZONE:: IsScheaduledRestart:: TRUE");
-				Print("[CivilWar95]:: Time: "+ now.GetHours() + "H "+ now.GetMinutes() + "m");
-				Print("[CivilWar95]:: Target Hour: "+ schedule.Hour);
-				return true;
-			}
-			
-			Print("[CivilWar95]:: Schedule Hour: "+ schedule.Hour);
+			Print("[CivilWar95]:: TRADERZONE:: IsScheaduledRestart:: FALSE");
+			Print("[CivilWar95]:: Time: "+ now.GetHours() + "H "+ now.GetMinutes() + "m");
+			return false;
+		}
+		
+		if ( now.GetMinutes() < 10.0)
+		{
+			Print("[CivilWar95]:: TRADERZONE:: IsScheaduledRestart:: TRUE");
+			Print("[CivilWar95]:: Time: "+ now.GetHours() + "H "+ now.GetMinutes() + "m");
+			return true;
 		}
 
 		Print("[CivilWar95]:: TRADERZONE:: IsScheaduledRestart:: FALSE");

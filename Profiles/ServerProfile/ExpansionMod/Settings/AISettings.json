@@ -1,17 +1,21 @@
 {
     "m_Version": 6,
-    "AccuracyMin": 0.15000000596046449,
-    "AccuracyMax": 0.75,
+    "AccuracyMin": 0.15,
+    "AccuracyMax": 0.7,
     "ThreatDistanceLimit": 1000.0,
     "DamageMultiplier": 1.0,
     "Admins": [
-        "76561198152677868"
+        "76561198152677868",
+        "76561198020765121",
+        "242402612601815040",
+        "76561198092307102",
+        "76561198114890185"
     ],
     "MaximumDynamicPatrols": 30,
     "Vaulting": 1,
     "SniperProneDistanceThreshold": 150.0,
     "Manners": 0,
     "CanRecruitGuards": 1,
-    "FormationScale": 0.75,
+    "FormationScale": 2.75,
     "PlayerFactions": []
 }

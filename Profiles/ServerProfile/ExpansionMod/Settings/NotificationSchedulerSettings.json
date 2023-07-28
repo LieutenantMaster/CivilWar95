@@ -5,11 +5,29 @@
     "UseMissionTime": 0,
     "Notifications": [
         {
-            "Hour": 19,
+            "Hour": 23,
+            "Minute": 55,
+            "Second": 0,
+            "Title": "Restart Minuit",
+            "Text": "5 minutes avant restart",
+            "Icon": "Info",
+            "Color": ""
+        },
+        {
+            "Hour": 23,
             "Minute": 50,
             "Second": 0,
-            "Title": "Restart 20h",
+            "Title": "Restart Minuit",
             "Text": "10 minutes avant restart",
+            "Icon": "Info",
+            "Color": ""
+        },
+        {
+            "Hour": 15,
+            "Minute": 55,
+            "Second": 0,
+            "Title": "Restart 16h",
+            "Text": "5 minutes avant restart",
             "Icon": "Info",
             "Color": ""
         },
@@ -23,10 +41,19 @@
             "Color": ""
         },
         {
-            "Hour": 11,
+            "Hour": 7,
+            "Minute": 55,
+            "Second": 0,
+            "Title": "Restart 8h",
+            "Text": "5 minutes avant restart",
+            "Icon": "Info",
+            "Color": ""
+        },
+        {
+            "Hour": 7,
             "Minute": 50,
             "Second": 0,
-            "Title": "Restart 12h",
+            "Title": "Restart 8h",
             "Text": "10 minutes avant restart",
             "Icon": "Info",
             "Color": ""
