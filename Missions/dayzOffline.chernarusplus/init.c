@@ -183,6 +183,7 @@ class CustomMission: MissionServer
 					factionLoadout = "PlayerSurvivorLoadout";
 				else
 					factionLoadout = "PlayerSurvivorLoadout";
+			break;
 			case "": // civil !
 				SelectedPos = GetCivilianSpawns().GetRandomElement();
 				if ( isMale )
