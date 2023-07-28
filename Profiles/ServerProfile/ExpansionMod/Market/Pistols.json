@@ -130,10 +130,8 @@
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "air_weapon_ots33_mag"
-            ]
+            "SpawnAttachments": ["air_weapon_ots33_mag"],
+            "Variants": []
         },
         {
             "ClassName": "deagle",
