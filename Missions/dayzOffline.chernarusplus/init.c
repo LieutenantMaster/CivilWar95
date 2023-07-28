@@ -176,7 +176,7 @@ class CustomMission: MissionServer
 
 		switch(factionName)
 		{
-			default:
+			case "": // New Player !
 				factionName = "Civilian"
 				SelectedPos = GetFistSpawns().GetRandomElement();
 				if ( isMale )
@@ -184,7 +184,8 @@ class CustomMission: MissionServer
 				else
 					factionLoadout = "PlayerSurvivorLoadout";
 			break;
-			case "": // civil !
+			default:
+			case "Civilian":
 				SelectedPos = GetCivilianSpawns().GetRandomElement();
 				if ( isMale )
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
