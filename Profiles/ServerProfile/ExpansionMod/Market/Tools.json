@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "whetstone",
-            "MaxPriceThreshold": 25,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 5,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
