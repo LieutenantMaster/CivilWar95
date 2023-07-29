@@ -6,11 +6,11 @@ EMUServer.ini
 .vscode/
 .vs/
 
-CV95_Missions/dayzOffline.chernarusplus/storage_*
-CV95_Missions/dayzOffline.chernarusplus/cv95/playerdata/
-CV95_Missions/dayzOffline.chernarusplus/expansion/traderzones/
-CV95_Missions/.gitattributes
-CV95_Missions/.gitignore
+Missions/dayzOffline.chernarusplus/storage_*
+Missions/dayzOffline.chernarusplus/cv95/playerdata/
+Missions/dayzOffline.chernarusplus/expansion/traderzones/
+Missions/.gitattributes
+Missions/.gitignore
 
 Profiles/SClientAProfile/
 Profiles/SClientBProfile/
@@ -31,6 +31,8 @@ Profiles/ServerProfile/ExpansionMod/*.bin
 Profiles/ServerProfile/@Logging/
 Profiles/ServerProfile/CJ_Pass/DataBase/
 Profiles/ServerProfile/EventManagerLog/
+Profiles/ServerProfile/.gitattributes
+Profiles/ServerProfile/.gitignore
 
 *.log
 *.RPT
