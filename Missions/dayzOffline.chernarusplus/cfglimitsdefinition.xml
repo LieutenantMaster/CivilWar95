@@ -34,11 +34,11 @@
         <usage name="ContaminatedArea"/>
     </usageflags>
     <valueflags>
-        <value name="Tier1"/> <!-- Road to Cherno -->
+        <value name="Tier1"/> <!-- Zeleno to Cherno -->
         <value name="Tier2"/> <!-- Vicinity of Cherno -->
         <value name="Tier3"/> <!-- Cherno | Everything but not the center -->
         <value name="Tier4"/> <!-- Cherno | Police to Mayor -->
-        <value name="Tier5"/> <!-- Cherno | Police Station -->
+        <value name="Tier5"/> <!-- Cherno | Police surroundings -->
         <value name="Unique"/>
     </valueflags>
 </lists>
