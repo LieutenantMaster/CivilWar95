@@ -1,0 +1,193 @@
+{
+    "m_Version": 7,
+    "SpawnLocations": [
+        {
+            "Name": "Zelenogorsk",
+            "Positions": [
+                [
+                    2474.515869,
+                    190.759171,
+                    5221.121582
+                ],
+                [
+                    2479.470215,
+                    191.753998,
+                    5221.046387
+                ],
+                [
+                    2469.619141,
+                    191.753998,
+                    5220.262207
+                ],
+                [
+                    2466.229492,
+                    191.643173,
+                    5219.762695
+                ],
+                [
+                    2484.471680,
+                    191.652969,
+                    5221.991699
+                ],
+                [
+                    2488.773926,
+                    191.648560,
+                    5222.411133
+                ],
+                [
+                    2493.463135,
+                    191.645416,
+                    5223.300293
+                ],
+                [
+                    2498.049561,
+                    191.662277,
+                    5223.850098
+                ],
+                [
+                    2502.802734,
+                    191.657410,
+                    5224.388184
+                ],
+                [
+                    2462.960693,
+                    191.635422,
+                    5219.759277
+                ],
+                [
+                    2506.734375,
+                    191.643707,
+                    5225.037109
+                ],
+                [
+                    2474.605469,
+                    190.682953,
+                    5224.488281
+                ],
+                [
+                    2479.294189,
+                    190.684830,
+                    5224.429199
+                ],
+                [
+                    2483.941650,
+                    190.668442,
+                    5225.151855
+                ],
+                [
+                    2477.725342,
+                    190.644806,
+                    5226.194824
+                ],
+                [
+                    2483.756592,
+                    190.620621,
+                    5227.262207
+                ],
+                [
+                    2493.552734,
+                    190.621002,
+                    5228.293457
+                ],
+                [
+                    2488.542725,
+                    190.660568,
+                    5225.500977
+                ],
+                [
+                    2496.823975,
+                    190.625015,
+                    5228.012207
+                ],
+                [
+                    2500.277588,
+                    190.625092,
+                    5227.306641
+                ],
+                [
+                    2493.947266,
+                    190.592224,
+                    5225.984863
+                ],
+                [
+                    2490.369629,
+                    190.616226,
+                    5227.846680
+                ],
+                [
+                    2470.329346,
+                    190.651642,
+                    5225.619141
+                ],
+                [
+                    2475.616943,
+                    190.818054,
+                    5229.715332
+                ],
+                [
+                    2491.481445,
+                    190.818085,
+                    5230.972168
+                ],
+                [
+                    2487.994873,
+                    190.818085,
+                    5230.963867
+                ]
+            ],
+            "UseCooldown": 0
+        }
+    ],
+    "StartingClothing": {
+        "EnableCustomClothing": 0,
+        "SetRandomHealth": 0,
+        "Headgear": [],
+        "Glasses": [],
+        "Masks": [],
+        "Tops": [],
+        "Vests": [],
+        "Gloves": [],
+        "Pants": [],
+        "Belts": [],
+        "Shoes": [],
+        "Armbands": [],
+        "Backpacks": []
+    },
+    "EnableSpawnSelection": 0,
+    "SpawnOnTerritory": 0,
+    "StartingGear": {
+        "EnableStartingGear": 0,
+        "ApplyEnergySources": 1,
+        "SetRandomHealth": 0,
+        "UpperGear": [],
+        "PantsGear": [],
+        "BackpackGear": [],
+        "VestGear": [],
+        "PrimaryWeapon": {},
+        "SecondaryWeapon": {}
+    },
+    "UseLoadouts": 0,
+    "MaleLoadouts": [
+        {
+            "Loadout": "PlayerSurvivorLoadout",
+            "Chance": 1.0
+        }
+    ],
+    "FemaleLoadouts": [
+        {
+            "Loadout": "PlayerSurvivorLoadout",
+            "Chance": 1.0
+        }
+    ],
+    "SpawnHealthValue": 100.0,
+    "SpawnEnergyValue": 750.0,
+    "SpawnWaterValue": 600.0,
+    "EnableRespawnCooldowns": 0,
+    "RespawnCooldown": 120,
+    "TerritoryRespawnCooldown": 240,
+    "PunishMultispawn": 0,
+    "PunishCooldown": 120,
+    "PunishTimeframe": 300,
+    "CreateDeathMarker": 0,
+    "BackgroundImagePath": "DayZExpansion/SpawnSelection/GUI/textures/wood_background.edds"
+}
