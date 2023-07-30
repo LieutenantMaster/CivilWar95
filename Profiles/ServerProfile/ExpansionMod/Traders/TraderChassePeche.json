@@ -1,6 +1,6 @@
 {
     "m_Version": 11,
-    "DisplayName": "ChassePeche",
+    "DisplayName": "Chasse et Pêche",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
@@ -10,5 +10,101 @@
         "expansionbanknotehryvnia"
     ],
     "Categories": [],
-    "Items": {}
+    "Items": {
+        "bearsteakmeat": 2,
+        "goatsteakmeat": 2,
+        "boarsteakmeat": 2,
+        "pigsteakmeat": 2,
+        "deersteakmeat": 2,
+        "wolfsteakmeat": 2,
+        "cowsteakmeat": 2,
+        "sheepsteakmeat": 2,
+        "chickenbreastmeat": 2,
+        "rabbitlegmeat": 2,
+        "carpfilletmeat": 2,
+        "mackerelfilletmeat": 2,
+        "sardines": 2,
+
+        "WildboarPelt": 2,
+        "RabbitPelt": 2,
+        "CowPelt": 2,
+        "PigPelt": 2,
+        "DeerPelt": 2,
+        "GoatPelt": 2,
+        "BearPelt": 2,
+        "WolfPelt": 2,
+        "SheepPelt": 2,
+
+        "fishingrod": 0,
+        "hook": 0,
+        "worm": 0,
+
+        "nylonknifesheath": 0,
+        "leatherknifesheath": 0,
+
+        "kitchenknife": 0,
+        "steakknife": 0,
+        "kukriknife": 0,
+        "fangeknife": 0,
+        "huntingknife": 0,
+        "machete": 0,
+        "crudemachete": 0,
+        "orientalmachete": 0,
+        "cleaver": 0,
+
+        "whetstone": 0,
+
+        "battery9v": 0,
+        "rangefinder": 0,  
+
+        "huntingjacket_autumn": 0,
+            "huntingjacket_brown": 0,
+            "huntingjacket_spring": 0,
+            "huntingjacket_summer": 0,
+            "huntingjacket_winter": 0,
+            "huntingjacket_white": 0,
+            "huntingjacket_woodland": 0,
+            "huntingjacket_beige": 0,
+
+        "huntingvest": 0,
+            "huntingvest_green": 0,
+
+        
+        "hunterpants_winter": 0,
+            "hunterpants_autumn": 0,
+            "hunterpants_brown": 0,
+            "hunterpants_spring": 0,
+            "hunterpants_summer": 0,
+            "hunterpants_beige": 0,
+            "hunterpants_woodland": 0,
+
+        "huntingbag": 0,
+            "HuntingBag_Hannah": 0,
+
+        "fishnettrap": 0,
+        "Msp_FishingRodsRack_Kit": 0,
+
+        "HuntingOptic": 0,
+
+        "CZ527": 0,
+            "Mag_CZ527_5Rnd": 0,
+
+        "CZ550": 0,
+            "Mag_CZ550_10Rnd": 0,
+
+        "Izh18Shotgun": 0,
+        "Izh43Shotgun": 0,
+
+        "TF_VPO190": 0,
+            "TF_Mag_VPO190_4Rnd": 0,
+        
+        "Winchester70": 0,
+
+        "AmmoBox_762x39tracer_20Rnd": 0,
+        "AmmoBox_308Wintracer_20Rnd": 0,
+        "AmmoBox_12gaslug_10rnd": 0,
+        "ammobox_00buck_10rnd": 0,
+        "AmmoBox_545x39tracer_20rnd": 0
+
+    }
 }

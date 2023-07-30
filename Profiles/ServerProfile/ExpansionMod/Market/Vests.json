@@ -26,6 +26,19 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
+            "Variants": [
+                "policeVest_Black"
+            ]
+        },
+        {
+            "ClassName": "policevest_black",
+            "MaxPriceThreshold": 750,
+            "MinPriceThreshold": 750,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
             "Variants": []
         },
         {

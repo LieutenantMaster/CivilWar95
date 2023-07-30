@@ -19,7 +19,7 @@
         },
         {
             "ClassName": "m79",
-            "MaxPriceThreshold": 5000,
+            "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 2500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,

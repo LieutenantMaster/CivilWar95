@@ -123,17 +123,6 @@
             "Variants": []
         },
         {
-            "ClassName": "air_weapon_ots33",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": ["air_weapon_ots33_mag"],
-            "Variants": []
-        },
-        {
             "ClassName": "deagle",
             "MaxPriceThreshold": 800,
             "MinPriceThreshold": 400,
@@ -207,6 +196,17 @@
             "SpawnAttachments": [
                 "mag_expansion_m9_15rnd"
             ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_MP443",
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 175,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
             "Variants": []
         }
     ]

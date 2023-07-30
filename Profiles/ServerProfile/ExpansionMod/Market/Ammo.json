@@ -320,8 +320,8 @@
         },
         {
             "ClassName": "ammo_expansion_m203_smoke_white",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 300,
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 500,
             "MinStockThreshold": 1,
@@ -336,8 +336,8 @@
         },
         {
             "ClassName": "ammo_expansion_m203_smoke_teargas",
-            "MaxPriceThreshold": 900,
-            "MinPriceThreshold": 450,
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 500,
             "MinStockThreshold": 1,

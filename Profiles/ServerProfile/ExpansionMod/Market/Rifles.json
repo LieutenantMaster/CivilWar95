@@ -66,17 +66,6 @@
             "Variants": []
         },
         {
-            "ClassName": "air_weapon_k98",
-            "MaxPriceThreshold": 1100,
-            "MinPriceThreshold": 1100,
-            "SellPricePercent": 100,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "sks",
             "MaxPriceThreshold": 800,
             "MinPriceThreshold": 800,
@@ -88,57 +77,31 @@
             "Variants": []
         },
         {
-            "ClassName": "air_weapon_sks_tactical",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 1000,
-            "SellPricePercent": 100,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "air_weapon_svt",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 3000,
-            "SellPricePercent": 100,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "cz527",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_cz527_5rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
             "ClassName": "cz550",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MaxPriceThreshold": 6500,
+            "MinPriceThreshold": 6500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_cz550_4rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
             "ClassName": "winchester70",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MaxPriceThreshold": 5500,
+            "MinPriceThreshold": 5500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -148,8 +111,8 @@
         },
         {
             "ClassName": "ssg82",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 450,
+            "MaxPriceThreshold": 2400,
+            "MinPriceThreshold": 2400,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -194,6 +157,17 @@
             "SpawnAttachments": [
                 "mag_expansion_m14_10rnd"
             ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_VPO190",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
             "Variants": []
         }
     ]

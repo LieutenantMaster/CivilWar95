@@ -19,6 +19,10 @@
 
         "canopener": 0,
         "canteen": 0,
+        "tacticalbaconcan": 0,
+        "expansionbread1": 0,
+        "crackers": 0,
+        "expansioncheese1": 0,
         "vodka": 1,
         "battery9v": 0,
 
@@ -45,6 +49,8 @@
         "handcuffkeys": 0,
         
         "Ssh68Helmet": 0,
+        "TankerHelmet": 0,
+
 
         "smershvest": 0,
         "smershbag": 0,
@@ -63,10 +69,14 @@
         "tacticalgloves_beige": 0,
 
         "AviatorGlasses": 0,
+
         "morphine": 0,
         "epinephrine": 0,
 
-        
+        "balaclava3holes_black": 0,
+        "armband_chedaki": 0,
+        "flag_chedaki": 0,
+
         "ak74_woodbttstck": 0,
         "mag_ak74_45rnd": 0,        
         "mag_ak74_30rnd": 0,
@@ -86,12 +96,8 @@
         "ammobox_762x54_20rnd": 0,
         "ammobox_762x54tracer_20rnd": 0,
 
-        "air_weapon_aksu": 0,
-        "aks74u_bttstck": 0,        
-        "air_weapon_svt": 0,
-        "air_weapon_svt_mag": 0,
-        "air_weapon_9a91": 0,
-        "air_weapon_mag_9a91": 0,
+        "aksu": 0,
+        "aks74u_bttstck": 0,
 
         "makarovij70": 0,
         "mag_ij70_8rnd": 0,

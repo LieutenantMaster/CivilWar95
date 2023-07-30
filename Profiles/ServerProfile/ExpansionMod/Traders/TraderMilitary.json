@@ -27,7 +27,9 @@
         "epoxyputty": 0,
 
         "binoculars": 0,
+        "chernarusmap": 0,
         "compass": 0,
+
         "personalradio": 0,
         "baseradio": 0,
         "megaphone": 0,
@@ -43,14 +45,17 @@
         "handcuffkeys": 0,
 
         "gp5gasmask": 0,
-        "airbornemask": 0,
         "GasMask_Filter":0,
         
         "militaryberet_nz": 0,
         "militaryberet_cdf": 0,
         "TankerHelmet":0,
         "Ssh68Helmet": 0,
-        "BallisticHelmet_Green": 0,
+
+        "balaclavamask_green": 0,
+            "balaclavamask_black": 0,
+
+        "armband_cdf": 0,
         
 
         
@@ -60,7 +65,6 @@
         "TF_6B23_112Vest_EMR": 0,
         "TF_6B23Vest_EMR": 0,        
         "TF_Maska1Helmet": 0,
-        "TF_Maska1Visor": 0,
         "TF_Maska1SchVisor": 0,
         "TF_6sh112_EMR": 0,
         "TF_RifleSling_Black": 0,
@@ -72,6 +76,8 @@
         "ttskojacket_camo": 0,
         "TTSKOPants" : 0,
         "TTSKOBoots" : 0,
+        "MilitaryBoots_Black": 0,
+
         "FOG_Cronen_Shirt_RG": 0,
         "FOG_Crye_G3_Shirt_CB ": 0,
         "FOG_Crye_G3_Shirt_M81": 0,
@@ -107,24 +113,19 @@
 
 
         "TF_AK74M": 0,
-        "TF_AK_ZenitDTK1Compensator": 0,
         "TF_Mag_AK74_Plum30Rnd": 0,
         "ak74_woodbttstck": 0,
         "ak74_hndgrd": 0,
         "mag_ak74_30rnd": 0,
-        "mag_ak74_45rnd": 0,
         "ammobox_545x39_20rnd": 0,
         "ammobox_545x39tracer_20rnd": 0,
-        "air_weapon_aksu": 0,
         "ak_bayonet": 0,
         "ak_woodbttstck_black": 0,
         "ak_woodhndgrd_black": 0,
         "TF_Mag_AK74_Bakelit30Rnd": 0,
         "TF_AK_6p20Compensator": 0,
-       
 
         "sks": 0,
-        "air_weapon_sks_tactical": 0,
         "mag_akm_30rnd": 0,
         "ammobox_762x39_20rnd":0,
         "ammobox_762x39tracer_20rnd":0,
@@ -137,14 +138,13 @@
         "puscopeoptic": 0,
         "ammobox_762x54_20rnd": 0,
         "ammobox_762x54tracer_20rnd": 0,
-        "air_weapon_svt": 0,
-        "air_weapon_svt_mag": 0,
         "vss": 0,    
         "mag_val_20rnd": 0,
         "ammobox_9x39_20rnd": 0,
         "ammobox_9x39ap_20rnd": 0,
 
-       "aks74u_bttstck": 0,
+        "aks74u": 0,
+        "aks74u_bttstck": 0,
 
         "makarovij70": 0,
         "mag_ij70_8rnd": 0,
@@ -154,12 +154,11 @@
         "mag_1911_7rnd": 0,
         "ammobox_45acp_25rnd": 0,
         "pso11optic": 0,
-        "air_module_kobra": 0,
         "m68optic": 0,
-        "air_module_okp": 0,
-        "air_module_pka": 0,
-        "air_module_x8": 0,
         "pso1optic": 0,
+        "kobraoptic": 0,
+        "TF_OKP7Optic": 0,
+        "HuntingOptic": 0,
 
         "flashgrenade": 0,
         "m18smokegrenade_red": 0,
