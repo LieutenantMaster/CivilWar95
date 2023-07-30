@@ -281,6 +281,7 @@ class CustomMission: MissionServer
 	{
 		IncrementStockForTraderzonePos("2640 200 5175", 10); 	// Zelenogorsk
 		IncrementStockForTraderzonePos("6510 0 2550", 1); 		// Chernogorsk
+		IncrementStockForTraderzonePos("10453 13 2393", 1); 	// Elecktro
 	}
 
 	static bool IsScheaduledRestart()
