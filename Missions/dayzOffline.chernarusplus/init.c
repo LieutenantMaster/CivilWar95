@@ -209,9 +209,9 @@ class CustomMission: MissionServer
 			case "Militaire":
 				SelectedPos = GetChernaSpawns().GetRandomElement();
 				if ( isMale )
-					factionLoadout = "TTsKO_Boots,Armband_CDF,TTSKOPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Beige";
+					factionLoadout = "TTsKOBoots,Armband_CDF,TTSKOPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Beige";
 				else
-					factionLoadout = "TTsKO_Boots,Armband_CDF,TTSKOPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Beige";
+					factionLoadout = "TTsKOBoots,Armband_CDF,TTSKOPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Beige";
 			break;
 			case "Napa":
 				SelectedPos = GetNAPASpawns().GetRandomElement();
@@ -223,9 +223,9 @@ class CustomMission: MissionServer
 			case "Chedaki":
 				SelectedPos = GetChedakiSpawns().GetRandomElement();
 				if ( isMale )
-					factionLoadout = "TTsKO_Boots Armband_Chedaki,BDUPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Green";
+					factionLoadout = "TTsKOBoots Armband_Chedaki,BDUPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Green";
 				else
-					factionLoadout = "TTsKO_Boots Armband_Chedaki,BDUPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Green";
+					factionLoadout = "TTsKOBoots Armband_Chedaki,BDUPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Green";
 			break;
 		}
 
