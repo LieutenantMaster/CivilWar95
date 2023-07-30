@@ -3,5 +3,5 @@
 	url = https://github.com/LieutenantMaster/CV95_Profiles
 
 [submodule "Missions"]
-	path = Missions
+	path = ./Missions
 	url = https://github.com/LieutenantMaster/CV95_Missions
