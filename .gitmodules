@@ -1,7 +1,6 @@
 [submodule "Missions"]
 	path = Missions
 	url = https://github.com/LieutenantMaster/CV95_Missions
-
 [submodule "Profiles/ServerProfile"]
 	path = Profiles/ServerProfile
 	url = https://github.com/LieutenantMaster/CV95_Profiles
