@@ -34,11 +34,11 @@
         <usage name="ContaminatedArea"/>
     </usageflags>
     <valueflags>
-        <value name="Tier1"/> <!-- Zeleno to Cherno -->
-        <value name="Tier2"/> <!-- Vicinity of Cherno -->
-        <value name="Tier3"/> <!-- Cherno | Everything but not the center -->
-        <value name="Tier4"/> <!-- Cherno | Police to Mayor -->
-        <value name="Tier5"/> <!-- Cherno | Police surroundings -->
+        <value name="Tier1"/> <!-- Route Zeleno à Cherno -->
+        <value name="Tier2"/> <!-- Alentours de Cherno -->
+        <value name="Tier3"/> <!-- Cherno | Tous sauf le centre ville -->
+        <value name="Tier4"/> <!-- Cherno | Place principale à devant le comico -->
+        <value name="Tier5"/> <!-- Cherno | Comico et la court arrière -->
         <value name="Unique"/>
     </valueflags>
 </lists>

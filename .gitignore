@@ -11,6 +11,7 @@ Missions/dayzOffline.chernarusplus/cv95/playerdata/
 Missions/dayzOffline.chernarusplus/expansion/traderzones/
 Missions/.gitattributes
 Missions/.gitignore
+Missions/readme.md
 
 Profiles/SClientAProfile/
 Profiles/SClientBProfile/
@@ -33,6 +34,7 @@ Profiles/ServerProfile/CJ_Pass/DataBase/
 Profiles/ServerProfile/EventManagerLog/
 Profiles/ServerProfile/.gitattributes
 Profiles/ServerProfile/.gitignore
+Profiles/ServerProfile/readme.md
 
 *.log
 *.RPT
