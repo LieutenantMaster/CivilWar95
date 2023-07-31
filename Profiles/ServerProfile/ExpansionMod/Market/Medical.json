@@ -18,6 +18,22 @@
             "Variants": []
         },
         {
+            "ClassName": "fog_pouch_ifak_brown",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "fog_pouch_ifak_cb",
+                "fog_pouch_ifak_rg",
+                "fog_pouch_ifak_grey",
+                "fog_pouch_ifak_black"
+            ]
+        },
+        {
             "ClassName": "bandagedressing",
             "MaxPriceThreshold": 15,
             "MinPriceThreshold": 13,
@@ -142,6 +158,17 @@
             "ClassName": "salinebag",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "salinebagIV",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 30,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

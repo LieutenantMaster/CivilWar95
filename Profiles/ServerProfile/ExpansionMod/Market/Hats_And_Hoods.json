@@ -54,10 +54,7 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "militaryberet_red",
-                "militaryberet_un",
-                "militaryberet_cdf",
-                "militaryberet_nz"
+                "militaryberet_red"
             ]
         },
         {

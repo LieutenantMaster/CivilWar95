@@ -84,6 +84,20 @@
             "Variants": []
         },
         {
+            "ClassName": "canteen_black",
+            "MaxPriceThreshold": 36,
+            "MinPriceThreshold": 18,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "canteen",
+                "canteen_white"
+            ]
+        },
+        {
             "ClassName": "vodka",
             "MaxPriceThreshold": 44,
             "MinPriceThreshold": 22,

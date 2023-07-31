@@ -15,7 +15,7 @@
         "tacticalbaconcan": 0,
         "expansionbread1": 0,
         "crackers": 0,
-        "canteen": 0,
+        "canteen_black": 0,
         "vodka": 1,
         "battery9v": 0,
 
@@ -49,8 +49,6 @@
         
         "militaryberet_nz": 0,
         "militaryberet_cdf": 0,
-        "militaryberet_chdkz": 3,
-        "militaryberet_un": 3,
         "TankerHelmet":0,
         "Ssh68Helmet": 0,
 
@@ -58,9 +56,6 @@
             "balaclavamask_black": 0,
 
         "armband_cdf": 0,
-        "armband_chedaki": 3,
-        
-
         
         "TF_PlateCarrierVest_EMR": 0,
         "TF_PlateCarrierPouches_EMR": 0,
@@ -87,8 +82,10 @@
         "FOG_Shirt_ISOF_Jacket_M81": 0,
         "FOG_MTF_Shirt_ERDL": 0,
       
+
         "FOGR_Smersh_Green_Vest": 0,
         "FOGR_Smersh_Green": 0,
+
         "FOGR_AssaultBag_Green_Mod": 0,
         "FOG_Operator_Boots_Black": 0,
         "FOG_MTF_Pants_ERDL": 0,
@@ -98,63 +95,84 @@
         "universallight": 0,
         "flashlight": 0,
 
-        "assaultbag_ttsko": 0,
-        "assaultbag_green" : 0,
 
         "CombatBoots_Black": 0,
         "omnogloves_gray": 0,
         "tacticalgloves_black": 0,
-        "tacticalgloves_green": 0,
-        "tacticalgloves_beige": 0,
-        "WoolGlovesFingerless_Black": 0,
-        "WoolGlovesFingerless_Green": 0,
+        "woolglovesfingerless_green": 0,
+        "fingerless_gloves_wool": 0,
+        "fingerless_gloves": 0,
 
         "tacticalgoggles": 0,
+
+        "fog_pouch_ifak_brown": 0,
         "morphine": 0,
         "epinephrine": 0,
+        "bandagedressing": 0,
+        "salinebagIV": 0,
+        "anticheminjector": 0,
+        "painkillertablets": 0,
+
+        "TF_AK_6p20Compensator": 0,
+
+        "mosin_bayonet": 0,
+        "sks_bayonet": 0,
+        "ak_bayonet": 0,
 
 
-        "TF_AK74M": 0,
-        "TF_Mag_AK74_Plum30Rnd": 0,
-        "ak74_woodbttstck": 0,
-        "ak74_hndgrd": 0,
-        "mag_ak74_30rnd": 0,
         "ammobox_545x39_20rnd": 0,
         "ammobox_545x39tracer_20rnd": 0,
-        "ak_bayonet": 0,
-        "ak_woodbttstck_black": 0,
-        "ak_woodhndgrd_black": 0,
-        "TF_Mag_AK74_Bakelit30Rnd": 0,
-        "TF_AK_6p20Compensator": 0,
+        "ammobox_762x39_20rnd":0,
+        "ammobox_762x39tracer_20rnd":0,
+        "ammobox_9x39_20rnd": 0,
+        "ammobox_9x39ap_20rnd": 0,
+        "ammobox_12gaslug_10rnd": 0,
+        "ammobox_00buck_10rnd": 0,
+        "ammobox_12garubberslug_10rnd": 0,
+        "ammobox_762x54_20rnd": 0,
+        "ammobox_762x54tracer_20rnd": 0,
+        "ammobox_380_35rnd": 0,
+        "ammobox_308win_20rnd": 0,
+        "ammobox_308wintracer_20rnd": 0,
+        "ammobox_357_20rnd": 0,
+        "ammobox_22_50rnd": 0,
+        "ammobox_45acp_25rnd": 0,
+        "ammobox_556x45_20rnd": 0,
+        "ammobox_556x45tracer_20rnd": 0,
+        "ammobox_9x19_25rnd": 0,
+        "ammobox_expansion_46x30_25rnd": 0,
+        "ammobox_expansion_338_15rnd": 0,
+        "expansion_ammobox_8mm_15rnd": 0,
+
+
+
 
         "sks": 0,
         "mag_akm_30rnd": 0,
-        "ammobox_762x39_20rnd":0,
-        "ammobox_762x39tracer_20rnd":0,
-
         "mp133shotgun": 0,
-        "ammobox_12gaslug_10rnd": 0,
-        "ammobox_00buck_10rnd": 0,
-
         "mosin9130": 0,
-        "puscopeoptic": 0,
-        "ammobox_762x54_20rnd": 0,
-        "ammobox_762x54tracer_20rnd": 0,
-        "vss": 0,    
-        "mag_val_20rnd": 0,
-        "ammobox_9x39_20rnd": 0,
-        "ammobox_9x39ap_20rnd": 0,
-
-        "aks74u": 0,
-        "aks74u_bttstck": 0,
-
+        "mosin_compensator": 0,
+        "puscopeoptic": 0,  
         "makarovij70": 0,
         "mag_ij70_8rnd": 0,
-        "ammobox_380_35rnd": 0,
-
         "colt1911": 0,
         "mag_1911_7rnd": 0,
-        "ammobox_45acp_25rnd": 0,
+        "TF_AK74M": 0,
+
+
+        "mag_ak74_30rnd": 0,
+        "TF_Mag_AK74_Plum30Rnd": 0,
+        "TF_Mag_AK74_Bakelit30Rnd": 0,
+
+        "tf_aks74u": 0,
+        "tf_aks74u_Woodhndgrd": 0,    
+        "aks74u_bttstck": 0,
+        "ak_foldingbttstck": 0,
+        "ak_woodhndgrd": 0,
+        "ak74_hndgrd": 0,
+        "ak_woodbttstck": 0,
+        "ak74_woodbttstck": 0,
+
         "pso11optic": 0,
         "m68optic": 0,
         "pso1optic": 0,

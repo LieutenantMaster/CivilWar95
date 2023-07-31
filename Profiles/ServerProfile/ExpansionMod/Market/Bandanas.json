@@ -37,7 +37,6 @@
                 "poncho_red",
                 "poncho_black",
                 "poncho_white",
-                "bandana_polkapattern",
                 "poncho_blackandwhite",
                 "poncho_blackandwhite2",
                 "poncho_blue_checkered"
@@ -73,17 +72,6 @@
             ]
         },
         {
-            "ClassName": "bandana_greenpattern",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 8,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "bandana_camopattern",
             "MaxPriceThreshold": 20,
             "MinPriceThreshold": 10,
@@ -92,7 +80,15 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "bandana_black",
+                "bandana_greenpattern",
+                "fogr_royal_bandana_khaki",
+                "fogr_royal_bandana_black",
+                "fogr_royal_bandana_green",
+                "fogr_royal_bandana_partizan_summer",
+                "fogr_royal_bandana_partizan_autumn"
+            ]
         }
         
     ]

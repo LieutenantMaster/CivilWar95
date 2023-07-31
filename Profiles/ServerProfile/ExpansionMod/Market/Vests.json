@@ -92,21 +92,6 @@
             "Variants": []
         },
         {
-            "ClassName": "smershvest",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 150,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "FOGR_Smersh_Khaki_Vest",
-                "FOGR_Smersh_Green_Vest",
-                "FOGR_Smersh_Black_Vest"
-            ]
-        },
-        {
             "ClassName": "highcapacityvest_black",
             "MaxPriceThreshold": 400,
             "MinPriceThreshold": 200,

@@ -48,34 +48,6 @@
             "Variants": []
         },
         {
-            "ClassName": "aks74u",
-            "MaxPriceThreshold": 1600,
-            "MinPriceThreshold": 1600,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "aks74u_bttstck",
-                "mag_ak74_30rnd"
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "air_weapon_aksu",
-            "MaxPriceThreshold": 1700,
-            "MinPriceThreshold": 1100,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "aks74u_bttstck",
-                "mag_ak74_30rnd"
-            ],
-            "Variants": []
-        },
-        {
             "ClassName": "air_weapon_9a91",
             "MaxPriceThreshold": 1300,
             "MinPriceThreshold": 1100,

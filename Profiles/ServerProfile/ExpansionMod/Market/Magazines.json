@@ -279,10 +279,29 @@
             "MinStockThreshold": 50,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "TF_Mag_AK74_Bakelit30Rnd",
-                "TF_Mag_AK74_Plum30Rnd"
-            ]
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_Mag_AK74_Plum30Rnd",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 50,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_Mag_AK74_Bakelit30Rnd",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 50,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         },
         {
             "ClassName": "mag_ak74_45rnd",

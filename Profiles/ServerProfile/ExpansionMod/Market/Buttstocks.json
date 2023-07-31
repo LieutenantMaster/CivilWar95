@@ -71,7 +71,8 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "ak74_woodbttstck_black"
+                "ak74_woodbttstck_black",
+                "ak74_woodbttstck_camo"
             ]
         },
         {
@@ -95,7 +96,8 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "ak_woodbttstck_black"
+                "ak_woodbttstck_black",
+                "ak_woodbttstck_camo"
             ]
         },
         {
@@ -107,7 +109,24 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "ak_foldingbttstck_black",
+                "ak_foldingbttstck_green"
+            ]
+        },
+        {
+            "ClassName": "aks74u_bttstck",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "aks74u_bttstck_black",
+                "aks74u_bttstck_green"
+            ]
         },
         {
             "ClassName": "m4_oebttstck",

@@ -16,18 +16,11 @@
         "CargoPants_Black": 0,
         "CargoPants_White": 0,
 
-        "bandana_blue": 3,
-        "bandana_pink": 3,
-        "bandana_yellow": 3,
-        "bandana_redpattern": 0,
-        "bandana_blackpattern": 0,
-        "bandana_polkapattern": 3,
         "Bandana_CamoPattern": 0,
-        "Bandana_Greenpattern": 0,
-
+        "shemagh_green": 0,
 
         "canopener": 0,
-        "canteen": 0,
+        "canteen_black": 0,
         "tacticalbaconcan": 0,
         "expansionbread1": 0,
         "crackers": 0,
@@ -61,8 +54,13 @@
         "TankerHelmet": 0,
 
 
-        "smershvest": 0,
-        "smershbag": 0,
+        "FOGR_Smersh_Khaki_Vest": 0,
+        "FOGR_Smersh_Khaki": 0,
+
+        "mosin_bayonet": 0,
+        "sks_bayonet": 0,
+        "ak_bayonet": 0,
+
 
         "tlrlight":0,
         "universallight": 0,
@@ -70,56 +68,82 @@
 
         "TortillaBag": 0,
         "militaryberet_chdkz": 0,
-        "militaryberet_cdf" : 3,
-        "militaryberet_nz" : 3,
-        "militaryberet_un" : 3,
-        "militaryberet_red" : 3,
+
 
         "CombatBoots_Black": 0,
+
         "omnogloves_gray": 0,
-        "WoolGlovesFingerless_Black": 0,
-        "WoolGlovesFingerless_Green": 0,
+        "woolglovesfingerless_green": 0,
+        "fingerless_gloves_wool": 0,
+        "fingerless_gloves": 0,
 
 
         "AviatorGlasses": 0,
 
+        "fog_pouch_ifak_brown": 0,
         "morphine": 0,
         "epinephrine": 0,
+        "bandagedressing": 0,
+        "salinebagIV": 0,
+        "anticheminjector": 0,
+        "painkillertablets": 0,
 
         "balaclava3holes_black": 0,
         "armband_chedaki": 0,
-        "armband_cdf": 3,
         "flag_chedaki": 0,
-
-        "mag_ak74_45rnd": 0,        
+  
         "mag_ak74_30rnd": 0,
+        "TF_Mag_AK74_Plum30Rnd": 0,
+        "TF_Mag_AK74_Bakelit30Rnd": 0,
+
         "ammobox_545x39_20rnd": 0,
         "ammobox_545x39tracer_20rnd": 0,
-
-        "sks": 0,
         "ammobox_762x39_20rnd":0,
         "ammobox_762x39tracer_20rnd":0,
-
-        "mp133shotgun": 0,
+        "ammobox_9x39_20rnd": 0,
+        "ammobox_9x39ap_20rnd": 0,
         "ammobox_12gaslug_10rnd": 0,
         "ammobox_00buck_10rnd": 0,
-        "mosin9130": 0,
-        "puscopeoptic": 0,
+        "ammobox_12garubberslug_10rnd": 0,
         "ammobox_762x54_20rnd": 0,
         "ammobox_762x54tracer_20rnd": 0,
+        "ammobox_380_35rnd": 0,
+        "ammobox_308win_20rnd": 0,
+        "ammobox_308wintracer_20rnd": 0,
+        "ammobox_357_20rnd": 0,
+        "ammobox_22_50rnd": 0,
+        "ammobox_45acp_25rnd": 0,
+        "ammobox_556x45_20rnd": 0,
+        "ammobox_556x45tracer_20rnd": 0,
+        "ammobox_9x19_25rnd": 0,
+        "ammobox_expansion_46x30_25rnd": 0,
+        "ammobox_expansion_338_15rnd": 0,
+        "expansion_ammobox_8mm_15rnd": 0,
 
-        "aks74u": 0,
+
+        "sks": 0,
+        "mp133shotgun": 0,
+        "mosin9130": 0,
+        "mosin_compensator": 0,
+        "puscopeoptic": 0,
+        "pso11optic": 0,
+        "pso1optic": 0,
+        "kobraoptic": 0,
+        "TF_OKP7Optic": 0,
+        "HuntingOptic": 0,
+
+        "tf_aks74u": 0,
+        "tf_aks74u_Woodhndgrd": 0,    
         "aks74u_bttstck": 0,
-        "TF_AK_6p20Compensator": 0,
+        "ak_foldingbttstck": 0,
+
 
         "makarovij70": 0,
         "mag_ij70_8rnd": 0,
-        "ammobox_380_35rnd": 0,
         "FOG_Gorka_Pants_Khaki": 0,
         "FOG_MTF_Pants_TS": 0,
         "BDUPants": 0,
         "FOGR_UFP_Reed_URBN": 0,
-        "FOGR_UFP_Reed_URBN_kneepad": 0,
         "FOG_511_Shirt_Flanel_Black": 0,
         "FOG_Hoodie_Jacket_ERDL": 0,
         "FOG_Shirt_ISOF_Jacket_Black": 0,
@@ -143,9 +167,7 @@
         "JungleBoots_Black": 0,
         "MilitaryBoots_Black": 0,
         "MilitaryBoots_Brown": 0,
-        "TTSKOBoots": 0,        
-        "FOGR_Smersh_Khaki_Vest": 0,
-        "FOGR_Smersh_Khaki": 0,        
+        "TTSKOBoots": 0,            
         "FOGR_AssaultBag_Khaki": 0
     }
 }

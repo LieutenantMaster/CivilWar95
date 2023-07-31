@@ -26,9 +26,7 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "TF_AK_ZenitDTK1Compensator"
-            ]
+            "Variants": []
         },
         {
             "ClassName": "mp5_compensator",

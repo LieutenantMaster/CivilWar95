@@ -66,9 +66,25 @@
             "Variants": []
         },
         {
+            "ClassName": "tf_aks74u",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "tf_aks74u_hndgrd",
+                "aks74u_bttstck",
+                "tf_mag_ak74_bakelit30rnd",
+                "tf_ak_6p20compensator"
+            ],
+            "Variants": []
+        },
+        {
             "ClassName": "TF_AK74M",
-            "MaxPriceThreshold": 3200,
-            "MinPriceThreshold": 1600,
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

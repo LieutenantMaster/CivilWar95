@@ -347,7 +347,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "tankerhelmet_brown"
+            ]
         },
         {
             "ClassName": "greathelm",
@@ -482,7 +484,6 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
-                "TF_Maska1Visor",
                 "TF_Maska1SchVisor"
             ],
             "Variants": []

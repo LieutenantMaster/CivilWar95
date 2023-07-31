@@ -24,7 +24,7 @@
     "VehicleRoadKillDamageMultiplier": 1.0,
     "CollisionDamageIfEngineOff": 1,
     "CollisionDamageMinSpeedKmh": 230.0,
-    "CanChangeLock": 1,
+    "CanChangeLock": 0,
     "ChangeLockTools": [
         "Screwdriver"
     ],

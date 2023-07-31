@@ -59,9 +59,7 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "ammobox_308wintracer_20rnd"
-            ]
+            "Variants": []
         },
         {
             "ClassName": "ammobox_308wintracer_20rnd",
@@ -127,9 +125,7 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "ammobox_545x39tracer_20rnd"
-            ]
+            "Variants": []
         },
         {
             "ClassName": "ammobox_545x39tracer_20rnd",
@@ -151,9 +147,7 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "ammobox_556x45tracer_20rnd"
-            ]
+            "Variants": []
         },
         {
             "ClassName": "ammobox_556x45tracer_20rnd",
@@ -175,9 +169,7 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "ammobox_762x39tracer_20rnd"
-            ]
+            "Variants": []
         },
         {
             "ClassName": "ammobox_762x39tracer_20rnd",
@@ -199,9 +191,7 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "ammobox_762x54tracer_20rnd"
-            ]
+            "Variants": []
         },
         {
             "ClassName": "ammobox_762x54tracer_20rnd",
@@ -234,9 +224,7 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "ammobox_9x39ap_20rnd"
-            ]
+            "Variants": []
         },
         {
             "ClassName": "ammobox_9x39ap_20rnd",

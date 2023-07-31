@@ -209,7 +209,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "FOGR_UFP_Reed_URBN_Kneepad"
+            ]
         },
         {
             "ClassName": "FOG_UFP_Pants_Grey",
