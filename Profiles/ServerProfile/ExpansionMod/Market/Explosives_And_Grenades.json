@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "remotedetonator",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 300,
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -63,8 +63,8 @@
         },
         {
             "ClassName": "improvisedexplosive",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 300,
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

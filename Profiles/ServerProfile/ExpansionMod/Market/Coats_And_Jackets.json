@@ -372,6 +372,17 @@
             "Variants": []
         },
         {
+            "ClassName": "FOG_Cronen_Shirt_black",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 120,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "FOG_511_Shirt_Flanel_Black",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 150,
@@ -549,6 +560,22 @@
                 "FOG_Gorka_Jacket_Khaki",                
                 "FOG_Gorka_Jacket_Black",
                 "FOG_Hooded_Cloak_Black"
+            ]
+        },
+        {
+            "ClassName": "FOG_Gorka_Jacket_partizan",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Gorka_Jacket_autumn",                
+                "FOG_Gorka_Jacket_summer",
+                "FOG_Gorka_Jacket_summer_brown",
+                "FOG_Gorka_Jacket_summer_green"
             ]
         },
         {
