@@ -15,13 +15,7 @@
     "cz75": 0,
         "mag_cz75_15rnd": 1, 
 
-    "glock19": 0,
-        "mag_glock_15rnd": 1,
-
     "magnum": 0,
-
-    "p1": 0,
-        "mag_p1_8rnd": 1,
     "flaregun": 0,
 
     "Expansion_Taser_Yellow": 0,
@@ -45,19 +39,16 @@
         "aks74u_bttstck": 1,
         "mag_ak74_30rnd": 1,
 
-    "scout_chernarus": 0,
-        "mag_scout_5rnd": 1,
       
     "battery9v": 1,
-    "acogoptic": 1,
     "kobraoptic": 1,
     "fnp45_mrdsoptic": 1,
-    "m68optic": 1,
     "reflexoptic": 1,
     
 
 
     "ammobox_380_35rnd": 1,
+    "ammobox_45acp_25rnd": 1,
     "ammobox_9x19_25rnd": 1,
     "ammobox_357_20rnd": 1,
     "ammo_flare": 1,
@@ -70,8 +61,7 @@
     "ammobox_12garubberslug_10rnd": 1,
     "ammobox_545x39_20rnd": 1,
     "ammobox_545x39tracer_20rnd": 1,
-    "ammobox_556x45_20rnd": 1,
-    "ammobox_556x45tracer_20rnd": 1,
+
 
     "tlrlight": 1,
     "universallight": 1,
@@ -94,20 +84,15 @@
     "morphine": 0,
     "epinephrine": 0,
      
-    "flashgrenade": 0,
-    "m18smokegrenade_red": 0,
-                "m18smokegrenade_green": 0,
-                "m18smokegrenade_yellow": 0,
-                "m18smokegrenade_purple": 0,
-                "m18smokegrenade_white": 0,
-                "rdg2smokegrenade_black": 0,
-                "rdg2smokegrenade_white": 0,
-
+    "flashgrenade": 0,     
+    "rdg2smokegrenade_black": 0,
+    "rdg2smokegrenade_white": 0,
     "TF_TeargasGrenade": 0,
-    
+    "Expansion_M203_Smoke_red": 0,
+    "Expansion_M203_Smoke_teargas": 0,
+
     "M79": 0,
-        "Expansion_M203_Smoke_teargas": 0,
-        "Expansion_M203_Smoke_red": 0,
+
 
     "ssg82": 0,
         "mag_ssg82_5rnd": 0,
@@ -120,17 +105,24 @@
 
     
 
-    "ssh68helmet": 0,
-    "ballistichelmet_black": 0,
-    "ballistichelmet_green": 0,
     "GorkaHelmet_Blue": 0,
+    "GorkaHelmet": 3,
+    "GorkaHelmet_Black" : 0,
     "gorkahelmetvisor": 0,
+
+
     "gp5gasmask": 0,
     "gp5gasmask_Black": 0,
     "GasMask_Filter": 0,
+
+
     "policevest": 0,
+    "policevest_black" : 0,
     "platecarriervest_black": 0,
-    "platecarriervest_green": 0,
+    "platecarriervest_green": 3,
+    "platecarriervest" : 3,
+
+
     "policejacket": 0,
     "policepants": 0,
     "policejacketorel": 0,
@@ -138,11 +130,14 @@
     "policecap": 0,
     "omnogloves_gray": 0,
     "militarybelt": 0,
+    "tactical_leg_holster_black": 0,
     "assaultbag_black": 0,
     "nylonknifesheath": 0,
-    "platecarrierholster_green": 0,
+    "platecarrierholster": 3,
+    "platecarrierholster_green" : 3,
     "platecarrierholster_black": 0,
-    "platecarrierpouches_green": 0,
+    "platecarrierpouches" : 3,
+    "platecarrierpouches_green": 3,
     "platecarrierpouches_black": 0,
     "combatboots_black": 0,
     "prisonuniformjacket": 1,
@@ -150,7 +145,6 @@
     "prisonercap": 1,
     "canteen": 1,
     "tacticalbaconcan": 1,
-    "tactical_leg_holster": 0,
     "telescopicBaton": 0,
     "lockpick": 0,
     "balaclavamask_black": 0,

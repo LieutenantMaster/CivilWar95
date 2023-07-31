@@ -49,6 +49,8 @@
         
         "militaryberet_nz": 0,
         "militaryberet_cdf": 0,
+        "militaryberet_chdkz": 3,
+        "militaryberet_un": 3,
         "TankerHelmet":0,
         "Ssh68Helmet": 0,
 
@@ -56,6 +58,7 @@
             "balaclavamask_black": 0,
 
         "armband_cdf": 0,
+        "armband_chedaki": 3,
         
 
         
@@ -83,8 +86,7 @@
         "FOG_Crye_G3_Shirt_M81": 0,
         "FOG_Shirt_ISOF_Jacket_M81": 0,
         "FOG_MTF_Shirt_ERDL": 0,
-
-        "UKAssVest_Olive": 0,        
+      
         "FOGR_Smersh_Green_Vest": 0,
         "FOGR_Smersh_Green": 0,
         "FOGR_AssaultBag_Green_Mod": 0,
@@ -132,7 +134,7 @@
 
         "mp133shotgun": 0,
         "ammobox_12gaslug_10rnd": 0,
-        "ammobox_12garubberslug_10rnd": 0,
+        "ammobox_00buck_10rnd": 0,
 
         "mosin9130": 0,
         "puscopeoptic": 0,
@@ -161,10 +163,10 @@
         "HuntingOptic": 0,
 
         "flashgrenade": 0,
-        "m18smokegrenade_red": 0,
-        "m18smokegrenade_green": 0,
-        "m18smokegrenade_yellow": 0,
-        "m18smokegrenade_white": 0,
+        "m18smokegrenade_red": 3,
+        "m18smokegrenade_green": 3,
+        "m18smokegrenade_yellow": 3,
+        "m18smokegrenade_white": 3,
         "rdg2smokegrenade_black": 0,
         "rdg2smokegrenade_white": 0
 
