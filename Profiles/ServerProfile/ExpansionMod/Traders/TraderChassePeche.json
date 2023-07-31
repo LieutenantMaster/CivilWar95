@@ -57,7 +57,9 @@
         "battery9v": 0,
         "rangefinder": 0, 
 
-        "riflesing": 0,
+        "TF_RifleSling_Black": 0,
+        "TF_RifleSling_Brown": 0,
+        "TF_RifleSling_OD": 0,
 
         "huntingjacket_autumn": 0,
             "huntingjacket_brown": 0,
