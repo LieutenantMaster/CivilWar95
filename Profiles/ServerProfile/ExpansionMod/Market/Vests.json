@@ -66,6 +66,17 @@
             "Variants": []
         },
         {
+            "ClassName": "defender_vest_black",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "ukassvest_black",
             "MaxPriceThreshold": 180,
             "MinPriceThreshold": 90,

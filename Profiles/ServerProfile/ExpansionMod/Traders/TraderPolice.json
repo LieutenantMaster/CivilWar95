@@ -92,11 +92,12 @@
     "rdg2smokegrenade_black": 0,
     "rdg2smokegrenade_white": 0,
     "TF_TeargasGrenade": 0,
-    "Expansion_M203_Smoke_red": 0,
-    "Expansion_M203_Smoke_teargas": 0,
+    "ammo_expansion_m203_smoke_red": 0,
+    "ammo_expansion_m203_smoke_teargas": 0,
 
     "M79": 0,
 
+    "defender_vest_black": 0,
 
     "ssg82": 0,
         "mag_ssg82_5rnd": 0,
