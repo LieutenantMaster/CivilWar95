@@ -43,6 +43,17 @@
             ]
         },
         {
+            "ClassName": "tf_aks74u_Woodhndgrd",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "ak_woodhndgrd",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 150,

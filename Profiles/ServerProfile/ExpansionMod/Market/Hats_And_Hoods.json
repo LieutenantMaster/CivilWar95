@@ -53,9 +53,7 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "militaryberet_red"
-            ]
+            "Variants": []
         },
         {
             "ClassName": "militaryberet_cdf",
@@ -66,7 +64,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "militaryberet_red"
+            ]
         },
         {
             "ClassName": "slouch_hat_brown",

@@ -79,8 +79,14 @@
 
     "Handcuffs": 0,
     "HandcuffKeys": 0,
+
+    "fog_pouch_ifak_brown": 0,
     "morphine": 0,
     "epinephrine": 0,
+    "bandagedressing": 0,
+    "salinebagIV": 0,
+    "anticheminjector": 0,
+    "painkillertablets": 0,
      
     "flashgrenade": 0,     
     "rdg2smokegrenade_black": 0,
@@ -124,8 +130,8 @@
     "platecarriervest_green": 3,
     "platecarriervest" : 3,
 
-    "FOGR_Smersh_Black_Vest": 0,
-    "FOGR_Smersh_Black": 0,
+    "FOGR_Smersh_Khaki_Vest": 0,
+    "FOGR_Smersh_Khaki": 0,
     
     "policejacket": 0,
     "policepants": 0,
