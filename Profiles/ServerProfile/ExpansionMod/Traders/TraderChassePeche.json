@@ -55,7 +55,9 @@
         "whetstone": 0,
 
         "battery9v": 0,
-        "rangefinder": 0,  
+        "rangefinder": 0, 
+
+        "riflesing": 0,
 
         "huntingjacket_autumn": 0,
             "huntingjacket_brown": 0,
