@@ -139,32 +139,6 @@
                 "mag_stanag_30rnd"
             ],
             "Variants": []
-        },
-        {
-            "ClassName": "air_weapon_stg",
-            "MaxPriceThreshold": 6500,
-            "MinPriceThreshold": 6000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "air_weapon_stg_mag"
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "air_weapon_mp40",
-            "MaxPriceThreshold": 2400,
-            "MinPriceThreshold": 1100,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "air_weapon_stg_mag"
-            ],
-            "Variants": []
         },        
         {
             "ClassName": "famas",
@@ -228,6 +202,20 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mag_expansion_g36_30rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "TF_OTs_14_Groza",
+            "MaxPriceThreshold": 12730,
+            "MinPriceThreshold": 11550,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "TF_Mag_OTs_14_Groza_20Rnd",
+                "TF_OTs_14_Groza_Barrel_Grip"
             ],
             "Variants": []
         }

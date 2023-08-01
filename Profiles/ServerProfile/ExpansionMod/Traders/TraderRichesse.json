@@ -1,0 +1,18 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Chercheur de trésor",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Lantern",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [],
+    "Items": {
+        "expansioncircuitboard_mk1": 2,
+        "expansioncircuitboard_mk2": 2,
+        "expansioncircuitboard_mk3": 2
+    }
+}
