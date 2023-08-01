@@ -235,7 +235,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tape\Atas",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\Atas",
 				1
 			}
 		};
@@ -247,7 +247,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tape\PoslednyayaLyubov",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\PoslednyayaLyubov",
 				1
 			}
 		};
@@ -259,7 +259,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tape\DavaiZa",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\DavaiZa",
 				1
 			}
 		};
@@ -271,7 +271,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tape\MilyeZelyonyeGlaza",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\MilyeZelyonyeGlaza",
 				1
 			}
 		};
@@ -283,7 +283,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tape\Kukushka",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\Kukushka",
 				1
 			}
 		};
@@ -295,7 +295,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tape\Leto",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\Leto",
 				1
 			}
 		};
@@ -307,7 +307,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tape\GruppaKrovi",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\GruppaKrovi",
 				1
 			}
 		};
@@ -319,7 +319,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tape\Zvezda",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\Zvezda",
 				1
 			}
 		};
@@ -331,7 +331,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tape\Peremen",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\Peremen",
 				1
 			}
 		};
@@ -343,7 +343,7 @@ class CfgSoundShaders
 		samples[]=
 		{
 			{
-				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tape\ChDKZAnthem",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\ChDKZAnthem",
 				1
 			}
 		};
