@@ -10,7 +10,7 @@
     "CanCreate3DMarker": 0,
     "CanOpenMapWithKeyBinding": 0,
     "ShowDistanceOnPersonalMarkers": 0,
-    "EnableHUDGPS": 0,
+    "EnableHUDGPS": 1,
     "NeedGPSItemForKeyBinding": 0,
     "NeedMapItemForKeyBinding": 0,
     "EnableServerMarkers": 0,

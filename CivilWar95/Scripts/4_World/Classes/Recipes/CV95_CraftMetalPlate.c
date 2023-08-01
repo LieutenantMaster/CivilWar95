@@ -1,10 +1,10 @@
 class CV95_CraftMetalPlate: RecipeBase
-{	
+{
 	override void Init()
 	{
 		m_Name = "Fabriquer Tôle";
 		m_IsInstaRecipe = false;//should this recipe be performed instantly without animation
-		m_AnimationLength = 1;//animation length in relative time units
+		m_AnimationLength = 2;//animation length in relative time units
 		m_Specialty = 0.01;// value > 0 for roughness, value < 0 for precision
 		
 		//conditions
@@ -28,13 +28,14 @@ class CV95_CraftMetalPlate: RecipeBase
 		m_IngredientAddHealth[0] = 0;// 0 = do nothing
 		m_IngredientSetHealth[0] = -1; // -1 = do nothing
 		m_IngredientAddQuantity[0] = -1;// 0 = do nothing
-		m_IngredientDestroy[0] = false;//true = destroy, false = do nothing
+		m_IngredientDestroy[0] = true;//true = destroy, false = do nothing
 		m_IngredientUseSoftSkills[0] = false;// set 'true' to allow modification of the values by softskills on this ingredient
 		
 		//ingredient 2
-		InsertIngredient(1,"SledgeHammer");
+		InsertIngredient(1,"ExpansionBoltCutters");
+		InsertIngredient(1,"ExpansionPropaneTorch");
 		
-		m_IngredientAddHealth[1] = -7;// 0 = do nothing
+		m_IngredientAddHealth[1] = -3;// 0 = do nothing
 		m_IngredientSetHealth[1] = -1; // -1 = do nothing
 		m_IngredientAddQuantity[1] = 0;// 0 = do nothing
 		m_IngredientDestroy[1] = false;// false = do nothing
@@ -45,7 +46,7 @@ class CV95_CraftMetalPlate: RecipeBase
 		AddResult("MetalPlate");//add results here
 
 		m_ResultSetFullQuantity[0] = false;//true = set full quantity, false = do nothing
-		m_ResultSetQuantity[0] = 4;//-1 = do nothing
+		m_ResultSetQuantity[0] = 1;//-1 = do nothing
 		m_ResultSetHealth[0] = -1;//-1 = do nothing
 		m_ResultInheritsHealth[0] = 0;// (value) == -1 means do nothing; a (value) >= 0 means this result will inherit health from ingredient number (value);(value) == -2 means this result will inherit health from all ingredients averaged(result_health = combined_health_of_ingredients / number_of_ingredients)
 		m_ResultInheritsColor[0] = -1;// (value) == -1 means do nothing; a (value) >= 0 means this result classname will be a composite of the name provided in AddResult method and config value "color" of ingredient (value)

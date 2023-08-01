@@ -1,5 +1,7 @@
 void main()
 {
+	MissionServer.ExportLootData = true;
+	
 	//INIT ECONOMY--------------------------------------
 	Hive ce = CreateHive();
 	if ( ce )

@@ -4150,6 +4150,7 @@
 				</container>
 		</group>
 		<group name="Land_Garage_Small" lootmax="3">
+        		<usage name="IndustrialCW95"/>
 				<usage name="Industrial" />
 				<container name="lootFloor" lootmax="3">
 						<category name="tools" />
@@ -4180,6 +4181,7 @@
 				</container>
 		</group>
 		<group name="Land_Garage_Big">
+        		<usage name="IndustrialCW95"/>
 				<usage name="Industrial" />
 				<container name="lootFloor" lootmax="6">
 						<category name="tools" />
@@ -4208,6 +4210,7 @@
 				</container>
 		</group>
 		<group name="Land_Garage_Row_Small">
+        		<usage name="IndustrialCW95"/>
 				<usage name="Industrial" />
 				<container name="lootFloor">
 						<category name="tools" />
@@ -4293,6 +4296,7 @@
 				</container>
 		</group>
 		<group name="Land_Garage_Row_Big">
+        		<usage name="IndustrialCW95"/>
 				<usage name="Industrial" />
 				<container name="lootFloor">
 						<category name="tools" />
@@ -4540,6 +4544,7 @@
 				</container>
 		</group>
 		<group name="Land_Factory_Small" lootmax="8">
+        		<usage name="IndustrialCW95"/>
 				<usage name="Industrial" />
 				<container name="lootGround" lootmax="6">
 						<category name="tools" />
@@ -4658,6 +4663,7 @@
 				</container>
 		</group>
 		<group name="Land_Mine_Building">
+        		<usage name="IndustrialCW95"/>
 				<usage name="Industrial" />
 				<container name="lootGround" lootmax="2">
 						<category name="tools" />
@@ -4744,6 +4750,7 @@
 				</container>
 		</group>
 		<group name="Land_CementWorks_ExpeditionA">
+        		<usage name="IndustrialCW95"/>
 				<usage name="Industrial" />
 				<container name="lootGround" lootmax="2">
 						<category name="tools" />
@@ -4867,6 +4874,7 @@
 				</container>
 		</group>
 		<group name="Land_CementWorks_Hall1" lootmax="10">
+        		<usage name="IndustrialCW95"/>
 				<usage name="Industrial" />
 				<container name="lootFloor" lootmax="10">
 						<category name="tools" />
@@ -5024,6 +5032,7 @@
 				</container>
 		</group>
 		<group name="Land_CementWorks_Hall2_Brick">
+        		<usage name="IndustrialCW95"/>
 				<usage name="Industrial" />
 				<container name="lootFloor">
 						<category name="tools" />
@@ -5092,6 +5101,7 @@
 				</container>
 		</group>
 		<group name="Land_CementWorks_Hall2_Grey">
+        		<usage name="IndustrialCW95"/>
 				<usage name="Industrial" />
 				<container name="lootFloor">
 						<category name="tools" />
@@ -5139,6 +5149,7 @@
 				</container>
 		</group>
 		<group name="Land_CementWorks_MillB">
+        		<usage name="IndustrialCW95"/>
 				<usage name="Industrial" />
 				<container name="lootFloor">
 						<category name="tools" />
@@ -5249,6 +5260,7 @@
 				</container>
 		</group>
 		<group name="Land_CementWorks_SiloBig1A">
+        		<usage name="IndustrialCW95"/>
 				<usage name="Industrial" />
 				<container name="lootFloor">
 						<category name="tools" />
@@ -5288,6 +5300,7 @@
 				</container>
 		</group>
 		<group name="Land_CementWorks_RotFurnace">
+        		<usage name="IndustrialCW95"/>
 				<usage name="Industrial" />
 				<container name="lootGround">
 						<category name="tools" />
@@ -5365,6 +5378,7 @@
 				</container>
 		</group>
 		<group name="Land_Repair_Center" lootmax="4">
+        		<usage name="IndustrialCW95"/>
 				<usage name="Industrial" />
 				<container name="lootFloor" lootmax="3">
 						<category name="tools" />
@@ -5578,6 +5592,7 @@
 				</container>
 		</group>
 		<group name="Land_Train_Wagon_Box" lootmax="4">
+        		<usage name="IndustrialCW95"/>
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<container name="lootFloor">
@@ -5616,6 +5631,7 @@
 				</container>
 		</group>
 		<group name="Land_Power_Station" lootmax="4">
+        		<usage name="IndustrialCW95"/>
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<container name="lootFloor" lootmax="3">
@@ -5661,6 +5677,7 @@
 				</container>
 		</group>
 		<group name="Land_Water_Station" lootmax="2">
+        		<usage name="IndustrialCW95"/>
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<container name="lootFloor">
@@ -5695,6 +5712,7 @@
 				</container>
 		</group>
 		<group name="Land_Smokestack_Brick">
+        		<usage name="IndustrialCW95"/>
 				<usage name="Industrial" />
 				<container name="lootFloor">
 						<category name="tools" />
@@ -5732,6 +5750,7 @@
 				</container>
 		</group>
 		<group name="Land_Smokestack_Big">
+        		<usage name="IndustrialCW95"/>
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<container name="lootFloor">
@@ -5830,6 +5849,7 @@
 				</container>
 		</group>
 		<group name="Land_Construction_Building" lootmax="20">
+        		<usage name="IndustrialCW95"/>
 				<usage name="Industrial" />
 				<container name="lootFloor" lootmax="15">
 						<category name="tools" />
@@ -17207,143 +17227,4 @@
 						<proxy type="Sedan_02_Hood_RedRust" pos="-1.608 0.395 -0.174" rpy="0.0 180.0 90.0" />
 				</dispatch>
 		</group>
-		
-		<!-- NOT INGAME - PREPARATION
-		<group name="Land_Wreck_truck02_aban1_green" >
-						<usage name="Village" />		
-						<usage name="Industrial" />		
-						<container name="loot" lootmax="2">
-							<category name="tools" />
-							<category nam e="containers" />
-							<category name="clothes" />
-							<category name="food" />
-							<category name="weapons" />
-							<category name="explosives" />
-						</container>
-						<dispatch>
-								<proxy type="HatchbackWheel" pos="0.78 -0.427 -1.155" rpy="90.0 0.0 45.0" />
-								<proxy type="HatchbackDoors_Driver" pos="0.767 0.787 -0.532" rpy="90.0 180.0 -90.0" />
-								<proxy type="HatchbackTrunk" pos="-0.054 0.163 1.516" rpy="90.0 180.0 -90.0" />
-						</dispatch>
-		</group>
-		<group name="Land_Wreck_truck02_aban1_orange" >
-						<usage name="Village" />		
-						<usage name="Industrial" />		
-						<container name="loot" lootmax="2">
-							<category name="tools" />
-							<category name="containers" />
-							<category name="clothes" />
-							<category name="food" />
-							<category name="weapons" />
-							<category name="explosives" />
-						</container>
-						<dispatch>
-								<proxy type="HatchbackWheel" pos="0.78 -0.427 -1.155" rpy="90.0 0.0 45.0" />
-								<proxy type="HatchbackDoors_Driver" pos="0.767 0.787 -0.532" rpy="90.0 180.0 -90.0" />
-								<proxy type="HatchbackTrunk" pos="-0.054 0.163 1.516" rpy="90.0 180.0 -90.0" />
-						</dispatch>
-		</group>
-		<group name="Land_Wreck_truck02_aban2_green" >
-						<usage name="Village" />		
-						<usage name="Industrial" />		
-						<container name="loot" lootmax="2">
-							<category name="tools" />
-							<category name="containers" />
-							<category name="clothes" />
-							<category name="food" />
-							<category name="weapons" />
-							<category name="explosives" />
-						</container>
-						<dispatch>
-								<proxy type="HatchbackWheel" pos="0.78 -0.427 -1.155" rpy="90.0 0.0 45.0" />
-								<proxy type="HatchbackDoors_Driver" pos="0.767 0.787 -0.532" rpy="90.0 180.0 -90.0" />
-								<proxy type="HatchbackTrunk" pos="-0.054 0.163 1.516" rpy="90.0 180.0 -90.0" />
-						</dispatch>
-		</group>
-		<group name="Land_Wreck_truck02_aban2_orange" >
-						<usage name="Village" />		
-						<usage name="Industrial" />		
-						<container name="loot" lootmax="2">
-							<category name="tools" />
-							<category name="containers" />
-							<category name="clothes" />
-							<category name="food" />
-							<category name="weapons" />
-							<category name="explosives" />
-						</container>
-						<dispatch>
-								<proxy type="HatchbackWheel" pos="0.78 -0.427 -1.155" rpy="90.0 0.0 45.0" />
-								<proxy type="HatchbackDoors_Driver" pos="0.767 0.787 -0.532" rpy="90.0 180.0 -90.0" />
-								<proxy type="HatchbackTrunk" pos="-0.054 0.163 1.516" rpy="90.0 180.0 -90.0" />
-						</dispatch>
-		</group>
-		<group name="Land_Wreck_van01_aban1_beige" >
-						<usage name="Village" />		
-						<usage name="Industrial" />		
-						<container name="loot" lootmax="2">
-							<category name="tools" />
-							<category name="containers" />
-							<category name="clothes" />
-							<category name="food" />
-							<category name="weapons" />
-							<category name="explosives" />
-						</container>
-						<dispatch>
-								<proxy type="HatchbackWheel" pos="0.78 -0.427 -1.155" rpy="90.0 0.0 45.0" />
-								<proxy type="HatchbackDoors_Driver" pos="0.767 0.787 -0.532" rpy="90.0 180.0 -90.0" />
-								<proxy type="HatchbackTrunk" pos="-0.054 0.163 1.516" rpy="90.0 180.0 -90.0" />
-						</dispatch>
-		</group>
-		<group name="Land_Wreck_van01_aban1_blue" >
-						<usage name="Village" />		
-						<usage name="Industrial" />		
-						<container name="loot" lootmax="2">
-							<category name="tools" />
-							<category name="containers" />
-							<category name="clothes" />
-							<category name="food" />
-							<category name="weapons" />
-							<category name="explosives" />
-						</container>
-						<dispatch>
-								<proxy type="HatchbackWheel" pos="0.78 -0.427 -1.155" rpy="90.0 0.0 45.0" />
-								<proxy type="HatchbackDoors_Driver" pos="0.767 0.787 -0.532" rpy="90.0 180.0 -90.0" />
-								<proxy type="HatchbackTrunk" pos="-0.054 0.163 1.516" rpy="90.0 180.0 -90.0" />
-						</dispatch>
-		</group>
-		<group name="Land_Wreck_van01_aban2_beige" >
-						<usage name="Village" />		
-						<usage name="Industrial" />		
-						<container name="loot" lootmax="2">
-							<category name="tools" />
-							<category name="containers" />
-							<category name="clothes" />
-							<category name="food" />
-							<category name="weapons" />
-							<category name="explosives" />
-						</container>
-						<dispatch>
-								<proxy type="HatchbackWheel" pos="0.78 -0.427 -1.155" rpy="90.0 0.0 45.0" />
-								<proxy type="HatchbackDoors_Driver" pos="0.767 0.787 -0.532" rpy="90.0 180.0 -90.0" />
-								<proxy type="HatchbackTrunk" pos="-0.054 0.163 1.516" rpy="90.0 180.0 -90.0" />
-						</dispatch>
-		</group>
-		<group name="Land_Wreck_van01_aban2_blue" >
-						<usage name="Village" />		
-						<usage name="Industrial" />		
-						<container name="loot" lootmax="2">
-							<category name="tools" />
-							<category name="containers" />
-							<category name="clothes" />
-							<category name="food" />
-							<category name="weapons" />
-							<category name="explosives" />
-						</container>
-						<dispatch>
-								<proxy type="HatchbackWheel" pos="0.78 -0.427 -1.155" rpy="90.0 0.0 45.0" />
-								<proxy type="HatchbackDoors_Driver" pos="0.767 0.787 -0.532" rpy="90.0 180.0 -90.0" />
-								<proxy type="HatchbackTrunk" pos="-0.054 0.163 1.516" rpy="90.0 180.0 -90.0" />
-						</dispatch>
-		</group>
-		-->
 </prototype>
