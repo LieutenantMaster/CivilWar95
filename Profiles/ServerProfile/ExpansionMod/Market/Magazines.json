@@ -623,7 +623,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TF_Mag_OTs_14_Groza_20Rnd ",
+            "ClassName": "TF_Mag_OTs_14_Groza_20Rnd",
             "MaxPriceThreshold": 80,
             "MinPriceThreshold": 80,
             "SellPricePercent": -1.0,
