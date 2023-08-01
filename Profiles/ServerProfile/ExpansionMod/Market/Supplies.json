@@ -233,8 +233,19 @@
         {
             "ClassName": "metalplate",
             "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 100,
-            "SellPricePercent": -1.0,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": 75.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "PB_smallmetalplate",
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 75,
+            "SellPricePercent": 66.6667,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,

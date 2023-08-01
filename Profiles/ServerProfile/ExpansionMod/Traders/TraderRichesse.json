@@ -13,6 +13,11 @@
     "Items": {
         "expansioncircuitboard_mk1": 2,
         "expansioncircuitboard_mk2": 2,
-        "expansioncircuitboard_mk3": 2
+        "expansioncircuitboard_mk3": 2,
+
+        "expansiongoldbar": 2,
+        "expansionsilverbar": 2,
+        "expansiongoldnugget": 2,
+        "expansionsilvernugget": 2
     }
 }

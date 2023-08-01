@@ -46,7 +46,6 @@
         "woodaxe": 1,
         "blowtorch": 1,
         "smallgascanister": 1,
-        "expansionpropanetorch": 1,
         "nailbox": 1,
         "expansioncodelock": 1,
         "portablegasstove": 1,
@@ -57,6 +56,10 @@
         "sewingkit": 1,
         "stone": 2,
         "woodenplank": 2,
+        "expansionpropanetorch": 2,
+        "expansionBoltCutters": 1,
+        "metalplate": 1,
+        "PB_smallmetalplate": 1,
         "reflexvest": 0
 
     }
