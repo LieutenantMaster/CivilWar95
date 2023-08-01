@@ -2057,7 +2057,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hunterpants_brown">
@@ -2070,7 +2070,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hunterpants_spring">
@@ -2083,7 +2083,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="jeans_green">
@@ -2095,7 +2095,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hunterpants_summer">
@@ -2108,7 +2108,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="huntingjacket_autumn">
@@ -2121,7 +2121,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="huntingjacket_brown">
@@ -2134,7 +2134,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="huntingjacket_spring">
@@ -2147,7 +2147,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="huntingjacket_summer">
@@ -2160,7 +2160,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="huntingjacket_winter">
@@ -2173,7 +2173,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="huntingvest">
@@ -2199,7 +2199,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hikingjacket_red">
@@ -2212,7 +2212,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hikingjacket_blue">
@@ -2225,7 +2225,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hikingjacket_green">
@@ -2238,7 +2238,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="raincoat_pink">
@@ -2251,7 +2251,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="raincoat_orange">
@@ -2264,7 +2264,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="raincoat_yellow">
@@ -2277,7 +2277,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="raincoat_red">
@@ -2290,7 +2290,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="raincoat_blue">
@@ -2303,7 +2303,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="raincoat_black">
@@ -2628,7 +2628,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="steakknife">
@@ -2641,7 +2641,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="kukriknife">
@@ -2693,7 +2693,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="binoculars">
@@ -2706,7 +2706,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="chernarusmap">
@@ -2719,7 +2719,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="orienteeringcompass">
@@ -2732,7 +2732,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="compass">
@@ -2745,7 +2745,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="rangefinder">
@@ -2758,7 +2758,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="rope">
@@ -2771,7 +2771,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="fishingrod">
@@ -2784,7 +2784,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hook">
@@ -2797,7 +2797,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="worm">
@@ -2810,7 +2810,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="military_sweater">
@@ -2836,7 +2836,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="military_sweater_blue">
@@ -2849,7 +2849,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="military_sweater_white">
@@ -2862,7 +2862,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>  
     <type name="military_sweater_black">
@@ -2901,7 +2901,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hikingjacket_whitegreen">
@@ -2914,7 +2914,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hikingjacket_whiteblack">
@@ -2927,7 +2927,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hikingjacket_blackyellow">
@@ -2940,7 +2940,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hikingjacket_blackpink">
@@ -2953,7 +2953,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hikingjacket_blackblue">
@@ -2966,7 +2966,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="huntingjacket_white">
@@ -2979,7 +2979,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="huntingjacket_woodland">
@@ -2992,7 +2992,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hunterpants_woodland">
@@ -3005,7 +3005,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="TF_CargoPantsShort_Black">
@@ -3031,7 +3031,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="mountainbag_summer">
@@ -3057,7 +3057,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="mountainbag_grey">
@@ -3070,7 +3070,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="mountainbag_brown">
@@ -3083,7 +3083,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="mountainbag_flt">
@@ -3096,7 +3096,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="canvaspants_black">
@@ -3109,7 +3109,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="huntingjacket_beige">
@@ -3122,7 +3122,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hunterpants_beige">
@@ -3135,7 +3135,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="huntingvest_green">
@@ -3148,7 +3148,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="TF_Foil_hat">
@@ -3187,7 +3187,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="boxcerealcrunchin">
@@ -3200,7 +3200,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="rice">
@@ -3213,7 +3213,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="marmalade">
@@ -3239,7 +3239,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="saltysticks">
@@ -3252,7 +3252,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="crackers">
@@ -3265,7 +3265,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="chips">
@@ -3291,7 +3291,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="pate">
@@ -3304,7 +3304,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="brisketspread">
@@ -3317,7 +3317,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="sardinescan">
@@ -3499,7 +3499,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="sodacan_kvass">
@@ -3725,7 +3725,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="salinebag">
@@ -3800,7 +3800,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="battery9v">
@@ -3824,7 +3824,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="spotlight">
@@ -3838,7 +3838,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <tag name="floor"/>
         <tag name="ground"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="sparkplug">
@@ -3851,7 +3851,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="electronicrepairkit">
@@ -3863,7 +3863,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="screwdriver">
@@ -3876,7 +3876,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="wrench">
@@ -3889,7 +3889,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="pliers">
@@ -3902,7 +3902,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hammer">
@@ -3915,7 +3915,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hacksaw">
@@ -3928,7 +3928,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="handsaw">
@@ -3941,7 +3941,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hatchet">
@@ -3954,7 +3954,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="lugwrench">
@@ -3967,7 +3967,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="netting">
@@ -3980,7 +3980,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="pipewrench">
@@ -3993,7 +3993,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="FOGR_511_Shirt_Red">
@@ -4006,7 +4006,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="workinggloves_black">
@@ -4019,7 +4019,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="FOGR_511_Shirt_Blue">
@@ -4032,7 +4032,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="FOGR_511_Shirt_Leather">
@@ -4045,7 +4045,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="FOG_511_Shirt_Flanel">
@@ -4058,7 +4058,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="FOG_511_Shirt_Flanel_Red">
@@ -4071,7 +4071,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="FOG_511_Shirt_Flanel_Blue">
@@ -4084,7 +4084,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="FOG_511_Shirt_Flanel_Green">
@@ -4097,7 +4097,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="FOG_Enhanced_PCU_Black">
@@ -4110,7 +4110,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="FOG_Enhanced_PCU_Grey">
@@ -4123,7 +4123,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>             
     </type>
     <type name="FOG_HeavyRiders_Jacket_Black">
@@ -4136,7 +4136,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="FOG_HeavyRiders_Jacket_Teal">
@@ -4149,7 +4149,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="FOG_HeavyRiders_Jacket_Red">
@@ -4162,7 +4162,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="FOG_HeavyRiders_Jacket_Green">
@@ -4175,7 +4175,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="FOG_Hoodie_Jacket_Black">
@@ -4188,7 +4188,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="FOG_Hoodie_Jacket_Rolled_Black">
@@ -4201,7 +4201,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="FOG_Shirt_Polo_Blue">
@@ -4214,7 +4214,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="FOG_Shirt_Polo_NavyBlue">
@@ -4227,7 +4227,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="motohelmet_grey">
@@ -4240,7 +4240,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="motohelmet_black">
@@ -4253,7 +4253,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="motohelmet_green">
@@ -4266,7 +4266,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="darkmotohelmet_lime">
@@ -4279,7 +4279,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="darkmotohelmet_blue">
@@ -4292,7 +4292,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="darkmotohelmet_red">
@@ -4305,7 +4305,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="FOG_Shirt_Polo_Black">
@@ -4318,7 +4318,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="FOG_Shirt_Polo_OD">
@@ -4331,7 +4331,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="darkmotohelmet_black">
@@ -4344,7 +4344,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="darkmotohelmet_green">
@@ -4357,7 +4357,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="bandana_blue">
@@ -4370,7 +4370,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="FOG_Tshirt_Red">
@@ -4383,7 +4383,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="FOG_Tshirt_CB">
@@ -4396,7 +4396,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="bandana_redpattern">
@@ -4409,7 +4409,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="bandana_blackpattern">
@@ -4422,7 +4422,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="bandana_polkapattern">
@@ -4435,7 +4435,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="radarcap_blue">
@@ -4448,7 +4448,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="radarcap_brown">
@@ -4461,7 +4461,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="radarcap_red">
@@ -4474,7 +4474,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="radarcap_black">
@@ -4487,7 +4487,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="radarcap_green">
@@ -4500,7 +4500,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="flatcap_blue">
@@ -4513,7 +4513,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="flatcap_red">
@@ -4526,7 +4526,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="FOGR_511_Shirt_Denim">
@@ -4539,7 +4539,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="flatcap_grey">
@@ -4552,7 +4552,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="FOGR_511_Shirt_Tan">
@@ -4565,7 +4565,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="FOGR_511_Shirt_Burgandy">
@@ -4578,7 +4578,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="flatcap_black">
@@ -4591,7 +4591,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="flatcap_blackcheck">
@@ -4604,7 +4604,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="FOGR_511_Shirt_BW">
@@ -4617,7 +4617,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="FOGR_511_Shirt_Brown_Solid">
@@ -4630,7 +4630,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="zmijovkacap_red">
@@ -4643,7 +4643,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="zmijovkacap_black">
@@ -4656,7 +4656,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="zmijovkacap_green">
@@ -4669,7 +4669,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="skatehelmet_blue">
@@ -4682,7 +4682,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="skatehelmet_gray">
@@ -4695,7 +4695,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="skatehelmet_red">
@@ -4708,7 +4708,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="skatehelmet_black">
@@ -4721,7 +4721,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="skatehelmet_green">
@@ -4734,7 +4734,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="dirtbikehelmet_chernarus">
@@ -4747,7 +4747,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type> 
     <type name="dirtbikehelmet_red">
@@ -4760,7 +4760,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="dirtbikehelmet_green">
@@ -4773,7 +4773,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="dirtbikehelmet_blue">
@@ -4786,7 +4786,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="dirtbikehelmet_black">
@@ -4799,7 +4799,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="dirtbikehelmet_khaki">
@@ -4812,7 +4812,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="dirtbikehelmet_mouthguard">
@@ -4825,7 +4825,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="dirtbikehelmet_visor">
@@ -4838,7 +4838,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="nioshfacemask">
@@ -4851,7 +4851,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="surgicalmask">
@@ -4864,7 +4864,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="mimemask_female">
@@ -4877,7 +4877,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="mimemask_male">
@@ -4890,7 +4890,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="jeans_blue">
@@ -4903,7 +4903,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="jeans_brown">
@@ -4916,7 +4916,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="jeans_grey">
@@ -4929,7 +4929,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="jeans_bluedark">
@@ -4942,7 +4942,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="jeans_black">
@@ -4955,7 +4955,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="tracksuitjacket_black">
@@ -4968,7 +4968,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="tracksuitjacket_blue">
@@ -4981,7 +4981,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="tracksuitjacket_green">
@@ -4994,7 +4994,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="tracksuitjacket_lightblue">
@@ -5007,7 +5007,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="tracksuitjacket_red">
@@ -5020,7 +5020,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="tracksuitpants_black">
@@ -5033,7 +5033,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="tracksuitpants_blue">
@@ -5046,7 +5046,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="tracksuitpants_green">
@@ -5059,7 +5059,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="tracksuitpants_red">
@@ -5072,7 +5072,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="tracksuitpants_lightblue">
@@ -5085,7 +5085,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="slackspants_beige">
@@ -5098,7 +5098,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="slackspants_blue">
@@ -5111,7 +5111,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="slackspants_darkgrey">
@@ -5124,7 +5124,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="slackspants_lightgrey">
@@ -5137,7 +5137,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="slackspants_white">
@@ -5150,7 +5150,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="slackspants_brown">
@@ -5163,7 +5163,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="slackspants_black">
@@ -5176,7 +5176,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="slackspants_khaki">
@@ -5189,7 +5189,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="breeches_pink">
@@ -5202,7 +5202,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="breeches_red">
@@ -5215,7 +5215,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="breeches_white">
@@ -5228,7 +5228,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="breeches_blue">
@@ -5241,7 +5241,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="breeches_beetcheck">
@@ -5254,7 +5254,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="breeches_beige">
@@ -5267,7 +5267,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="breeches_browncheck">
@@ -5280,7 +5280,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="breeches_black">
@@ -5293,7 +5293,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="breeches_blackcheck">
@@ -5306,7 +5306,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="breeches_green">
@@ -5319,7 +5319,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="shortjeans_blue">
@@ -5332,7 +5332,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="shortjeans_brown">
@@ -5345,7 +5345,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="shortjeans_darkblue">
@@ -5358,7 +5358,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="shortjeans_red">
@@ -5371,7 +5371,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="shortjeans_black">
@@ -5384,7 +5384,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="shortjeans_green">
@@ -5397,7 +5397,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="skirt_blue">
@@ -5410,7 +5410,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="skirt_red">
@@ -5423,7 +5423,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="skirt_white">
@@ -5436,7 +5436,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="skirt_yellow">
@@ -5449,7 +5449,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="athleticshoes_blue">
@@ -5462,7 +5462,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="athleticshoes_brown">
@@ -5475,7 +5475,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="athleticshoes_grey">
@@ -5488,7 +5488,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="athleticshoes_black">
@@ -5501,7 +5501,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="athleticshoes_green">
@@ -5514,7 +5514,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hikingbootslow_blue">
@@ -5527,7 +5527,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hikingbootslow_grey">
@@ -5540,7 +5540,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hikingbootslow_beige">
@@ -5553,7 +5553,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hikingbootslow_black">
@@ -5566,7 +5566,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="wellies_black">
@@ -5579,7 +5579,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="wellies_brown">
@@ -5592,7 +5592,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="wellies_grey">
@@ -5605,7 +5605,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="wellies_green">
@@ -5618,7 +5618,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="workingboots_grey">
@@ -5631,7 +5631,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="workingboots_brown">
@@ -5644,7 +5644,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="workingboots_beige">
@@ -5657,7 +5657,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="workingboots_green">
@@ -5670,7 +5670,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="dressshoes_white">
@@ -5683,7 +5683,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="dressshoes_beige">
@@ -5696,7 +5696,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="dressshoes_black">
@@ -5709,7 +5709,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="dressshoes_brown">
@@ -5722,7 +5722,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="dressshoes_sunburst">
@@ -5735,7 +5735,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="tshirt_blue">
@@ -5748,7 +5748,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="tshirt_orangewhitestripes">
@@ -5761,7 +5761,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="tshirt_red">
@@ -5774,7 +5774,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="tshirt_redblackstripes">
@@ -5787,7 +5787,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="tshirt_beige">
@@ -5800,7 +5800,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="tshirt_grey">
@@ -5813,7 +5813,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="tshirt_black">
@@ -5826,7 +5826,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="tshirt_green">
@@ -5839,7 +5839,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hoodie_blue">
@@ -5852,7 +5852,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hoodie_black">
@@ -5865,7 +5865,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hoodie_brown">
@@ -5878,7 +5878,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hoodie_grey">
@@ -5891,7 +5891,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hoodie_red">
@@ -5904,7 +5904,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="ridersjacket_black">
@@ -5917,7 +5917,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="expansionridersjacketbrown">
@@ -5930,7 +5930,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="expansionridersjacketdarkblue">
@@ -5943,7 +5943,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="woolcoat_red">
@@ -5956,7 +5956,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="woolcoat_blue">
@@ -5969,7 +5969,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="woolcoat_beige">
@@ -5982,7 +5982,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="woolcoat_redcheck">
@@ -5995,7 +5995,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="woolcoat_bluecheck">
@@ -6008,7 +6008,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="woolcoat_greycheck">
@@ -6021,7 +6021,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="woolcoat_browncheck">
@@ -6034,7 +6034,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="woolcoat_black">
@@ -6047,7 +6047,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="woolcoat_blackcheck">
@@ -6060,7 +6060,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="woolcoat_green">
@@ -6073,7 +6073,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="minidress_pink">
@@ -6086,7 +6086,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="minidress_pinkchecker">
@@ -6099,7 +6099,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="minidress_redchecker">
@@ -6112,7 +6112,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="minidress_bluechecker">
@@ -6125,7 +6125,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="minidress_bluewithdots">
@@ -6138,7 +6138,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="minidress_whitechecker">
@@ -6151,7 +6151,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="minidress_brownchecker">
@@ -6164,7 +6164,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="minidress_greenchecker">
@@ -6177,7 +6177,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="quiltedjacket_blue">
@@ -6190,7 +6190,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="quiltedjacket_red">
@@ -6203,7 +6203,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="quiltedjacket_grey">
@@ -6216,7 +6216,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="quiltedjacket_orange">
@@ -6229,7 +6229,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="quiltedjacket_yellow">
@@ -6242,7 +6242,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="quiltedjacket_violet">
@@ -6255,7 +6255,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="quiltedjacket_black">
@@ -6268,7 +6268,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="quiltedjacket_green">
@@ -6281,7 +6281,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="bomberjacket_brown">
@@ -6294,7 +6294,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="bomberjacket_blue">
@@ -6307,7 +6307,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="bomberjacket_grey">
@@ -6320,7 +6320,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="bomberjacket_maroon">
@@ -6333,7 +6333,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="bomberjacket_skyblue">
@@ -6346,7 +6346,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="bomberjacket_black">
@@ -6359,7 +6359,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="bomberjacket_olive">
@@ -6372,7 +6372,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="blouse_blue">
@@ -6385,7 +6385,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="blouse_violet">
@@ -6398,7 +6398,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="blouse_white">
@@ -6411,7 +6411,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="blouse_green">
@@ -6424,7 +6424,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="denimjacket">
@@ -6437,7 +6437,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="telnyashkashirt">
@@ -6450,7 +6450,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="chernarussportshirt">
@@ -6463,7 +6463,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="mansuit_beige">
@@ -6476,7 +6476,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="mansuit_black">
@@ -6489,7 +6489,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="mansuit_blue">
@@ -6502,7 +6502,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="mansuit_brown">
@@ -6515,7 +6515,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="mansuit_darkgrey">
@@ -6528,7 +6528,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="mansuit_khaki">
@@ -6541,7 +6541,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="mansuit_lightgrey">
@@ -6554,7 +6554,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="mansuit_white">
@@ -6567,7 +6567,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="womansuit_beige">
@@ -6580,7 +6580,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="womansuit_black">
@@ -6593,7 +6593,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="womansuit_blue">
@@ -6606,7 +6606,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="womansuit_brown">
@@ -6619,7 +6619,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="womansuit_darkgrey">
@@ -6632,7 +6632,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="womansuit_khaki">
@@ -6645,7 +6645,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="womansuit_lightgrey">
@@ -6658,7 +6658,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="womansuit_white">
@@ -6671,7 +6671,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="reflexvest">
@@ -6684,7 +6684,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="ExpansionTommy">
@@ -6697,7 +6697,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="taloonbag_blue">
@@ -6710,7 +6710,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="taloonbag_orange">
@@ -6723,7 +6723,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="taloonbag_violet">
@@ -6736,7 +6736,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="taloonbag_green">
@@ -6749,7 +6749,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="childbag_red">
@@ -6762,7 +6762,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="childbag_blue">
@@ -6775,7 +6775,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="childbag_green">
@@ -6788,7 +6788,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="civilianbelt">
@@ -6801,7 +6801,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="sportglasses_orange">
@@ -6814,7 +6814,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="sportglasses_blue">
@@ -6827,7 +6827,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="sportglasses_black">
@@ -6840,7 +6840,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="sportglasses_green">
@@ -6853,7 +6853,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="aviatorglasses">
@@ -6866,7 +6866,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="designerglasses">
@@ -6879,7 +6879,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="eyemask_black">
@@ -6892,7 +6892,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="eyemask_blue">
@@ -6905,7 +6905,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="eyemask_christmas">
@@ -6918,7 +6918,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="eyemask_dead">
@@ -6931,7 +6931,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="eyemask_newyears">
@@ -6944,7 +6944,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="eyemask_red">
@@ -6957,7 +6957,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="eyemask_valentines">
@@ -6970,7 +6970,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="eyemask_yellow">
@@ -6983,7 +6983,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="beanie_blackred">
@@ -6996,7 +6996,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="beanie_purple">
@@ -7009,7 +7009,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="beanie_white">
@@ -7022,7 +7022,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="beanie_blackwhite">
@@ -7035,7 +7035,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="beanie_green">
@@ -7048,7 +7048,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="baseballcap_greywhite">
@@ -7061,7 +7061,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="baseballcap_whitegreen">
@@ -7074,7 +7074,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="baseballcap_bluewhite">
@@ -7087,7 +7087,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="baseballcap_redblack">
@@ -7100,7 +7100,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="baseballcap_redwhite">
@@ -7113,7 +7113,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="baseballcap_blackwhite">
@@ -7126,7 +7126,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="shirt_checkhero">
@@ -7139,7 +7139,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="shirt_stripedyellow">
@@ -7152,7 +7152,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="shirt_hawaiian1">
@@ -7165,7 +7165,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="shirt_hawaiian2">
@@ -7178,7 +7178,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="ridersjacket_blackred">
@@ -7191,7 +7191,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="ridersjacket_blackwhite">
@@ -7204,7 +7204,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="ridersjacket_brown">
@@ -7217,7 +7217,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type> 
     <type name="ridersjacket_grey">
@@ -7230,7 +7230,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="quiltedjacket_wedgewhite">
@@ -7243,7 +7243,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="quiltedjacket_wedgeorange">
@@ -7256,7 +7256,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="quiltedjacket_wedgegreen">
@@ -7269,7 +7269,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="quiltedjacket_wedgeblue">
@@ -7282,7 +7282,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="quiltedjacket_blueorange">
@@ -7295,7 +7295,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="minidress_floral">
@@ -7308,7 +7308,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="minidress_floraldark">
@@ -7321,7 +7321,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="minidress_cherry">
@@ -7334,7 +7334,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="minidress_purple">
@@ -7347,7 +7347,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="minidress_green">
@@ -7360,7 +7360,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="cargopants_white">
@@ -7373,7 +7373,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="booniehat_blue">
@@ -7386,7 +7386,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="booniehat_navyblue">
@@ -7399,7 +7399,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="booniehat_orange">
@@ -7412,7 +7412,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="booniehat_red">
@@ -7425,7 +7425,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="booniehat_black">
@@ -7438,7 +7438,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="booniehat_tan">
@@ -7451,7 +7451,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="booniehat_olive">
@@ -7464,7 +7464,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="booniehat_dpm">
@@ -7477,7 +7477,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="booniehat_dubok">
@@ -7490,7 +7490,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="booniehat_flecktran">
@@ -7503,7 +7503,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="cowboyhat_brown">
@@ -7516,7 +7516,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="cowboyhat_black">
@@ -7529,7 +7529,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="cowboyhat_darkbrown">
@@ -7542,7 +7542,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="cowboyhat_green">
@@ -7555,7 +7555,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="expansioncowboyhatgator">
@@ -7568,7 +7568,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="expansioncowboyhatsnake">
@@ -7581,7 +7581,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="expansioncowboyhatrattlesnake">
@@ -7594,7 +7594,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="canvaspants_blue">
@@ -7607,7 +7607,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="canvaspants_grey">
@@ -7620,7 +7620,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="canvaspants_red">
@@ -7633,7 +7633,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="canvaspants_violet">
@@ -7646,7 +7646,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="canvaspants_beige">
@@ -7659,7 +7659,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="canvaspantsmidi_blue">
@@ -7672,7 +7672,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="canvaspantsmidi_grey">
@@ -7685,7 +7685,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="canvaspantsmidi_red">
@@ -7698,7 +7698,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="canvaspantsmidi_violet">
@@ -7711,7 +7711,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="canvaspantsmidi_beige">
@@ -7724,7 +7724,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hikingboots_brown">
@@ -7737,7 +7737,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="hikingboots_black">
@@ -7750,7 +7750,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="combatboots_green">
@@ -7763,7 +7763,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="MedievalBoots">
@@ -7776,7 +7776,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="poncho_brown">
@@ -7789,7 +7789,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="poncho_green">
@@ -7802,7 +7802,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="poncho_red">
@@ -7815,7 +7815,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="poncho_black">
@@ -7828,7 +7828,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="poncho_white">
@@ -7841,7 +7841,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="bandana_polkapattern">
@@ -7854,7 +7854,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="poncho_blackandwhite">
@@ -7867,7 +7867,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="poncho_blackandwhite2">
@@ -7880,7 +7880,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="poncho_blue_checkered">
@@ -7893,7 +7893,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="shemagh_green">
@@ -7906,7 +7906,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>    
     <type name="shemagh_brown">
@@ -7919,7 +7919,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="shemagh_black">
@@ -7932,7 +7932,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="shemagh_white">
@@ -7945,7 +7945,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="shemagh_red">
@@ -7958,7 +7958,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="slouch_hat_brown">
@@ -7971,7 +7971,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>   
     <type name="winter_parka_base">
@@ -7984,7 +7984,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>   
     <type name="winter_parka_white">
@@ -7997,7 +7997,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="winter_parka_green">
@@ -8010,7 +8010,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="wool_greatcoat_navy">
@@ -8023,7 +8023,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>   
     <type name="wool_greatcoat_olive">
@@ -8036,7 +8036,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="wool_greatcoat_grey">
@@ -8049,7 +8049,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="ushanka_blackfurw">
@@ -8062,7 +8062,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="ushanka_greenlight">
@@ -8075,7 +8075,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="ushanka_whiteblackfur">
@@ -8088,7 +8088,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="cowboyhat_blackbrown">
@@ -8101,7 +8101,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="cowboyhat_white">
@@ -8114,7 +8114,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="cowboyhat_grey">
@@ -8127,7 +8127,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="cowboyhat_darkgreen">
@@ -8140,7 +8140,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier3"/>
+        <value user="Tier12345"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="canopener">
