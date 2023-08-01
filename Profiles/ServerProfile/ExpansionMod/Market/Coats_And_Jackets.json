@@ -613,6 +613,19 @@
             ]
         },
         {
+            "ClassName": "m65jacket_olive",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "m65jacket_tan"                
+            ]
+        },
+        {
             "ClassName": "gorkaejacket_summer",
             "MaxPriceThreshold": 280,
             "MinPriceThreshold": 140,
