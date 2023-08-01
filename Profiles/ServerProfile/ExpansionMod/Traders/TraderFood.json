@@ -52,7 +52,11 @@
         "sodacan_spite": 0,
         "waterbottle": 0,
         "vodka": 0,
-        "expansionmilkbottle": 0
+        "expansionmilkbottle": 0,
+        
+        "CigarettePack_Chernamorka": 1,
+        "CigarettePack_Merkur": 1,
+        "CigarettePack_Partyzanka": 1
 
     }
 }

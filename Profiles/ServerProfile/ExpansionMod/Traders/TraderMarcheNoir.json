@@ -1,0 +1,33 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Marché Clandestin",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Bandit",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [],
+    "Items": {
+        "ExpansionCircuitBoard_MK1": 2,
+        "ExpansionCircuitBoard_MK2": 2,
+        "ExpansionCircuitBoard_MK3": 2,
+        "expansiongoldbar": 2,
+        "expansionsilverbar": 2,
+        "ExpansionGoldNugget": 2,
+        "ExpansionSilverNugget": 2,
+        "Expansion_Guitar": 2,
+        "Expansion_Guitar_old": 2,
+        
+        "vodka": 0,
+        "CP_cigarettepack_cannabisskunk": 0,
+        "CP_cigarettepack_cannabiskush": 0,
+        "CP_cigarettepack_cannabisS1": 0,
+
+        "CigarettePack_Chernamorka": 1,
+        "CigarettePack_Merkur": 1,
+        "CigarettePack_Partyzanka": 1
+    }
+}

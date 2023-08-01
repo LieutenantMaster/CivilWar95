@@ -2,6 +2,7 @@ modded class PlayerBase
 {
 	private ref FrontLineManager m_FrontLineManager;
 
+#ifdef DIAG
 #ifndef SERVER
 	void PlayerBase()
 	{
@@ -14,6 +15,7 @@ modded class PlayerBase
 		m_FrontLineManager = new FrontLineManager();
 		m_FrontLineManager.CheckPlayerPosition();
 	}
+#endif
 #endif
 
 	#ifdef EXPANSION_MODSTORAGE

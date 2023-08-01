@@ -132,7 +132,13 @@
         "TF_OTs_14_Groza": 0,
             "TF_Mag_OTs_14_Groza_20Rnd": 0,
             "TF_OTs_14_Groza_Barrel_Grip": 0,
+        
+        "Expansion_Guitar": 0,
+        "Expansion_Guitar_old": 0,
 
+        "CigarettePack_Chernamorka": 2,
+        "CigarettePack_Merkur": 2,
+        "CigarettePack_Partyzanka": 2,
 
         "TF_OKP7Optic": 0,
         "kobraoptic": 0,
