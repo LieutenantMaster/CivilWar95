@@ -262,7 +262,10 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"CigarettePack_Merkur",
+				"CigarettePack_Partyzanka"
+			]
         },
         {
             "ClassName": "CigarettePack_Partyzanka",

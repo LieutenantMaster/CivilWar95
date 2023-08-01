@@ -111,28 +111,6 @@
             ]
         },
         {
-            "ClassName": "ammo_expansion_m203_smoke_teargas",
-            "MaxPriceThreshold": 450,
-            "MinPriceThreshold": 450,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "ammo_expansion_m203_smoke_red",
-            "MaxPriceThreshold": 250,
-            "MinPriceThreshold": 250,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "expansion_m18smokegrenade_teargas",
             "MaxPriceThreshold": 520,
             "MinPriceThreshold": 260,

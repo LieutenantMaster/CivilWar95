@@ -178,7 +178,7 @@
         <tag name="floor" />
         <usage name="Military"/>
         <usage name="Police"/>
-        <value name="T123" />
+        <value user="Tier123" />
     </type>
     <type name="Msp_MedCase">
         <nominal>2</nominal>
@@ -195,7 +195,7 @@
         <usage name="Medic"/>
         <usage name="Firefighter"/>
         <usage name="Police"/>
-        <value name="T123" />
+        <value user="Tier123" />
     </type>
     <type name="Msp_AmericanAppleCrate">
         <nominal>2</nominal>
@@ -209,7 +209,7 @@
         <category name="containers" />
         <tag name="floor" />
         <usage user="ChernogorskFull"/>
-        <value name="T123" />
+        <value user="Tier123" />
     </type>
     <type name="Msp_AppleCrate">
         <nominal>2</nominal>
@@ -223,7 +223,7 @@
         <category name="containers" />
         <tag name="floor" />
         <usage user="ChernogorskFull"/>
-        <value name="T123" />
+        <value user="Tier123" />
     </type>
     <type name="Msp_TackleBox">
         <nominal>2</nominal>
@@ -237,7 +237,7 @@
         <category name="containers" />
         <tag name="floor" />
         <usage user="ChernogorskFull"/>
-        <value name="T123" />
+        <value user="Tier123" />
     </type>
     <type name="Msp_TackleBox_Black">
         <nominal>2</nominal>
@@ -251,7 +251,7 @@
         <category name="containers" />
         <tag name="floor" />
         <usage user="ChernogorskFull"/>
-        <value name="T123" />
+        <value user="Tier123" />
     </type>
     <type name="Msp_CoolerBox">
         <nominal>2</nominal>
@@ -265,7 +265,7 @@
         <category name="containers" />
         <tag name="floor" />
         <usage user="ChernogorskFull"/>
-        <value name="T123" />
+        <value user="Tier123" />
     </type>
     <type name="Msp_CoolerBox_Black">
         <nominal>2</nominal>
@@ -279,7 +279,7 @@
         <category name="containers" />
         <tag name="floor" />
         <usage user="ChernogorskFull"/>
-        <value name="T123" />
+        <value user="Tier123" />
     </type>
     <type name="Msp_AmmoCrate">
         <nominal>0</nominal>
@@ -321,7 +321,7 @@
         <category name="containers" />
         <tag name="floor" />
         <usage user="ChernogorskFull"/>
-        <value name="T123" />
+        <value user="Tier123" />
     </type>
     <type name="Msp_GrenadeBox">
         <nominal>2</nominal>
@@ -336,7 +336,7 @@
         <tag name="floor" />
         <usage name="Military"/>
         <usage name="Police"/>
-        <value name="T123" />
+        <value user="Tier123" />
     </type>
     <type name="Msp_TreasureChest">
         <nominal>0</nominal>
@@ -364,7 +364,7 @@
         <category name="containers" />
         <tag name="floor" />
         <usage user="ChernogorskFull"/>
-        <value name="T123" />
+        <value user="Tier123" />
     </type>
     <type name="Msp_Basket_Wicker">
         <nominal>0</nominal>
@@ -1560,7 +1560,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage user="ChernogorskFull"/>
-        <value name="T123" />
+        <value user="Tier123" />
     </type>
     <type name="Msp_SleepingBag_Blue">
         <nominal>2</nominal>
@@ -1573,7 +1573,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage user="ChernogorskFull"/>
-        <value name="T123" />
+        <value user="Tier123" />
     </type>
     <type name="Msp_SleepingBag_LimeGreen">
         <nominal>2</nominal>
@@ -1586,7 +1586,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage user="ChernogorskFull"/>
-        <value name="T123" />
+        <value user="Tier123" />
     </type>
     <type name="Msp_SleepingBag_Orange">
         <nominal>2</nominal>
@@ -1599,7 +1599,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage user="ChernogorskFull"/>
-        <value name="T123" />
+        <value user="Tier123" />
     </type>
     <type name="Msp_SleepingBag_Purple">
         <nominal>2</nominal>
@@ -1612,7 +1612,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage user="ChernogorskFull"/>
-        <value name="T123" />
+        <value user="Tier123" />
     </type>
     <type name="Msp_SleepingBag_Red">
         <nominal>2</nominal>
@@ -1625,7 +1625,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage user="ChernogorskFull"/>
-        <value name="T123" />
+        <value user="Tier123" />
     </type>
     <type name="Msp_Mattress_Blue">
         <nominal>2</nominal>
@@ -1638,7 +1638,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage user="ChernogorskFull"/>
-        <value name="T123" />
+        <value user="Tier123" />
     </type>
     <type name="Msp_Mattress_Green">
         <nominal>2</nominal>
@@ -1651,7 +1651,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage user="ChernogorskFull"/>
-        <value name="T123" />
+        <value user="Tier123" />
     </type>
     <type name="Msp_Mattress_Pink">
         <nominal>2</nominal>
@@ -1664,7 +1664,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage user="ChernogorskFull"/>
-        <value name="T123" />
+        <value user="Tier123" />
     </type>
     <type name="Msp_Mattress_Yellow">
         <nominal>2</nominal>
@@ -1677,7 +1677,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage user="ChernogorskFull"/>
-        <value name="T123" />
+        <value user="Tier123" />
     </type>
     <type name="Msp_WoodenChair">
         <lifetime>3888000</lifetime>
@@ -1713,7 +1713,7 @@
         <category name="containers" />
         <tag name="floor" />
         <usage user="ChernogorskFull"/>
-        <value name="T123" />
+        <value user="Tier123" />
     </type>
     <type name="Msp_DeskClock">
         <nominal>2</nominal>
@@ -1727,7 +1727,7 @@
         <category name="containers" />
         <tag name="floor" />
         <usage user="ChernogorskFull"/>
-        <value name="T123" />
+        <value user="Tier123" />
     </type>
     <type name="Msp_RoomDivider_Kit">
         <nominal>1</nominal>
@@ -2254,7 +2254,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier23"/>
+        <value user="Tier23"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="Msp_Slouchie_Blue">
@@ -2267,7 +2267,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier23"/>
+        <value user="Tier23"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="Msp_Slouchie_Black">
@@ -2280,7 +2280,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier23"/>
+        <value user="Tier23"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="Msp_Slouchie_Beige">
@@ -2293,7 +2293,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier23"/>
+        <value user="Tier23"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="Msp_BunnyEarsHeadband">
@@ -2358,7 +2358,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier23"/>
+        <value user="Tier23"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="Msp_WaistPack_UrbanFlektarn">
@@ -2371,7 +2371,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <value name="Tier23"/>
+        <value user="Tier23"/>
         <user name="Chernogorsk"/>
     </type>
     <type name="Msp_WaistPack_Blue">
@@ -2540,7 +2540,7 @@
         <category name="containers" />
         <tag name="floor" />
         <usage user="ChernogorskFull"/>
-        <value name="T12" />
+        <value user="Tier12" />
     </type>
     <type name="msp_sportsbag_blue">
         <nominal>3</nominal>
@@ -2554,7 +2554,7 @@
         <category name="containers" />
         <tag name="floor" />
         <usage user="ChernogorskFull"/>
-        <value name="T12" />
+        <value user="Tier12" />
     </type>
     <type name="msp_sportsbag_gray">
         <nominal>3</nominal>
@@ -2568,7 +2568,7 @@
         <category name="containers" />
         <tag name="floor" />
         <usage user="ChernogorskFull"/>
-        <value name="T12" />
+        <value user="Tier12" />
     </type>
     <type name="msp_sportsbag_green">
         <nominal>3</nominal>
@@ -2582,7 +2582,7 @@
         <category name="containers" />
         <tag name="floor" />
         <usage user="ChernogorskFull"/>
-        <value name="T12" />
+        <value user="Tier12" />
     </type>
     <type name="msp_sportsbag_red">
         <nominal>3</nominal>
@@ -2596,7 +2596,7 @@
         <category name="containers" />
         <tag name="floor" />
         <usage user="ChernogorskFull"/>
-        <value name="T12" />
+        <value user="Tier12" />
     </type>
     <type name="msp_paramedicbag_red">
         <nominal>3</nominal>
@@ -2610,7 +2610,7 @@
         <category name="containers" />
         <tag name="floor" />
         <usage user="ChernogorskFull"/>
-        <value name="T12" />
+        <value user="Tier12" />
     </type>
     <type name="msp_paramedicbag_green">
         <nominal>3</nominal>
@@ -2624,7 +2624,7 @@
         <category name="containers" />
         <tag name="floor" />
         <usage user="ChernogorskFull"/>
-        <value name="T12" />
+        <value user="Tier12" />
     </type>
     <type name="msp_paramedicbag_blue">
         <nominal>3</nominal>
@@ -2638,7 +2638,7 @@
         <category name="containers" />
         <tag name="floor" />
         <usage user="ChernogorskFull"/>
-        <value name="T12" />
+        <value user="Tier12" />
     </type>
     <type name="msp_paramedicbag_nbc">
         <nominal>3</nominal>
@@ -2652,7 +2652,7 @@
         <category name="containers" />
         <tag name="floor" />
         <usage user="ChernogorskFull"/>
-        <value name="T12" />
+        <value user="Tier12" />
     </type>
     <type name="msp_baseballbat_barbedwire">
         <nominal>3</nominal>
@@ -2666,7 +2666,7 @@
         <category name="tools" />
         <tag name="floor" />
         <usage user="ChernogorskFull"/>
-        <value name="T12" />
+        <value user="Tier12" />
     </type>
     <type name="msp_scissors">
         <nominal>3</nominal>
@@ -2680,7 +2680,7 @@
         <category name="tools" />
         <tag name="shelves" />
         <usage user="ChernogorskFull"/>
-        <value name="T12" />
+        <value user="Tier12" />
     </type>
     <type name="msp_bunny">
         <nominal>3</nominal>
@@ -2694,7 +2694,7 @@
         <category name="tools" />
         <tag name="shelves" />
         <usage user="ChernogorskFull"/>
-        <value name="T12" />
+        <value user="Tier12" />
     </type>
     <type name="msp_polarbear">
         <nominal>3</nominal>
@@ -2708,6 +2708,6 @@
         <category name="tools" />
         <tag name="shelves" />
         <usage user="ChernogorskFull"/>
-        <value name="T12" />
+        <value user="Tier12" />
     </type>
 </types>
