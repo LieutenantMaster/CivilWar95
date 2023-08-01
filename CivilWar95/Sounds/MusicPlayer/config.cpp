@@ -26,12 +26,12 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_ChDKZAnthem_Music_SoundShader
+	class CV95_Rossiya_Music_SoundShader
 	{
 		samples[]=
 		{
 			{
-				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\ChDKZAnthem",
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\Rossiya",
 				1
 			}
 		};
@@ -218,6 +218,138 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
+	class CV95_TheBigHangover_Music_SoundShader
+	{
+		samples[]=
+		{
+			{
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\TheBigHangover",
+				1
+			}
+		};
+		volume=1.0;
+		range=30;
+	};
+	class CV95_Atas_Music_SoundShader
+	{
+		samples[]=
+		{
+			{
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\TapeAtas",
+				1
+			}
+		};
+		volume=1.0;
+		range=30;
+	};
+	class CV95_PoslednyayaLyubov_Music_SoundShader
+	{
+		samples[]=
+		{
+			{
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\TapePoslednyayaLyubov",
+				1
+			}
+		};
+		volume=1.0;
+		range=30;
+	};
+	class CV95_DavaiZa_Music_SoundShader
+	{
+		samples[]=
+		{
+			{
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\TapeDavaiZa",
+				1
+			}
+		};
+		volume=1.0;
+		range=30;
+	};
+	class CV95_MilyeZelyonyeGlaza_Music_SoundShader
+	{
+		samples[]=
+		{
+			{
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\TapeMilyeZelyonyeGlaza",
+				1
+			}
+		};
+		volume=1.0;
+		range=30;
+	};
+	class CV95_Kukushka_Music_SoundShader
+	{
+		samples[]=
+		{
+			{
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\TapeKukushka",
+				1
+			}
+		};
+		volume=1.0;
+		range=30;
+	};
+	class CV95_Leto_Music_SoundShader
+	{
+		samples[]=
+		{
+			{
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\TapeLeto",
+				1
+			}
+		};
+		volume=1.0;
+		range=30;
+	};
+	class CV95_GruppaKrovi_Music_SoundShader
+	{
+		samples[]=
+		{
+			{
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\TapeGruppaKrovi",
+				1
+			}
+		};
+		volume=1.0;
+		range=30;
+	};
+	class CV95_Zvezda_Music_SoundShader
+	{
+		samples[]=
+		{
+			{
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\TapeZvezda",
+				1
+			}
+		};
+		volume=1.0;
+		range=30;
+	};
+	class CV95_Peremen_Music_SoundShader
+	{
+		samples[]=
+		{
+			{
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\TapePeremen",
+				1
+			}
+		};
+		volume=1.0;
+		range=30;
+	};
+	class CV95_ChDKZAnthem_Music_SoundShader
+	{
+		samples[]=
+		{
+			{
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\TapeChDKZAnthem",
+				1
+			}
+		};
+		volume=1.0;
+		range=30;
+	};
 	class CV95_Ruined_Music_SoundShader
 	{
 		samples[]=
@@ -306,11 +438,101 @@ class CfgSoundSets
 	class Rifle_Shot_Base_SoundSet;
 	class Rifle_Tail_Base_SoundSet;
 	class Rifle_InteriorTail_Base_SoundSet;
-	class CV95_BosanskaArtiljerija_Music
+	class CV95_TheBigHangover_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_BosanskaArtiljerija_Music_SoundShader"
+			"CV95_TheBigHangover_Music_SoundShader"
+		};
+		volumeFactor=1;
+		frequencyFactor=1;
+		spatial=1;
+	};
+	class CV95_Atas_Music
+	{
+		soundShaders[]=
+		{
+			"CV95_Atas_Music_SoundShader"
+		};
+		volumeFactor=1;
+		frequencyFactor=1;
+		spatial=1;
+	};
+	class CV95_PoslednyayaLyubov_Music
+	{
+		soundShaders[]=
+		{
+			"CV95_PoslednyayaLyubov_Music_SoundShader"
+		};
+		volumeFactor=1;
+		frequencyFactor=1;
+		spatial=1;
+	};
+	class CV95_DavaiZa_Music
+	{
+		soundShaders[]=
+		{
+			"CV95_DavaiZa_Music_SoundShader"
+		};
+		volumeFactor=1;
+		frequencyFactor=1;
+		spatial=1;
+	};
+	class CV95_MilyeZelyonyeGlaza_Music
+	{
+		soundShaders[]=
+		{
+			"CV95_MilyeZelyonyeGlaza_Music_SoundShader"
+		};
+		volumeFactor=1;
+		frequencyFactor=1;
+		spatial=1;
+	};
+	class CV95_Kukushka_Music
+	{
+		soundShaders[]=
+		{
+			"CV95_Kukushka_Music_SoundShader"
+		};
+		volumeFactor=1;
+		frequencyFactor=1;
+		spatial=1;
+	};
+	class CV95_Leto_Music
+	{
+		soundShaders[]=
+		{
+			"CV95_Leto_Music_SoundShader"
+		};
+		volumeFactor=1;
+		frequencyFactor=1;
+		spatial=1;
+	};
+	class CV95_GruppaKrovi_Music
+	{
+		soundShaders[]=
+		{
+			"CV95_GruppaKrovi_Music_SoundShader"
+		};
+		volumeFactor=1;
+		frequencyFactor=1;
+		spatial=1;
+	};
+	class CV95_Zvezda_Music
+	{
+		soundShaders[]=
+		{
+			"CV95_Zvezda_Music_SoundShader"
+		};
+		volumeFactor=1;
+		frequencyFactor=1;
+		spatial=1;
+	};
+	class CV95_Peremen_Music
+	{
+		soundShaders[]=
+		{
+			"CV95_Peremen_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
@@ -321,6 +543,26 @@ class CfgSoundSets
 		soundShaders[]=
 		{
 			"CV95_ChDKZAnthem_Music_SoundShader"
+		};
+		volumeFactor=1;
+		frequencyFactor=1;
+		spatial=1;
+	};
+	class CV95_BosanskaArtiljerija_Music
+	{
+		soundShaders[]=
+		{
+			"CV95_BosanskaArtiljerija_Music_SoundShader"
+		};
+		volumeFactor=1;
+		frequencyFactor=1;
+		spatial=1;
+	};
+	class CV95_Rossiya_Music
+	{
+		soundShaders[]=
+		{
+			"CV95_Rossiya_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;

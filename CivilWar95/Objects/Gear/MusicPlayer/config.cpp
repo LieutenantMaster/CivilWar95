@@ -160,7 +160,7 @@ class CfgVehicles
 			"CV95_BosanskaArtiljerija_Music"
 		};
 	};
-	class CV95_Cassette_ChDKZAnthem: CV95_Cassette_Base
+	class CV95_Cassette_Rossiya: CV95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 188.0;
@@ -168,7 +168,7 @@ class CfgVehicles
 		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_ChDKZAnthem_Music"
+			"CV95_Rossiya_Music"
 		};
 	};
 	class CV95_Cassette_ChernarussianAnthem: CV95_Cassette_Base
@@ -334,6 +334,127 @@ class CfgVehicles
 		Tracks[] = 
 		{
 			"CV95_Troika_Music"
+		};
+	};
+	class CV95_Cassette_TheBigHangover: CV95_Cassette_Base
+	{
+		scope=2;
+		trackTime = 138.0;
+		displayName="TheBigHangover";
+		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		Tracks[] = 
+		{
+			"CV95_TheBigHangover_Music"
+		};
+	};
+	class CV95_Cassette_Atas: CV95_Cassette_Base
+	{
+		scope=2;
+		trackTime = 206.0;
+		displayName="Atas";
+		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		Tracks[] = 
+		{
+			"CV95_Atas_Music"
+		};
+	};
+	class CV95_Cassette_PoslednyayaLyubov: CV95_Cassette_Base
+	{
+		scope=2;
+		trackTime = 261.0;
+		displayName="PoslednyayaLyubov";
+		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		Tracks[] = 
+		{
+			"CV95_PoslednyayaLyubov_Music"
+		};
+	};
+	class CV95_Cassette_DavaiZa: CV95_Cassette_Base
+	{
+		scope=2;
+		trackTime = 250.0;
+		displayName="DavaiZa";
+		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		Tracks[] = 
+		{
+			"CV95_DavaiZa_Music"
+		};
+	};
+	class CV95_Cassette_MilyeZelyonyeGlaza: CV95_Cassette_Base
+	{
+		scope=2;
+		trackTime = 184.0;
+		displayName="MilyeZelyonyeGlaza";
+		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		Tracks[] = 
+		{
+			"CV95_MilyeZelyonyeGlaza_Music"
+		};
+	};
+	class CV95_Cassette_Kukushka: CV95_Cassette_Base
+	{
+		scope=2;
+		trackTime = 387.0;
+		displayName="Kukushka";
+		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		Tracks[] = 
+		{
+			"CV95_Kukushka_Music"
+		};
+	};
+	class CV95_Cassette_Leto: CV95_Cassette_Base
+	{
+		scope=2;
+		trackTime = 354.0;
+		displayName="Leto";
+		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		Tracks[] = 
+		{
+			"CV95_Leto_Music"
+		};
+	};
+	class CV95_Cassette_GruppaKrovi: CV95_Cassette_Base
+	{
+		scope=2;
+		trackTime = 284.0;
+		displayName="GruppaKrovi";
+		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		Tracks[] = 
+		{
+			"CV95_GruppaKrovi_Music"
+		};
+	};
+	class CV95_Cassette_Zvezda: CV95_Cassette_Base
+	{
+		scope=2;
+		trackTime = 266.0;
+		displayName="Zvezda";
+		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		Tracks[] = 
+		{
+			"CV95_Zvezda_Music"
+		};
+	};
+	class CV95_Cassette_Peremen: CV95_Cassette_Base
+	{
+		scope=2;
+		trackTime = 292.0;
+		displayName="Peremen";
+		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		Tracks[] = 
+		{
+			"CV95_Peremen_Music"
+		};
+	};
+	class CV95_Cassette_ChDKZAnthem: CV95_Cassette_Base
+	{
+		scope=2;
+		trackTime = 133.0;
+		displayName="ChDKZAnthem";
+		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		Tracks[] = 
+		{
+			"CV95_ChDKZAnthem_Music"
 		};
 	};
 };

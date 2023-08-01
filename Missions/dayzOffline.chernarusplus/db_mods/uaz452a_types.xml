@@ -2,9 +2,8 @@
 <types>    
 	<!--Автомобили / Cars  -->
     <type name="H4_UAZ452A_Medical">
-        <lifetime>3888000</lifetime>
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -13,9 +12,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="H4_UAZ452A_Blue">
-        <lifetime>3888000</lifetime>
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -24,9 +22,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>		
     <type name="H4_UAZ452A_Green">
-        <lifetime>3888000</lifetime>
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -35,9 +32,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>	
     <type name="H4_UAZ452A_White">
-        <lifetime>3888000</lifetime>
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -46,9 +42,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>		
     <type name="H4_UAZ452A_Police">
-        <lifetime>3888000</lifetime>
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
