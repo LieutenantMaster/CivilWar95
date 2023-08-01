@@ -67,11 +67,11 @@ class CfgVehicles
 	};
 	class ExpansionSilverBar: ExpansionMoneyBar_Base
 	{
-		descriptionShort = "Un lingot d'argent pur à 99,99%. Petit chanceux, va.";
+		descriptionShort = "Un lingot d'argent issu de la Banque Centrale Chernare de Chernogorsk, pur à 99,99%. Petit veinard, va. Attention à ne pas se faire coincer avec.";
 	};
 	class ExpansionGoldBar: ExpansionMoneyBar_Base
 	{
-		descriptionShort = "Un lingot d'or pur à 99,99%. Avec ça, y'a de quoi mettre babushka à l'abri définitivement. ";
+		descriptionShort = "Un lingot d'or pillé de la Banque Centrale Chernare de Chernogorsk, pur à 99,99%. Avec ça, y'a de quoi mettre babushka à l'abri définitivement. À condition de ne pas se faire coincer avec. ";
 	};
 	class ExpansionSilverNugget: ExpansionMoneyBar_Base
 	{
