@@ -330,6 +330,17 @@
             ]
         },
         {
+            "ClassName": "jungleboots_olive",
+            "MaxPriceThreshold": 170,
+            "MinPriceThreshold": 85,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "wellies_black",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 85,
