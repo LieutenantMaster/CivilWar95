@@ -207,8 +207,8 @@
         },
         {
             "ClassName": "TF_OTs_14_Groza",
-            "MaxPriceThreshold": 12730,
-            "MinPriceThreshold": 11550,
+            "MaxPriceThreshold": 6175,
+            "MinPriceThreshold": 5550,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

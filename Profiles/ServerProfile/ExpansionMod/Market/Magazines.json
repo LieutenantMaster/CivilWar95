@@ -194,39 +194,6 @@
             "Variants": []
         },
         {
-            "ClassName": "air_weapon_svt_mag",
-            "MaxPriceThreshold": 350,
-            "MinPriceThreshold": 340,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "air_weapon_mag_9a91",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 100,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "air_weapon_ppsh_71rnd_mag",
-            "MaxPriceThreshold": 220,
-            "MinPriceThreshold": 180,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "mag_akm_30rnd",
             "MaxPriceThreshold": 340,
             "MinPriceThreshold": 150,
@@ -392,28 +359,6 @@
             "Variants": []
         },
         {
-            "ClassName": "air_weapon_stg_mag",
-            "MaxPriceThreshold": 110,
-            "MinPriceThreshold": 80,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "air_weapon_groza_mag",
-            "MaxPriceThreshold": 110,
-            "MinPriceThreshold": 80,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "mag_vss_10rnd",
             "MaxPriceThreshold": 440,
             "MinPriceThreshold": 220,
@@ -503,17 +448,6 @@
         },
         {
             "ClassName": "mag_p1_8rnd",
-            "MaxPriceThreshold": 90,
-            "MinPriceThreshold": 45,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "air_weapon_ots33_mag",
             "MaxPriceThreshold": 90,
             "MinPriceThreshold": 45,
             "SellPricePercent": -1.0,
@@ -690,8 +624,8 @@
         },
         {
             "ClassName": "TF_Mag_OTs_14_Groza_20Rnd ",
-            "MaxPriceThreshold": 140,
-            "MinPriceThreshold": 140,
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 80,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

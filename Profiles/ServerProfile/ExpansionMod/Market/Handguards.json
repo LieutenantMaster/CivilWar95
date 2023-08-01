@@ -135,8 +135,8 @@
         },
         {
             "ClassName": "TF_OTs_14_Groza_Barrel_Grip",
-            "MaxPriceThreshold": 400,
-            "MinPriceThreshold": 300,
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

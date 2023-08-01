@@ -346,17 +346,6 @@
             "Variants": []
         },
         {
-            "ClassName": "Ammo_Air_GP25_Teargas",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 40,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 500,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "ammo_expansion_m203_sticky_smoke_white",
             "MaxPriceThreshold": 600,
             "MinPriceThreshold": 300,
