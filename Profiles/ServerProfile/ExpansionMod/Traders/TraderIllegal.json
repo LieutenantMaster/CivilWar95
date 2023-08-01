@@ -21,7 +21,6 @@
 
 
         "CP_CannabisBrickSkunk": 2,
-        "puscopeoptic": 0,
         "CP_CannabisBrickBlue": 2,
         "CP_CannabisBrickKush": 2,
         "CP_CannabisBrickStardawg": 2,
@@ -29,18 +28,20 @@
         "CP_CannabisBrickS1": 2,
 		"CP_CannabisBrickNomad": 2,
 		"CP_CannabisBrickBlackFrost": 2,
+
         "expansiongoldbar": 2,
         "expansionsilverbar": 2,
+
+        "expansioncircuitboard_mk1": 2,
+        "expansioncircuitboard_mk2": 2,
+        "expansioncircuitboard_mk3": 2,
+
+        
         "CP_PlasticRoll": 0,
-        "combatknife" : 0,
-        "Ssh68Helmet": 0,
-        "policevest": 0,
-        "mosin9130": 0,
-        "sks": 0,
+
         "FOG_Shirt_Tactical_Coat_Black": 0,
         "FOGR_Gorka_Jacket_Green": 0,
         "FOGR_Gorka_Jacket_ATACS_Green": 0,
-        "FOGR_Gorka_Jacket_Partizan_Summer_Green": 0,
         "FOGR_Gorka_Jacket_Khaki": 0,
         "FOGR_Gorka_Pants_Green": 0,
         "FOGR_Gorka_Pants_Khaki": 0,
@@ -59,23 +60,8 @@
         "FOG_Gorka_Jacket_Khaki": 0,
         "FOG_Gorka_Jacket_Black": 0,
         "FOG_Hooded_Cloak_Black": 0,
-        "magnum": 0,
-        "Crossbow_Wood": 0,
-        "Crossbow_Black": 0,
-        "Ammo_HuntingBolt": 0,
-        "ammobox_357_20rnd": 0,
-        "repeater": 0,
-        "mp133shotgun": 0,
-        "TF_RifleSling_Black": 0,
-        "TF_RifleSling_Brown": 0,
-        "TF_RifleSling_OD": 0,
-        "ammobox_9x39_20rnd": 0,
-        "ammobox_380_35rnd": 0,
-        "ammobox_9x19_25rnd": 0,
-        "ammobox_762x54_20rnd": 0,
-        "ammobox_762x39_20rnd": 0,  
-        "ammobox_9x39ap_20rnd": 0,
-        "tf_an94": 0,
+        
+        "Ssh68Helmet": 0,
         "TF_6B23Vest_GFlora": 0,
         "smershvest": 0,
         "FOGR_Smersh_Khaki_Vest": 0,
@@ -83,25 +69,44 @@
         "smershbag": 0,
         "FOGR_Smersh_Khaki": 0,
         "FOGR_Smersh_Green": 0,
-        "fnp45_mrdsoptic": 0,
-        "aks74u": 0,
-        "aks74u_bttstck": 0,
-        "mag_ak74_30rnd": 10,
-        "ammobox_545x39_20rnd": 0,
-        "ammobox_556x45_20rnd": 0,
-        "izh43shotgun": 0,
-        "ammobox_12gaslug_10rnd": 0,
-        "ammobox_12garubberslug_10rnd": 0,
-        "ammobox_00buck_10rnd": 0,
-        "makarovij70": 0,
-        "mag_ij70_8rnd": 0,
-        "mag_cz61_20rnd": 0,
-        "cz61": 0,
 
-        "TF_OKP7Optic": 0,
-        "kobraoptic": 0,
-        "PSO1optic": 0,
-        "HuntingOptic": 0,
+
+        "TF_RifleSling_Black": 0,
+        "TF_RifleSling_Brown": 0,
+        "TF_RifleSling_OD": 0,
+
+
+        "KukriKnife": 0,
+        "FangeKnife": 0,
+        "TF_AK_6kh5Bayonet": 0,
+            "TF_6kh5KnifeSheath": 0,
+        "MSP_VorpalKnife": 0,
+        "combatknife" : 0,
+
+
+        "magnum": 0,
+        
+        "mosin9130": 0,
+        "sks": 0,
+
+        "Crossbow_Wood": 0,
+        "Crossbow_Black": 0,
+        
+        "repeater": 0,
+        "mp133shotgun": 0,
+
+        "tf_an94": 0,
+        "aks74u": 0,
+            "aks74u_bttstck": 0,
+            "mag_ak74_30rnd": 0,
+
+        "izh43shotgun": 0,
+        
+        "makarovij70": 0,
+            "mag_ij70_8rnd": 0,
+        
+        "cz61": 0,
+            "mag_cz61_20rnd": 0,
 
         "Expansion_mp5": 0,
             "mag_mp5_30rnd": 0,
@@ -122,16 +127,31 @@
         "Famas": 0,
             "Mag_FAMAS_25Rnd": 0,
 
-        "KukriKnife": 0,
-        "FangeKnife": 0,
-        "TF_AK_6kh5Bayonet": 0,
-            "TF_6kh5KnifeSheath": 0,
-        "MSP_VorpalKnife": 0,
         "TF_OTs_14_Groza": 0,
-        "TF_Mag_OTs_14_Groza_20Rnd": 0,
-        "TF_OTs_14_Groza_Barrel_Grip": 0,
-        "expansioncircuitboard_mk1": 2,
-        "expansioncircuitboard_mk2": 2,
-        "expansioncircuitboard_mk3": 2
+            "TF_Mag_OTs_14_Groza_20Rnd": 0,
+            "TF_OTs_14_Groza_Barrel_Grip": 0,
+
+
+        "TF_OKP7Optic": 0,
+        "kobraoptic": 0,
+        "PSO1optic": 0,
+        "HuntingOptic": 0,
+        "puscopeoptic": 0,
+        "fnp45_mrdsoptic": 0,
+
+        "Ammo_HuntingBolt": 0,
+        "ammobox_357_20rnd": 0,
+        "ammobox_9x39_20rnd": 0,
+        "ammobox_380_35rnd": 0,
+        "ammobox_9x19_25rnd": 0,
+        "ammobox_762x54_20rnd": 0,
+        "ammobox_762x39_20rnd": 0,
+        "ammobox_12gaslug_10rnd": 0,
+        "ammobox_12garubberslug_10rnd": 0,
+        "ammobox_00buck_10rnd": 0,
+        "ammobox_545x39_20rnd": 0,
+        "ammobox_556x45_20rnd": 0, 
+        "ammobox_9x39ap_20rnd": 0 
+ 
     }
 }
