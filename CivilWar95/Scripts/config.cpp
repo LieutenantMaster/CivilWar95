@@ -8,7 +8,8 @@ class CfgPatches
 		requiredAddons[]=
 		{
 			"DZ_Scripts",
-			"DayZExpansion_Scripts"
+			"DayZExpansion_Scripts",
+			"AirRaid"
 		};
 	};
 };
