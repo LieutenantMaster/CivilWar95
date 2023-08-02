@@ -34,8 +34,8 @@
         },
         {
             "ClassName": "mp5k",
-            "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 1000,
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -89,8 +89,8 @@
         },
         {
             "ClassName": "expansion_mp5",
-            "MaxPriceThreshold": 2200,
-            "MinPriceThreshold": 1100,
+            "MaxPriceThreshold": 4250,
+            "MinPriceThreshold": 3250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

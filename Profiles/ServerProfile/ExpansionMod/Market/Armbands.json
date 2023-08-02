@@ -207,6 +207,20 @@
             "Variants": []
         },
         {
+            "ClassName": "FOG_Hooded_Cloak_Grey",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Hooded_Cloak_RG",                
+                "FOG_Hooded_Cloak_Black"
+            ]
+        },
+        {
             "ClassName": "armband_chedaki",
             "MaxPriceThreshold": 1,
             "MinPriceThreshold": 1,

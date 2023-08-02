@@ -99,8 +99,8 @@
         },
         {
             "ClassName": "tf_an94",
-            "MaxPriceThreshold": 7400,
-            "MinPriceThreshold": 7000,
+            "MaxPriceThreshold": 7250,
+            "MinPriceThreshold": 6250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -129,8 +129,8 @@
         },
         {
             "ClassName": "m16a2",
-            "MaxPriceThreshold": 3200,
-            "MinPriceThreshold": 1500,
+            "MaxPriceThreshold": 4250,
+            "MinPriceThreshold": 3250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -142,8 +142,8 @@
         },        
         {
             "ClassName": "famas",
-            "MaxPriceThreshold": 3200,
-            "MinPriceThreshold": 1500,
+            "MaxPriceThreshold": 5250,
+            "MinPriceThreshold": 4250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -207,8 +207,8 @@
         },
         {
             "ClassName": "TF_OTs_14_Groza",
-            "MaxPriceThreshold": 6175,
-            "MinPriceThreshold": 5550,
+            "MaxPriceThreshold": 6250,
+            "MinPriceThreshold": 5250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

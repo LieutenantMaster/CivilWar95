@@ -296,8 +296,8 @@
         },
         {
             "ClassName": "Expansion_Guitar_old",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 2000,
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": 50.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
