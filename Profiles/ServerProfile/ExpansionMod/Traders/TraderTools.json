@@ -59,7 +59,8 @@
         "expansionBoltCutters": 1,
         "metalplate": 1,
         "PB_smallmetalplate": 1,
-        "reflexvest": 0
+        "reflexvest": 0,
+        "metalwire": 0
 
     }
 }

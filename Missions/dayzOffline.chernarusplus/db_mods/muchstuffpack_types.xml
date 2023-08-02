@@ -559,8 +559,8 @@
     </type>
     <type name="Msp_StoneFireplace_Kit">
         <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>144000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -667,8 +667,8 @@
     </type>
     <type name="Msp_FishingRodsRack_Kit">
         <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>144000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -685,8 +685,8 @@
     </type>
     <type name="Msp_Bookcase_Kit">
         <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>144000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -702,9 +702,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_GunCabinet_Kit">
-        <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <nominal>1</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>144000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -811,8 +811,8 @@
     </type>
     <type name="Msp_ToolsBench_Blue_Kit">
         <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>144000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -829,8 +829,8 @@
     </type>
     <type name="Msp_ToolsBench_Grey_Kit">
         <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>144000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -847,8 +847,8 @@
     </type>
     <type name="Msp_ToolsBench_Red_Kit">
         <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>144000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1206,9 +1206,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_MedicalBox_Kit">
-        <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <nominal>1</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>144000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1684,9 +1684,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="Msp_WoodenTable_Kit">
-        <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <nominal>1</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>144000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1696,6 +1696,7 @@
         <tag name="floor" />
         <usage name="Industrial" />
         <usage name="Farm" />
+        <value user="Tier1234" />
     </type>
     <type name="Msp_WoodenTable">
         <lifetime>3888000</lifetime>
@@ -1731,8 +1732,8 @@
     </type>
     <type name="Msp_RoomDivider_Kit">
         <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>144000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
