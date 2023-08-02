@@ -3564,7 +3564,7 @@
 		<value name="Tier1"/>
     </type>
 	<type name="ExpansionAmmoRPG">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -3573,6 +3573,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <value name="Tier5"/>
+        <user name="ChernogorskFull"/>
     </type>
 	<type name="ExpansionAmmoLAW">
         <nominal>0</nominal>
@@ -3883,7 +3885,7 @@
         <quantmax>1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier5"/>
+        <value name="Tier45"/>
         <usage user="ChernogorskFull"/>
     </type>
     <type name="expansionsilverbar">
@@ -3899,27 +3901,27 @@
         <usage user="ChernogorskFull"/>
     </type>
 	<type name="ExpansionGoldNugget">
-        <nominal>10</nominal>
+        <nominal>6</nominal>
         <lifetime>21600</lifetime>
         <restock>14400</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>1</quantmin>
         <quantmax>1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value user="Tier23"/>
+        <value user="Tier234"/>
         <usage user="ChernogorskFull"/>
     </type>
 	<type name="ExpansionSilverNugget">
-        <nominal>16</nominal>
+        <nominal>10</nominal>
         <lifetime>21600</lifetime>
         <restock>14400</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>1</quantmin>
         <quantmax>1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value user="Tier23"/>
+        <value user="Tier234"/>
         <usage user="ChernogorskFull"/>
     </type>
     <type name="ExpansionBanknoteUSD">
@@ -4284,7 +4286,7 @@
         <category name="tools"/>
     </type>
     <type name="ExpansionCircuitBoard_MK1">
-        <nominal>16</nominal>
+        <nominal>12</nominal>
         <lifetime>21600</lifetime>
         <restock>14400</restock>
         <min>4</min>
@@ -4294,20 +4296,20 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <usage name="IndustrialCW95"/>
-        <value user="Tier12"/>
+        <value user="Tier123"/>
     </type>
     <type name="ExpansionCircuitBoard_MK2">
-        <nominal>8</nominal>
+        <nominal>6</nominal>
         <lifetime>21600</lifetime>
         <restock>14400</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <usage name="IndustrialCW95"/>
-        <value name="Tier3"/>
+        <value name="Tier234"/>
     </type>
     <type name="ExpansionCircuitBoard_MK3">
         <nominal>3</nominal>
@@ -4358,7 +4360,7 @@
         <value user="Tier345"/>
     </type>
 	<type name="ExpansionBoltCutters">
-        <nominal>3</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4370,10 +4372,10 @@
         <usage name="Firefighter"/>
         <usage name="Industrial"/>
         <usage name="Farm"/>
-        <value name="Tier1"/>
+        <value name="Tier12"/>
     </type>
 	<type name="ExpansionPropaneTorch">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -4382,6 +4384,10 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <value name="Tier12"/>
     </type>
 	<type name="expansionbriefcase">
         <nominal>2</nominal>
@@ -4518,28 +4524,6 @@
         <lifetime>3600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
-    <type name="ExpansionBriefcase">
-        <nominal>0</nominal>
-        <lifetime>1800</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1" />
-    </type>
-    <type name="ExpansionToolBox">
-        <nominal>0</nominal>
-        <lifetime>1800</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier1" />
-    </type>
     <type name="Expansion_Guitar">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
@@ -4549,10 +4533,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-        <value user="Tier12345" />
+        <value user="Tier345" />
     </type>
     <type name="Expansion_Guitar_old">
-        <nominal>12</nominal>
+        <nominal>6</nominal>
         <lifetime>21600</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4560,7 +4544,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value user="Tier12345" />
+        <value user="Tier1234" />
     </type>
     <!-- CONSUMABLES TYPES END -->
 	<!-- SPRAY CANS -->
