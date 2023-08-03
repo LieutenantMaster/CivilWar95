@@ -66,7 +66,7 @@ class CustomMission: MissionServer
 
 		// We reset
 		m_SteamIDs = new array<string>;
-		foreach (man juan: m_Players)
+		foreach (Man juan: m_Players)
 		{
 			if ( juan.GetIdentity() )
 			{
@@ -148,7 +148,6 @@ class CustomMission: MissionServer
 		}
 		
 		CloseFile(file);
-		m_Players
 	}
 
 	static bool FindInFile( string filePath, string keyword )
@@ -191,7 +190,7 @@ class CustomMission: MissionServer
 		FileHandle file;
 		if (!FileExist( filename ))
 		{
-			m_player.SetPosition(GetCivilianSpawns().GetRandomElement());
+			m_player.SetPosition("2729.891846 200.718246 5186.811035");
 			if ( m_player.IsMale() )
 				loadoutType = "PlayerSurvivorLoadout";
 			else
