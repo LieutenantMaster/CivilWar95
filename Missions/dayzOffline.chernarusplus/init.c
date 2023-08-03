@@ -40,10 +40,17 @@ void main()
 
 class CustomMission: MissionServer
 {
+	//! ==================================== ARTY ====================================
 	override void OnInit()
 	{
 		super.OnInit();
 
+		// Start between 1 second and 1 hour
+		GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).CallLater( InitArty, Math.RandomIntInclusive(1000, 3600000), false );
+	}
+
+	void InitArty()
+	{
 		m_PlayArty 				 = true;
 		m_ArtyDelay 			 = Math.RandomFloatInclusive(1800, 7200);
 		m_MinSimultaneousStrikes = Math.RandomIntInclusive(0, 3);
