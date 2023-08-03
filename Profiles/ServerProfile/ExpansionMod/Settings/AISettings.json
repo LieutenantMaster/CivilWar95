@@ -15,7 +15,7 @@
     "Vaulting": 1,
     "SniperProneDistanceThreshold": 150.0,
     "Manners": 0,
-    "CanRecruitGuards": 1,
+    "CanRecruitGuards": 0,
     "FormationScale": 2.75,
     "PlayerFactions": []
 }

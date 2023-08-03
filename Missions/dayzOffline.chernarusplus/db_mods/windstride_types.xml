@@ -10,8 +10,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage user="TownVillage"/>
     </type>
 	<type name="Latex_Leggings">
         <nominal>0</nominal>
@@ -23,8 +22,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage user="TownVillage"/>
     </type>
     <type name="Adidas_Leggings">
         <nominal>0</nominal>
@@ -36,8 +34,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage user="TownVillage"/>
     </type>
     <type name="Red_Leggings">
         <nominal>0</nominal>
@@ -49,8 +46,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage user="TownVillage"/>
     </type>
     <type name="Purple_Leggings">
         <nominal>0</nominal>
@@ -62,8 +58,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage user="TownVillage"/>
     </type>
     <type name="Fleece_Grey_Leggings">
         <nominal>0</nominal>
@@ -75,8 +70,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage user="TownVillage"/>
     </type>
     <type name="Latex_White_Leggings">
         <nominal>0</nominal>
@@ -88,8 +82,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage user="TownVillage"/>
     </type>
     <type name="PMK_5A_Gas_Mask">
         <nominal>0</nominal>
@@ -101,7 +94,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage user="Military"/>
         <value user="Tier1234"/>
     </type>
     <type name="Golden_Winged_Pin">
@@ -114,8 +107,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage user="TownVillage"/>
     </type>
     <type name="Button_Pin_Radioactive">
         <nominal>0</nominal>
@@ -127,8 +119,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage user="TownVillage"/>
     </type>
     <type name="Button_Pin_Daisy">
         <nominal>0</nominal>
@@ -140,8 +131,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage user="TownVillage"/>
     </type>
     <type name="Sheriff_Badge">
         <nominal>0</nominal>
@@ -153,8 +143,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage user="TownVillage"/>
     </type>
     <type name="Ragged_Eyepatch">
 		<nominal>0</nominal>
@@ -188,8 +177,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage user="Town"/>
+        <usage user="Village"/>
         <value user="Tier1234"/>
     </type>
     <type name="Plague_Mask">
@@ -202,8 +191,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage user="Town"/>
+        <usage user="Village"/>
         <value user="Tier1234"/>
     </type>
     <type name="Kirza_Boots">
@@ -217,7 +206,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="floor"/>
-        <usage name="Military"/>
+        <usage user="Military"/>
     </type>
     <type name="Defender_Vest_Classic">
         <nominal>0</nominal>
@@ -229,7 +218,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage user="Military"/>
         <value user="Tier1234"/>
     </type>
     <type name="Defender_Vest_Black">
@@ -242,7 +231,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage user="Military"/>
         <value user="Tier1234"/>
     </type>
     <type name="Defender_Vest_Green">
@@ -255,7 +244,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage user="Military"/>
         <value user="Tier1234"/>
     </type>    
 </types>

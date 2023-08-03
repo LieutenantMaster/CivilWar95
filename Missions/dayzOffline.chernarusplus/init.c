@@ -40,6 +40,18 @@ void main()
 
 class CustomMission: MissionServer
 {
+	override void OnInit()
+	{
+		super.OnInit();
+
+		m_PlayArty 				 = true;
+		m_ArtyDelay 			 = Math.RandomFloatInclusive(1800, 7200);
+		m_MinSimultaneousStrikes = Math.RandomIntInclusive(0, 3);
+		m_MaxSimultaneousStrikes = Math.RandomIntInclusive(m_MinSimultaneousStrikes, 10);
+
+		m_FiringPos = CHERNARUS_STRIKE_POS;
+	}
+
 	//! ============================== WHITELIST SYSTEM ==============================
 	override void OnEvent(EventType eventTypeId, Param params) 
 	{
@@ -52,9 +64,16 @@ class CustomMission: MissionServer
 				PlayerIdentity identity = newParams.param1;
 				string steamid = identity.GetPlainId();
 
-				if ( !FindUserInWhitelist( "$profile:whitelist.txt", steamid ) )
+				if ( FindInFile( "$profile:CV95\\Data\\blacklist.txt", steamid ) )
 				{
-					Print("[CivilWar95]:: LOGIN:: Connection denied to the player " + steamid);
+					Print("[CivilWar95]:: LOGIN:: Blacklist:: Connection denied to the player " + steamid);
+					OnClientDisconnectedEvent(identity, NULL, 0, true);
+					return;
+				}
+
+				if ( !FindInFile( "$profile:CV95\\Data\\whitelist.txt", steamid ) )
+				{
+					Print("[CivilWar95]:: LOGIN:: Whitelist:: Connection denied to the player " + steamid);
 					OnClientDisconnectedEvent(identity, NULL, 0, true);
 					return;
 				}
@@ -66,22 +85,21 @@ class CustomMission: MissionServer
 		super.OnEvent(eventTypeId, params);
 	}
 
-	static bool FindUserInWhitelist( string filePath, string steamid )
+	static bool FindInFile( string filePath, string keyword )
 	{
 		FileHandle file = OpenFile( filePath, FileMode.READ );
 
 		if ( !file )
 		{
-			Print("[CivilWar95]:: WHITELIST:: ERROR !!!! Couldn't find " + filePath);
+			Print("[CivilWar95]:: FindInFile:: ERROR !!!! Couldn't find " + filePath);
 			return false;
 		}
 
-		string whitelistSteamId;
-		while ( FGets( file, whitelistSteamId ) >= 1 )
+		string word;
+		while ( FGets( file, word ) >= 1 )
 		{
-			if ( steamid == whitelistSteamId )
+			if ( keyword == word )
 			{
-				Print("[CivilWar95]:: WHITELIST:: Found matching steam id ! " + steamid + " == " + whitelistSteamId );
 				CloseFile( file );
 				return true;
 			}

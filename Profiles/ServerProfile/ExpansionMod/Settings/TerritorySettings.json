@@ -1,6 +1,6 @@
 {
     "m_Version": 2,
-    "EnableTerritories": 1,
+    "EnableTerritories": 0,
     "UseWholeMapForInviteList": 0,
     "TerritorySize": 50.0,
     "TerritoryPerimeterSize": 50.0,

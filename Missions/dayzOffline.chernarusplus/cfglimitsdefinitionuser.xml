@@ -1,6 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <user_lists>
     <usageflags>
+        <user name="Town">
+            <usage name="Town" />
+        </user>
+        <user name="Village">
+            <usage name="Village" />
+        </user>
+        <user name="Office">
+            <usage name="Office" />
+        </user>
+        <user name="School">
+            <usage name="School" />
+        </user>
+        <user name="SeasonalEvent">
+            <usage name="SeasonalEvent" />
+        </user>
+        <user name="Lunapark">
+            <usage name="Lunapark" />
+        </user>
+        <user name="Hunting">
+            <usage name="Hunting" />
+        </user>
+        <user name="Coast">
+            <usage name="Coast" />
+        </user>
+        <user name="Farm">
+            <usage name="Farm" />
+        </user>
+        <user name="Police">
+            <usage name="Police" />
+        </user>
+        <user name="Military">
+            <usage name="Military" />
+        </user>
+        <user name="Medic">
+            <usage name="Medic" />
+        </user>
+        <user name="Firefighter">
+            <usage name="Firefighter" />
+        </user>
+        <user name="Industrial">
+            <usage name="Industrial" />
+        </user>
+        <user name="IndustrialCW95">
+            <usage name="IndustrialCW95" />
+        </user>
+        <user name="Prison">
+            <usage name="Prison" />
+        </user>
+        <user name="ContaminatedArea">
+            <usage name="ContaminatedArea" />
+        </user>
+        <user name="IndustrialFull">
+            <usage name="Industrial" />
+            <usage name="IndustrialCW95" />
+        </user>
         <user name="TownVillage">
             <usage name="Town" />
             <usage name="Village" />
@@ -11,22 +66,13 @@
             <usage name="Office" />
             <usage name="School" />
         </user>
-        <user name="Chernogorsk">
-            <usage name="Industrial"/>
-            <usage name="Farm"/>
-            <usage name="Coast"/>
-            <usage name="Town"/>
-            <usage name="Village"/>
-            <usage name="Hunting"/>
-            <usage name="Office"/>
-            <usage name="School"/>
-            <usage name="Lunapark"/>
-            <usage name="SeasonalEvent"/>
-        </user>
-        <user name="ChernogorskFull">
+        <user name="Everything">
             <usage name="Military"/>
             <usage name="Police"/>
+            <usage name="Medic"/>
+            <usage name="Firefighter"/>
             <usage name="Industrial"/>
+            <usage name="IndustrialCW95"/>
             <usage name="Farm"/>
             <usage name="Coast"/>
             <usage name="Town"/>
@@ -34,12 +80,29 @@
             <usage name="Hunting"/>
             <usage name="Office"/>
             <usage name="School"/>
+            <usage name="Prison"/>
             <usage name="Lunapark"/>
             <usage name="SeasonalEvent"/>
+            <usage name="ContaminatedArea"/>
         </user>
     </usageflags>
 
     <valueflags>
+        <user name="Tier1">
+            <value name="Tier1" />
+        </user>
+        <user name="Tier2">
+            <value name="Tier2" />
+        </user>
+        <user name="Tier3">
+            <value name="Tier3" />
+        </user>
+        <user name="Tier4">
+            <value name="Tier4" />
+        </user>
+        <user name="Tier5">
+            <value name="Tier5" />
+        </user>
         <user name="Tier12">
             <value name="Tier1" />
             <value name="Tier2" />

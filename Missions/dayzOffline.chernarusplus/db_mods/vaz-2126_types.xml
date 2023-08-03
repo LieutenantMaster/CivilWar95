@@ -50,7 +50,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="Vaz_2126_Doors_CoDriver">
         <nominal>0</nominal>
@@ -60,7 +60,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="Vaz_2126_Doors_BackLeft">
         <nominal>0</nominal>
@@ -70,7 +70,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="Vaz_2126_Doors_BackRight">
         <nominal>0</nominal>
@@ -80,7 +80,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="Vaz_2126_Doors_Trunk">
         <nominal>0</nominal>
@@ -90,7 +90,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="Vaz_2126_doors_Hood">
         <nominal>0</nominal>
@@ -100,7 +100,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="Vaz_2126_doors_RoofCargo">
         <nominal>0</nominal>
@@ -110,7 +110,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="Vaz_2126_Doors_Driver_Blue">
         <nominal>0</nominal>
@@ -120,7 +120,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="Vaz_2126_Doors_CoDriver_Blue">
         <nominal>0</nominal>
@@ -130,7 +130,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="Vaz_2126_Doors_BackLeft_Blue">
         <nominal>0</nominal>
@@ -140,7 +140,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="Vaz_2126_Doors_BackRight_Blue">
         <nominal>0</nominal>
@@ -150,7 +150,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="Vaz_2126_Doors_Trunk_Blue">
         <nominal>0</nominal>
@@ -160,7 +160,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="Vaz_2126_doors_Hood_Blue">
         <nominal>0</nominal>
@@ -170,7 +170,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="Vaz_2126_Doors_Driver_Green">
         <nominal>0</nominal>
@@ -180,7 +180,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="Vaz_2126_Doors_CoDriver_Green">
         <nominal>0</nominal>
@@ -190,7 +190,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="Vaz_2126_Doors_BackLeft_Green">
         <nominal>0</nominal>
@@ -200,7 +200,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="Vaz_2126_Doors_BackRight_Green">
         <nominal>0</nominal>
@@ -210,7 +210,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="Vaz_2126_Doors_Trunk_Green">
         <nominal>0</nominal>
@@ -220,7 +220,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="Vaz_2126_doors_Hood_Green">
         <nominal>0</nominal>
@@ -230,7 +230,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="Vaz_2126_Doors_Driver_Red">
         <nominal>0</nominal>
@@ -240,7 +240,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="Vaz_2126_Doors_CoDriver_Red">
         <nominal>0</nominal>
@@ -250,7 +250,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="Vaz_2126_Doors_BackLeft_Red">
         <nominal>0</nominal>
@@ -260,7 +260,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="Vaz_2126_Doors_BackRight_Red">
         <nominal>0</nominal>
@@ -270,7 +270,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="Vaz_2126_Doors_Trunk_Red">
         <nominal>0</nominal>
@@ -280,7 +280,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="Vaz_2126_doors_Hood_Red">
         <nominal>0</nominal>
@@ -290,7 +290,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     
 </types>

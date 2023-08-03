@@ -1403,7 +1403,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <tag name="floor"/>
-        <usage name="Industrial" />
+        <usage user="Industrial" />
     </type>
     <type name="Expansion_Landrover_Driverdoor">
         <nominal>0</nominal>
@@ -1481,7 +1481,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <tag name="floor"/>
-        <usage name="Industrial" />
+        <usage user="Industrial" />
     </type>
     <type name="Expansion_Landrover_Driverdoor_Yellow">
         <nominal>0</nominal>
@@ -1559,7 +1559,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <tag name="floor"/>
-        <usage name="Industrial" />
+        <usage user="Industrial" />
     </type>
     <type name="Expansion_Landrover_Driverdoor_Orange">
         <nominal>0</nominal>
@@ -1637,7 +1637,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <tag name="floor"/>
-        <usage name="Industrial" />
+        <usage user="Industrial" />
     </type>
     <type name="Expansion_Landrover_Driverdoor_Red">
         <nominal>0</nominal>
@@ -1715,7 +1715,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <tag name="floor"/>
-        <usage name="Industrial" />
+        <usage user="Industrial" />
     </type>
     <type name="Expansion_Landrover_Driverdoor_Blue">
         <nominal>0</nominal>
@@ -1793,7 +1793,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <tag name="floor"/>
-        <usage name="Industrial" />
+        <usage user="Industrial" />
     </type>
     <type name="Expansion_Landrover_Driverdoor_Grey">
         <nominal>0</nominal>
@@ -1871,7 +1871,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <tag name="floor"/>
-        <usage name="Industrial" />
+        <usage user="Industrial" />
     </type>
     <type name="Expansion_Landrover_Driverdoor_Green">
         <nominal>0</nominal>
@@ -1952,7 +1952,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Military"/>
+		<usage user="Military"/>
     </type>
 	<type name="ExpansionAircraftBattery">
         <nominal>0</nominal>
@@ -1964,7 +1964,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Military"/>
+		<usage user="Military"/>
     </type>
 	<type name="ExpansionIgniterPlug">
         <nominal>0</nominal>
@@ -1976,7 +1976,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Military"/>
+		<usage user="Military"/>
     </type>
 	<type name="ExpansionHydraulicHoses">
         <nominal>0</nominal>
@@ -1988,7 +1988,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Military"/>
+		<usage user="Military"/>
     </type>
 	<type name="ExpansionBusWheel">
         <nominal>0</nominal>
@@ -2116,7 +2116,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <tag name="floor"/>
-        <usage name="Industrial" />
+        <usage user="Industrial" />
     </type>
 	<type name="ExpansionUAZDoorDriver">
         <nominal>0</nominal>
@@ -2172,7 +2172,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <tag name="floor"/>
-        <usage name="Industrial" />
+        <usage user="Industrial" />
     </type>
 	<type name="ExpansionUAZDoorDriver_Black">
         <nominal>0</nominal>
@@ -2228,7 +2228,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <tag name="floor"/>
-        <usage name="Industrial" />
+        <usage user="Industrial" />
     </type>
 	<type name="ExpansionUAZDoorDriver_LightGreen">
         <nominal>0</nominal>
@@ -3176,7 +3176,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-		<value name="Tier3"/>
+		<value user="Tier3"/>
     </type>
 	<type name="ExpansionEXPS3HoloOptic">
         <nominal>0</nominal>
@@ -3188,7 +3188,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-		<value name="Tier3"/>
+		<value user="Tier3"/>
     </type>
 	<type name="ExpansionHAMROptic">
         <nominal>0</nominal>
@@ -3200,7 +3200,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-		<value name="Tier3"/>
+		<value user="Tier3"/>
     </type>
 	<type name="Expansion_PMII25Optic">
         <nominal>0</nominal>
@@ -3212,7 +3212,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-		<value name="Tier3"/>
+		<value user="Tier3"/>
     </type>
 	<type name="ExpansionReflexMRSOptic">
         <nominal>0</nominal>
@@ -3509,7 +3509,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-		<value name="Tier1"/>
+		<value user="Tier1"/>
     </type>
 	<!-- AMMOBOXES -->
 	<type name="AmmoBox_Expansion_46x30_25rnd">
@@ -3546,8 +3546,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-		<usage name="Hunting"/>
-		<value name="Tier1"/>
+		<usage user="Hunting"/>
+		<value user="Tier1"/>
     </type>
 	<!-- AMMO -->
 	<type name="Expansion_Ammo_8mm">
@@ -3560,8 +3560,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-		<usage name="Hunting"/>
-		<value name="Tier1"/>
+		<usage user="Hunting"/>
+		<value user="Tier1"/>
     </type>
 	<type name="ExpansionAmmoRPG">
         <nominal>1</nominal>
@@ -3573,8 +3573,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <value name="Tier5"/>
-        <user name="ChernogorskFull"/>
+        <value user="Tier5"/>
+        <usage user="Everything"/>
     </type>
 	<type name="ExpansionAmmoLAW">
         <nominal>0</nominal>
@@ -3885,8 +3885,8 @@
         <quantmax>1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <value name="Tier45"/>
-        <usage user="ChernogorskFull"/>
+        <value user="Tier45"/>
+        <usage user="Everything"/>
     </type>
     <type name="expansionsilverbar">
         <nominal>6</nominal>
@@ -3898,7 +3898,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value user="Tier45"/>
-        <usage user="ChernogorskFull"/>
+        <usage user="Everything"/>
     </type>
 	<type name="ExpansionGoldNugget">
         <nominal>6</nominal>
@@ -3910,7 +3910,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value user="Tier234"/>
-        <usage user="ChernogorskFull"/>
+        <usage user="Everything"/>
     </type>
 	<type name="ExpansionSilverNugget">
         <nominal>10</nominal>
@@ -3922,7 +3922,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value user="Tier234"/>
-        <usage user="ChernogorskFull"/>
+        <usage user="Everything"/>
     </type>
     <type name="ExpansionBanknoteUSD">
         <nominal>0</nominal>
@@ -4246,7 +4246,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="containers" />
         <tag name="floor" />
-        <usage user="ChernogorskFull"/>
+        <usage user="Everything"/>
         <value user="Tier1234" />
     </type>
 	<type name="ExpansionWoodPillar">
@@ -4305,7 +4305,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="IndustrialCW95"/>
+        <usage user="IndustrialCW95"/>
         <value user="Tier123"/>
     </type>
     <type name="ExpansionCircuitBoard_MK2">
@@ -4318,8 +4318,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="IndustrialCW95"/>
-        <value name="Tier234"/>
+        <usage user="IndustrialCW95"/>
+        <value user="Tier234"/>
     </type>
     <type name="ExpansionCircuitBoard_MK3">
         <nominal>3</nominal>
@@ -4331,7 +4331,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="IndustrialCW95"/>
+        <usage user="IndustrialCW95"/>
         <value user="Tier45"/>
     </type>
 	<!-- BASE BUILDING END -->
@@ -4366,7 +4366,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <user name="ChernogorskFull"/>
+        <usage user="Everything"/>
         <value user="Tier345"/>
     </type>
 	<type name="ExpansionBoltCutters">
@@ -4379,10 +4379,10 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Firefighter"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-        <value name="Tier12"/>
+        <usage user="Firefighter"/>
+        <usage user="Industrial"/>
+        <usage user="Farm"/>
+        <value user="Tier12"/>
     </type>
 	<type name="ExpansionPropaneTorch">
         <nominal>2</nominal>
@@ -4394,10 +4394,10 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Firefighter"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-        <value name="Tier12"/>
+        <usage user="Firefighter"/>
+        <usage user="Industrial"/>
+        <usage user="Farm"/>
+        <value user="Tier12"/>
     </type>
 	<type name="expansionbriefcase">
         <nominal>2</nominal>
@@ -4409,7 +4409,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
-        <usage user="ChernogorskFull"/>
+        <usage user="Everything"/>
         <value user="Tier123" />
     </type>
 	<type name="ExpansionToolBox">
@@ -4422,7 +4422,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
-        <usage user="ChernogorskFull"/>
+        <usage user="Everything"/>
         <value user="Tier123" />
     </type>
 	<!-- MISC END -->
@@ -4485,7 +4485,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <value user="Tier34"/>
-        <user name="Chernogorsk"/>
+        <usage user="Everything"/>
     </type>
     <type name="expansioncheese2">
         <nominal>1</nominal>
@@ -4498,7 +4498,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
         <value user="Tier34"/>
-        <user name="Chernogorsk"/>
+        <usage user="Everything"/>
     </type>
     <type name="expansioncheese3">
         <nominal>1</nominal>
@@ -4511,7 +4511,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
         <value user="Tier34"/>
-        <user name="Chernogorsk"/>
+        <usage user="Everything"/>
     </type>
     <type name="expansioncheese4">
         <nominal>1</nominal>
@@ -4524,7 +4524,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
         <value user="Tier34"/>
-        <user name="Chernogorsk"/>
+        <usage user="Everything"/>
     </type>
     <type name="Expansion_Gravecross_LowLifetime">
         <lifetime>300</lifetime>

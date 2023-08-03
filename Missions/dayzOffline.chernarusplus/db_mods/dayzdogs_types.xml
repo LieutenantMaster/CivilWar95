@@ -10,7 +10,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage user="Military"/>
         <value user="Tier2345"/>
     </type>
 	<type name="dog_collar">
@@ -23,8 +23,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage user="TownVillage"/>
     </type>
 	<type name="dog_collar_blue">
         <nominal>4</nominal>
@@ -36,8 +35,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage user="TownVillage"/>
     </type>
 	<type name="dog_collar_red">
         <nominal>4</nominal>
@@ -49,8 +47,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage user="TownVillage"/>
     </type>
 	<type name="dog_collar_green">
         <nominal>4</nominal>
@@ -62,8 +59,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage user="TownVillage"/>
     </type>
 	<type name="dog_collar_white">
         <nominal>4</nominal>
@@ -75,8 +71,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage user="TownVillage"/>
     </type>
 	<type name="dog_collar_yellow">
         <nominal>4</nominal>
@@ -88,8 +83,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage user="TownVillage"/>
     </type>
 	<type name="dog_collar_grey">
         <nominal>4</nominal>
@@ -101,8 +95,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage user="TownVillage"/>
     </type>
 	<type name="dog_vest_sheriff">
         <nominal>5</nominal>
@@ -114,7 +107,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Police"/>
+        <usage user="Police"/>
     </type>
 	<type name="dog_vest_black">
         <nominal>5</nominal>
@@ -126,7 +119,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Police"/>
+        <usage user="Police"/>
     </type>
 	<type name="dog_vest_black_k9">
         <nominal>5</nominal>
@@ -138,7 +131,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Police"/>
+        <usage user="Police"/>
     </type>
 	<type name="dog_vest_blackgreen">
         <nominal>5</nominal>
@@ -150,7 +143,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Police"/>
+        <usage user="Police"/>
     </type>
 	<type name="dog_vest_blackmedic">
         <nominal>5</nominal>
@@ -162,7 +155,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Police"/>
+        <usage user="Police"/>
     </type>
 	<type name="dog_vest_blackgreenz">
         <nominal>5</nominal>
@@ -174,7 +167,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Police"/>
+        <usage user="Police"/>
     </type>
 	<type name="dog_shed_small_kit">
         <nominal>0</nominal>
@@ -187,9 +180,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Village"/>
-		<usage name="Town"/>
-        <usage name="Farm"/>
+        <usage user="Village"/>
+		<usage user="Town"/>
+        <usage user="Farm"/>
     </type>
 	<type name="dog_shed_big_kit">
         <nominal>0</nominal>
@@ -202,9 +195,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Village"/>
-		<usage name="Town"/>
-        <usage name="Farm"/>
+        <usage user="Village"/>
+		<usage user="Town"/>
+        <usage user="Farm"/>
     </type>
 	<type name="dog_shed_big">
         <nominal>0</nominal>

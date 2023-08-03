@@ -59,7 +59,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="H4_UAZ452A_Doors_Driver_Medical">
         <nominal>0</nominal>
@@ -68,7 +68,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="H4_UAZ452A_Doors_CoDriver_Medical">
         <nominal>0</nominal>
@@ -77,7 +77,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="H4_UAZ452A_Doors_Cargo1_Medical">
         <nominal>0</nominal>
@@ -86,7 +86,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="H4_UAZ452A_Doors_Trunk1_Medical">
         <nominal>0</nominal>
@@ -95,7 +95,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>        
     <type name="H4_UAZ452A_Doors_Trunk2_Medical">
         <nominal>0</nominal>
@@ -104,7 +104,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="H4_UAZ452A_Doors_Driver_Blue">
         <nominal>0</nominal>
@@ -113,7 +113,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="H4_UAZ452A_Doors_CoDriver_Blue">
         <nominal>0</nominal>
@@ -122,7 +122,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="H4_UAZ452A_Doors_Cargo1_Blue">
         <nominal>0</nominal>
@@ -131,7 +131,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="H4_UAZ452A_Doors_Trunk1_Blue">
         <nominal>0</nominal>
@@ -140,7 +140,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>        
     <type name="H4_UAZ452A_Doors_Trunk2_Blue">
         <nominal>0</nominal>
@@ -149,7 +149,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>	
     <type name="H4_UAZ452A_Doors_Driver_Green">
         <nominal>0</nominal>
@@ -158,7 +158,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="H4_UAZ452A_Doors_CoDriver_Green">
         <nominal>0</nominal>
@@ -167,7 +167,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="H4_UAZ452A_Doors_Cargo1_Green">
         <nominal>0</nominal>
@@ -176,7 +176,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="H4_UAZ452A_Doors_Trunk1_Green">
         <nominal>0</nominal>
@@ -185,7 +185,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>        
     <type name="H4_UAZ452A_Doors_Trunk2_Green">
         <nominal>0</nominal>
@@ -194,7 +194,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>		
     <type name="H4_UAZ452A_Doors_Driver_Police">
         <nominal>0</nominal>
@@ -203,7 +203,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="H4_UAZ452A_Doors_CoDriver_Police">
         <nominal>0</nominal>
@@ -212,7 +212,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="H4_UAZ452A_Doors_Cargo1_Police">
         <nominal>0</nominal>
@@ -221,7 +221,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="H4_UAZ452A_Doors_Trunk1_Police">
         <nominal>0</nominal>
@@ -230,7 +230,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>        
     <type name="H4_UAZ452A_Doors_Trunk2_Police">
         <nominal>0</nominal>
@@ -239,7 +239,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>	
     <type name="H4_UAZ452A_Doors_Driver_White">
         <nominal>0</nominal>
@@ -248,7 +248,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="H4_UAZ452A_Doors_CoDriver_White">
         <nominal>0</nominal>
@@ -257,7 +257,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="H4_UAZ452A_Doors_Cargo1_White">
         <nominal>0</nominal>
@@ -266,7 +266,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="H4_UAZ452A_Doors_Trunk1_White">
         <nominal>0</nominal>
@@ -275,7 +275,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>        
     <type name="H4_UAZ452A_Doors_Trunk2_White">
         <nominal>0</nominal>
@@ -284,7 +284,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>		
     <type name="H4_UAZ452A_RoofCargo">
         <nominal>0</nominal>
@@ -293,7 +293,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="H4_NeonlightBulbRed">
         <nominal>0</nominal>
@@ -302,7 +302,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>	
     <type name="H4_NeonlightBulbOrange">
         <nominal>0</nominal>
@@ -311,7 +311,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>		
     <type name="H4_NeonlightBulbYellow">
         <nominal>0</nominal>
@@ -320,7 +320,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>		
     <type name="H4_NeonlightBulbGreen">
         <nominal>0</nominal>
@@ -329,7 +329,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>		
     <type name="H4_NeonlightBulbSkyBlue">
         <nominal>0</nominal>
@@ -338,7 +338,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>	
     <type name="H4_NeonlightBulbBlue">
         <nominal>0</nominal>
@@ -347,7 +347,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>	
     <type name="H4_NeonlightBulbViolet">
         <nominal>0</nominal>
@@ -356,7 +356,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>	
     <type name="H4_NeonlightBulbPurple">
         <nominal>0</nominal>
@@ -365,7 +365,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>		
     <type name="H4_NeonlightBulbPink">
         <nominal>0</nominal>
@@ -374,7 +374,7 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>	
     <type name="H4_NeonlightBulbWhite">
         <nominal>0</nominal>
@@ -383,6 +383,6 @@
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>		
 </types>

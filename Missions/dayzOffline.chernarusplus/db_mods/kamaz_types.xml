@@ -41,7 +41,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazDoors_CoDriver">
         <nominal>0</nominal>
@@ -54,7 +54,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazHood">
         <nominal>0</nominal>
@@ -67,7 +67,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazTrunk">
         <nominal>0</nominal>
@@ -80,7 +80,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazWheel">
         <nominal>0</nominal>
@@ -93,7 +93,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazWheel_Ruined">
         <lifetime>1800</lifetime>
@@ -111,7 +111,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazDoors_CoDriver_DON_Nowoa">
         <nominal>0</nominal>
@@ -124,7 +124,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazHood_DON_Nowoa">
         <nominal>0</nominal>
@@ -137,7 +137,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazDoors_Driver_DON_Schnell">
         <nominal>0</nominal>
@@ -150,7 +150,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazDoors_CoDriver_DON_Schnell">
         <nominal>0</nominal>
@@ -163,7 +163,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazHood_DON_Schnell">
         <nominal>0</nominal>
@@ -176,7 +176,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazDoors_Driver_DON_Green">
         <nominal>0</nominal>
@@ -189,7 +189,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazDoors_CoDriver_DON_Green">
         <nominal>0</nominal>
@@ -202,7 +202,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazHood_DON_Green">
         <nominal>0</nominal>
@@ -215,7 +215,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazDoors_Driver_DON_Red">
         <nominal>0</nominal>
@@ -228,7 +228,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazDoors_CoDriver_DON_Red">
         <nominal>0</nominal>
@@ -241,7 +241,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazHood_DON_Red">
         <nominal>0</nominal>
@@ -254,7 +254,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazTrunk_DON_Civilian2">
         <nominal>0</nominal>
@@ -267,7 +267,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazDoors_Driver_DON_Yellow">
         <nominal>0</nominal>
@@ -280,7 +280,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazDoors_CoDriver_DON_Yellow">
         <nominal>0</nominal>
@@ -293,7 +293,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazHood_DON_Yellow">
         <nominal>0</nominal>
@@ -306,7 +306,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazDoors_Driver_DON_Blue">
         <nominal>0</nominal>
@@ -319,7 +319,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazDoors_CoDriver_DON_Blue">
         <nominal>0</nominal>
@@ -332,7 +332,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazHood_DON_Blue">
         <nominal>0</nominal>
@@ -345,7 +345,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazDoors_Driver_DON_LightBlue">
         <nominal>0</nominal>
@@ -358,7 +358,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazDoors_CoDriver_DON_LightBlue">
         <nominal>0</nominal>
@@ -371,7 +371,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazHood_DON_LightBlue">
         <nominal>0</nominal>
@@ -384,7 +384,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazDoors_Driver_DON_Beige">
         <nominal>0</nominal>
@@ -397,7 +397,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazDoors_CoDriver_DON_Beige">
         <nominal>0</nominal>
@@ -410,7 +410,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazHood_DON_Beige">
         <nominal>0</nominal>
@@ -423,7 +423,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazDoors_Driver_DON_Orange">
         <nominal>0</nominal>
@@ -436,7 +436,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazDoors_CoDriver_DON_Orange">
         <nominal>0</nominal>
@@ -449,7 +449,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazHood_DON_Orange">
         <nominal>0</nominal>
@@ -462,7 +462,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazHood_DON_Orange_B">
         <nominal>0</nominal>
@@ -475,7 +475,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazDoors_Driver_DON_White">
         <nominal>0</nominal>
@@ -488,7 +488,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazDoors_CoDriver_DON_White">
         <nominal>0</nominal>
@@ -501,7 +501,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazHood_DON_White">
         <nominal>0</nominal>
@@ -514,7 +514,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazDoors_Driver_DON_Tan">
         <nominal>0</nominal>
@@ -527,7 +527,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazDoors_CoDriver_DON_Tan">
         <nominal>0</nominal>
@@ -540,7 +540,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazHood_DON_Tan">
         <nominal>0</nominal>
@@ -553,7 +553,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazDoors_Driver_DON_Grey">
         <nominal>0</nominal>
@@ -566,7 +566,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazDoors_CoDriver_DON_Grey">
         <nominal>0</nominal>
@@ -579,7 +579,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazHood_DON_Grey">
         <nominal>0</nominal>
@@ -592,7 +592,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
 	<type name="Kamaz_DON_Covered_Nowoa">
         <nominal>0</nominal>
@@ -835,7 +835,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <type name="KamazWheel_Ruined">
         <nominal>0</nominal>
@@ -848,7 +848,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
+        <usage user="Industrial"/>
     </type>
     <!-- Kamaz_DON end -->
 </types>

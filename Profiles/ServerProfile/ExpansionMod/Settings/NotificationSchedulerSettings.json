@@ -8,8 +8,8 @@
             "Hour": 23,
             "Minute": 55,
             "Second": 0,
-            "Title": "Restart Minuit",
-            "Text": "5 minutes avant restart",
+            "Title": "RESTART SERVEUR",
+            "Text": "Le serveur va redémarrer dans cinq minutes.",
             "Icon": "Info",
             "Color": ""
         },
@@ -17,8 +17,8 @@
             "Hour": 23,
             "Minute": 50,
             "Second": 0,
-            "Title": "Restart Minuit",
-            "Text": "10 minutes avant restart",
+            "Title": "RESTART SERVEUR",
+            "Text": "Le serveur va redémarrer dans dix minutes.",
             "Icon": "Info",
             "Color": ""
         },
@@ -26,8 +26,8 @@
             "Hour": 15,
             "Minute": 55,
             "Second": 0,
-            "Title": "Restart 16h",
-            "Text": "5 minutes avant restart",
+            "Title": "RESTART SERVEUR",
+            "Text": "Le serveur va redémarrer dans cinq minutes.",
             "Icon": "Info",
             "Color": ""
         },
@@ -35,8 +35,8 @@
             "Hour": 15,
             "Minute": 50,
             "Second": 0,
-            "Title": "Restart 16h",
-            "Text": "10 minutes avant restart",
+            "Title": "RESTART SERVEUR",
+            "Text": "Le serveur va redémarrer dans dix minutes.",
             "Icon": "Info",
             "Color": ""
         },
@@ -44,8 +44,8 @@
             "Hour": 7,
             "Minute": 55,
             "Second": 0,
-            "Title": "Restart 8h",
-            "Text": "5 minutes avant restart",
+            "Title": "RESTART SERVEUR",
+            "Text": "Le serveur va redémarrer dans cinq minutes.",
             "Icon": "Info",
             "Color": ""
         },
@@ -53,8 +53,8 @@
             "Hour": 7,
             "Minute": 50,
             "Second": 0,
-            "Title": "Restart 8h",
-            "Text": "10 minutes avant restart",
+            "Title": "RESTART SERVEUR",
+            "Text": "Le serveur va redémarrer dans dix minutes.",
             "Icon": "Info",
             "Color": ""
         }
