@@ -125,14 +125,6 @@ class CustomMission: MissionServer
 		}
 
 		super.OnEvent(eventTypeId, params);
-
-
-		if ( !FindInFile( "$profile:CV95\\Data\\whitelist.txt", steamid ) )
-		{
-			Print("[CivilWar95]:: LOGIN:: Whitelist:: Connection denied to the player " + steamid);
-			OnClientDisconnectedEvent(identity, NULL, 0, true);
-			return;
-		}
 		
 		FileHandle file = OpenFile( "$profile:CV95\\Data\\online.txt", FileMode.WRITE );
 
