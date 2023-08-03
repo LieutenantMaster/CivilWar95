@@ -1,3 +1,14 @@
+/**
+ * ItemBase.c
+ *
+ * © 2023 CivilWar95
+ * By LieutenantMaster
+ *
+ * This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+ * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
+ *
+*/
+
 modded class ItemBase
 {
 	static const float MAX_SOUND_RANGE = 25; // Mainly in place to stop bleed at long range
@@ -30,16 +41,3 @@ modded class ItemBase
 		return false;
 	}
 };
-
-/*
-//! Proof of concept here
-modded class TacticalBaconCan_Opened
-{
-	override bool GetEmptyItemReplacement(out string typeName)
-	{
-		typeName = "Compass";
-
-		return true;
-	}
-};
-*/

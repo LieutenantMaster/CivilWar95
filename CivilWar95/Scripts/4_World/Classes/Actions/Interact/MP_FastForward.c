@@ -1,12 +1,23 @@
-class MP_FastForwardActionCB : ActionBaseCB
+/**
+ * MP_FastForwardAction.c
+ *
+ * © 2023 CivilWar95
+ * By LieutenantMaster
+ *
+ * This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+ * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
+ *
+*/
+
+class MP_FastForwardActionCB: ActionBaseCB
 {
 	override void CreateActionComponent()
 	{
 		m_ActionData.m_ActionComponent = new CAInteract;
 	}
-}
+};
 
-class MP_FastForwardAction : AnimatedActionBase
+class MP_FastForwardAction: AnimatedActionBase
 {
 	void MP_FastForwardAction()
 	{

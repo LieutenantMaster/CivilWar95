@@ -28,7 +28,7 @@ class CfgMods
 		overview = "";
 		author = "LieutenantMaster";
 		authorID = "";
-		//inputs="CivilWar95/CivilWar95/Data/inputs.xml";
+		inputs="CivilWar95/CivilWar95/Data/inputs.xml";
 
 		dependencies[]=
 		{

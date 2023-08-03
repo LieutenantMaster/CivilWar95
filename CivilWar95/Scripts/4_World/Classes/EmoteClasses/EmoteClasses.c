@@ -1,3 +1,14 @@
+/**
+ * EmoteCough.c
+ *
+ * © 2023 CivilWar95
+ * By LieutenantMaster
+ *
+ * This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+ * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
+ *
+*/
+
 class EmoteCough: EmoteBase
 {
 	void EmoteCough()
@@ -11,6 +22,17 @@ class EmoteCough: EmoteBase
 		m_HideItemInHands = false;
 	}
 };
+/**
+ * EmoteSneeze.c
+ *
+ * © 2023 CivilWar95
+ * By LieutenantMaster
+ *
+ * This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+ * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
+ *
+*/
+
 class EmoteSneeze: EmoteBase
 {
 	void EmoteSneeze()
@@ -24,6 +46,17 @@ class EmoteSneeze: EmoteBase
 		m_HideItemInHands = false;
 	}
 };
+/**
+ * EmoteLaughFreaky.c
+ *
+ * © 2023 CivilWar95
+ * By LieutenantMaster
+ *
+ * This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+ * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
+ *
+*/
+
 class EmoteLaughFreaky: EmoteBase
 {
 	void EmoteLaughFreaky()
@@ -37,6 +70,17 @@ class EmoteLaughFreaky: EmoteBase
 		m_HideItemInHands = false;
 	}
 };
+/**
+ * EmoteShiver.c
+ *
+ * © 2023 CivilWar95
+ * By LieutenantMaster
+ *
+ * This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+ * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
+ *
+*/
+
 class EmoteShiver: EmoteBase
 {
 	void EmoteShiver()
@@ -50,6 +94,17 @@ class EmoteShiver: EmoteBase
 		m_HideItemInHands = false;
 	}
 };
+/**
+ * EmoteWipeFace.c
+ *
+ * © 2023 CivilWar95
+ * By LieutenantMaster
+ *
+ * This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+ * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
+ *
+*/
+
 class EmoteWipeFace: EmoteBase
 {
 	void EmoteWipeFace()
