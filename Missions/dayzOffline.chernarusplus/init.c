@@ -1,5 +1,8 @@
 void main()
 {
+	// Uncomment this line to update the loot spawn pos for the mapping
+	// You can then grab the updated XML file from the storage folder once the server started with this line
+	// Please comment this line again once you are done
 	//MissionServer.ExportLootData = true;
 	
 	//INIT ECONOMY--------------------------------------
@@ -32,7 +35,6 @@ void main()
 			}
 		}
 	}
-	
 
 	if ( !FileExist( CV95_PATH_MISSION_PLAYERDATA ) )
 		ExpansionStatic.MakeDirectoryRecursive( CV95_PATH_MISSION_PLAYERDATA );
@@ -213,42 +215,42 @@ class CustomMission: MissionServer
 			break;
 			default:
 			case "Civilian":
-				SelectedPos = GetCivilianSpawns().GetRandomElement();
+				SelectedPos = "2729.891846 200.718246 5186.811035";
 				if ( isMale )
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 				else
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 			break;
 			case "Police":
-				SelectedPos = GetPoliceSpawns().GetRandomElement();
+				SelectedPos = "2730.015625 200.684601 5186.806641";
 				if ( isMale )
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 				else
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 			break;
 			case "Medic":
-				SelectedPos = GetCivilianSpawns().GetRandomElement();
+				SelectedPos = "2729.891846 200.718246 5186.811035";
 				if ( isMale )
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 				else
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 			break;
 			case "Militaire":
-				SelectedPos = GetChernaSpawns().GetRandomElement();
+				SelectedPos = "2729.811035 200.711975 5186.775879";
 				if ( isMale )
 					factionLoadout = "TTsKOBoots,Armband_CDF,TTSKOPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Beige";
 				else
 					factionLoadout = "TTsKOBoots,Armband_CDF,TTSKOPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Beige";
 			break;
 			case "Napa":
-				SelectedPos = GetNAPASpawns().GetRandomElement();
+				SelectedPos = "5861.304688 139.957092 4678.910645";
 				if ( isMale )
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 				else
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 			break;
 			case "Chedaki":
-				SelectedPos = GetChedakiSpawns().GetRandomElement();
+				SelectedPos = "10291.471680 13.395282 2288.099609";
 				if ( isMale )
 					factionLoadout = "TTsKOBoots Armband_Chedaki,BDUPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Green";
 				else
@@ -268,31 +270,6 @@ class CustomMission: MissionServer
 		return { "2474.515869 190.759171 5221.121582",
 				"2479.470215 191.753998 5221.046387",
 				"2481.639648 190.843170 5245.028809"};
-	}
-
-	static TVectorArray GetCivilianSpawns()
-	{
-		return { "2729.891846 200.718246 5186.811035"};
-	}
-
-	static TVectorArray GetChedakiSpawns()
-	{
-		return { "10291.471680 13.395282 2288.099609"};
-	}
-
-	static TVectorArray GetChernaSpawns()
-	{
-		return { "2729.811035 200.711975 5186.775879"};
-	}
-
-	static TVectorArray GetPoliceSpawns()
-	{
-		return { "2730.015625 200.684601 5186.806641"};
-	}
-
-	static TVectorArray GetNAPASpawns()
-	{
-		return { "5861.304688 139.957092 4678.910645"};
 	}
 
 	//! ============================== TRADERZONE RESTOCK SYSTEM ==============================
