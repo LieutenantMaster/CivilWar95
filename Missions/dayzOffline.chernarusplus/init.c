@@ -42,6 +42,28 @@ void main()
 
 class CustomMission: MissionServer
 {
+	ref array<string> m_SteamIDs;
+	
+	void CustomMission()
+	{
+		m_SteamIDs = new array<string>;
+	}
+
+	override void TickScheduler(float timeslice)
+	{
+		super.TickScheduler(timeslice);
+
+		// We reset
+		m_SteamIDs = new array<string>;
+		foreach (man juan: m_Players)
+		{
+			if ( juan.GetIdentity() )
+			{
+				m_SteamIDs.Insert(juan.GetIdentity().GetPlainId());
+			}
+		}
+	}
+
 	//! ==================================== ARTY ====================================
 	override void OnInit()
 	{
@@ -92,6 +114,30 @@ class CustomMission: MissionServer
 		}
 
 		super.OnEvent(eventTypeId, params);
+
+
+		if ( !FindInFile( "$profile:CV95\\Data\\whitelist.txt", steamid ) )
+		{
+			Print("[CivilWar95]:: LOGIN:: Whitelist:: Connection denied to the player " + steamid);
+			OnClientDisconnectedEvent(identity, NULL, 0, true);
+			return;
+		}
+		
+		FileHandle file = OpenFile( "$profile:CV95\\Data\\online.txt", FileMode.WRITE );
+
+		if ( !file )
+		{
+			Print("[CivilWar95]:: FindInFile:: ERROR !!!! Couldn't find " + "$profile:CV95\\Data\\online.txt");
+			return;
+		}
+
+		foreach(string plainid: m_SteamIDs)
+		{
+			FPrintln(file, plainid);
+		}
+		
+		CloseFile(file);
+		m_Players
 	}
 
 	static bool FindInFile( string filePath, string keyword )
