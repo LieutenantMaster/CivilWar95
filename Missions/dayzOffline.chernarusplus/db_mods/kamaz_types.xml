@@ -3,37 +3,49 @@
     <type name="Kamaz">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
-        <restock>1800</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="KamazCovered">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
-        <restock>1800</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="KamazFuel">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
-        <restock>1800</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="KamazDoors_Driver">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -42,11 +54,12 @@
         <category name="vehiclesparts"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazDoors_CoDriver">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -55,11 +68,12 @@
         <category name="vehiclesparts"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazHood">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -68,11 +82,12 @@
         <category name="vehiclesparts"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazTrunk">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -81,11 +96,12 @@
         <category name="vehiclesparts"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazWheel">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -94,16 +110,16 @@
         <category name="vehiclesparts"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazWheel_Ruined">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-    <!-- Kamaz_DON start-->
     <type name="KamazDoors_Driver_DON_Nowoa">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -112,11 +128,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazDoors_CoDriver_DON_Nowoa">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -125,11 +142,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazHood_DON_Nowoa">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -138,11 +156,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazDoors_Driver_DON_Schnell">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -151,11 +170,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazDoors_CoDriver_DON_Schnell">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -164,11 +184,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazHood_DON_Schnell">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -177,11 +198,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazDoors_Driver_DON_Green">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -190,11 +212,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazDoors_CoDriver_DON_Green">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -203,11 +226,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazHood_DON_Green">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -216,11 +240,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazDoors_Driver_DON_Red">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -229,11 +254,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazDoors_CoDriver_DON_Red">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -242,11 +268,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazHood_DON_Red">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -255,11 +282,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazTrunk_DON_Civilian2">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -268,11 +296,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazDoors_Driver_DON_Yellow">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -281,11 +310,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazDoors_CoDriver_DON_Yellow">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -294,11 +324,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazHood_DON_Yellow">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -307,11 +338,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazDoors_Driver_DON_Blue">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -320,11 +352,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazDoors_CoDriver_DON_Blue">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -333,11 +366,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazHood_DON_Blue">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -346,11 +380,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazDoors_Driver_DON_LightBlue">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -359,11 +394,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazDoors_CoDriver_DON_LightBlue">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -372,11 +408,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazHood_DON_LightBlue">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -385,11 +422,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazDoors_Driver_DON_Beige">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -398,11 +436,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazDoors_CoDriver_DON_Beige">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -411,11 +450,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazHood_DON_Beige">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -424,11 +464,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazDoors_Driver_DON_Orange">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -437,11 +478,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazDoors_CoDriver_DON_Orange">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -450,11 +492,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazHood_DON_Orange">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -463,11 +506,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazHood_DON_Orange_B">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -476,11 +520,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazDoors_Driver_DON_White">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -489,11 +534,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazDoors_CoDriver_DON_White">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -502,11 +548,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazHood_DON_White">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -515,11 +562,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazDoors_Driver_DON_Tan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -528,11 +576,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazDoors_CoDriver_DON_Tan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -541,11 +590,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazHood_DON_Tan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -554,11 +604,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazDoors_Driver_DON_Grey">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -567,11 +618,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazDoors_CoDriver_DON_Grey">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -580,11 +632,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazHood_DON_Grey">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -593,11 +646,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
 	<type name="Kamaz_DON_Covered_Nowoa">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
+        <lifetime>3888000</lifetime>
+        <restock>14400</restock>
         <min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -606,8 +660,8 @@
 	</type>
 	<type name="Kamaz_DON_Covered_Tan">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
+        <lifetime>3888000</lifetime>
+        <restock>14400</restock>
         <min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -616,8 +670,8 @@
 	</type>
 	<type name="Kamaz_DON_Covered_OrangeB">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
+        <lifetime>3888000</lifetime>
+        <restock>14400</restock>
         <min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -626,8 +680,8 @@
 	</type>
 	<type name="Kamaz_DON_Covered_Blue">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
+        <lifetime>3888000</lifetime>
+        <restock>14400</restock>
         <min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -636,8 +690,8 @@
 	</type>
 	<type name="Kamaz_DON_Covered_LightBlue">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
+        <lifetime>3888000</lifetime>
+        <restock>14400</restock>
         <min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -646,8 +700,8 @@
 	</type>
 	<type name="Kamaz_DON_Covered_Yellow">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
+        <lifetime>3888000</lifetime>
+        <restock>14400</restock>
         <min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -656,8 +710,8 @@
 	</type>
 	<type name="Kamaz_DON_Covered_Red">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
+        <lifetime>3888000</lifetime>
+        <restock>14400</restock>
         <min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -666,8 +720,8 @@
 	</type>
 	<type name="Kamaz_DON_Fuel_Nowoa">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
+        <lifetime>3888000</lifetime>
+        <restock>14400</restock>
         <min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -676,8 +730,8 @@
 	</type>
 	<type name="Kamaz_DON_Fuel_Schnell">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
+        <lifetime>3888000</lifetime>
+        <restock>14400</restock>
         <min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -686,8 +740,8 @@
 	</type>
 	<type name="Kamaz_DON_Fuel_Red">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
+        <lifetime>3888000</lifetime>
+        <restock>14400</restock>
         <min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -696,8 +750,8 @@
 	</type>
 	<type name="Kamaz_DON_Fuel_Orange">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
+        <lifetime>3888000</lifetime>
+        <restock>14400</restock>
         <min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -706,8 +760,8 @@
 	</type>
 	<type name="Kamaz_DON_Fuel_Tan">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
+        <lifetime>3888000</lifetime>
+        <restock>14400</restock>
         <min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -716,8 +770,8 @@
 	</type>
 	<type name="Kamaz_DON_Fuel_Green">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
+        <lifetime>3888000</lifetime>
+        <restock>14400</restock>
         <min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -726,8 +780,8 @@
 	</type>
 	<type name="Kamaz_DON_Red">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
+        <lifetime>3888000</lifetime>
+        <restock>14400</restock>
         <min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -736,8 +790,8 @@
 	</type>
 	<type name="Kamaz_DON_Yellow">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
+        <lifetime>3888000</lifetime>
+        <restock>14400</restock>
         <min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -746,8 +800,8 @@
 	</type>
 	<type name="Kamaz_DON_Blue">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
+        <lifetime>3888000</lifetime>
+        <restock>14400</restock>
         <min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -756,8 +810,8 @@
 	</type>
 	<type name="Kamaz_DON_LightBlue">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
+        <lifetime>3888000</lifetime>
+        <restock>14400</restock>
         <min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -766,8 +820,8 @@
 	</type>
 	<type name="Kamaz_DON_Beige">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
+        <lifetime>3888000</lifetime>
+        <restock>14400</restock>
         <min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -776,8 +830,8 @@
 	</type>
 	<type name="Kamaz_DON_Orange">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
+        <lifetime>3888000</lifetime>
+        <restock>14400</restock>
         <min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -786,8 +840,8 @@
 	</type>
 	<type name="Kamaz_DON_Orange_B">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
+        <lifetime>3888000</lifetime>
+        <restock>14400</restock>
         <min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -796,8 +850,8 @@
 	</type>
 	<type name="Kamaz_DON_White">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
+        <lifetime>3888000</lifetime>
+        <restock>14400</restock>
         <min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -806,8 +860,8 @@
 	</type>
 	<type name="Kamaz_DON_Tan">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
+        <lifetime>3888000</lifetime>
+        <restock>14400</restock>
         <min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -816,8 +870,8 @@
 	</type>
 	<type name="Kamaz_DON_Grey">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
+        <lifetime>3888000</lifetime>
+        <restock>14400</restock>
         <min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -825,9 +879,9 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
     <type name="KamazWheel">
-        <nominal>0</nominal>
+        <nominal>7</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -836,11 +890,12 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
     <type name="KamazWheel_Ruined">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -849,6 +904,6 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage user="Industrial"/>
+        <value user="Tier12" />
     </type>
-    <!-- Kamaz_DON end -->
 </types>

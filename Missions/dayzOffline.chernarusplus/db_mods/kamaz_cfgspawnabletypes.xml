@@ -1,0 +1,1286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+	<type name="Kamaz">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazTrunk" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="KamazCovered">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazTrunk" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="KamazFuel">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Tan">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver_DON_Tan" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver_DON_Tan" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood_DON_Tan" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazTrunk_DON_Civilian2" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Red">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver_DON_Red" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver_DON_Red" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood_DON_Red" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazTrunk_DON_Civilian2" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Yellow">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver_DON_Yellow" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver_DON_Yellow" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood_DON_Yellow" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazTrunk_DON_Civilian2" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Blue">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver_DON_Blue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver_DON_Blue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood_DON_Blue" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazTrunk_DON_Civilian2" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_LightBlue">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver_DON_LightBlue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver_DON_LightBlue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood_DON_LightBlue" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazTrunk_DON_Civilian2" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Beige">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver_DON_Beige" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver_DON_Beige" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood_DON_Beige" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazTrunk_DON_Civilian2" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Orange">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver_DON_Orange" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver_DON_Orange" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood_DON_Orange" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazTrunk_DON_Civilian2" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Orange_B">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver_DON_Orange" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver_DON_Orange" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood_DON_Orange_B" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazTrunk_DON_Civilian2" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_White">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver_DON_White" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver_DON_White" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood_DON_White" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazTrunk_DON_Civilian2" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Grey">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver_DON_Grey" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver_DON_Grey" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood_DON_Grey" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazTrunk_DON_Civilian2" chance="0.20" />
+		</attachments>
+	</type>
+	<!--Kamaz_DON End-->
+	<!--Kamaz_DON_Covered Start-->
+	<type name="Kamaz_DON_Covered_Nowoa">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver_DON_Nowoa" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver_DON_Nowoa" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood_DON_Nowoa" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazTrunk_DON_Civilian2" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Covered_Tan">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver_DON_Tan" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver_DON_Tan" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood_DON_Tan" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazTrunk_DON_Civilian2" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Covered_OrangeB">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver_DON_OrangeB" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver_DON_OrangeB" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood_DON_OrangeB" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazTrunk_DON_Civilian2" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Covered_Blue">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver_DON_Blue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver_DON_Blue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood_DON_Blue" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazTrunk_DON_Civilian2" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Covered_LightBlue">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver_DON_LightBlue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver_DON_LightBlue" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood_DON_LightBlue" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazTrunk_DON_Civilian2" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Covered_Yellow">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver_DON_Yellow" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver_DON_Yellow" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood_DON_Yellow" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazTrunk_DON_Civilian2" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Covered_Red">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver_DON_Red" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver_DON_Red" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood_DON_Red" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazTrunk_DON_Civilian2" chance="0.20" />
+		</attachments>
+	</type>
+	<!--Kamaz_DON_Covered End-->
+	<!--Kamaz_DON_Fuel Start-->
+	<type name="Kamaz_DON_Fuel_Nowoa">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver_DON_Nowoa" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver_DON_Nowoa" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood_DON_Nowoa" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Fuel_Schnell">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver_DON_Schnell" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver_DON_Schnell" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood_DON_Schnell" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Fuel_Red">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver_DON_Red" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver_DON_Red" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood_DON_Red" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Fuel_Orange">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver_DON_Orange" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver_DON_Orange" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood_DON_Orange" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Fuel_Tan">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver_DON_Tan" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver_DON_Tan" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood_DON_Tan" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="Kamaz_DON_Fuel_Green">
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazWheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_Driver_DON_Green" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazDoors_CoDriver_DON_Green" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KamazHood_DON_Green" chance="0.20" />
+		</attachments>
+	</type>
+</spawnabletypes>

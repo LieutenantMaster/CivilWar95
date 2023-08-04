@@ -9,7 +9,7 @@
 	<type name="Pen_Black">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -18,11 +18,12 @@
         <category name="tools"/>
         <tag name="shelves"/>
         <usage user="Village"/>
+        <value user="Tier1234"/>
     </type>
     <type name="Pen_Blue">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -31,11 +32,12 @@
         <category name="tools"/>
         <tag name="shelves"/>
         <usage user="Village"/>
+        <value user="Tier1234"/>
     </type>
     <type name="Pen_Green">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -44,11 +46,12 @@
         <category name="tools"/>
         <tag name="shelves"/>
         <usage user="Village"/>
+        <value user="Tier1234"/>
     </type>
     <type name="Pen_Red">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -57,11 +60,12 @@
         <category name="tools"/>
         <tag name="shelves"/>
         <usage user="Village"/>
+        <value user="Tier1234"/>
     </type>
 	<type name="Pen_Pink">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -70,11 +74,12 @@
         <category name="tools"/>
         <tag name="shelves"/>
         <usage user="Village"/>
+        <value user="Tier1234"/>
     </type>
 	<type name="Pen_Purple">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -83,11 +88,12 @@
         <category name="tools"/>
         <tag name="shelves"/>
         <usage user="Village"/>
+        <value user="Tier1234"/>
     </type>
 	<type name="Pen_Orange">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -96,5 +102,6 @@
         <category name="tools"/>
         <tag name="shelves"/>
         <usage user="Village"/>
+        <value user="Tier1234"/>
     </type>
 </types>
