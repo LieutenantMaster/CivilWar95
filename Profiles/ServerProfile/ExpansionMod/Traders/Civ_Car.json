@@ -15,6 +15,12 @@
         "Batteries:3"
     ],
     "Items": {
-        "expansionvodnik": 0
+        "expansionvodnik": 3,
+        "offroad_02": 3,
+        "expansionuaz": 3,
+        "expansionuazcargo": 3,
+        "expansionuazroofless": 3,
+        "expansionuazcargoroofless": 3,
+        "expansionbus": 3
     }
 }

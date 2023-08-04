@@ -978,6 +978,324 @@
                 "expansionkeychain_purp",
                 "expansionkeychain_yellow"
             ]
+        },
+        {
+            "ClassName": "Vaz_2126_doors_Hood",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Vaz_2126_doors_Hood_Green",
+                "Vaz_2126_doors_Hood_Blue",
+                "Vaz_2126_doors_Hood_Red"
+            ]
+        },
+        {
+            "ClassName": "Vaz_2126_Doors_Trunk",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Vaz_2126_Doors_Trunk_Green",
+                "Vaz_2126_Doors_Trunk_Blue",
+                "Vaz_2126_Doors_Trunk_Red"
+            ]
+        },
+        {
+            "ClassName": "Vaz_2126_Doors_CoDriver",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Vaz_2126_Doors_CoDriver_Green",
+                "Vaz_2126_Doors_CoDriver_Blue",
+                "Vaz_2126_Doors_CoDriver_Red"
+            ]
+        },
+        {
+            "ClassName": "Vaz_2126_Doors_Driver",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Vaz_2126_Doors_Driver_Green",
+                "Vaz_2126_Doors_Driver_Blue",
+                "Vaz_2126_Doors_Driver_Red"
+            ]
+        },
+        {
+            "ClassName": "Vaz_2126_Doors_BackLeft",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Vaz_2126_Doors_BackLeft_Green",
+                "Vaz_2126_Doors_BackLeft_Blue",
+                "Vaz_2126_Doors_BackLeft_Red"
+            ]
+        },
+        {
+            "ClassName": "Vaz_2126_Doors_BackRight",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Vaz_2126_Doors_BackRight_Green",
+                "Vaz_2126_Doors_BackRight_Blue",
+                "Vaz_2126_Doors_BackRight_Red"
+            ]
+        },
+        {
+            "ClassName": "VAZ2107_koleso",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "VAZ2107_dver_1_1",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "VAZ2107_dver_1_1_White",
+                "VAZ2107_dver_1_1_Black",
+                "VAZ2107_dver_1_1_Beige"
+            ]
+        },
+        {
+            "ClassName": "VAZ2107_dver_1_2",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "VAZ2107_dver_1_2_White",
+                "VAZ2107_dver_1_2_Black",
+                "VAZ2107_dver_1_2_Beige"
+            ]
+        },
+        {
+            "ClassName": "VAZ2107_dver_2_1",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "VAZ2107_dver_2_1_White",
+                "VAZ2107_dver_2_1_Black",
+                "VAZ2107_dver_2_1_Beige"
+            ]
+        },
+        {
+            "ClassName": "VAZ2107_dver_2_2",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "VAZ2107_dver_2_2_White",
+                "VAZ2107_dver_2_2_Black",
+                "VAZ2107_dver_2_2_Beige"
+            ]
+        },
+        {
+            "ClassName": "VAZ2107_kapot",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "VAZ2107_kapot_White",
+                "VAZ2107_kapot_Black",
+                "VAZ2107_kapot_Beige"
+            ]
+        },
+        {
+            "ClassName": "VAZ2107_bagazhnik",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "VAZ2107_bagazhnik_White",
+                "VAZ2107_bagazhnik_Black",
+                "VAZ2107_bagazhnik_Beige"
+            ]
+        },
+        {
+            "ClassName": "Zil130Wheel",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Zil130WheelRear",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Zil130Doors_Driver",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Zil130Doors_Driver_Green"
+            ]
+        },
+        {
+            "ClassName": "Zil130Doors_CoDriver",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Zil130Doors_CoDriver_Green"
+            ]
+        },
+        {
+            "ClassName": "Zil130_Hood",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Zil130_Hood_Green"
+            ]
+        },
+        {
+            "ClassName": "Zil130_Tailgate",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GAZ3309_koleso_double",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GAZ3309_koleso",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GAZ3309_dver_1_1",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GAZ3309_dver_2_1",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GAZ3309_kapot",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }
