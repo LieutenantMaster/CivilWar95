@@ -40,41 +40,8 @@ void main()
 		ExpansionStatic.MakeDirectoryRecursive( CV95_PATH_MISSION_PLAYERDATA );
 };
 
-/**
- * CustomMission.c
- *
- * © 2023 CivilWar95
- * By LieutenantMaster
- *
- * This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
- * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
- *
-*/
-
 class CustomMission: MissionServer
 {
-	ref array<string> m_SteamIDs;
-	
-	void CustomMission()
-	{
-		m_SteamIDs = new array<string>;
-	}
-
-	override void TickScheduler(float timeslice)
-	{
-		super.TickScheduler(timeslice);
-
-		// We reset
-		m_SteamIDs = new array<string>;
-		foreach (Man juan: m_Players)
-		{
-			if ( juan.GetIdentity() )
-			{
-				m_SteamIDs.Insert(juan.GetIdentity().GetPlainId());
-			}
-		}
-	}
-
 	//! ==================================== ARTY ====================================
 	override void OnInit()
 	{
@@ -125,19 +92,6 @@ class CustomMission: MissionServer
 		}
 
 		super.OnEvent(eventTypeId, params);
-		
-		FileHandle file = OpenFile( "$profile:CV95\\Data\\online.txt", FileMode.WRITE );
-
-		if ( !file )
-		{
-			Print("[CivilWar95]:: FindInFile:: ERROR !!!! Couldn't find " + "$profile:CV95\\Data\\online.txt");
-			return;
-		}
-
-		foreach(string plainid: m_SteamIDs)
-		{
-			FPrintln(file, plainid);
-		}
 		
 		CloseFile(file);
 	}
