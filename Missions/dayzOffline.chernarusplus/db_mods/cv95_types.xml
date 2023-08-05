@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
     <type name="CV95_MusicPlayer">
+        <nominal>6</nominal>
+        <lifetime>28800</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag/>
+        <value user="Tier1234"/>
+        <usage user="Everything"/>
+    </type>
+    <type name="CV95_Cassette_BosanskaArtiljerija">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -11,7 +25,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_BosanskaArtiljerija">
@@ -25,11 +39,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_Rossiya">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -39,11 +53,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_ChernarussianAnthem">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -53,11 +67,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_CrniBombarderi">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -67,11 +81,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_DarkIsTheNight">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -81,11 +95,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_DontTellMomImInChechnya">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -95,11 +109,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_International">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -109,11 +123,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_Karavan">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -123,11 +137,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_Katyusha">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -137,11 +151,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_Kombat">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -151,11 +165,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_MyDadIsAWarCriminal">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -165,11 +179,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_NoviGod">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -179,11 +193,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_OjAlijaAljo">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -193,11 +207,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_PolyushkaPolye">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -207,11 +221,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_RemoveTakistani">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -221,11 +235,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_ThreeChoppersOverMozdok">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -235,11 +249,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_Troika">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -249,11 +263,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_TheBigHangover">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -263,11 +277,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_Atas">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -277,11 +291,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_PoslednyayaLyubov">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -291,11 +305,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_DavaiZa">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -305,11 +319,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_MilyeZelyonyeGlaza">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -319,11 +333,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_Kukushka">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -333,11 +347,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_Leto">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -347,11 +361,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_GruppaKrovi">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -361,11 +375,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_Zvezda">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -375,11 +389,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_Peremen">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -389,11 +403,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
     <type name="CV95_Cassette_ChDKZAnthem">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -403,7 +417,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier12345"/>
+        <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
 </types>

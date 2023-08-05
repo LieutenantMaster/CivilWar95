@@ -16,18 +16,18 @@
         "tirerepairkit": 0,
         "canistergasoline": 0,
         
-        "expansionvodnikdoordriver": 0,
-        "expansionvodnikdoorcodriver": 0,
-        "expansionvodnikwheel": 0,
-        "expansionmerlinbackwheel": 0,
-        "expansionmerlinfrontwheel": 0,
-        "expansionuh1hdoor_1_1": 0,
-        "expansionuh1hdoor_1_2": 0,
-        "expansionuh1hdoor_2_1": 0,
-        "expansionuh1hdoor_2_2": 0,
-        "expansion_mh6_door_1_1": 0,
-        "expansion_mh6_door_1_2": 0,
-        "expansion_mh6_door_2_1": 0,
-        "expansion_mh6_door_2_2": 0
+        "expansionvodnikdoordriver": 3,
+        "expansionvodnikdoorcodriver": 3,
+        "expansionvodnikwheel": 3,
+        "expansionmerlinbackwheel": 3,
+        "expansionmerlinfrontwheel": 3,
+        "expansionuh1hdoor_1_1": 3,
+        "expansionuh1hdoor_1_2": 3,
+        "expansionuh1hdoor_2_1": 3,
+        "expansionuh1hdoor_2_2": 3,
+        "expansion_mh6_door_1_1": 3,
+        "expansion_mh6_door_1_2": 3,
+        "expansion_mh6_door_2_1": 3,
+        "expansion_mh6_door_2_2": 3
     }
 }

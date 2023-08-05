@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
     <type name="dog_gasmask">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -15,7 +15,7 @@
         <value user="Tier1234"/>
     </type>
 	<type name="dog_collar">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -29,7 +29,7 @@
         <value user="Tier123"/>
     </type>
 	<type name="dog_collar_blue">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -43,7 +43,7 @@
         <value user="Tier123"/>
     </type>
 	<type name="dog_collar_red">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -57,7 +57,7 @@
         <value user="Tier123"/>
     </type>
 	<type name="dog_collar_green">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -71,7 +71,7 @@
         <value user="Tier123"/>
     </type>
 	<type name="dog_collar_white">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -85,7 +85,7 @@
         <value user="Tier123"/>
     </type>
 	<type name="dog_collar_yellow">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -99,7 +99,7 @@
         <value user="Tier123"/>
     </type>
 	<type name="dog_collar_grey">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -113,7 +113,7 @@
         <value user="Tier123"/>
     </type>
 	<type name="dog_vest_sheriff">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -127,7 +127,7 @@
         <value user="Tier123"/>
     </type>
 	<type name="dog_vest_black">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -141,7 +141,7 @@
         <value user="Tier123"/>
     </type>
 	<type name="dog_vest_black_k9">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -155,7 +155,7 @@
         <value user="Tier123"/>
     </type>
 	<type name="dog_vest_blackgreen">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -169,7 +169,7 @@
         <value user="Tier123"/>
     </type>
 	<type name="dog_vest_blackmedic">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -183,7 +183,7 @@
         <value user="Tier123"/>
     </type>
 	<type name="dog_vest_blackgreenz">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>14400</restock>
         <min>0</min>

@@ -55,6 +55,9 @@
         <user name="ContaminatedArea">
             <usage name="ContaminatedArea" />
         </user>
+        <user name="Historical">
+            <usage name="Historical" />
+        </user>
         <user name="IndustrialFull">
             <usage name="Industrial" />
             <usage name="IndustrialCW95" />
@@ -87,6 +90,7 @@
             <usage name="AmusementPark"/>
             <usage name="SeasonalEvent"/>
             <usage name="ContaminatedArea"/>
+            <usage name="Historical"/>            
         </user>
     </usageflags>
 

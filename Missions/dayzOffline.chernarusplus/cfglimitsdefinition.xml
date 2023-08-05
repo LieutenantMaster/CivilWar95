@@ -17,7 +17,7 @@
         <tag name="ground"/>
     </tags>
     <usageflags>
-        <usage name="IndustrialCV95"/>
+        <usage name="IndustrialCW95"/>
 
         <usage name="Firefighter"/>
         <usage name="Coast"/>
@@ -57,6 +57,7 @@
         <usage name="RUHeli"/>    
     </usageflags>
     <valueflags>
+        <value name="Tier0"/> <!-- Hors Map -->
         <value name="Tier1"/> <!-- Route Zeleno à Cherno -->
         <value name="Tier2"/> <!-- Alentours de Cherno -->
         <value name="Tier3"/> <!-- Cherno | Tous sauf le centre ville -->
