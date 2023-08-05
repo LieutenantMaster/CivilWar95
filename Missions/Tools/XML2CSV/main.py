@@ -95,21 +95,6 @@ def combine_xml_files(output_filename, directory="."):
 
     # Parse the XML file
     combined_tree = ET.ElementTree(root)
-    
-    # Find all nested <types> elements
-    tmproot = combined_tree.getroot()
-    nested_type_elements = tmproot.findall('.//types')#.//types[types]
-
-    # Remove the nested <types> elements
-    # TODO: Doesnt work :/
-    """
-    for nested_type in nested_type_elements:
-        parent_type = nested_type.getparent()
-        index = parent_type.index(nested_type)
-        parent_type.remove(nested_type)
-        for child in nested_type:
-            parent_type.insert(index, child)
-    """
     combined_tree.write(output_filename+".xml", encoding="utf-8", xml_declaration=True)
 
     # test remove after written
@@ -129,5 +114,5 @@ def combine_xml_files(output_filename, directory="."):
 
 if __name__ == "__main__":
     output_filename = "output"
-    combine_xml_files(output_filename, "./dayzOffline.chernarusplus/db_mods/")
+    combine_xml_files(output_filename, "../../dayzOffline.chernarusplus/db_mods/")
     parse_xml_to_csv(output_filename, output_filename)

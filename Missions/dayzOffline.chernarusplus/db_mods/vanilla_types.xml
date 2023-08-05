@@ -10,6 +10,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ACOGOptic_6x">
         <nominal>0</nominal>
@@ -36,6 +39,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="AK101_Black">
         <nominal>0</nominal>
@@ -117,6 +123,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="AK74_WoodBttstck">
         <nominal>0</nominal>
@@ -128,6 +137,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="AKM">
         <nominal>0</nominal>
@@ -139,6 +151,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="AKS74U">
         <nominal>2</nominal>
@@ -178,6 +193,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="AKS74U_Green">
         <nominal>4</nominal>
@@ -217,6 +235,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="AK_FoldingBttstck_Black">
         <nominal>0</nominal>
@@ -256,6 +277,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="AK_PlasticBttstck_Black">
         <nominal>0</nominal>
@@ -295,6 +319,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="AK_RailHndgrd">
         <nominal>0</nominal>
@@ -362,6 +389,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="AK_WoodBttstck_Black">
         <nominal>0</nominal>
@@ -401,6 +431,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="AK_WoodHndgrd_Black">
         <nominal>0</nominal>
@@ -1335,6 +1368,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Animal_BosTaurusF_Spotted">
         <nominal>0</nominal>
@@ -1345,6 +1382,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Animal_BosTaurusF_White">
         <nominal>0</nominal>
@@ -1355,6 +1396,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Animal_BosTaurus_Brown">
         <nominal>0</nominal>
@@ -1365,6 +1410,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Animal_BosTaurus_Spotted">
         <nominal>0</nominal>
@@ -1375,6 +1424,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Animal_BosTaurus_White">
         <nominal>0</nominal>
@@ -1385,6 +1438,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Animal_CanisLupus_Grey">
         <nominal>0</nominal>
@@ -1395,6 +1452,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Animal_CanisLupus_White">
         <nominal>0</nominal>
@@ -1405,6 +1466,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Animal_CapraHircusF">
         <nominal>0</nominal>
@@ -1415,6 +1480,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Animal_CapraHircus_Black">
         <nominal>0</nominal>
@@ -1425,6 +1494,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Animal_CapraHircus_Brown">
         <nominal>0</nominal>
@@ -1435,6 +1508,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Animal_CapraHircus_White">
         <nominal>0</nominal>
@@ -1445,6 +1522,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Animal_CapreolusCapreolus">
         <nominal>0</nominal>
@@ -1455,6 +1536,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Animal_CapreolusCapreolusF">
         <nominal>0</nominal>
@@ -1465,6 +1550,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Animal_CervusElaphus">
         <nominal>0</nominal>
@@ -1475,6 +1564,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Animal_CervusElaphusF">
         <nominal>0</nominal>
@@ -1485,6 +1578,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Animal_GallusGallusDomesticus">
         <nominal>0</nominal>
@@ -1495,6 +1592,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Animal_GallusGallusDomesticusF_Brown">
         <nominal>0</nominal>
@@ -1505,6 +1606,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Animal_GallusGallusDomesticusF_Spotted">
         <nominal>0</nominal>
@@ -1515,6 +1620,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Animal_GallusGallusDomesticusF_White">
         <nominal>0</nominal>
@@ -1525,6 +1634,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Animal_OvisAries">
         <nominal>0</nominal>
@@ -1535,6 +1648,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Animal_OvisAriesF">
         <nominal>0</nominal>
@@ -1545,6 +1662,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Animal_SusDomesticus">
         <nominal>0</nominal>
@@ -1555,6 +1676,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Animal_SusScrofa">
         <nominal>0</nominal>
@@ -1565,6 +1690,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Animal_UrsusArctos">
         <nominal>0</nominal>
@@ -1575,6 +1704,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="AntiChemInjector">
         <nominal>1</nominal>
@@ -2419,6 +2552,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="BDUJacket">
         <nominal>0</nominal>
@@ -2458,6 +2594,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Bait">
         <nominal>0</nominal>
@@ -3709,6 +3848,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="BoonieHat_Black">
         <nominal>4</nominal>
@@ -4180,6 +4323,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="CZ75">
         <nominal>0</nominal>
@@ -4771,7 +4917,7 @@
         <value user="Tier12"/>
     </type>
     <type name="ChernarusMap">
-        <nominal>8</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4940,6 +5086,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="CivSedanDoors_BackLeft">
         <nominal>0</nominal>
@@ -5496,6 +5646,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="CivilianSedan_Black">
         <nominal>0</nominal>
@@ -5506,6 +5660,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="CivilianSedan_Wine">
         <nominal>0</nominal>
@@ -5516,6 +5674,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ClaymoreMine">
         <nominal>0</nominal>
@@ -5555,6 +5717,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="CombatBoots_Beige">
         <nominal>3</nominal>
@@ -5778,6 +5943,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="CookingStand">
         <nominal>0</nominal>
@@ -6256,6 +6425,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Deagle_Gold">
         <nominal>3</nominal>
@@ -6847,6 +7019,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Epinephrine">
         <nominal>12</nominal>
@@ -7044,6 +7219,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="FNX45">
         <nominal>0</nominal>
@@ -7055,6 +7233,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Fabric">
         <nominal>4</nominal>
@@ -7095,6 +7276,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Fal_OeBttstck">
         <nominal>0</nominal>
@@ -7106,6 +7290,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="FangeKnife">
         <nominal>3</nominal>
@@ -7159,6 +7346,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="FenceKit">
         <nominal>0</nominal>
@@ -9384,6 +9575,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Hatchback_02_Black">
         <nominal>0</nominal>
@@ -9394,6 +9589,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Hatchback_02_Blue">
         <nominal>0</nominal>
@@ -9404,6 +9603,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Hatchback_02_Door_1_1">
         <nominal>0</nominal>
@@ -11146,6 +11349,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="KazuarOptic">
         <nominal>2</nominal>
@@ -11268,6 +11474,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Container_1Bo_DE">
         <nominal>0</nominal>
@@ -11278,6 +11488,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Container_1Mo_DE">
         <nominal>0</nominal>
@@ -11288,6 +11502,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Container_1Moh_DE">
         <nominal>0</nominal>
@@ -11298,6 +11516,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Train_Wagon_Box_DE">
         <nominal>0</nominal>
@@ -11308,6 +11530,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Train_Wagon_Box_Mil_DE">
         <nominal>0</nominal>
@@ -11318,6 +11544,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_Ikarus_DE">
         <nominal>0</nominal>
@@ -11328,6 +11558,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_Tractor_DE">
         <nominal>0</nominal>
@@ -11338,6 +11572,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_Trailer_Closed_DE">
         <nominal>0</nominal>
@@ -11348,6 +11586,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_V3S_DE">
         <nominal>0</nominal>
@@ -11358,6 +11600,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_Volha_Police">
         <nominal>0</nominal>
@@ -11382,6 +11628,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_hb01_aban1_police">
         <nominal>0</nominal>
@@ -11392,6 +11642,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_hb01_aban1_white_DE">
         <nominal>0</nominal>
@@ -11402,6 +11656,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_hb01_aban2_blue_DE">
         <nominal>0</nominal>
@@ -11412,6 +11670,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_hb01_aban2_green_DE">
         <nominal>0</nominal>
@@ -11422,6 +11684,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_hb01_aban2_police">
         <nominal>0</nominal>
@@ -11432,6 +11698,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_hb02_aban1_blue_DE">
         <nominal>0</nominal>
@@ -11442,6 +11712,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_hb02_aban1_red_DE">
         <nominal>0</nominal>
@@ -11452,6 +11726,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_hb02_aban2_black_DE">
         <nominal>0</nominal>
@@ -11462,6 +11740,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_hb02_aban2_blue_DE">
         <nominal>0</nominal>
@@ -11472,6 +11754,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_hb02_aban2_red_DE">
         <nominal>0</nominal>
@@ -11482,6 +11768,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_offroad02_aban1_DE">
         <nominal>0</nominal>
@@ -11492,6 +11782,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_offroad02_aban2_DE">
         <nominal>0</nominal>
@@ -11502,6 +11796,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_sed01_aban1_black_DE">
         <nominal>0</nominal>
@@ -11512,6 +11810,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_sed01_aban1_police">
         <nominal>0</nominal>
@@ -11522,6 +11824,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_sed01_aban1_police_DE">
         <nominal>0</nominal>
@@ -11532,6 +11838,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_sed01_aban1_white_DE">
         <nominal>0</nominal>
@@ -11542,6 +11852,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_sed01_aban1_wine_DE">
         <nominal>0</nominal>
@@ -11552,6 +11866,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_sed01_aban2_black_DE">
         <nominal>0</nominal>
@@ -11562,6 +11880,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_sed01_aban2_police">
         <nominal>0</nominal>
@@ -11572,6 +11894,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_sed01_aban2_police_DE">
         <nominal>0</nominal>
@@ -11582,6 +11908,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_sed02_aban1_grey_DE">
         <nominal>0</nominal>
@@ -11592,6 +11922,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_sed02_aban1_red_DE">
         <nominal>0</nominal>
@@ -11602,6 +11936,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_sed02_aban1_yellow_DE">
         <nominal>0</nominal>
@@ -11612,6 +11950,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_sed02_aban2_grey_DE">
         <nominal>0</nominal>
@@ -11622,6 +11964,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_sed02_aban2_red_DE">
         <nominal>0</nominal>
@@ -11632,6 +11978,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_Wreck_sed02_aban2_yellow_DE">
         <nominal>0</nominal>
@@ -11642,6 +11992,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_wreck_truck01_aban1_blue_DE">
         <nominal>0</nominal>
@@ -11652,6 +12006,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_wreck_truck01_aban1_green_DE">
         <nominal>0</nominal>
@@ -11662,6 +12020,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_wreck_truck01_aban1_orange_DE">
         <nominal>0</nominal>
@@ -11672,6 +12034,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_wreck_truck01_aban2_blue_DE">
         <nominal>0</nominal>
@@ -11682,6 +12048,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Land_wreck_truck01_aban2_green_DE">
         <nominal>0</nominal>
@@ -11692,6 +12062,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Lard">
         <nominal>0</nominal>
@@ -12293,6 +12667,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="LugWrench">
         <nominal>6</nominal>
@@ -12348,6 +12725,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="M18SmokeGrenade_Green">
         <nominal>0</nominal>
@@ -12429,6 +12809,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="M4A1_Black">
         <nominal>0</nominal>
@@ -12468,6 +12851,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="M4_CarryHandleOptic">
         <nominal>0</nominal>
@@ -12479,6 +12865,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="M4_MPBttstck">
         <nominal>0</nominal>
@@ -12490,6 +12879,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="M4_MPHndgrd">
         <nominal>0</nominal>
@@ -12501,6 +12893,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="M4_OEBttstck">
         <nominal>0</nominal>
@@ -12512,6 +12907,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="M4_PlasticHndgrd">
         <nominal>0</nominal>
@@ -12523,6 +12921,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="M4_RISHndgrd">
         <nominal>0</nominal>
@@ -12534,6 +12935,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="M4_RISHndgrd_Black">
         <nominal>0</nominal>
@@ -12587,6 +12991,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="M65Jacket_Black">
         <nominal>3</nominal>
@@ -12668,6 +13075,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="M79">
         <nominal>0</nominal>
@@ -12679,6 +13089,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="M9A1_Bayonet">
         <nominal>0</nominal>
@@ -12690,6 +13103,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="MKII">
         <nominal>0</nominal>
@@ -14862,6 +15278,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="OffroadHatchback_Blue">
         <nominal>0</nominal>
@@ -14872,6 +15292,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="OffroadHatchback_White">
         <nominal>0</nominal>
@@ -14882,6 +15306,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Offroad_02">
         <nominal>0</nominal>
@@ -14892,6 +15320,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Offroad_02_Door_1_1">
         <nominal>0</nominal>
@@ -15116,6 +15548,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="PP19">
         <nominal>0</nominal>
@@ -15127,6 +15562,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="PP19_Bttstck">
         <nominal>0</nominal>
@@ -15138,6 +15576,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="PSO11Optic">
         <nominal>6</nominal>
@@ -15686,6 +16127,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="PistolSuppressor">
         <nominal>0</nominal>
@@ -16809,6 +17253,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ReflexVest">
         <nominal>0</nominal>
@@ -16963,6 +17410,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="SKS">
         <nominal>10</nominal>
@@ -17030,6 +17480,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Saiga_Bttstck">
         <nominal>0</nominal>
@@ -17041,6 +17494,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="SalineBag">
         <nominal>12</nominal>
@@ -17325,6 +17781,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Scout_Chernarus">
         <nominal>3</nominal>
@@ -17396,6 +17855,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Sedan_02_Door_1_1">
         <nominal>0</nominal>
@@ -17742,6 +18205,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Sedan_02_Hood">
         <nominal>0</nominal>
@@ -17836,6 +18303,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Sedan_02_Trunk">
         <nominal>0</nominal>
@@ -19057,6 +19528,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="StaticObj_Decal_damage_long3_DE">
         <nominal>0</nominal>
@@ -19067,6 +19542,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="StaticObj_Roadblock_Wood_Long_DE">
         <nominal>0</nominal>
@@ -19077,6 +19556,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="StaticObj_Roadblock_Wood_Small_DE">
         <nominal>0</nominal>
@@ -19087,6 +19570,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="StaticObj_Train_Wagon_Flat_Industrial_Barrels_DE">
         <nominal>0</nominal>
@@ -19097,6 +19584,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="StaticObj_Train_Wagon_Flat_Industrial_Planks_DE">
         <nominal>0</nominal>
@@ -19107,6 +19598,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="StaticObj_Wreck_BMP1_DE">
         <nominal>0</nominal>
@@ -19117,6 +19612,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="StaticObj_Wreck_BMP1_NoPlacement_DE">
         <nominal>0</nominal>
@@ -19127,6 +19626,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="StaticObj_Wreck_BMP2_DE">
         <nominal>0</nominal>
@@ -19137,6 +19640,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="StaticObj_Wreck_BRDM_DE">
         <nominal>0</nominal>
@@ -19147,6 +19654,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="StaticObj_Wreck_Decal_Big_DE">
         <nominal>0</nominal>
@@ -19157,6 +19668,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="StaticObj_Wreck_Decal_Small1_DE">
         <nominal>0</nominal>
@@ -19167,6 +19682,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="StaticObj_Wreck_Decal_Small2_DE">
         <nominal>0</nominal>
@@ -19177,6 +19696,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="StaticObj_Wreck_T72_Chassis_DE">
         <nominal>0</nominal>
@@ -19187,6 +19710,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="StaticObj_Wreck_T72_Turret_DE">
         <nominal>0</nominal>
@@ -19197,6 +19724,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="StaticObj_Wreck_Train_742_Blue_DE">
         <nominal>0</nominal>
@@ -19207,6 +19738,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="StaticObj_Wreck_Train_742_Blue_Mil_DE">
         <nominal>0</nominal>
@@ -19217,6 +19752,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="StaticObj_Wreck_Train_742_Red_DE">
         <nominal>0</nominal>
@@ -19227,6 +19766,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="StaticObj_Wreck_Train_742_Red_Mil_DE">
         <nominal>0</nominal>
@@ -19237,6 +19780,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="StaticObj_Wreck_Train_Wagon_Flat_DE">
         <nominal>0</nominal>
@@ -19247,6 +19794,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="StaticObj_Wreck_Train_Wagon_Flat_Mil_DE">
         <nominal>0</nominal>
@@ -19257,6 +19808,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="StaticObj_Wreck_Train_Wagon_Tanker_DE">
         <nominal>0</nominal>
@@ -19267,6 +19822,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="StaticObj_Wreck_Train_Wagon_Tanker_Mil_DE">
         <nominal>0</nominal>
@@ -19277,6 +19836,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="StaticObj_Wreck_Uaz_DE">
         <nominal>0</nominal>
@@ -19287,6 +19850,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="StaticObj_Wreck_Ural_DE">
         <nominal>0</nominal>
@@ -19297,6 +19864,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="SteakKnife">
         <nominal>6</nominal>
@@ -20281,6 +20852,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Truck_01_Covered_Blue">
         <nominal>0</nominal>
@@ -20291,6 +20866,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Truck_01_Covered_Orange">
         <nominal>0</nominal>
@@ -20301,6 +20880,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Truck_01_Door_1_1">
         <nominal>0</nominal>
@@ -20724,6 +21307,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="USMCJacket_Desert">
         <nominal>0</nominal>
@@ -20933,6 +21519,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="WatchtowerKit">
         <nominal>0</nominal>
@@ -21843,6 +22433,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Wreck_SantasSleigh">
         <nominal>0</nominal>
@@ -21853,6 +22447,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Wreck_UH1Y">
         <nominal>0</nominal>
@@ -21863,6 +22461,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="Wrench">
         <nominal>6</nominal>
@@ -22010,6 +22612,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_BlueCollarFat_Green">
         <nominal>0</nominal>
@@ -22020,6 +22626,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_BlueCollarFat_Red">
         <nominal>0</nominal>
@@ -22030,6 +22640,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_BlueCollarFat_White">
         <nominal>0</nominal>
@@ -22040,6 +22654,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_CitizenANormal_Beige">
         <nominal>0</nominal>
@@ -22050,6 +22668,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_CitizenANormal_Blue">
         <nominal>0</nominal>
@@ -22060,6 +22682,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_CitizenANormal_Brown">
         <nominal>0</nominal>
@@ -22070,6 +22696,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_CitizenBSkinny">
         <nominal>0</nominal>
@@ -22080,6 +22710,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_Clerk_Normal_Blue">
         <nominal>0</nominal>
@@ -22090,6 +22724,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_Clerk_Normal_Green">
         <nominal>0</nominal>
@@ -22100,6 +22738,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_Clerk_Normal_Red">
         <nominal>0</nominal>
@@ -22110,6 +22752,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_Clerk_Normal_White">
         <nominal>0</nominal>
@@ -22120,6 +22766,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_DoctorSkinny">
         <nominal>0</nominal>
@@ -22130,6 +22780,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_HikerSkinny_Blue">
         <nominal>0</nominal>
@@ -22140,6 +22794,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_HikerSkinny_Green">
         <nominal>0</nominal>
@@ -22150,6 +22808,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_HikerSkinny_Grey">
         <nominal>0</nominal>
@@ -22160,6 +22822,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_HikerSkinny_Red">
         <nominal>0</nominal>
@@ -22170,6 +22836,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_JoggerSkinny_Blue">
         <nominal>0</nominal>
@@ -22180,6 +22850,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_JoggerSkinny_Brown">
         <nominal>0</nominal>
@@ -22190,6 +22864,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_JoggerSkinny_Green">
         <nominal>0</nominal>
@@ -22200,6 +22878,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_JoggerSkinny_Red">
         <nominal>0</nominal>
@@ -22210,6 +22892,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_JournalistNormal_Blue">
         <nominal>0</nominal>
@@ -22220,6 +22906,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_JournalistNormal_Green">
         <nominal>0</nominal>
@@ -22230,6 +22920,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_JournalistNormal_Red">
         <nominal>0</nominal>
@@ -22240,6 +22934,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_JournalistNormal_White">
         <nominal>0</nominal>
@@ -22250,6 +22948,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_MechanicNormal_Beige">
         <nominal>0</nominal>
@@ -22260,6 +22962,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_MechanicNormal_Green">
         <nominal>0</nominal>
@@ -22270,6 +22976,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_MechanicNormal_Grey">
         <nominal>0</nominal>
@@ -22280,6 +22990,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_MechanicNormal_Orange">
         <nominal>0</nominal>
@@ -22290,6 +23004,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_MilkMaidOld_Beige">
         <nominal>0</nominal>
@@ -22300,6 +23018,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_MilkMaidOld_Black">
         <nominal>0</nominal>
@@ -22310,6 +23032,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_MilkMaidOld_Green">
         <nominal>0</nominal>
@@ -22320,6 +23046,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_MilkMaidOld_Grey">
         <nominal>0</nominal>
@@ -22330,6 +23060,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_NurseFat">
         <nominal>0</nominal>
@@ -22340,6 +23074,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_ParamedicNormal_Blue">
         <nominal>0</nominal>
@@ -22350,6 +23088,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_ParamedicNormal_Green">
         <nominal>0</nominal>
@@ -22360,6 +23102,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_ParamedicNormal_Red">
         <nominal>0</nominal>
@@ -22370,6 +23116,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_PatientOld">
         <nominal>0</nominal>
@@ -22380,6 +23130,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_PoliceWomanNormal">
         <nominal>0</nominal>
@@ -22390,6 +23144,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_ShortSkirt_beige">
         <nominal>0</nominal>
@@ -22400,6 +23158,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_ShortSkirt_black">
         <nominal>0</nominal>
@@ -22410,6 +23172,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_ShortSkirt_brown">
         <nominal>0</nominal>
@@ -22420,6 +23186,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_ShortSkirt_checks">
         <nominal>0</nominal>
@@ -22430,6 +23200,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_ShortSkirt_green">
         <nominal>0</nominal>
@@ -22440,6 +23214,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_ShortSkirt_grey">
         <nominal>0</nominal>
@@ -22450,6 +23228,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_ShortSkirt_red">
         <nominal>0</nominal>
@@ -22460,6 +23242,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_ShortSkirt_stripes">
         <nominal>0</nominal>
@@ -22470,6 +23256,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_ShortSkirt_white">
         <nominal>0</nominal>
@@ -22480,6 +23270,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_ShortSkirt_yellow">
         <nominal>0</nominal>
@@ -22490,6 +23284,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_SkaterYoung_Brown">
         <nominal>0</nominal>
@@ -22500,6 +23298,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_SkaterYoung_Striped">
         <nominal>0</nominal>
@@ -22510,6 +23312,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_SkaterYoung_Violet">
         <nominal>0</nominal>
@@ -22520,6 +23326,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_SurvivorNormal_Blue">
         <nominal>0</nominal>
@@ -22530,6 +23340,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_SurvivorNormal_Orange">
         <nominal>0</nominal>
@@ -22540,6 +23354,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_SurvivorNormal_Red">
         <nominal>0</nominal>
@@ -22550,6 +23368,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_SurvivorNormal_White">
         <nominal>0</nominal>
@@ -22560,6 +23382,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_VillagerOld_Blue">
         <nominal>0</nominal>
@@ -22570,6 +23396,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_VillagerOld_Green">
         <nominal>0</nominal>
@@ -22580,6 +23410,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_VillagerOld_Red">
         <nominal>0</nominal>
@@ -22590,6 +23424,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbF_VillagerOld_White">
         <nominal>0</nominal>
@@ -22600,6 +23438,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_CitizenASkinny_Blue">
         <nominal>0</nominal>
@@ -22610,6 +23452,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_CitizenASkinny_Brown">
         <nominal>0</nominal>
@@ -22620,6 +23466,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_CitizenASkinny_Grey">
         <nominal>0</nominal>
@@ -22630,6 +23480,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_CitizenASkinny_Red">
         <nominal>0</nominal>
@@ -22640,6 +23494,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_CitizenBFat_Blue">
         <nominal>0</nominal>
@@ -22650,6 +23508,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_CitizenBFat_Green">
         <nominal>0</nominal>
@@ -22660,6 +23522,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_CitizenBFat_Red">
         <nominal>0</nominal>
@@ -22670,6 +23536,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_ClerkFat_Brown">
         <nominal>0</nominal>
@@ -22680,6 +23550,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_ClerkFat_Grey">
         <nominal>0</nominal>
@@ -22690,6 +23564,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_ClerkFat_Khaki">
         <nominal>0</nominal>
@@ -22700,6 +23578,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_ClerkFat_White">
         <nominal>0</nominal>
@@ -22710,6 +23592,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_CommercialPilotOld_Blue">
         <nominal>0</nominal>
@@ -22720,6 +23606,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_CommercialPilotOld_Brown">
         <nominal>0</nominal>
@@ -22730,6 +23620,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_CommercialPilotOld_Grey">
         <nominal>0</nominal>
@@ -22740,6 +23634,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_CommercialPilotOld_Olive">
         <nominal>0</nominal>
@@ -22750,6 +23648,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_ConstrWorkerNormal_Beige">
         <nominal>0</nominal>
@@ -22760,6 +23662,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_ConstrWorkerNormal_Black">
         <nominal>0</nominal>
@@ -22770,6 +23676,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_ConstrWorkerNormal_Green">
         <nominal>0</nominal>
@@ -22780,6 +23690,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_ConstrWorkerNormal_Grey">
         <nominal>0</nominal>
@@ -22790,6 +23704,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_DoctorFat">
         <nominal>0</nominal>
@@ -22800,6 +23718,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_FarmerFat_Beige">
         <nominal>0</nominal>
@@ -22810,6 +23732,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_FarmerFat_Blue">
         <nominal>0</nominal>
@@ -22820,6 +23746,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_FarmerFat_Brown">
         <nominal>0</nominal>
@@ -22830,6 +23760,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_FarmerFat_Green">
         <nominal>0</nominal>
@@ -22840,6 +23774,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_FirefighterNormal">
         <nominal>0</nominal>
@@ -22850,6 +23788,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_FishermanOld_Blue">
         <nominal>0</nominal>
@@ -22860,6 +23802,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_FishermanOld_Green">
         <nominal>0</nominal>
@@ -22870,6 +23816,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_FishermanOld_Grey">
         <nominal>0</nominal>
@@ -22880,6 +23830,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_FishermanOld_Red">
         <nominal>0</nominal>
@@ -22890,6 +23844,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_HandymanNormal_Beige">
         <nominal>0</nominal>
@@ -22900,6 +23858,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_HandymanNormal_Blue">
         <nominal>0</nominal>
@@ -22910,6 +23872,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_HandymanNormal_Green">
         <nominal>0</nominal>
@@ -22920,6 +23886,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_HandymanNormal_Grey">
         <nominal>0</nominal>
@@ -22930,6 +23900,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_HandymanNormal_White">
         <nominal>0</nominal>
@@ -22940,6 +23914,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_HeavyIndustryWorker">
         <nominal>0</nominal>
@@ -22950,6 +23928,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_HermitSkinny_Beige">
         <nominal>0</nominal>
@@ -22960,6 +23942,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_HermitSkinny_Black">
         <nominal>0</nominal>
@@ -22970,6 +23956,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_HermitSkinny_Green">
         <nominal>0</nominal>
@@ -22980,6 +23970,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_HermitSkinny_Red">
         <nominal>0</nominal>
@@ -22990,6 +23984,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_HikerSkinny_Blue">
         <nominal>0</nominal>
@@ -23000,6 +23998,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_HikerSkinny_Green">
         <nominal>0</nominal>
@@ -23010,6 +24012,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_HikerSkinny_Yellow">
         <nominal>0</nominal>
@@ -23020,6 +24026,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_HunterOld_Autumn">
         <nominal>0</nominal>
@@ -23030,6 +24040,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_HunterOld_Spring">
         <nominal>0</nominal>
@@ -23040,6 +24054,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_HunterOld_Summer">
         <nominal>0</nominal>
@@ -23050,6 +24068,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_HunterOld_Winter">
         <nominal>0</nominal>
@@ -23060,6 +24082,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_Jacket_beige">
         <nominal>0</nominal>
@@ -23070,6 +24096,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_Jacket_black">
         <nominal>0</nominal>
@@ -23080,6 +24110,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_Jacket_blue">
         <nominal>0</nominal>
@@ -23090,6 +24124,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_Jacket_bluechecks">
         <nominal>0</nominal>
@@ -23100,6 +24138,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_Jacket_brown">
         <nominal>0</nominal>
@@ -23110,6 +24152,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_Jacket_greenchecks">
         <nominal>0</nominal>
@@ -23120,6 +24166,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_Jacket_grey">
         <nominal>0</nominal>
@@ -23130,6 +24180,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_Jacket_khaki">
         <nominal>0</nominal>
@@ -23140,6 +24194,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_Jacket_magenta">
         <nominal>0</nominal>
@@ -23150,6 +24208,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_Jacket_stripes">
         <nominal>0</nominal>
@@ -23160,6 +24222,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_JoggerSkinny_Blue">
         <nominal>0</nominal>
@@ -23170,6 +24236,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_JoggerSkinny_Green">
         <nominal>0</nominal>
@@ -23180,6 +24250,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_JoggerSkinny_Red">
         <nominal>0</nominal>
@@ -23190,6 +24264,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_JournalistSkinny">
         <nominal>0</nominal>
@@ -23200,6 +24278,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_MechanicSkinny_Blue">
         <nominal>0</nominal>
@@ -23210,6 +24292,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_MechanicSkinny_Green">
         <nominal>0</nominal>
@@ -23220,6 +24306,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_MechanicSkinny_Grey">
         <nominal>0</nominal>
@@ -23230,6 +24320,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_MechanicSkinny_Red">
         <nominal>0</nominal>
@@ -23240,6 +24334,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_MotobikerFat_Beige">
         <nominal>0</nominal>
@@ -23250,6 +24348,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_MotobikerFat_Black">
         <nominal>0</nominal>
@@ -23260,6 +24362,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_MotobikerFat_Blue">
         <nominal>0</nominal>
@@ -23270,6 +24376,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_NBC_Grey">
         <nominal>0</nominal>
@@ -23280,6 +24390,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_NBC_Yellow">
         <nominal>0</nominal>
@@ -23290,6 +24404,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_OffshoreWorker_Green">
         <nominal>0</nominal>
@@ -23300,6 +24418,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_OffshoreWorker_Orange">
         <nominal>0</nominal>
@@ -23310,6 +24432,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_OffshoreWorker_Red">
         <nominal>0</nominal>
@@ -23320,6 +24446,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_OffshoreWorker_Yellow">
         <nominal>0</nominal>
@@ -23330,6 +24460,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_ParamedicNormal_Black">
         <nominal>0</nominal>
@@ -23340,6 +24474,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_ParamedicNormal_Blue">
         <nominal>0</nominal>
@@ -23350,6 +24488,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_ParamedicNormal_Green">
         <nominal>0</nominal>
@@ -23360,6 +24502,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_ParamedicNormal_Red">
         <nominal>0</nominal>
@@ -23370,6 +24516,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_PatientSkinny">
         <nominal>0</nominal>
@@ -23380,6 +24530,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_PatrolNormal_Autumn">
         <nominal>0</nominal>
@@ -23390,6 +24544,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_PatrolNormal_Flat">
         <nominal>0</nominal>
@@ -23400,6 +24558,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_PatrolNormal_PautRev">
         <nominal>0</nominal>
@@ -23410,6 +24572,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_PatrolNormal_Summer">
         <nominal>0</nominal>
@@ -23420,6 +24586,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_PolicemanFat">
         <nominal>0</nominal>
@@ -23430,6 +24600,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_PolicemanSpecForce">
         <nominal>0</nominal>
@@ -23440,6 +24614,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_PolicemanSpecForce_Heavy">
         <nominal>0</nominal>
@@ -23450,6 +24628,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_PrisonerSkinny">
         <nominal>0</nominal>
@@ -23460,6 +24642,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_Santa">
         <nominal>0</nominal>
@@ -23470,6 +24656,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_SkaterYoung_Blue">
         <nominal>0</nominal>
@@ -23480,6 +24670,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_SkaterYoung_Brown">
         <nominal>0</nominal>
@@ -23490,6 +24684,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_SkaterYoung_Green">
         <nominal>0</nominal>
@@ -23500,6 +24698,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_SkaterYoung_Grey">
         <nominal>0</nominal>
@@ -23510,6 +24712,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_SoldierNormal">
         <nominal>0</nominal>
@@ -23520,6 +24726,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_VillagerOld_Blue">
         <nominal>0</nominal>
@@ -23530,6 +24740,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_VillagerOld_Green">
         <nominal>0</nominal>
@@ -23540,6 +24754,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_VillagerOld_White">
         <nominal>0</nominal>
@@ -23550,6 +24768,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_priestPopSkinny">
         <nominal>0</nominal>
@@ -23560,6 +24782,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_usSoldier_Heavy_Woodland">
         <nominal>0</nominal>
@@ -23570,6 +24796,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_usSoldier_Officer_Desert">
         <nominal>0</nominal>
@@ -23580,6 +24810,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_usSoldier_normal_Desert">
         <nominal>0</nominal>
@@ -23590,6 +24824,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmbM_usSoldier_normal_Woodland">
         <nominal>0</nominal>
@@ -23600,6 +24838,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="ZmijovkaCap_Black">
         <nominal>4</nominal>

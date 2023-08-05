@@ -9,7 +9,6 @@
  *
 */
 
-/*
 modded class PlayerConstants 
 {
 	//----------------------------------------------------------
@@ -17,6 +16,7 @@ modded class PlayerConstants
 	//----------------------------------------------------------
 	static const float SHOES_MOVEMENT_DAMAGE_PER_STEP = 0.015;
 	static const int CHECK_EVERY_N_STEP = 80;							//! Will process every n-th step(for performance reasons)
+/*
 	//----------------------------------------------------------
 	//				BLOOD REGENERATION SPEED
 	//----------------------------------------------------------
@@ -44,5 +44,5 @@ modded class PlayerConstants
 	static const float METABOLIC_SPEED_WATER_WALK		= 0.11;			//! Water loss per second
 	static const float METABOLIC_SPEED_WATER_JOG		= 0.4;			//! Water loss per second
 	static const float METABOLIC_SPEED_WATER_SPRINT		= 0.8;			//! Water loss per second
-};
 */
+};

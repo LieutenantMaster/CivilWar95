@@ -822,7 +822,7 @@
 		<attachments chance="0.60">
 			<item name="Mag_IJ70_8Rnd" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.10">
 			<item name="TF_MakarovPB_Suppressor" chance="1.00" />
 		</attachments>
 	</type>

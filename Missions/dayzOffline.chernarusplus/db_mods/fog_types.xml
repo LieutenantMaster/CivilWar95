@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
-<!-- Types 1.4.0 -->
     <type name="FOG_UFP_Pants_6CD">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
