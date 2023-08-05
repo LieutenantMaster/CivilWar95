@@ -129,5 +129,5 @@ def combine_xml_files(output_filename, directory="."):
 
 if __name__ == "__main__":
     output_filename = "output"
-    combine_xml_files(output_filename, "./Missions/dayzOffline.chernarusplus/db_mods/")
+    combine_xml_files(output_filename, "./dayzOffline.chernarusplus/db_mods/")
     parse_xml_to_csv(output_filename, output_filename)
