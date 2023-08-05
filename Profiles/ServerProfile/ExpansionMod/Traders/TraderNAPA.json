@@ -66,6 +66,15 @@
         "omnogloves_brown": 0,
 
 
-        "TF_RifleSling_Black": 0
+        "TF_RifleSling_Black": 0,
+
+        "CP_CannabisSeedsPackSkunk": 0,
+        "CP_CannabisSeedsPackBlue": 0,
+        "CP_CannabisSeedsPackKush": 0,
+        "CP_CannabisSeedsPackStardawg": 0,
+        "CP_CannabisSeedsPackFuture": 0,
+        "CP_CannabisSeedsPackS1": 0,
+        "CP_CannabisSeedsPackNomad": 0,
+        "CP_CannabisSeedsPackBlackFrost": 0
     }
 }

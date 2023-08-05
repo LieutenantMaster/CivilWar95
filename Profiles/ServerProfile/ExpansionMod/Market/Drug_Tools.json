@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "CP_PlasticWrapper",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 800,
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 1800,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -63,8 +63,8 @@
         },
 		{
             "ClassName": "CP_Bagger",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 800,
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 1800,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

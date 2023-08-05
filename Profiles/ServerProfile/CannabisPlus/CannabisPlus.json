@@ -53,9 +53,9 @@
     "weedRadBlurYPower": 2,
     "weedRotBlurPow": 10,
     "spoiltime": 60,
-    "cannabis_drytime": 30,
+    "cannabis_drytime": 150,
     "RequireBattery": 1,
-    "WorkBench_PowerUsed": 1.0,
-    "Plastic_Wrap_Usage": 10.0,
+    "WorkBench_PowerUsed": 0.2,
+    "Plastic_Wrap_Usage": 2.0,
     "Workbench_Processing_Time": 5
 }

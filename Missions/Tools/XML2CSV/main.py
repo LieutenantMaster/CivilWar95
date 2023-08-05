@@ -86,7 +86,7 @@ def combine_xml_files(output_filename, directory="."):
     for filename in glob.iglob(os.path.join(directory, "**", "*_types.xml"), recursive=True):
         with open(filename, "r") as file:
             try:
-                tree = ET.parse(file)                
+                tree = ET.parse(file)
                 root.append(tree.getroot())
             except Exception as e:
                 print(f"Error parsing XML file: {filename}")
@@ -95,23 +95,39 @@ def combine_xml_files(output_filename, directory="."):
 
     # Parse the XML file
     combined_tree = ET.ElementTree(root)
-
+    
     # Find all nested <types> elements
     tmproot = combined_tree.getroot()
-    nested_type_elements = tmproot.findall('.//types[types]')
+    nested_type_elements = tmproot.findall('.//types')#.//types[types]
 
     # Remove the nested <types> elements
     # TODO: Doesnt work :/
+    """
     for nested_type in nested_type_elements:
         parent_type = nested_type.getparent()
         index = parent_type.index(nested_type)
         parent_type.remove(nested_type)
         for child in nested_type:
             parent_type.insert(index, child)
+    """
+    combined_tree.write(output_filename+".xml", encoding="utf-8", xml_declaration=True)
 
-    combined_tree.write(output_filename+".xml", encoding="utf-8", xml_declaration=True)    
+    # test remove after written
+    content= []
+    with open(output_filename+".xml",'r') as file:
+        for line in file:
+            if line.strip() == "<types><types>":
+                content.append("<types>\n")
+            elif line.strip() == "</types></types>":
+                content.append("</types>\n")
+            elif line.strip() != "</types><types>":
+                content.append(line)
+            
+    with open(output_filename+".xml",'w') as file:
+        for e in content:
+            file.write(e)
 
 if __name__ == "__main__":
     output_filename = "output"
-    combine_xml_files(output_filename, "..\\dayzOffline.chernarusplus\\db_mods\\")
+    combine_xml_files(output_filename, "./Missions/dayzOffline.chernarusplus/db_mods/")
     parse_xml_to_csv(output_filename, output_filename)

@@ -1,6 +1,6 @@
 {
     "m_Version": 11,
-    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_VEHICLE_PARTS",
+    "DisplayName": "Marchand de pièces détachées",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
@@ -28,6 +28,13 @@
         "expansion_mh6_door_1_1": 3,
         "expansion_mh6_door_1_2": 3,
         "expansion_mh6_door_2_1": 3,
-        "expansion_mh6_door_2_2": 3
+        "expansion_mh6_door_2_2": 3,
+        "offroad_02_door_1_1": 3,
+        "offroad_02_door_1_2": 3,
+        "offroad_02_door_2_1": 3,
+        "offroad_02_door_2_2": 3,
+        "offroad_02_hood": 3,
+        "offroad_02_trunk": 3,
+        "offroad_02_wheel": 3
     }
 }

@@ -74,8 +74,8 @@
         },
         {
             "ClassName": "canteen",
-            "MaxPriceThreshold": 36,
-            "MinPriceThreshold": 18,
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -85,8 +85,8 @@
         },
         {
             "ClassName": "canteen_black",
-            "MaxPriceThreshold": 36,
-            "MinPriceThreshold": 18,
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
