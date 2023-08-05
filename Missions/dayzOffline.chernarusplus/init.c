@@ -92,8 +92,6 @@ class CustomMission: MissionServer
 		}
 
 		super.OnEvent(eventTypeId, params);
-		
-		CloseFile(file);
 	}
 
 	static bool FindInFile( string filePath, string keyword )
