@@ -2659,7 +2659,7 @@
         <value user="Tier34"/>
     </type>
     <type name="FOG_Shirt_Tactical_Coat_Black">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2670,7 +2670,7 @@
         <category name="clothes" />
         <tag/>
         <usage user="Everything"/>
-        <value user="Tier34"/>
+        <value user="Tier234"/>
     </type>
     <type name="FOG_Shirt_Polo_Blue">
         <nominal>8</nominal>
