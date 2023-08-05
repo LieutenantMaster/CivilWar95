@@ -103,7 +103,7 @@
     <type name="PB_Brick">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -114,7 +114,7 @@
     <type name="PB_Stone">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>

@@ -35,14 +35,28 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_types_startup" value="true"/>
 	</defaults>
 	<ce folder="db_mods">
+		<file name="vanilla_types.xml" type="types" />
+
 		<file name="expansion_types.xml" type="types" />
 		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
-		
+
+		<file name="fog_types.xml" type="types" />
+		<file name="fog_spawnabletypes.xml" type="spawnabletypes" />
+
+		<file name="tacticalflava_types.xml" type="types" />
+		<file name="tacticalflava_spawnabletypes.xml" type="spawnabletypes" />
+
 		<file name="kamaz_types.xml" type="types" />
+		<file name="kamaz_spawnabletypes.xml" type="spawnabletypes" />
+		
+		<file name="vaz-2107_types.xml" type="types" />
+		<file name="vaz-2107_spawnabletypes.xml" type="spawnabletypes" />
+
+		<file name="cv95_types.xml" type="types" />
+		<file name="pbdoorsandbarricades_types.xml" type="types" />
 		<file name="muchstuffpack_types.xml" type="types" />
 		<file name="uaz452a_types.xml" type="types" />
 		<file name="uncuepas_types.xml" type="types" />
-		<file name="vaz-2107_types.xml" type="types" />
 		<file name="vaz-2126_types.xml" type="types" />
 		<file name="windstride_types.xml" type="types" />
 		<file name="zennotes_types.xml" type="types" />

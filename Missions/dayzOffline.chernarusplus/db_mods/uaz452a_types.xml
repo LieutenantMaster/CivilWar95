@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<types>    
-	<!--Автомобили / Cars  -->
+<types>
     <type name="H4_UAZ452A_Medical">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -10,6 +9,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>
     <type name="H4_UAZ452A_Blue">
         <nominal>0</nominal>
@@ -20,6 +23,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>		
     <type name="H4_UAZ452A_Green">
         <nominal>0</nominal>
@@ -30,6 +37,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>	
     <type name="H4_UAZ452A_White">
         <nominal>0</nominal>
@@ -40,6 +51,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
     </type>		
     <type name="H4_UAZ452A_Police">
         <nominal>0</nominal>
@@ -50,339 +65,527 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>		
-    	<!--Аттачменты / Attachments  -->
+        <category/>
+        <tag/>
+        <usage/>
+        <value/>
+    </type>
     <type name="H4_UAZ452A_Wheel">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>
     <type name="H4_UAZ452A_Doors_Driver_Medical">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>
     <type name="H4_UAZ452A_Doors_CoDriver_Medical">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>
     <type name="H4_UAZ452A_Doors_Cargo1_Medical">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>
     <type name="H4_UAZ452A_Doors_Trunk1_Medical">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>        
     <type name="H4_UAZ452A_Doors_Trunk2_Medical">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>
     <type name="H4_UAZ452A_Doors_Driver_Blue">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>
     <type name="H4_UAZ452A_Doors_CoDriver_Blue">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>
     <type name="H4_UAZ452A_Doors_Cargo1_Blue">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>
     <type name="H4_UAZ452A_Doors_Trunk1_Blue">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>        
     <type name="H4_UAZ452A_Doors_Trunk2_Blue">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>	
     <type name="H4_UAZ452A_Doors_Driver_Green">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>
     <type name="H4_UAZ452A_Doors_CoDriver_Green">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>
     <type name="H4_UAZ452A_Doors_Cargo1_Green">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>
     <type name="H4_UAZ452A_Doors_Trunk1_Green">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>        
     <type name="H4_UAZ452A_Doors_Trunk2_Green">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>		
     <type name="H4_UAZ452A_Doors_Driver_Police">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>
     <type name="H4_UAZ452A_Doors_CoDriver_Police">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>
     <type name="H4_UAZ452A_Doors_Cargo1_Police">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>
     <type name="H4_UAZ452A_Doors_Trunk1_Police">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>        
     <type name="H4_UAZ452A_Doors_Trunk2_Police">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>	
     <type name="H4_UAZ452A_Doors_Driver_White">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>
     <type name="H4_UAZ452A_Doors_CoDriver_White">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>
     <type name="H4_UAZ452A_Doors_Cargo1_White">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>
     <type name="H4_UAZ452A_Doors_Trunk1_White">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>        
     <type name="H4_UAZ452A_Doors_Trunk2_White">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>		
     <type name="H4_UAZ452A_RoofCargo">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>
     <type name="H4_NeonlightBulbRed">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>	
     <type name="H4_NeonlightBulbOrange">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>		
     <type name="H4_NeonlightBulbYellow">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>		
     <type name="H4_NeonlightBulbGreen">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>		
     <type name="H4_NeonlightBulbSkyBlue">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>	
     <type name="H4_NeonlightBulbBlue">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>	
     <type name="H4_NeonlightBulbViolet">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>	
     <type name="H4_NeonlightBulbPurple">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>		
     <type name="H4_NeonlightBulbPink">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>	
     <type name="H4_NeonlightBulbWhite">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="vehiclesparts"/>
+        <tag/>
         <usage user="Industrial"/>
+        <value user="Tier123"/>
     </type>		
 </types>

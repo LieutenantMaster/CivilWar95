@@ -231,53 +231,9 @@
 		</cargo>
 	</type>
 	<type name="AmmoBox">
-		<cargo chance="0.20"> <item name="AmmoBox_9x39_20Rnd" /> </cargo>			
-		<cargo chance="0.20"> <item name="AmmoBox_9x39_20Rnd" /> </cargo>			
-		<cargo chance="0.10"> <item name="AmmoBox_9x39AP_20Rnd" /> </cargo>			
-		<cargo chance="0.10"> <item name="AmmoBox_9x39AP_20Rnd" /> </cargo>	
-		<cargo chance="0.25"> <item name="AmmoBox_308Win_20Rnd" /> </cargo>			
-		<cargo chance="0.25"> <item name="AmmoBox_308Win_20Rnd" /> </cargo>			
-		<cargo chance="0.15"> <item name="AmmoBox_308WinTracer_20Rnd" /> </cargo>			
-		<cargo chance="0.15"> <item name="AmmoBox_308WinTracer_20Rnd" /> </cargo>	
-		<cargo chance="0.25"> <item name="AmmoBox_762x54_20Rnd" /> </cargo>			
-		<cargo chance="0.25"> <item name="AmmoBox_762x54_20Rnd" /> </cargo>				
-		<cargo chance="0.15"> <item name="AmmoBox_762x54Tracer_20Rnd" /> </cargo>			
-		<cargo chance="0.15"> <item name="AmmoBox_762x54Tracer_20Rnd" /> </cargo>	
-		<cargo chance="0.5"> <item name="AmmoBox_545x39_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_545x39_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_545x39_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_545x39_20Rnd" /> </cargo>			
-		<cargo chance="0.25"> <item name="AmmoBox_545x39Tracer_20Rnd" /> </cargo>			
-		<cargo chance="0.25"> <item name="AmmoBox_545x39Tracer_20Rnd" /> </cargo>		
-		<cargo chance="0.5"> <item name="AmmoBox_556x45_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_556x45_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_556x45_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_556x45_20Rnd" /> </cargo>			
-		<cargo chance="0.25"> <item name="AmmoBox_556x45Tracer_20Rnd" /> </cargo>			
-		<cargo chance="0.25"> <item name="AmmoBox_556x45Tracer_20Rnd" /> </cargo>		
-		<cargo chance="0.5"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>		
-		<cargo chance="0.25"> <item name="AmmoBox_762x39Tracer_20Rnd" /> </cargo>			
-		<cargo chance="0.25"> <item name="AmmoBox_762x39Tracer_20Rnd" /> </cargo>
-		<cargo chance="0.01"> <item name="Ammo_40mm_ChemGas" /> </cargo>
-		<cargo chance="0.20"> <item name="Ammo_40mm_Smoke_Black" /> </cargo>
-		<cargo chance="0.20"> <item name="Ammo_40mm_Smoke_Red" /> </cargo>
-		<cargo chance="0.20"> <item name="Ammo_40mm_Smoke_White" /> </cargo>
-		<cargo chance="0.20"> <item name="Ammo_40mm_Smoke_Green" /> </cargo>
-		<cargo chance="0.10"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="0.20"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="0.50"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="1.0"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="1.0"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="1.0"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="1.0"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="1.0"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="0.50"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="0.20"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="0.10"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		
+		<cargo chance="0.0">
+			<item name="AmmoBox_9x39_20Rnd" />
+		</cargo>
 	</type>
 	
 	<type name="AirborneMask">
@@ -1133,6 +1089,14 @@
 			<item name="TLRLight" chance="1.00" />
 		</attachments>
 	</type>
+    <type name="VSS_Black">
+        <attachments chance="1.00">
+            <item name="PSO1Optic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Mag_VSS_10Rnd" chance="1.00" />
+        </attachments>
+    </type>
 	<type name="VSS">
 		<attachments chance="0.25">
 			<item name="KashtanOptic" chance="0.40" />
@@ -1188,24 +1152,6 @@
 			<item name="PUScopeOptic" chance="1.00" />
 		</attachments>
 	</type>
-	<type name="air_weapon_k98">
-		<damage min="0.3" max="0.7" />
-		<attachments chance="1.00">
-			<item name="air_module_k98" chance="1.00" />
-		</attachments>
-	</type>
-	<type name="air_weapon_mp40">
-		<damage min="0.3" max="0.7" />		
-		<attachments chance="0.50">
-			<item name="air_weapon_mag_mp40_30rnd" chance="1.00" />
-		</attachments>
-	</type>
-	<type name="air_weapon_ots33">
-		<damage min="0.3" max="0.7" />		
-		<attachments chance="0.80">
-			<item name="air_weapon_ots33_mag" chance="1.00" />
-		</attachments>			
-	</type>
 	<type name="AKM">
 		<damage min="0.45" max="0.85" />
 		<attachments chance="1.00">
@@ -1241,6 +1187,14 @@
 			<item name="Mag_AK74_30Rnd" chance="1.00" />
 		</attachments>
 	</type>
+    <type name="AKS74U_Black">
+        <attachments chance="1.00">
+            <item name="AKS74U_Bttstck" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Mag_AK74_30Rnd" chance="1.00" />
+        </attachments>
+    </type>
 	<type name="AKS74U">
 		<attachments chance="1.00">
 			<item name="AKS74U_Bttstck" chance="1.00" />

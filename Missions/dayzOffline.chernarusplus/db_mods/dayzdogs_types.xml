@@ -1,178 +1,205 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
     <type name="dog_gasmask">
-        <nominal>4</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>3</min>
+        <restock>14400</restock>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <tag/>
         <usage user="Military"/>
-        <value user="Tier2345"/>
+        <value user="Tier1234"/>
     </type>
 	<type name="dog_collar">
-        <nominal>4</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>2</min>
+        <restock>14400</restock>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <tag/>
         <usage user="TownVillage"/>
+        <value user="Tier123"/>
     </type>
 	<type name="dog_collar_blue">
-        <nominal>4</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>2</min>
+        <restock>14400</restock>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <tag/>
         <usage user="TownVillage"/>
+        <value user="Tier123"/>
     </type>
 	<type name="dog_collar_red">
-        <nominal>4</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>2</min>
+        <restock>14400</restock>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <tag/>
         <usage user="TownVillage"/>
+        <value user="Tier123"/>
     </type>
 	<type name="dog_collar_green">
-        <nominal>4</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>2</min>
+        <restock>14400</restock>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <tag/>
         <usage user="TownVillage"/>
+        <value user="Tier123"/>
     </type>
 	<type name="dog_collar_white">
-        <nominal>4</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>2</min>
+        <restock>14400</restock>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <tag/>
         <usage user="TownVillage"/>
+        <value user="Tier123"/>
     </type>
 	<type name="dog_collar_yellow">
-        <nominal>4</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>2</min>
+        <restock>14400</restock>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <tag/>
         <usage user="TownVillage"/>
+        <value user="Tier123"/>
     </type>
 	<type name="dog_collar_grey">
-        <nominal>4</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>2</min>
+        <restock>14400</restock>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <tag/>
         <usage user="TownVillage"/>
+        <value user="Tier123"/>
     </type>
 	<type name="dog_vest_sheriff">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
-        <min>3</min>
+        <restock>14400</restock>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <tag/>
         <usage user="Police"/>
+        <value user="Tier123"/>
     </type>
 	<type name="dog_vest_black">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
-        <min>3</min>
+        <restock>14400</restock>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <tag/>
         <usage user="Police"/>
+        <value user="Tier123"/>
     </type>
 	<type name="dog_vest_black_k9">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
-        <min>3</min>
+        <restock>14400</restock>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <tag/>
         <usage user="Police"/>
+        <value user="Tier123"/>
     </type>
 	<type name="dog_vest_blackgreen">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
-        <min>3</min>
+        <restock>14400</restock>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <tag/>
         <usage user="Police"/>
+        <value user="Tier123"/>
     </type>
 	<type name="dog_vest_blackmedic">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
-        <min>3</min>
+        <restock>14400</restock>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <tag/>
         <usage user="Police"/>
+        <value user="Tier123"/>
     </type>
 	<type name="dog_vest_blackgreenz">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
-        <min>3</min>
+        <restock>14400</restock>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <tag/>
         <usage user="Police"/>
+        <value user="Tier123"/>
     </type>
 	<type name="dog_shed_small_kit">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -180,14 +207,14 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage user="Village"/>
-		<usage user="Town"/>
+        <usage user="TownVillage"/>
         <usage user="Farm"/>
+        <value user="Tier123"/>
     </type>
 	<type name="dog_shed_big_kit">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -195,14 +222,14 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage user="Village"/>
-		<usage user="Town"/>
+        <usage user="TownVillage"/>
         <usage user="Farm"/>
+        <value user="Tier123"/>
     </type>
 	<type name="dog_shed_big">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -213,7 +240,7 @@
 	<type name="dog_shed_small">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -224,7 +251,7 @@
 	<type name="dog_shed_big_static">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -235,7 +262,7 @@
 	<type name="dog_shed_small_static">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
-        <restock>0</restock>
+        <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>

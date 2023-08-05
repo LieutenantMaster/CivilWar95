@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <type name="CP_CannabisSeedsPackSkunk">
+        <nominal>12</nominal>
+        <lifetime>28800</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag/>
+        <value user="Tier1234"/>
+        <usage user="Everything"/>
+    </type>
+    <type name="CP_CannabisSeedsPackBlue">
+        <nominal>12</nominal>
+        <lifetime>28800</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag/>
+        <value user="Tier1234"/>
+        <usage user="Everything"/>
+    </type>
+    <type name="CP_CannabisSeedsPackKush">
+        <nominal>12</nominal>
+        <lifetime>28800</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag/>
+        <value user="Tier1234"/>
+        <usage user="Everything"/>
+    </type>
+    <type name="CP_CannabisSeedsPackStardawg">
+        <nominal>12</nominal>
+        <lifetime>28800</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag/>
+        <value user="Tier1234"/>
+        <usage user="Everything"/>
+    </type>
+        <type name="CP_CannabisSeedsPackFuture">
+        <nominal>12</nominal>
+        <lifetime>28800</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag/>
+        <value user="Tier1234"/>
+        <usage user="Everything"/>
+    </type>
+        <type name="CP_CannabisSeedsPackS1">
+        <nominal>12</nominal>
+        <lifetime>28800</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag/>
+        <value user="Tier1234"/>
+        <usage user="Everything"/>
+    </type>
+        <type name="CP_CannabisSeedsPackNomad">
+        <nominal>12</nominal>
+        <lifetime>28800</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag/>
+        <value user="Tier1234"/>
+        <usage user="Everything"/>
+    </type>
+        <type name="CP_CannabisSeedsPackBlackFrost">
+        <nominal>12</nominal>
+        <lifetime>28800</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag/>
+        <value user="Tier1234"/>
+        <usage user="Everything"/>
+    </type>
+        <type name="CP_TobaccoSeedsPack">
+        <nominal>12</nominal>
+        <lifetime>28800</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag/>
+        <value user="Tier1234"/>
+        <usage user="Everything"/>
+    </type>
+        <type name="CP_Pouch">
+        <nominal>6</nominal>
+        <lifetime>28800</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag/>
+        <value user="Tier1234"/>
+        <usage user="Everything"/>
+    </type>
+</types>

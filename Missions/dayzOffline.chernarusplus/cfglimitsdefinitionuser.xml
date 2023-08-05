@@ -16,14 +16,17 @@
         <user name="SeasonalEvent">
             <usage name="SeasonalEvent" />
         </user>
-        <user name="Lunapark">
-            <usage name="Lunapark" />
+        <user name="AmusementPark">
+            <usage name="AmusementPark" />
         </user>
-        <user name="Hunting">
-            <usage name="Hunting" />
+        <user name="Hunter">
+            <usage name="Hunter" />
         </user>
         <user name="Coast">
             <usage name="Coast" />
+        </user>
+        <user name="Castle">
+            <usage name="Castle" />
         </user>
         <user name="Farm">
             <usage name="Farm" />
@@ -52,6 +55,9 @@
         <user name="ContaminatedArea">
             <usage name="ContaminatedArea" />
         </user>
+        <user name="Historical">
+            <usage name="Historical" />
+        </user>
         <user name="IndustrialFull">
             <usage name="Industrial" />
             <usage name="IndustrialCW95" />
@@ -72,18 +78,19 @@
             <usage name="Medic"/>
             <usage name="Firefighter"/>
             <usage name="Industrial"/>
-            <usage name="IndustrialCW95"/>
+            <usage name="IndustrialCV95"/>
             <usage name="Farm"/>
             <usage name="Coast"/>
             <usage name="Town"/>
             <usage name="Village"/>
-            <usage name="Hunting"/>
+            <usage name="Hunter"/>
             <usage name="Office"/>
             <usage name="School"/>
             <usage name="Prison"/>
-            <usage name="Lunapark"/>
+            <usage name="AmusementPark"/>
             <usage name="SeasonalEvent"/>
             <usage name="ContaminatedArea"/>
+            <usage name="Historical"/>            
         </user>
     </usageflags>
 

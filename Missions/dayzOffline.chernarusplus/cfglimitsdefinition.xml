@@ -4,10 +4,11 @@
         <category name="tools"/>
         <category name="containers"/>
         <category name="clothes"/>
-        <category name="vehiclesparts"/>
+        <category name="vehiclesparts"/> <!-- Roues et Portières de voiture -->
         <category name="food"/>
         <category name="weapons"/>
-        <category name="books"/>
+        <category name="weaponattach"/> <!-- Preparation, ne fait rien actuellement -->
+        <category name="books"/> <!-- Pas utilisé par défaut -->
         <category name="explosives"/>
     </categories>
     <tags>
@@ -16,25 +17,47 @@
         <tag name="ground"/>
     </tags>
     <usageflags>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Medic"/>
-        <usage name="Firefighter"/>
-        <usage name="Industrial"/>
         <usage name="IndustrialCW95"/>
-        <usage name="Farm"/>
+
+        <usage name="Firefighter"/>
         <usage name="Coast"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
         <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Farm"/>
         <usage name="Prison"/>
-        <usage name="Lunapark"/>
+        <usage name="Hunter"/>
+        <usage name="Castle"/>
+        <usage name="Industrial"/>
+        <usage name="Office"/>
+        
+        <!-- Preparation, ne fait rien actuellement -->
+        <usage name="Camping"/>
+        <usage name="Plants"/>
+        <usage name="Trash"/>
+        <usage name="Apartments"/>
+        <usage name="Bighouse"/>
+        <usage name="House"/>
+        <usage name="Ruined"/>
+        <usage name="AmusementPark"/>
         <usage name="SeasonalEvent"/>
         <usage name="ContaminatedArea"/>
+        <usage name="Bunker"/>
+        <!-- Dynamic -->
+        <usage name="SurvivorCrate"/>
+        <usage name="MilitaryWreck"/>
+        <usage name="CivilianWreck"/>
+        <usage name="PoliceWreck"/>
+        <usage name="Fisherboat"/>
+        <usage name="TrainRail"/>
+        <usage name="USHeli"/>
+        <usage name="RUHeli"/>    
     </usageflags>
     <valueflags>
+        <value name="Tier0"/> <!-- Hors Map -->
         <value name="Tier1"/> <!-- Route Zeleno à Cherno -->
         <value name="Tier2"/> <!-- Alentours de Cherno -->
         <value name="Tier3"/> <!-- Cherno | Tous sauf le centre ville -->
