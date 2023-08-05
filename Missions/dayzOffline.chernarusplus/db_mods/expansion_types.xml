@@ -5647,11 +5647,11 @@
     <type name="Expansion_Guitar">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>14400</restock>
+        <restock>28800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
-        <cost>80</cost>
+        <cost>20</cost>
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <value user="Tier4" />
         <usage user="Everything"/>

@@ -1847,7 +1847,7 @@
 	//new feb 2022
 	
     <type name="Hatchet_Painted">
-        <nominal>10</nominal>
+        <nominal>6</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>

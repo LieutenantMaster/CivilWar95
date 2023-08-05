@@ -7212,11 +7212,12 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag/>
-        <usage/>
-        <value user="Tier12"/>
+        <category name="clothes" />
+        <usage user="TownVillage"/>   
+        <value user="Tier123"/>
     </type>
     <type name="FOGR_511_Shirt_OD">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7225,12 +7226,12 @@
         <cost>80</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
-        <tag/>
-        <usage/>
-        <value user="Tier12"/>
+        <category name="clothes" />
+        <usage user="TownVillage"/>   
+        <value user="Tier123"/>
     </type>
     <type name="FOGR_511_Shirt_Leather">
-        <nominal>8</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7243,7 +7244,7 @@
         <value user="Tier123"/>
     </type>
     <type name="FOGR_511_Shirt_Blue">
-        <nominal>8</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7256,7 +7257,7 @@
         <value user="Tier123"/>
     </type>
     <type name="FOGR_511_Shirt_Red">
-        <nominal>8</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7269,7 +7270,7 @@
         <value user="Tier123"/>
     </type>
     <type name="FOGR_511_Shirt_Burgandy">
-        <nominal>8</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7282,7 +7283,7 @@
         <value user="Tier123"/>
     </type>
     <type name="FOGR_511_Shirt_Navy">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7291,12 +7292,12 @@
         <cost>80</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
-        <tag/>
-        <usage/>
-        <value user="Tier12"/>
+        <category name="clothes" />
+        <usage user="TownVillage"/>   
+        <value user="Tier123"/>
     </type>
     <type name="FOGR_511_Shirt_Tan">
-        <nominal>8</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7309,7 +7310,7 @@
         <value user="Tier123"/>
     </type>
     <type name="FOGR_511_Shirt_Denim">
-        <nominal>8</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7322,7 +7323,7 @@
         <value user="Tier123"/>
     </type>
     <type name="FOGR_511_Shirt_BW">
-        <nominal>8</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7335,7 +7336,7 @@
         <value user="Tier123"/>
     </type>
     <type name="FOGR_511_Shirt_M81">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7344,12 +7345,11 @@
         <cost>80</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
-        <tag/>
-        <usage/>
-        <value user="Tier12"/>
+        <usage user="TownVillage"/>   
+        <value user="Tier123"/>
     </type>
     <type name="FOGR_511_Shirt_Brown_Solid">
-        <nominal>8</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
