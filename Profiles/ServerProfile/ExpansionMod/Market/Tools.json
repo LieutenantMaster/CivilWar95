@@ -263,7 +263,7 @@
         },
         {
             "ClassName": "expansionpropanetorch",
-            "MaxPriceThreshold": 3000,
+            "MaxPriceThreshold": 4000,
             "MinPriceThreshold": 2000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -287,7 +287,7 @@
             "ClassName": "Expansion_Guitar",
             "MaxPriceThreshold": 50000,
             "MinPriceThreshold": 50000,
-            "SellPricePercent": 100.0,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
