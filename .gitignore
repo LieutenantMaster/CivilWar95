@@ -15,6 +15,9 @@ Missions/.gitattributes
 Missions/.gitignore
 Missions/readme.md
 
+Missions/output.csv
+Missions/output.xml
+
 Profiles/SClientAProfile/
 Profiles/SClientBProfile/
 Profiles/SClientCProfile/
