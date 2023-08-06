@@ -9,13 +9,14 @@
  *
 */
 
+/*
 modded class ActionSmokeCigSelf
 {
 	private static float CV95_MAXPLAYERHEALTH = 75;
 
 	override string GetText()
 	{
-		return "Fumer";
+		return "#STR_CW95_ACTIONS_SMOKE";
 	}
 
 	override void OnFinishProgressServer(ActionData action_data)
@@ -30,3 +31,4 @@ modded class ActionSmokeCigSelf
 		}
     }
 };
+*/

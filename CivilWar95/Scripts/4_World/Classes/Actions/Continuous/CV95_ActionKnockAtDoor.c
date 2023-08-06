@@ -25,6 +25,7 @@ class CV95_ActionKnockAtDoor: ActionContinuousBase
 		m_CallbackClass 	= CV95_ActionKnockAtDoorCB;
 		m_CommandUID 		= DayZPlayerConstants.CMD_ACTIONFB_HANDCUFFTARGET;
 		m_CommandUIDProne 	= DayZPlayerConstants.CMD_ACTIONFB_HANDCUFFTARGET;
+		m_Text 				= "#STR_CW95_ACTIONS_KNOCK";
 	}
 
 	override void CreateConditionComponents()  
@@ -36,10 +37,6 @@ class CV95_ActionKnockAtDoor: ActionContinuousBase
 	override bool HasProgress()
 	{
 		return false;
-	}
-	override string GetText()
-	{
-		return "Toquer";
 	}
 
 	override bool ActionCondition( PlayerBase player, ActionTarget target, ItemBase item )

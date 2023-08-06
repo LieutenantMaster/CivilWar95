@@ -25,7 +25,7 @@ class MP_PlayMusicAction: AnimatedActionBase
 		m_CommandUID = DayZPlayerConstants.CMD_ACTIONMOD_ATTACHITEM;
 		m_FullBody = false;
 		m_StanceMask = DayZPlayerConstants.STANCEMASK_ERECT | DayZPlayerConstants.STANCEMASK_CROUCH;
-		m_Text = "Play";
+		m_Text = "#STR_CW95_ACTIONS_PLAY";
 	}
 	
 	override void CreateConditionComponents()  

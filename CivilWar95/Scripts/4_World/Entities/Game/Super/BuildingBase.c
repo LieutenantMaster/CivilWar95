@@ -10,6 +10,7 @@
  *
 */
 
+//! TODO: this code is 4 years old, need a serious rewrite
 modded class BuildingBase
 {
 	ref protected EffectSound 		m_KnockingLoopSound;
@@ -23,12 +24,11 @@ modded class BuildingBase
 	
 	void BuildingBase()
 	{
-		m_KnockingLoopSound = new EffectSound;
 		m_knockstate 		= false;
 		m_index 			= -1;
 
 		RegisterNetSyncVariableBool( "m_knockstate" );
-		RegisterNetSyncVariableBool( "m_index" );
+		RegisterNetSyncVariableInt( "m_index" );
 	}
 
 	void ~BuildingBase()
@@ -72,6 +72,9 @@ modded class BuildingBase
 
 	void PlayKnockingSound(int index)
 	{
+		if ( !m_KnockingLoopSound )
+			m_KnockingLoopSound = new EffectSound;
+		
 		m_KnockingLoopSound = SEffectManager.PlaySound( GetLoopKnockingSoundset(), GetDoorSoundPos(index) );
 		m_KnockingLoopSound.SetSoundAutodestroy( true );
 		m_KnockingLoopSound.SetSoundLoop( true );

@@ -26,7 +26,7 @@ class MP_RewindAction: AnimatedActionBase
 		m_StanceMask	= DayZPlayerConstants.STANCEMASK_ERECT | DayZPlayerConstants.STANCEMASK_CROUCH;
 		m_FullBody 		= false;
 		
-		m_Text 			= "Rewind";
+		m_Text 			= "#STR_CW95_ACTIONS_REWIND";
 	}
 
     override typename GetInputType()

@@ -28,7 +28,7 @@ class MPFP_VolumeDOWNAction: ActionContinuousBase
 		m_CommandUIDProne = DayZPlayerConstants.CMD_ACTIONFB_ITEM_TUNE;		
 		m_SpecialtyWeight = UASoftSkillsWeight.ROUGH_LOW;
 		
-		m_Text = "Volume DOWN";
+		m_Text = "#STR_CW95_ACTIONS_VOLUME_DOWN";
 	}
 	
 	override void CreateConditionComponents()  

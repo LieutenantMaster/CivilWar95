@@ -20,4 +20,4 @@ modded class SEffectManager
 		
 		return effect_sound;
 	}
-}
+};

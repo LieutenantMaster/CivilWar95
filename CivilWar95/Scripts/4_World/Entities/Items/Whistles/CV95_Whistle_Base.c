@@ -26,7 +26,6 @@ class CV95_Whistle_Base: ItemBase
 	
 	void CV95_Whistle_Base()
 	{
-		m_WhistleLoopSound 	= new EffectSound;
 		m_WhistleTime 		= GetLoopWhistleLenght();
 		m_Whistling 		= false;
 
@@ -69,6 +68,8 @@ class CV95_Whistle_Base: ItemBase
 	{
 		if ( m_WhistleLoopSound )
 			StopWhistleSound();
+		else
+			m_WhistleLoopSound 	= new EffectSound;
 		//if ( GetGame().IsMultiplayer() && GetGame().IsClient() || !GetGame().IsMultiplayer() )
 		//{
 			m_WhistleLoopSound = SEffectManager.PlaySound( GetLoopWhistleSoundset(), GetPosition() );

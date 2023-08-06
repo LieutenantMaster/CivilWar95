@@ -26,7 +26,7 @@ class MPFP_Stop: AnimatedActionBase
 		m_CommandUIDProne = DayZPlayerConstants.CMD_ACTIONMOD_ITEM_OFF;		
 		m_SpecialtyWeight = UASoftSkillsWeight.ROUGH_LOW;
 		
-		m_Text = "Stop";
+		m_Text = "#STR_CW95_ACTIONS_STOP";
 	}
 	
 	override void CreateConditionComponents()  

@@ -20,10 +20,10 @@ modded class PlayerBase
 	void PlayerBase()
 	{
 		if (!IsAI())
-			GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).CallLater( CV95_DelayedInit, 1000, false );
+			GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).CallLater( CW95_DelayedInit, 1000, false );
 	}
 
-	void CV95_DelayedInit()
+	void CW95_DelayedInit()
 	{
 		m_FrontLineManager = new FrontLineManager();
 		m_FrontLineManager.CheckPlayerPosition();
@@ -215,7 +215,7 @@ modded class PlayerBase
 				factionName = GetGroup().GetFaction().GetName();
 		}
 
-		string primaryData 		= factionName + "|" + loadoutType + "|" + spawnPos.ToString();
+		string primaryData 		= factionName + 			"|" + loadoutType + 		  "|" + spawnPos.ToString();
 		string secondaryData 	= GetIdentity().GetName() + "|" + GetIdentity().GetId() + "|" + steamID;
 
 		file = OpenFile(filename, FileMode.WRITE);

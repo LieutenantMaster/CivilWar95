@@ -8,7 +8,7 @@ enum FrontLineTypes
 	COUNT
 };
 
-enum CV95SettingsRPC
+enum CW95RPC
 {
 	INVALID = 80850,
 	FrontLineTrigger,
@@ -16,6 +16,14 @@ enum CV95SettingsRPC
 	COUNT
 };
 
+enum CW95SettingsRPC
+{
+	INVALID = 80000,
+	CW95_FrontLineSettings,
+	CW95_ConflictGMDSettings,
+	CW95_KothGMDSettings,
+	COUNT  //! 32 INCREMENT THIS NUMBER AND FOLLOWING RPCs WHEN NEEDED FFS
+};
 
 enum CV95FormationsAI
 {

@@ -26,7 +26,7 @@ class MPFP_Play: AnimatedActionBase
 		m_CommandUIDProne = DayZPlayerConstants.CMD_ACTIONMOD_ITEM_ON;		
 		m_SpecialtyWeight = UASoftSkillsWeight.ROUGH_LOW;
 		
-		m_Text = "Play";
+		m_Text = "#STR_CW95_ACTIONS_PLAY";
 	}
 	
 	override void CreateConditionComponents()  

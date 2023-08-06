@@ -25,7 +25,7 @@ class MP_ResetPlayerAction: AnimatedActionBase
 		m_CommandUID = DayZPlayerConstants.CMD_ACTIONMOD_ATTACHITEM;
 		m_FullBody = false;
 		m_StanceMask = DayZPlayerConstants.STANCEMASK_ERECT | DayZPlayerConstants.STANCEMASK_CROUCH;
-		m_Text = "Push Reset Button";
+		m_Text = "##STR_CW95_ACTIONS_RESET";
 	}
 	
 	override void CreateConditionComponents()  

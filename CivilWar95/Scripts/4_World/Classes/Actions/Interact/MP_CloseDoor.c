@@ -25,7 +25,7 @@ class MP_CloseDoorAction: AnimatedActionBase
 		m_CommandUID = DayZPlayerConstants.CMD_ACTIONMOD_CLOSELID;
 		m_FullBody = false;
 		m_StanceMask = DayZPlayerConstants.STANCEMASK_ERECT | DayZPlayerConstants.STANCEMASK_CROUCH;
-		m_Text = "Close Door";
+		m_Text = "#close";
 	}
 	
 	override void CreateConditionComponents()  

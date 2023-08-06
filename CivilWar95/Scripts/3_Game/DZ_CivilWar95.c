@@ -1,4 +1,3 @@
-#ifdef EXPANSION_MODSTORAGE
 /**
  * DZ_CivilWar95.c
  *
@@ -10,6 +9,7 @@
  *
 */
 
+#ifdef EXPANSION_MODSTORAGE
 class DZ_CivilWar95: ModStructure
 {
 	override void LoadData()

@@ -28,8 +28,8 @@ class CfgVehicles
 	{
 		scope=2;
 		rotationFlags=1;
-		displayName="$STR_CV95_MUSICPLAYER_NAME";
-		descriptionShort="$STR_CV95_MUSICPLAYER_DESC";
+		displayName="$STR_CW95_MUSICPLAYER_NAME";
+		descriptionShort="$STR_CW95_MUSICPLAYER_DESC";
 		model="CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Models\musicPlayer.p3d";
 		weight=200;
 		itemSize[]={2,2};
@@ -118,8 +118,8 @@ class CfgVehicles
 	class CV95_Cassette_Base: Inventory_Base
 	{
 		scope=0;
-		displayName="$STR_CV95_CASSETTEBASE_NAME";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		displayName="$STR_CW95_CASSETTEBASE_NAME";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		model="\dz\gear\tools\cassette.p3d";
 		soundImpactType="plastic";
 		inventorySlot[]=
@@ -154,7 +154,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 216.0;
 		displayName="Bosanska Artiljerija";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_BosanskaArtiljerija_Music"
@@ -165,7 +165,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 188.0;
 		displayName="ChDKZ Anthem";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_Rossiya_Music"
@@ -176,7 +176,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 78.0;
 		displayName="Chernarussian Anthem";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_ChernarussianAnthem_Music"
@@ -187,7 +187,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 133.0;
 		displayName="Crni Bombarderi";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_CrniBombarderi_Music"
@@ -198,7 +198,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 168.0;
 		displayName="Dark Is The Night";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_DarkIsTheNight_Music"
@@ -209,7 +209,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 186.0;
 		displayName="DontTell Mom Im In Chechnya";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_DontTellMomImInChechnya_Music"
@@ -220,7 +220,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 238.0;
 		displayName="International";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_International_Music"
@@ -231,7 +231,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 209.0;
 		displayName="Karavan";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_Karavan_Music"
@@ -242,7 +242,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 129.0;
 		displayName="Katyusha";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_Katyusha_Music"
@@ -253,7 +253,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 300.0;
 		displayName="Kombat";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_Kombat_Music"
@@ -264,7 +264,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 143.0;
 		displayName="My Dad Is A War Criminal";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_MyDadIsAWarCriminal_Music"
@@ -275,7 +275,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 238.0;
 		displayName="NoviGod";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_NoviGod_Music"
@@ -286,7 +286,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 183.0;
 		displayName="OjAlijaAljo";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_OjAlijaAljo_Music"
@@ -297,7 +297,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 194.0;
 		displayName="Polyushka Polye";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_PolyushkaPolye_Music"
@@ -308,7 +308,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 306.0;
 		displayName="Remove Takistani";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_RemoveTakistani_Music"
@@ -319,7 +319,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 185.0;
 		displayName="Three Choppers Over Mozdok";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_ThreeChoppersOverMozdok_Music"
@@ -330,7 +330,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 199.0;
 		displayName="Troika";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_Troika_Music"
@@ -341,7 +341,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 138.0;
 		displayName="TheBigHangover";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_TheBigHangover_Music"
@@ -352,7 +352,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 206.0;
 		displayName="Atas";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_Atas_Music"
@@ -363,7 +363,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 261.0;
 		displayName="PoslednyayaLyubov";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_PoslednyayaLyubov_Music"
@@ -374,7 +374,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 250.0;
 		displayName="DavaiZa";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_DavaiZa_Music"
@@ -385,7 +385,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 184.0;
 		displayName="MilyeZelyonyeGlaza";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_MilyeZelyonyeGlaza_Music"
@@ -396,7 +396,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 387.0;
 		displayName="Kukushka";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_Kukushka_Music"
@@ -407,7 +407,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 354.0;
 		displayName="Leto";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_Leto_Music"
@@ -418,7 +418,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 284.0;
 		displayName="GruppaKrovi";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_GruppaKrovi_Music"
@@ -429,7 +429,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 266.0;
 		displayName="Zvezda";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_Zvezda_Music"
@@ -440,7 +440,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 292.0;
 		displayName="Peremen";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_Peremen_Music"
@@ -451,7 +451,7 @@ class CfgVehicles
 		scope=2;
 		trackTime = 133.0;
 		displayName="ChDKZAnthem";
-		descriptionShort="$STR_CV95_CASSETTEBASE_DESC";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
 			"CV95_ChDKZAnthem_Music"

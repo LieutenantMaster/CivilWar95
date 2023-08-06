@@ -25,6 +25,7 @@ class CV95_ActionRaiseWhistleSelf: ActionContinuousBase
 		m_CallbackClass 	= CV95_ActionRaiseWhistleSelfCB;
 		m_CommandUID 		= DayZPlayerConstants.CMD_ACTIONMOD_TAKETEMPSELF;
 		m_CommandUIDProne 	= DayZPlayerConstants.CMD_ACTIONFB_TAKETEMPSELF;
+		m_Text 				= "#STR_CW95_ACTIONS_WHISTLE";
 	}
 	
 	override void CreateConditionComponents()  
@@ -34,7 +35,6 @@ class CV95_ActionRaiseWhistleSelf: ActionContinuousBase
 	}
 
 	override bool HasProgress() { return false; }
-	override string GetText() 	{ return "Siffler"; }
 	
 	override bool ActionCondition ( PlayerBase player, ActionTarget target, ItemBase item ) { return !player.IsRestrained(); }
 

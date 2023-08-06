@@ -93,12 +93,12 @@ class FrontLineManager: CF_ModuleWorld
 	
 	override int GetRPCMin()
 	{
-		return CV95SettingsRPC.INVALID;
+		return CW95RPC.INVALID;
 	}
 	
 	override int GetRPCMax()
 	{
-		return CV95SettingsRPC.COUNT;
+		return CW95RPC.COUNT;
 	}
 
     /// <summary>
@@ -167,7 +167,7 @@ class FrontLineManager: CF_ModuleWorld
 
 		switch ( rpc.ID )
 		{
-			case CV95SettingsRPC.FrontLineTrigger:
+			case CW95RPC.FrontLineTrigger:
 				RPC_FrontLineTrigger(rpc.Context, rpc.Sender, rpc.Target);
             break;
 		}
@@ -225,7 +225,7 @@ class FrontLineManager: CF_ModuleWorld
                 // RPC Server !
                 auto rpc = ExpansionScriptRPC.Create();
                 rpc.Write( player.GetPosition() );
-                rpc.Send( null, CV95SettingsRPC.FrontLineTrigger, true, player.GetIdentity() );
+                rpc.Send( null, CW95RPC.FrontLineTrigger, true, player.GetIdentity() );
             }
         }
     }

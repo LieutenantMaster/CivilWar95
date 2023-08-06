@@ -25,7 +25,7 @@ class MP_OpenDoorAction: AnimatedActionBase
 		m_CommandUID = DayZPlayerConstants.CMD_ACTIONMOD_OPENLID;
 		m_FullBody = false;
 		m_StanceMask = DayZPlayerConstants.STANCEMASK_ERECT | DayZPlayerConstants.STANCEMASK_CROUCH;
-		m_Text = "Open Door";
+		m_Text = "#open";
 	}
 	
 	override void CreateConditionComponents()  

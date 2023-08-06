@@ -9,7 +9,9 @@
  *
 */
 
+#ifdef EXPANSIONMODCORE
 modded class EXTrace
 {
     static bool ENABLE = false;
 };
+#endif

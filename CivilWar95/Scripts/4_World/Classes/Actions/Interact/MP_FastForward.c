@@ -26,7 +26,7 @@ class MP_FastForwardAction: AnimatedActionBase
 		m_StanceMask	= DayZPlayerConstants.STANCEMASK_ERECT | DayZPlayerConstants.STANCEMASK_CROUCH;
 		m_FullBody 		= false;
 		
-		m_Text 			= "Fast Forward";
+		m_Text 			= "#STR_CW95_ACTIONS_FASTFORWARD";
 	}
 
     override typename GetInputType()

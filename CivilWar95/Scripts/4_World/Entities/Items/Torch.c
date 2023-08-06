@@ -27,4 +27,4 @@ modded class Torch
 	{
 		return true;
 	}
-}
+};
