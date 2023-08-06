@@ -12,12 +12,12 @@
     "CarDestroyPartsTools": [
         "FOG_SOCOM_Slammer_Black"
     ],
-    "PB_DestroyTime": 240,
+    "PB_DestroyTime": 30,
     "PB_DismantleTime": 25,
-    "PB_ToolDamage": 10,
-    "T1DoorDestroyTime": 240,
-    "T2DoorDestroyTime": 240,
-    "T3DoorDestroyTime": 240,
+    "PB_ToolDamage": 1,
+    "T1DoorDestroyTime": 30,
+    "T2DoorDestroyTime": 30,
+    "T3DoorDestroyTime": 30,
     "T1BarricadeAndWallDestroyTime": 120,
     "T2BarricadeAndWallDestroyTime": 120,
     "T3BarricadeAndWallDestroyTime": 120,

@@ -1,5 +1,5 @@
 {
-    "RaidTimeInSeconds": 10.0,
+    "RaidTimeInSeconds": 30,
     "CanAttach": "true",
     "CanRaid": "false",
     "DeleteLockOnRaid": "false",

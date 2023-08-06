@@ -12,7 +12,7 @@
         "Lockpick"
     ],
     "PickLockChancePercent": 100.0,
-    "PickLockTimeSeconds": 6,
+    "PickLockTimeSeconds": 30,
     "PickLockToolDamagePercent": 1.0,
     "EnableWindAerodynamics": 0,
     "EnableTailRotorDamage": 1,

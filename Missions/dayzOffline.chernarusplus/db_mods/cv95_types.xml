@@ -16,12 +16,12 @@
     </type>
         <type name="CV95_SVD_Wood">
         <nominal>1</nominal>
-        <lifetime>28800</lifetime>
-        <restock>14400</restock>
+        <lifetime>14400</lifetime>
+        <restock>86400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
-        <cost>50</cost>
+        <cost>20</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
@@ -29,7 +29,7 @@
         <usage user="Everything"/>
     </type>
     <type name="CV95_MusicPlayer">
-        <nominal>6</nominal>
+        <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>

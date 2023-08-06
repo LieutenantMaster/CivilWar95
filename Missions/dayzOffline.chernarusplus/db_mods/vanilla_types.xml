@@ -16247,11 +16247,11 @@
     <type name="Plastic_Explosive">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
-        <restock>28800</restock>
+        <restock>86400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
-        <cost>100</cost>
+        <cost>20</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="explosives"/>
         <tag/>
@@ -17458,31 +17458,31 @@
     </type>
     <type name="SVD">
         <nominal>1</nominal>
-        <lifetime>28800</lifetime>
-        <restock>28800</restock>
+        <lifetime>14400</lifetime>
+        <restock>86400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
-        <cost>50</cost>
+        <cost>20</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="weapons"/>
         <tag/>
-        <usage user="Military"/>
+        <usage user="Everything"/>
         <value user="Tier4"/>
     </type>
     <type name="Saiga">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
-        <restock>14400</restock>
+        <restock>86400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
-        <cost>100</cost>
+        <cost>20</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <tag/>
-        <usage/>
-        <value/>
+        <usage user="Everything"/>
+        <value user="Tier4"/>
     </type>
     <type name="Saiga_Bttstck">
         <nominal>0</nominal>

@@ -8153,7 +8153,7 @@
         <value user="Tier12"/>
     </type>
     <type name="FOGR_Ronin_Hat_M81">
-        <nominal>0</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8163,11 +8163,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag/>
-        <usage/>
-        <value user="Tier12"/>
+        <usage user="TownVillage"/>   
+        <value user="Tier123"/>
     </type>
     <type name="FOGR_Ronin_Hat_RT">
-        <nominal>0</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8177,11 +8177,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag/>
-        <usage/>
-        <value user="Tier12"/>
+        <usage user="TownVillage"/>   
+        <value user="Tier123"/>
     </type>
     <type name="FOGR_Ronin_Hat_Red">
-        <nominal>8</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8194,7 +8194,7 @@
         <value user="Tier123"/>
     </type>
     <type name="FOGR_Ronin_Hat_Blue">
-        <nominal>8</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8207,7 +8207,7 @@
         <value user="Tier123"/>
     </type>
     <type name="FOGR_Ronin_Hat_Black">
-        <nominal>8</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8220,7 +8220,7 @@
         <value user="Tier123"/>
     </type>
     <type name="FOGR_Ronin_Hat_Grey">
-        <nominal>8</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8233,7 +8233,7 @@
         <value user="Tier123"/>
     </type>
     <type name="FOGR_Ronin_Hat_OD">
-        <nominal>0</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8247,7 +8247,7 @@
         <value user="Tier12"/>
     </type>
     <type name="FOGR_Ronin_Hat_Tan">
-        <nominal>8</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8260,7 +8260,7 @@
         <value user="Tier123"/>
     </type>
     <type name="FOGR_Royal_Bandana_Khaki">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8270,11 +8270,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag/>
-        <usage/>
-        <value user="Tier12"/>
+        <usage user="TownVillage"/>   
+        <value user="Tier123"/>
     </type>
     <type name="FOGR_Royal_Bandana_Black">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8288,7 +8288,7 @@
         <value user="Tier12"/>
     </type>
 	<type name="FOGR_Royal_Bandana_Green">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8298,11 +8298,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag/>
-        <usage/>
-        <value user="Tier12"/>
+        <usage user="TownVillage"/>   
+        <value user="Tier123"/>
     </type>
 	<type name="FOGR_Royal_Bandana_Partizan_Summer">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8312,11 +8312,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag/>
-        <usage/>
-        <value user="Tier12"/>
+        <usage user="TownVillage"/>   
+        <value user="Tier123"/>
     </type>
 	<type name="FOGR_Royal_Bandana_Partizan_Autumn">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8330,7 +8330,7 @@
         <value user="Tier12"/>
     </type>
     <type name="FOGR_Smersh_Black">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8340,11 +8340,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag/>
-        <usage/>
-        <value user="Tier12"/>
+        <usage user="TownVillage"/>   
+        <value user="Tier23"/>
     </type>
     <type name="FOGR_Smersh_Green">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8354,11 +8354,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag/>
-        <usage/>
-        <value user="Tier12"/>
+        <usage user="TownVillage"/>   
+        <value user="Tier23"/>
     </type>
     <type name="FOGR_Smersh_Khaki">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8368,11 +8368,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag/>
-        <usage/>
-        <value user="Tier12"/>
+        <usage user="TownVillage"/>   
+        <value user="Tier23"/>
     </type>
     <type name="FOGR_Smersh_EMR">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8382,11 +8382,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag/>
-        <usage/>
-        <value user="Tier12"/>
+        <usage user="TownVillage"/>   
+        <value user="Tier23"/>
     </type>
     <type name="FOGR_Smersh_Partizan_Summer">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8396,11 +8396,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag/>
-        <usage/>
-        <value user="Tier12"/>
+        <usage user="TownVillage"/>   
+        <value user="Tier23"/>
     </type>
     <type name="FOGR_Smersh_Partizan_Autumn">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8410,11 +8410,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag/>
-        <usage/>
-        <value user="Tier12"/>
+        <usage user="TownVillage"/>   
+        <value user="Tier23"/>
     </type>
     <type name="FOGR_Smersh_Black_Vest">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8424,11 +8424,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag/>
-        <usage/>
-        <value user="Tier12"/>
+        <usage user="TownVillage"/>   
+        <value user="Tier23"/>
     </type>
     <type name="FOGR_Smersh_Green_Vest">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8438,11 +8438,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag/>
-        <usage/>
-        <value user="Tier12"/>
+        <usage user="TownVillage"/>   
+        <value user="Tier23"/>
     </type>
     <type name="FOGR_Smersh_Khaki_Vest">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8452,11 +8452,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag/>
-        <usage/>
-        <value user="Tier12"/>
+        <usage user="TownVillage"/>   
+        <value user="Tier23"/>
     </type>
     <type name="FOGR_Smersh_EMR_Vest">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8466,11 +8466,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag/>
-        <usage/>
-        <value user="Tier12"/>
+        <usage user="TownVillage"/>   
+        <value user="Tier23"/>
     </type>
     <type name="FOGR_Smersh_Partizan_Summer_Vest">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8480,11 +8480,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag/>
-        <usage/>
-        <value user="Tier12"/>
+        <usage user="TownVillage"/>   
+        <value user="Tier23"/>
     </type>
     <type name="FOGR_Smersh_Partizan_Autumn_Vest">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8494,8 +8494,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <tag/>
-        <usage/>
-        <value user="Tier12"/>
+        <usage user="TownVillage"/>   
+        <value user="Tier23"/>
     </type>
     <type name="FOGR_Tactical_Hoodie_Flektarn">
         <nominal>0</nominal>
