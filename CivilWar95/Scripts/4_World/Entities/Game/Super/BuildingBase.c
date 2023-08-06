@@ -71,10 +71,7 @@ modded class BuildingBase
 	}
 
 	void PlayKnockingSound(int index)
-	{
-		if ( !m_KnockingLoopSound )
-			m_KnockingLoopSound = new EffectSound;
-		
+	{		
 		m_KnockingLoopSound = SEffectManager.PlaySound( GetLoopKnockingSoundset(), GetDoorSoundPos(index) );
 		m_KnockingLoopSound.SetSoundAutodestroy( true );
 		m_KnockingLoopSound.SetSoundLoop( true );
@@ -82,7 +79,10 @@ modded class BuildingBase
 
 	void StopKnockingSound()
 	{
-		m_KnockingLoopSound.SetSoundFadeOut(0.1);
-		m_KnockingLoopSound.SoundStop();
+		if ( m_KnockingLoopSound )
+		{
+			m_KnockingLoopSound.SetSoundFadeOut(0.1);
+			m_KnockingLoopSound.SoundStop();
+		}
 	}
 };

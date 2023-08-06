@@ -23,6 +23,8 @@ class CfgPatches
 class CfgVehicles
 {
     class Inventory_Base;
+	class HouseNoDestruct;
+
 	class CigarettePack_ColorBase;
 	class Pliers;
 
@@ -102,6 +104,30 @@ class CfgVehicles
 	{
 		displayName = "$STR_CW95_PB_SmallMetalPlate_NAME";
 		descriptionShort = "$STR_CW95_PB_SmallMetalPlate_DESC";
+	};
+	
+	//!--------------- Air Raid ---------------
+	class CW95_TU95: HouseNoDestruct
+	{
+		scope=1;
+		model="AirRaid\model\tucko.p3d";
+		forceFarBubble="true";
+	};
+	class CW95_Mig21: HouseNoDestruct
+	{
+		scope=1;
+		model="AirRaid\model\Mig21.p3d";
+		forceFarBubble="true";
+	};
+	class CW95_Mi24: HouseNoDestruct
+	{
+		scope=1;
+		model="AirRaid\model\Mi24.p3d";
+	};
+	class CW95_Mi6: HouseNoDestruct
+	{
+		scope=1;
+		model="AirRaid\model\Mi6.p3d";
 	};
 };
 

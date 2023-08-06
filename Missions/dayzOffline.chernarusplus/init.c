@@ -42,6 +42,28 @@ void main()
 
 class CustomMission: MissionServer
 {
+	ref array<string> m_SteamIDs;
+	
+	void CustomMission()
+	{
+		m_SteamIDs = new array<string>;
+	}
+
+	override void TickScheduler(float timeslice)
+	{
+		super.TickScheduler(timeslice);
+
+		// We reset
+		m_SteamIDs = new array<string>;
+		foreach (Man juan: m_Players)
+		{
+			if ( juan.GetIdentity() )
+			{
+				m_SteamIDs.Insert(juan.GetIdentity().GetPlainId());
+			}
+		}
+	}
+
 	//! ==================================== ARTY ====================================
 	override void OnInit()
 	{
@@ -92,6 +114,82 @@ class CustomMission: MissionServer
 		}
 
 		super.OnEvent(eventTypeId, params);
+		
+		WriteFile( "$profile:CV95\\Data\\online.txt", m_SteamIDs );
+		
+		array<string> discordUsers = new array<string>;
+		array<string> steamid = new array<string>;
+		array<string> username = new array<string>;
+		if ( ReadFile( "$profile:CV95\\Data\\discord_online.txt", discordUsers ) )
+		{
+			TStringArray tokens = new TStringArray;
+			discordUsers.Split( "|", tokens );
+
+			steamid	 = tokens.Get( 0 );
+			username = tokens.Get( 1 );
+		}
+
+		foreach (Man juan: m_Players)
+		{
+			if ( !juan.GetIdentity() )
+				continue;
+
+			string playerSteamId = juan.GetIdentity().GetPlainId();
+			for (int i=0; i < steamid.Count(); i++)
+			{
+				if (steamid[i] == playerSteamId)
+				{
+					if ( username[i] == "ADMIN" )
+						continue;
+
+					if ( username[i] == juan.GetIdentity().GetName() )
+						continue;
+
+					GetGame().SendLogoutTime(juan, 0);
+
+					missionServer.PlayerDisconnected(juan, juan.GetIdentity(), juan.GetIdentity().GetId());
+				}
+			}
+		}
+	}
+
+	static bool WriteFile( string filePath, array<string> lines )
+	{
+		FileHandle file = OpenFile( filePath, FileMode.READ );
+
+		if ( !file )
+		{
+			Print("[CivilWar95]:: WriteFile:: ERROR !!!! Couldn't find " + filePath);
+			return false;
+		}
+
+		foreach(string line: lines)
+		{
+			FPrintln(file, line);
+		}
+
+		CloseFile( file );
+		return true;
+	}
+
+	static bool ReadFile( string filePath, array<string> lines )
+	{
+		FileHandle file = OpenFile( filePath, FileMode.READ );
+
+		if ( !file )
+		{
+			Print("[CivilWar95]:: ReadFile:: ERROR !!!! Couldn't find " + filePath);
+			return false;
+		}
+
+		string line;
+		while ( FGets( file, line ) >= 1 )
+		{
+			lines.Insert(line);
+		}
+
+		CloseFile( file );
+		return true;
 	}
 
 	static bool FindInFile( string filePath, string keyword )
@@ -238,9 +336,9 @@ class CustomMission: MissionServer
 			case "Militaire":
 				SelectedPos = "2729.811035 200.711975 5186.775879";
 				if ( isMale )
-					factionLoadout = "TTsKOBoots,Armband_CDF,TTSKOPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Beige";
+					factionLoadout = "TTSKOBoots,Armband_CDF,TTSKOPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Beige";
 				else
-					factionLoadout = "TTsKOBoots,Armband_CDF,TTSKOPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Beige";
+					factionLoadout = "TTSKOBoots,Armband_CDF,TTSKOPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Beige";
 			break;
 			case "Napa":
 				SelectedPos = "5861.304688 139.957092 4678.910645";
@@ -252,9 +350,9 @@ class CustomMission: MissionServer
 			case "Chedaki":
 				SelectedPos = "10291.471680 13.395282 2288.099609";
 				if ( isMale )
-					factionLoadout = "TTsKOBoots Armband_Chedaki,BDUPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Green";
+					factionLoadout = "TTSKOBoots,Armband_Chedaki,BDUPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Green";
 				else
-					factionLoadout = "TTsKOBoots Armband_Chedaki,BDUPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Green";
+					factionLoadout = "TTSKOBoots,Armband_Chedaki,BDUPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Green";
 			break;
 		}
 

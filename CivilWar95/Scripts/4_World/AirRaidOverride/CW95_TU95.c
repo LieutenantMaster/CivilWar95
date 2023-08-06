@@ -1,5 +1,5 @@
 /**
- * CV95_TU95.c
+ * CW95_TU95.c
  *
  * © 2023 CivilWar95
  * By LieutenantMaster
@@ -9,14 +9,19 @@
  *
 */
 
-class CV95_TU95: CV95_AIRBase
+class CW95_TU95: CW95_AIRBase
 {
-	override string GetSoundToPlay()
+	// Siren stuff, will probably need to move it to it's own class one day
+	protected vector m_Siren_Location;
+	protected ARSiren m_Siren;
+	protected bool m_hasSiren;
+
+	void CW95_TU95()
 	{
-		return "c130j_loop_int";
+		m_NameSoundSets = {"Expansion_C130J_Loop_SoundSet"};
 	}
 
-	override void CV95_ExecuteOnTarget()
+	override void OnEventReached()
 	{
 		BombExplode(m_ActiveARConfig.NumOfBombs);
 	}
@@ -67,12 +72,43 @@ class CV95_TU95: CV95_AIRBase
 		}
         else
 		{
-			GetGame().GetCallQueue(CALL_CATEGORY_SYSTEM).CallLater(StopSiren, 8500, false);
+			// Shouldn't be needed since we call OnEventStop when we are about to delete the plane
+			GetGame().GetCallQueue(CALL_CATEGORY_SYSTEM).CallLater(OnEventStop, 8500, false);
 		}
 	}
 	
-	void BombHit(Object bomba)
+	void BombHit(Object bomb)
 	{
-		if(bomba) bomba.SetHealth("", "", 0.0);
+		if (bomb)
+			bomb.SetHealth("", "", 0.0);
+	}
+
+	override void OnEventIncoming(float distance)
+	{
+		if ( !m_Siren )
+		{
+			if ( distance <= 2000 )
+			{
+				m_Siren = Object.Cast(GetGame().CreateObject("ARSiren", m_Siren_Location));
+				ARLogger.Log("Started siren at coords " + m_Siren_Location);
+			}
+		}
+	}
+	
+	override void OnEventStart()
+	{
+		m_hasSiren = true;
+		m_Siren_Location = m_ActiveARPlaces.sirenpos.ToVector();
+	}
+	
+	override void OnEventStop()
+	{
+		if ( !m_hasSiren || !m_Siren )
+			return;
+
+		m_Siren.Stop();
+		m_Siren.Update();
+		
+		ARLogger.Log("Stopped siren at coords " + m_Siren.GetPosition());
 	}
 };

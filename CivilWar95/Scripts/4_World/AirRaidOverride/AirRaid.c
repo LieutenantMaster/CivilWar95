@@ -11,10 +11,12 @@
 
 modded class AirRaid
 {
+	// Map borders, currently done the stupid way
+	//! TODO: grab the wolrd data and use it instead of this
 	vector GetRandomMapBorder()
 	{
 		vector spawnpos = vector.Zero;
-		switch(Math.RandomInt(0,4)) 
+		switch(Math.RandomIntInclusive(0,3)) 
 		{
             case 0: 
 			{
@@ -42,6 +44,8 @@ modded class AirRaid
 		return spawnpos;
 	}
 
+	// Random but we smooth the result to get something closer to 0
+	// usefull if we want to make something really rare
 	int GetRandomIntMinus(int min, int max, int smoothing = 3)
 	{
 		int result = 0;
@@ -53,6 +57,8 @@ modded class AirRaid
 		return result / smoothing;
 	}
 
+	// EXP AI formations stuff
+	//! TODO: grab from eAIFormations instead
 	vector GetVeePos(int member_no, float scale = 100)
 	{
 		int offset = Math.Floor((member_no + 1) / 2);
@@ -61,6 +67,7 @@ modded class AirRaid
 		return Vector(-scaled_offset, 0, -scaled_offset); // Left Side
 	}
 
+	//! TODO: transfer this to eAIFormations
 	vector GetVeeSidePos(int member_no, bool rightSide, float scale = 100)
 	{
 		int offset = member_no + 1;
@@ -69,106 +76,227 @@ modded class AirRaid
 		return Vector(-scaled_offset, 0, -scaled_offset); // Left Side
 	}
 
+	// Fake noise but will do for now
+	//! TODO: Move all this functions into a global library
 	vector Noise2D(vector pos)
 	{
 		pos[0] = pos[0] * Math.RandomFloat(-1.5, 1.5);
 		pos[2] = pos[2] * Math.RandomFloat(-1.5, 1.5);
 		return pos;
 	}
-
+	
 	override void RandomStartBomber()
 	{
-		m_ActiveARPlaces = m_ActiveARConfig.AirRaidLocations.GetRandomElement();
-
-		vector pos = GetRandomMapBorder();
-
-		pos[1] = m_ActiveARConfig.BomberAltitude;
-
-		int amount = GetRandomIntMinus(1,6,2);
-		
-		int formationSize = Math.RandomIntInclusive(40,60);
-		vector targetpos = m_ActiveARPlaces.target.ToVector();
-		vector planedir, bombingSpawn, posOffset, spawnPos;
-		float Speed =  m_ActiveARConfig.BomberSpeed;
-		float Height = m_ActiveARConfig.BomberAltitude;
-
-		for (int i=0; i < amount; i++)
-		{
-			posOffset = GetVeePos(i, formationSize);
-			spawnPos = Noise2D(pos + posOffset);
-			BomberPlane plane = BomberPlane.Cast( GetGame().CreateObject( "BomberPlane", spawnPos, false, true, true) );
-			
-			bombingSpawn = targetpos + posOffset;
-			bombingSpawn[1] = spawnPos[1];
-
-			plane.CV95SetupRandom(m_ActiveARPlaces, m_ActiveARConfig, bombingSpawn, Speed, Height);
-			plane.SetDirection(spawnPos - bombingSpawn);
-
-			if ( i == 0 )
-			{
-				planedir = plane.GetDirection();
-				plane.SirenPos(m_ActiveARPlaces.sirenpos.ToVector());
-				SendNotif(m_ActiveARPlaces.name);
-			}
-		}
-
+		ARPlace locationCfg = m_ActiveARConfig.AirRaidLocations.GetRandomElement();
+		int amount = Math.RandomIntInclusive(1,4);
+		int formationSize = Math.RandomIntInclusive(20,40);
 		int formationType = Math.RandomIntInclusive(1,3);
-		formationSize = Math.RandomIntInclusive(20,40);
-		
-		vector posAhead;
-        posAhead[0] = pos[0] + planedir[0] * Math.RandomIntInclusive(-3000,-2500);
-        posAhead[1] = pos[1] + planedir[1] * Math.RandomIntInclusive(-3000,-2500);
-        posAhead[2] = pos[2] + planedir[2] * Math.RandomIntInclusive(-3000,-2500);
-		
-		int escortCount = (Math.RandomIntInclusive(1, amount) - amount) + amount;
+		float altitude = m_ActiveARConfig.BomberAltitude;
+		float speed =  m_ActiveARConfig.BomberSpeed;
+		bool triggerAlarm = true;
 
-		for (int j=0; j < escortCount; j++)
+		vector pos;
+		SpawnAirBase(locationCfg, "CW95_TU95", amount, formationSize, formationType, altitude, speed, pos);
+
+		float Orispeed = speed;
+
+		//! TODO: write a proper solution. This is aids
+		if ( Math.RandomFloatInclusive(0.0,1.0) > 0.50 )
 		{
-			posOffset;
-			switch(formationType)
+			float multiplier;
+			if ( Math.RandomFloatInclusive(0.0,1.0) > 0.75 )
 			{
-				case 1:
-				{
-					posOffset = GetVeePos(j, formationSize);
-					break;
-				}
-				case 2:
-				{
-					posOffset = GetVeeSidePos(j, true, formationSize);
-					break;
-				}
-				case 3:
-				{
-					posOffset = GetVeeSidePos(j, false, formationSize);
-					break;
-				}
+				amount = Math.RandomIntInclusive(1,3);
+				formationSize = Math.RandomIntInclusive(35,50);
+				formationType = Math.RandomIntInclusive(1,3);
+				altitude = Math.RandomIntInclusive(55,80);
+				speed = 78;
+
+				multiplier = Math.RandomFloatInclusive(1.0,1.1);
+				pos[0] = ( pos[0] / Orispeed ) * ( speed * multiplier );
+				pos[1] = ( pos[1] / Orispeed ) * ( speed * multiplier );
+				pos[2] = ( pos[2] / Orispeed ) * ( speed * multiplier );
+
+				SpawnFollowerAirBase(locationCfg, pos, "CW95_Mi24", amount, formationSize, formationType, altitude, speed);
 			}
+			else
+			{
+				amount = Math.RandomIntInclusive(1,5);
+				formationSize = Math.RandomIntInclusive(20,40);
+				formationType = Math.RandomIntInclusive(1,3);
+				altitude = Math.RandomIntInclusive(200,600);
+				speed = 250;
 
-			spawnPos = posAhead + posOffset;
-			ARMig21 mig = ARMig21.Cast( GetGame().CreateObject( "ARMig21", spawnPos, false, true, true) );
-			
-			bombingSpawn;
-			bombingSpawn = targetpos + posOffset;
-			bombingSpawn[1] = spawnPos[1];
+				multiplier = Math.RandomFloatInclusive(0.9,1.1);
+				pos[0] = ( pos[0] / Orispeed ) * ( speed * multiplier );
+				pos[1] = ( pos[1] / Orispeed ) * ( speed * multiplier );
+				pos[2] = ( pos[2] / Orispeed ) * ( speed * multiplier );
 
-			mig.CV95SetupRandom(m_ActiveARPlaces, m_ActiveARConfig, bombingSpawn, 250, m_ActiveARConfig.BomberAltitude);
-			mig.SetDirection(spawnPos - bombingSpawn);
+				SpawnFollowerAirBase(locationCfg, pos, "CW95_Mig21", amount, formationSize, formationType, altitude, speed);
+			}
 		}
 	}
 	
 	override void RandomMig21Fly()
 	{
-		m_ActiveMig21Places = m_ActiveARConfig.AirRaidLocations.GetRandomElement();
-		
-		vector pos = GetRandomMapBorder();
-		pos[1] = 550;
-
+		ARPlace locationCfg = m_ActiveARConfig.AirRaidLocations.GetRandomElement();
 		int amount = Math.RandomIntInclusive(1,3);
 		int formationSize = Math.RandomIntInclusive(20,40);
 		int formationType = Math.RandomIntInclusive(1,3);
-		vector targetpos = m_ActiveARPlaces.target.ToVector();
+		float altitude = Math.RandomIntInclusive(400,600);
+		float speed = 250;
+
+		vector pos;
+		SpawnAirBase(locationCfg, "CW95_Mig21", amount, formationSize, formationType, altitude, speed, pos);
+
+		float Orispeed = speed;
+
+		//! TODO: write a proper solution. This is aids
+		if ( Math.RandomFloatInclusive(0.0,1.0) > 0.50 )
+		{
+			float multiplier;
+			if ( Math.RandomFloatInclusive(0.0,1.0) > 0.75 )
+			{
+				amount = Math.RandomIntInclusive(1,2);
+				formationSize = Math.RandomIntInclusive(35,50);
+				formationType = Math.RandomIntInclusive(1,3);
+				altitude = Math.RandomIntInclusive(55,80);
+				speed = 78;
+
+				multiplier = Math.RandomFloatInclusive(1.0,1.1);
+				pos[0] = ( pos[0] / Orispeed ) * ( speed * multiplier );
+				pos[1] = ( pos[1] / Orispeed ) * ( speed * multiplier );
+				pos[2] = ( pos[2] / Orispeed ) * ( speed * multiplier );
+
+				SpawnFollowerAirBase(locationCfg, pos, "CW95_Mi24", amount, formationSize, formationType, altitude, speed);
+			}
+			else
+			{
+				amount = Math.RandomIntInclusive(1,3);
+				formationSize = Math.RandomIntInclusive(20,40);
+				formationType = Math.RandomIntInclusive(1,3);
+				altitude = Math.RandomIntInclusive(400,600);
+				speed = 250;
+
+				multiplier = Math.RandomFloatInclusive(0.9,1.1);
+				pos[0] = ( pos[0] / Orispeed ) * ( speed * multiplier );
+				pos[1] = ( pos[1] / Orispeed ) * ( speed * multiplier );
+				pos[2] = ( pos[2] / Orispeed ) * ( speed * multiplier );
+
+				SpawnFollowerAirBase(locationCfg, pos, "CW95_Mig21", amount, formationSize, formationType, altitude, speed);
+			}
+		}
+	}
+	
+	override void RandomMi24Fly()
+	{
+		ARPlace locationCfg = m_ActiveARConfig.AirRaidLocations.GetRandomElement();
+		int amount = Math.RandomIntInclusive(1,3);
+		int formationSize = Math.RandomIntInclusive(35,50);
+		int formationType = Math.RandomIntInclusive(1,3);
+		float altitude = Math.RandomIntInclusive(55,80);
+		float speed = 78;
+
+		vector pos;
+		SpawnAirBase(locationCfg, "CW95_Mi24", amount, formationSize, formationType, altitude, speed, pos);
+
+		float Orispeed = speed;
+
+		//! TODO: write a proper solution. This is aids
+		if ( Math.RandomFloatInclusive(0.0,1.0) > 0.75 )
+		{
+			float multiplier;
+			if ( Math.RandomFloatInclusive(0.0,1.0) > 0.25 )
+			{
+				amount = Math.RandomIntInclusive(1,3);
+				formationSize = Math.RandomIntInclusive(35,50);
+				formationType = Math.RandomIntInclusive(1,3);
+				altitude = Math.RandomIntInclusive(55,80);
+				speed = 78;
+
+				multiplier = Math.RandomFloatInclusive(1.0,1.1);
+				pos[0] = ( pos[0] / Orispeed ) * ( speed * multiplier );
+				pos[1] = ( pos[1] / Orispeed ) * ( speed * multiplier );
+				pos[2] = ( pos[2] / Orispeed ) * ( speed * multiplier );
+
+				SpawnFollowerAirBase(locationCfg, pos, "CW95_Mi24", amount, formationSize, formationType, altitude, speed);
+			}
+			else
+			{
+				amount = Math.RandomIntInclusive(1,3);
+				formationSize = Math.RandomIntInclusive(20,40);
+				formationType = Math.RandomIntInclusive(1,3);
+				altitude = Math.RandomIntInclusive(400,600);
+				speed = 250;
+
+				multiplier = Math.RandomFloatInclusive(0.9,1.1);
+				pos[0] = ( pos[0] / Orispeed ) * ( speed * multiplier );
+				pos[1] = ( pos[1] / Orispeed ) * ( speed * multiplier );
+				pos[2] = ( pos[2] / Orispeed ) * ( speed * multiplier );
+
+				SpawnFollowerAirBase(locationCfg, pos, "CW95_Mig21", amount, formationSize, formationType, altitude, speed);
+			}
+		}
+	}
+	
+	override void RandomMi6Fly()
+	{
+		ARPlace locationCfg = m_ActiveARConfig.AirRaidLocations.GetRandomElement();
+		int amount = Math.RandomIntInclusive(1,2);
+		int formationSize = Math.RandomIntInclusive(35,50);
+		int formationType = Math.RandomIntInclusive(1,3);
+		float altitude = Math.RandomIntInclusive(55,80);
+		float speed = 78;
+
+		vector pos;
+		SpawnAirBase(locationCfg, "CW95_Mi6", amount, formationSize, formationType, altitude, speed, pos);
+
+		float Orispeed = speed;
+
+		//! TODO: write a proper solution. This is aids
+		if ( Math.RandomFloatInclusive(0.0,1.0) > 0.75 )
+		{
+			float multiplier;
+			if ( Math.RandomFloatInclusive(0.0,1.0) > 0.25 )
+			{
+				amount = Math.RandomIntInclusive(1,3);
+				formationSize = Math.RandomIntInclusive(35,50);
+				formationType = Math.RandomIntInclusive(1,3);
+				altitude = Math.RandomIntInclusive(55,80);
+				speed = 78;
+
+				multiplier = Math.RandomFloatInclusive(1.0,1.1);
+				pos[0] = ( pos[0] / Orispeed ) * ( speed * multiplier );
+				pos[1] = ( pos[1] / Orispeed ) * ( speed * multiplier );
+				pos[2] = ( pos[2] / Orispeed ) * ( speed * multiplier );
+
+				SpawnFollowerAirBase(locationCfg, pos, "CW95_Mi24", amount, formationSize, formationType, altitude, speed);
+			}
+			else
+			{
+				amount = Math.RandomIntInclusive(1,3);
+				formationSize = Math.RandomIntInclusive(20,40);
+				formationType = Math.RandomIntInclusive(1,3);
+				altitude = Math.RandomIntInclusive(400,600);
+				speed = 250;
+
+				multiplier = Math.RandomFloatInclusive(0.9,1.1);
+				pos[0] = ( pos[0] / Orispeed ) * ( speed * multiplier );
+				pos[1] = ( pos[1] / Orispeed ) * ( speed * multiplier );
+				pos[2] = ( pos[2] / Orispeed ) * ( speed * multiplier );
+
+				SpawnFollowerAirBase(locationCfg, pos, "CW95_Mig21", amount, formationSize, formationType, altitude, speed);
+			}
+		}
+	}
+
+	//! TODO: Merge both functions and expand on it instead of having two different copies
+	void SpawnFollowerAirBase(ARPlace locationCfg, vector pos, string classname, int amount, int formationSize, int formationType, float altitude, float speed)
+	{
+		vector targetpos = locationCfg.target.ToVector();
 		vector bombingSpawn, posOffset, spawnPos;
 
+		ARLogger.Log( "  Spawning " + amount + " " + classname);
 		for (int i=0; i < amount; i++)
 		{
 			switch(formationType)
@@ -190,31 +318,25 @@ modded class AirRaid
 				}
 			}
 			spawnPos = Noise2D(pos + posOffset);
-			ARMig21 plane = ARMig21.Cast( GetGame().CreateObject( "ARMig21", spawnPos, false, true, true) );
+			spawnPos[1] = altitude;
+			CW95_AIRBase plane = CW95_AIRBase.Cast( GetGame().CreateObject( classname, spawnPos, false, true, true) );
+			ARLogger.Log( "    id:" + i + " pos:" + spawnPos);
 			
 			bombingSpawn = targetpos + posOffset;
 			bombingSpawn[1] = spawnPos[1];
 
-			plane.CV95SetupRandom(m_ActiveARPlaces, m_ActiveARConfig, bombingSpawn, 250 + Math.RandomFloatInclusive(-1.0,1.0), pos[1]);
+			plane.CW95Setup(locationCfg, m_ActiveARConfig, bombingSpawn, speed + Math.RandomFloatInclusive(-1.0,1.0), altitude);
 			plane.SetDirection(spawnPos - bombingSpawn);
-
-			if ( i == 0 )
-				SendNotif(m_ActiveARPlaces.name);
-		}		
+		}
 	}
-	
-	override void RandomMi24Fly()
-	{
-		m_ActiveMi24Places = m_ActiveARConfig.AirRaidLocations.GetRandomElement();
-		
-		vector pos = GetRandomMapBorder();
-		pos[1] = Math.RandomIntInclusive(75,120);
 
-		int amount = Math.RandomIntInclusive(1,2);
-		int formationSize = Math.RandomIntInclusive(35,50);
-		int formationType = Math.RandomIntInclusive(1,2);
-		vector targetpos = m_ActiveARPlaces.target.ToVector();
-		vector bombingSpawn, posOffset, spawnPos;
+	void SpawnAirBase(ARPlace locationCfg, string classname, int amount, int formationSize, int formationType, float altitude, float speed, out vector pos)
+	{
+		vector mapEdgePos = GetRandomMapBorder();
+		vector targetpos = locationCfg.target.ToVector();
+		vector bombingSpawn, posOffset, spawnPos, dir;
+
+		ARLogger.Log( "Spawning " + amount + " " + classname);
 
 		for (int i=0; i < amount; i++)
 		{
@@ -222,26 +344,39 @@ modded class AirRaid
 			{
 				case 1:
 				{
-					posOffset = GetVeeSidePos(i, true, formationSize);
+					posOffset = GetVeePos(i, formationSize);
 					break;
 				}
 				case 2:
+				{
+					posOffset = GetVeeSidePos(i, true, formationSize);
+					break;
+				}
+				case 3:
 				{
 					posOffset = GetVeeSidePos(i, false, formationSize);
 					break;
 				}
 			}
-			spawnPos = Noise2D(pos + posOffset);
-			ARMi24 plane = ARMi24.Cast( GetGame().CreateObject( "ARMi24", spawnPos, false, true, true) );
+			spawnPos = Noise2D(mapEdgePos + posOffset);
+			spawnPos[1] = altitude;
+			CW95_AIRBase plane = CW95_AIRBase.Cast( GetGame().CreateObject( classname, spawnPos, false, true, true) );
+			ARLogger.Log( "  id:" + i + " pos:" + spawnPos);
 			
 			bombingSpawn = targetpos + posOffset;
-			bombingSpawn[1] = spawnPos[1];
+			bombingSpawn[1] = altitude;
 
-			plane.CV95SetupRandom(m_ActiveARPlaces, m_ActiveARConfig, bombingSpawn, 78 + Math.RandomFloatInclusive(-1.0,1.0), pos[1]);
+			plane.CW95Setup(locationCfg, m_ActiveARConfig, bombingSpawn, speed + Math.RandomFloatInclusive(-1.0,1.0), altitude);
 			plane.SetDirection(spawnPos - bombingSpawn);
+			ARLogger.Log( "  id:" + i + " pos:" + spawnPos + " dir:" + plane.GetDirection());
 
 			if ( i == 0 )
+			{
+				plane.OnEventStart();
+				pos = spawnPos;
+				dir = plane.GetDirection();
 				SendNotif(m_ActiveARPlaces.name);
+			}
 		}
 	}
 };

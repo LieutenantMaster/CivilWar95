@@ -66,25 +66,18 @@ class CV95_Whistle_Base: ItemBase
 
 	void PlayWhistleSound()
 	{
-		if ( m_WhistleLoopSound )
-			StopWhistleSound();
-		else
-			m_WhistleLoopSound 	= new EffectSound;
-		//if ( GetGame().IsMultiplayer() && GetGame().IsClient() || !GetGame().IsMultiplayer() )
-		//{
-			m_WhistleLoopSound = SEffectManager.PlaySound( GetLoopWhistleSoundset(), GetPosition() );
-			m_WhistleLoopSound.SetSoundAutodestroy( true );
-			m_WhistleLoopSound.SetSoundLoop( false );
-		//}
+		m_WhistleLoopSound = SEffectManager.PlaySound( GetLoopWhistleSoundset(), GetPosition() );
+		m_WhistleLoopSound.SetSoundAutodestroy( true );
+		m_WhistleLoopSound.SetSoundLoop( false );
 	}
 
 	void StopWhistleSound()
 	{
-		//if ( GetGame().IsMultiplayer() && GetGame().IsClient() || !GetGame().IsMultiplayer() )
-		//{
+		if ( m_WhistleLoopSound )
+		{
 			m_WhistleLoopSound.SetSoundFadeOut(0.5);
 			m_WhistleLoopSound.SoundStop();
-		//}
+		}
 	}
 	
 	override void SetActions()

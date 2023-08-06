@@ -1,5 +1,5 @@
 /**
- * CV95_Mig21.c
+ * CW95_Mi24.c
  *
  * © 2023 CivilWar95
  * By LieutenantMaster
@@ -9,10 +9,13 @@
  *
 */
 
-class CV95_Mig21: CV95_AIRBase
+class CW95_Mi24: CW95_AIRBase
 {
-	override string GetSoundToPlay()
+	void CW95_Mi24()
 	{
-		return "mig21_int";
+		m_FollowTerrainFraction = 0.95;
+		m_DefaultPitch = 10.0;
+		m_MaxPitch = 25.0;
+		m_NameSoundSets = {"CW95_GenericHeliEngine_Loop_CfgSoundSet","CW95_GenericHeliRotor_Loop_CfgSoundSet"};
 	}
 };
