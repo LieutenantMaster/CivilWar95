@@ -1266,8 +1266,8 @@
         },
         {
             "ClassName": "GAZ3309_koleso",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 400,
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

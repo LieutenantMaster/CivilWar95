@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
     <type name="CP_CannabisSeedsPackSkunk">
-        <nominal>12</nominal>
+        <nominal>28</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -11,11 +11,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier1234"/>
+        <value user="Tier123"/>
         <usage user="Everything"/>
     </type>
     <type name="CP_CannabisSeedsPackBlue">
-        <nominal>12</nominal>
+        <nominal>26</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -25,11 +25,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier1234"/>
+        <value user="Tier123"/>
         <usage user="Everything"/>
     </type>
     <type name="CP_CannabisSeedsPackKush">
-        <nominal>12</nominal>
+        <nominal>24</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -39,11 +39,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier1234"/>
+        <value user="Tier123"/>
         <usage user="Everything"/>
     </type>
     <type name="CP_CannabisSeedsPackStardawg">
-        <nominal>12</nominal>
+        <nominal>22</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -53,11 +53,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier1234"/>
+        <value user="Tier123"/>
         <usage user="Everything"/>
     </type>
         <type name="CP_CannabisSeedsPackFuture">
-        <nominal>12</nominal>
+        <nominal>18</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -67,11 +67,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier1234"/>
+        <value user="Tier123"/>
         <usage user="Everything"/>
     </type>
         <type name="CP_CannabisSeedsPackS1">
-        <nominal>12</nominal>
+        <nominal>14</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -81,7 +81,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier1234"/>
+        <value user="Tier123"/>
         <usage user="Everything"/>
     </type>
         <type name="CP_CannabisSeedsPackNomad">
@@ -99,7 +99,7 @@
         <usage user="Everything"/>
     </type>
         <type name="CP_CannabisSeedsPackBlackFrost">
-        <nominal>12</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -109,7 +109,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier1234"/>
+        <value user="Tier123"/>
         <usage user="Everything"/>
     </type>
         <type name="CP_TobaccoSeedsPack">
@@ -123,7 +123,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag/>
-        <value user="Tier1234"/>
+        <value user="Tier123"/>
         <usage user="Everything"/>
     </type>
         <type name="CP_Pouch">
