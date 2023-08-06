@@ -1,52 +1,97 @@
 [
-	{
-		"m_Headline": "Ai-je le droit d'être là?",
-		"m_ImagePath": "",
-		"m_Description": "Vous poser la question \"Ai-je le droit d'être là?\" et adapter votre comportement vous sauvera souvent la mise. Un réfugié se baladant tranquillement sur une base militaire sans autorisation finira bien souvent transformé en tas de chair fumante et difforme."
-	},
-	{
-		"m_Headline": "Equipement militaire",
-		"m_ImagePath": "",
-		"m_Description": "Un civil se pavanant bardé d'équipement militaire attirera forcément l'oeil... et les coups de matraque."
-	},
-	{
-		"m_Headline": "Conséquences",
-		"m_ImagePath": "",
-		"m_Description": "Si vous devez causer du tort à quelqu'un, il vous appartient de rester sous les radars, ou de vous préparer à en assumer les conséquences."
-	},
-	{
-		"m_Headline": "Guerre civile",
-		"m_ImagePath": "",
-		"m_Description": "La guerre civile fait rage depuis un an maintenant. Soyez prévoyants et faites des stocks de vivres. Qui sait ce que l'avenir nous réserve."
-	},
-	{
-		"m_Headline": "Casse Croute",
-		"m_ImagePath": "",
-		"m_Description": "La majorité de la Zagorie du Sud a été pillée et les placards des bâtiments dépouillés de la plupart de leurs biens. Si vous devez vous aventurer en dehors d'une zone sanctuaire, prévoyez un casse-croûte et des objets de première nécessité."
-	},
-	{
-		"m_Headline": "Police exemplaire",
-		"m_ImagePath": "",
-		"m_Description": "Un flic est un flic. Certains sont fidèles à leurs principes, d'autres... ne sont pas contre un petit bifton."
-	},
-	{
-		"m_Headline": "Marchand",
-		"m_ImagePath": "",
-		"m_Description": "Un marchand vous proposera souvent plusieurs variantes d'un même objet. N'hésitez pas à examiner les autres choix avant d'acheter ce qui vous intéresse."
-	},
-	{
-		"m_Headline": "Chernogorsk",
-		"m_ImagePath": "",
-		"m_Description": "Chernogorsk est une zone de guerre. Si vous devez vous y rendre, gardez la tête baissée, restez discrets et évitez les patrouilles."
-	},
-	{
-		"m_Headline": "Sirènes",
-		"m_ImagePath": "",
-		"m_Description": "Les sirènes alertent d'un danger imminent. Si vous l'entendez, hâtez-vous de trouver refuge."
-	},
-	{
-		"m_Headline": "Zone de conflit",
-		"m_ImagePath": "",
-		"m_Description": "Les soldats rebelles et loyalistes se battent nuit et jour dans Chernogorsk. Si une de leur patrouille vous engage, assurez-vous que les membres de la faction ne soient pas dans les parages. Ou préparez-vous à courir."
-	}
+    {
+        "m_Headline": "Halte au feu !",
+        "m_ImagePath": "",
+        "m_Description": "Dans Chernogorsk et ses banlieues, il n'est pas évident de distinguer un bot d'un joueur. Identifiez bien vos cibles et engagez systématiquement le contact vocal avant de faire feu. L'excuse \"Je pensais que c'était un bot\" n'est pas tolérée."
+    },
+    {
+        "m_Headline": "Assumer ses choix",
+        "m_ImagePath": "",
+        "m_Description": "Soyez cohérents et sachez fuir les fusillades. Si vous succombez à la curiosité en vous rapprochant des échanges de tirs, il faudra en assumer les conséquences."
+    },
+    {
+        "m_Headline": "Mass RP",
+        "m_ImagePath": "",
+        "m_Description": "Le \"Mass RP\" est capital sur le serveur. Si vous avez des doutes sur sa signification, renseignez-vous au plus vite avant de commettre une faute."
+    },
+    {
+        "m_Headline": "À la sueur de son front",
+        "m_ImagePath": "",
+        "m_Description": "Le Hryvnia est le nerf de la guerre et votre principal moyen de subsistance. Entre autres, le bûcheronnage, la chasse, le minage, la pêche et le ferraillage sont autant d'activités qui vous permettront de vous enrichir plus ou moins rapidement."
+    },
+    {
+        "m_Headline": "Nuit noire",
+        "m_ImagePath": "",
+        "m_Description": "Les nuits sont noires en Zagorie du Sud et les éclairages publics des capitales ont été désactivés par crainte des bombardements. Prévoyez des lampes torches."
+    },
+    {
+        "m_Headline": "Un peu de jugeote",
+        "m_ImagePath": "",
+        "m_Description": "Vous poser la question \"Ai-je le droit d'être là?\" et adapter votre comportement vous sauvera souvent la mise. Par exemple, un réfugié se baladant tranquillement sans autorisation sur une base militaire finira bien souvent transformé en tas de chair fumante et difforme."
+    },
+    {
+        "m_Headline": "Dura lex, sed lex",
+        "m_ImagePath": "",
+        "m_Description": "Le code civil zagorien et ses amendements sont consultables au Journal Officiel. Nul n'est censé ignorer la loi, ainsi, tenez-vous à carreau tant que faire se peut si vous souhaitez éviter les amendes, les peines de prison ou la peine capitale."
+    },
+    {
+        "m_Headline": "Chut !",
+        "m_ImagePath": "",
+        "m_Description": "Le tapage est un délit dans les capitales. Quand vous parlez, respectez vos voisins et assurez-vous qu'on ne vous entende pas à l'autre bout de la ville."
+    },
+    {
+        "m_Headline": "Camping sauvage",
+        "m_ImagePath": "",
+        "m_Description": "Toute tente trouvée en dehors du camp de réfugiés sera détruite et son contenu saisi par les autorités."
+    },
+    {
+        "m_Headline": "Caverne d'Ali Baba",
+        "m_ImagePath": "",
+        "m_Description": "Les forces de police chernares peuvent effectuer des perquisitions dans les domiciles sur autorisation gouvernementale. Attention à ce que vous stockez chez vous."
+    },
+    {
+        "m_Headline": "Pillage",
+        "m_ImagePath": "",
+        "m_Description": "Les civils ont été évacués de la plupart des villes, villages et points d'intérêts de Zagorie du Sud. Il est possible de fouiller ces zones à la recherche de matériel, mais restez discrets, les autorités ne tolèrent pas les actes de pillage."
+    },
+    {
+        "m_Headline": "Insalubrité",
+        "m_ImagePath": "",
+        "m_Description": "La vie dans le camp de réfugiés n'est pas très confortable. Enrichissez-vous au plus vite pour acheter un logement et un véhicule digne de ce nom."
+    },
+    {
+        "m_Headline": "Attirer l'attention",
+        "m_ImagePath": "",
+        "m_Description": "Un civil se pavanant bardé d'équipement militaire attirera forcément l'oeil, les saisies... et les coups de matraque."
+    },
+    {
+        "m_Headline": "Qui sème le vent...",
+        "m_ImagePath": "",
+        "m_Description": "Si vous devez causer du tort à quelqu'un, il vous appartient de rester sous les radars, ou de vous préparer à en assumer les conséquences."
+    },
+    {
+        "m_Headline": "Ruptures de stocks",
+        "m_ImagePath": "",
+        "m_Description": "La guerre civile fait rage depuis un an maintenant et les pénuries sont choses communes. Soyez prévoyants et faites des stocks de vivres. Qui sait ce que l'avenir nous réserve."
+    },
+    {
+        "m_Headline": "Tous pourris",
+        "m_ImagePath": "",
+        "m_Description": "Un flic est un flic. Certains sont vertueux, d'autres... ne sont pas contre un petit bifton."
+    },
+    {
+        "m_Headline": "L'embarras du choix",
+        "m_ImagePath": "",
+        "m_Description": "Un marchand vous proposera souvent plusieurs variantes d'un même objet. N'hésitez pas à examiner les autres exemplaires avant d'acheter ce qui vous intéresse."
+    },
+    {
+        "m_Headline": "Charniers urbains",
+        "m_ImagePath": "",
+        "m_Description": "Chernogorsk est une zone de guerre et, en dehors des soldats, les pillards pullulent. Si vous devez vous y rendre, gardez la tête baissée, restez discrets et évitez les patrouilles."
+    },
+    {
+        "m_Headline": "La mort vient du ciel",
+        "m_ImagePath": "",
+        "m_Description": "Les sirènes alertent d'un danger imminent. Si vous les entendez, hâtez-vous de trouver refuge."
+    }
 ]
