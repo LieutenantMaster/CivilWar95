@@ -255,8 +255,8 @@
         },
         {
             "ClassName": "CigarettePack_Merkur",
-            "MaxPriceThreshold": 75,
-            "MinPriceThreshold": 50,
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 40,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

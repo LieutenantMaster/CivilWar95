@@ -3771,7 +3771,7 @@
         <value user="Tier34"/>
     </type>
     <type name="FOG_Bag_BlackJack_RG">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3785,7 +3785,7 @@
         <value user="Tier34"/>
     </type>
     <type name="FOG_Bag_BlackJack_CB">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>

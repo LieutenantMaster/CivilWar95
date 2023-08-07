@@ -396,8 +396,8 @@
         },
         {
             "ClassName": "ammo_expansion_338",
-            "MaxPriceThreshold": 5,
-            "MinPriceThreshold": 2,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 500,
             "MinStockThreshold": 1,

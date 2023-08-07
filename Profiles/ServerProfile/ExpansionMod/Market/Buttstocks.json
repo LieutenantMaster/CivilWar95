@@ -131,7 +131,7 @@
         {
             "ClassName": "M4_OEBttstck",
             "MaxPriceThreshold": 95,
-            "MinPriceThreshold": 185,
+            "MinPriceThreshold": 95,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -188,8 +188,8 @@
         },
         {
             "ClassName": "TF_M4CraneBttstck",
-            "MaxPriceThreshold": 250,
-            "MinPriceThreshold": 250,
+            "MaxPriceThreshold": 125,
+            "MinPriceThreshold": 125,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

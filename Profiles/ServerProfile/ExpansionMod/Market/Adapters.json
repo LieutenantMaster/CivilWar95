@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "TF_AK_Tactica_Tula10000Receiver",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 250,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "TF_AK_B33Receiver",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 250,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "TF_AK_AdapterBttstck",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 600,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -40,9 +40,9 @@
             "Variants": []
         },
         {
-            "ClassName": "AK_RailHndgrd", 
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 600,
+            "ClassName": "TF_AK_ZenitB10MB19Hndgrd_RIS", 
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "TF_AK_MOEPistolGrip_Black", 
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 150,
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 75,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -63,8 +63,8 @@
         },
         {
             "ClassName": "TF_AK_TAPCOPistoLGrip_Black", 
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 150,
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 75,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -74,8 +74,8 @@
         },
         {
             "ClassName": "TF_AK_TAPCOPistoLGrip_FDE", 
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 150,
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 75,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -85,8 +85,8 @@
         },
         {
             "ClassName": "TF_ZenitRK1B25U_RIS_Grip",
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 150,
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 75,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

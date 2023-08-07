@@ -26,15 +26,18 @@
 
         "TF_LVMBAVVest_KH": 1,
 
+        "FOG_Bag_BlackJack_RG": 1,
+
         "M4_CarryHandleOptic": 1,
         "M68Optic": 1,
         "ACOGOptic": 1,
         "huntingoptic": 1,
+        "expansion_pmii25optic": 1,
 
         "TF_AK_Tactica_Tula10000Receiver": 1,
         "TF_AK_B33Receiver": 1,
         "TF_AK_AdapterBttstck": 1,
-        "AK_RailHndgrd": 1,
+        "TF_AK_ZenitB10MB19Hndgrd_RIS": 1,
 
         "TF_M4CraneBttstck": 1,
         "M4_OEBttstck": 1,
@@ -44,8 +47,8 @@
         "TF_AR10_NoveskeHndgrd_Long_RIS": 1,
         "TF_AR10_LancerHndgrd_MLOCK": 1,
         "TF_M4_KACHndgrd_RIS": 1,
+        "TF_M4_SMR9Hndgrd_MLOCK_FDE": 1,
         "M4_PlasticHndgrd": 1,
-        "M4_RISHndgrd": 1,
 
         "CigarettePack_Merkur": 2,
         "sodacan_cola": 2

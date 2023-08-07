@@ -266,8 +266,8 @@
         },
         {
             "ClassName": "TF_LVMBAVVest_KH",
-            "MaxPriceThreshold": 750,
-            "MinPriceThreshold": 500,
+            "MaxPriceThreshold": 375,
+            "MinPriceThreshold": 375,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 35,
             "MinStockThreshold": 0,

@@ -221,8 +221,8 @@
         },
         {
             "ClassName": "TF_M4A1",
-            "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 1450,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": 50,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 0,

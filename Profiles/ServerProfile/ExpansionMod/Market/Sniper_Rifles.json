@@ -71,8 +71,8 @@
         },
         {
             "ClassName": "TF_SR25",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 2000,
+            "MaxPriceThreshold": 1750,
+            "MinPriceThreshold": 1750,
             "SellPricePercent": 50,
             "MaxStockThreshold": 4,
             "MinStockThreshold": 0,
@@ -82,8 +82,8 @@
         },
         {
             "ClassName": "expansion_awm",
-            "MaxPriceThreshold": 2500,
-            "MinPriceThreshold": 1750,
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
             "SellPricePercent": 50,
             "MaxStockThreshold": 4,
             "MinStockThreshold": 0,

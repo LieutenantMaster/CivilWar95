@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "TF_M4_MOEPistolGrip_Black",
-            "MaxPriceThreshold": 75,
-            "MinPriceThreshold": 75,
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 40,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "TF_M4_OMRGPistolGrip_Black",
-            "MaxPriceThreshold": 70,
-            "MinPriceThreshold": 70,
+            "MaxPriceThreshold": 35,
+            "MinPriceThreshold": 35,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "TF_AFG_RIS_Grip_Black",
-            "MaxPriceThreshold": 85,
-            "MinPriceThreshold": 85,
+            "MaxPriceThreshold": 45,
+            "MinPriceThreshold": 45,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "TF_RVG_RIS_Grip_Black",
-            "MaxPriceThreshold": 120,
-            "MinPriceThreshold": 120,
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 60,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "TF_BCM_MLOCK_Grip_Black",
-            "MaxPriceThreshold": 110,
-            "MinPriceThreshold": 110,
+            "MaxPriceThreshold": 55,
+            "MinPriceThreshold": 55,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -63,8 +63,8 @@
         },
         {
             "ClassName": "TF_AFG_MLOCK_Grip_Black",
-            "MaxPriceThreshold": 115,
-            "MinPriceThreshold": 115,
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 60,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

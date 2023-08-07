@@ -322,6 +322,21 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "FOG_Bag_BlackJack_RG",
+            "MaxPriceThreshold": 175,
+            "MinPriceThreshold": 175,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Bag_BlackJack_CB",
+                "FOG_Bag_BlackJack_Black",
+                "FOG_Bag_BlackJack_ERDL"
+            ]
         }
     ]
 }
