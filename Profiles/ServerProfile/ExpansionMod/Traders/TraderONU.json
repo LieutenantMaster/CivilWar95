@@ -12,6 +12,7 @@
     "Categories": [
         "Adapters:1",
         "Exchange:3",
+        "Bipods:1",
         "PistolGrips:1"
     ],
     "Items": {
@@ -26,6 +27,8 @@
         "mag_expansion_awm_5rnd": 1,
 
         "TF_LVMBAVVest_KH": 1,
+
+        "universallight": 1,
 
         "FOG_Bag_BlackJack_RG": 1,
 
@@ -42,6 +45,8 @@
 
         "TF_M4CraneBttstck": 1,
         "M4_OEBttstck": 1,
+        "m4_mpbttstck": 1,
+        "m4_cqbbttstck": 1,
 
         "TF_AR10_URXHndgrd_MLOCK": 1,
         "TF_AR10_KACHndgrd_RIS": 1,
