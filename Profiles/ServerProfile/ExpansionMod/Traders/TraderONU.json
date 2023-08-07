@@ -1,0 +1,53 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Intendant corrompu",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "ExpansionBanknoteUSD"
+    ],
+    "Categories": [
+        "Adapters:1",
+        "PistolGrips:1"
+    ],
+    "Items": {
+
+        "TF_SR25": 1,
+        "TF_Mag_SR25_20Rnd": 1,
+
+        "TF_M4A1": 1,
+        "TF_Mag_M4_STANAG_30Rnd": 1,
+
+        "expansion_awm": 1,
+        "mag_expansion_awm_5rnd": 1,
+
+        "TF_LVMBAVVest_KH": 1,
+
+        "M4_CarryHandleOptic": 1,
+        "M68Optic": 1,
+        "ACOGOptic": 1,
+        "huntingoptic": 1,
+
+        "TF_AK_Tactica_Tula10000Receiver": 1,
+        "TF_AK_B33Receiver": 1,
+        "TF_AK_AdapterBttstck": 1,
+        "AK_RailHndgrd": 1,
+
+        "TF_M4CraneBttstck": 1,
+        "M4_OEBttstck": 1,
+
+        "TF_AR10_URXHndgrd_MLOCK": 1,
+        "TF_AR10_KACHndgrd_RIS": 1,
+        "TF_AR10_NoveskeHndgrd_Long_RIS": 1,
+        "TF_AR10_LancerHndgrd_MLOCK": 1,
+        "TF_M4_KACHndgrd_RIS": 1,
+        "M4_PlasticHndgrd": 1,
+        "M4_RISHndgrd": 1,
+
+        "CigarettePack_Merkur": 2,
+        "sodacan_cola": 2
+    }
+}

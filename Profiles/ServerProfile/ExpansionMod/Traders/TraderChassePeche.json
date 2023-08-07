@@ -89,7 +89,7 @@
         "fishnettrap": 0,
         "Msp_FishingRodsRack_Kit": 0,
 
-        "HuntingOptic": 0,
+        "HuntingOptic": 3,
 
         "CZ527": 0,
             "Mag_CZ527_5Rnd": 0,
@@ -110,7 +110,8 @@
         "AmmoBox_308Wintracer_20Rnd": 0,
         "AmmoBox_12gaslug_10rnd": 0,
         "ammobox_00buck_10rnd": 0,
-        "AmmoBox_545x39tracer_20rnd": 0
+        "AmmoBox_545x39tracer_20rnd": 0,
+        "ammobox_556x45tracer_20rnd": 0
 
     }
 }

@@ -144,13 +144,15 @@
         },
         {
             "ClassName": "universallight",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 90,
-            "SellPricePercent": -1.0,
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 120,
+            "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [],
+            "SpawnAttachments": [
+                "battery9v"
+            ],
             "Variants": []
         },
         {

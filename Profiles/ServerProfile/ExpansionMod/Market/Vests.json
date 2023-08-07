@@ -263,6 +263,17 @@
             "Variants": [
                 "huntingvest_green"
             ]
+        },
+        {
+            "ClassName": "TF_LVMBAVVest_KH",
+            "MaxPriceThreshold": 750,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 0,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }

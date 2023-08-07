@@ -135,13 +135,11 @@
         "Expansion_Guitar_old": 2,
 
         "CigarettePack_Chernamorka": 2,
-        "CigarettePack_Merkur": 2,
-        "CigarettePack_Partyzanka": 2,
 
         "TF_OKP7Optic": 0,
         "kobraoptic": 0,
         "PSO1optic": 0,
-        "HuntingOptic": 0,
+        "HuntingOptic": 3,
         "puscopeoptic": 0,
         "fnp45_mrdsoptic": 0,
 

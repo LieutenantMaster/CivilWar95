@@ -86,6 +86,8 @@ class CustomMission: MissionServer
 	//! ============================== WHITELIST SYSTEM ==============================
 	override void OnEvent(EventType eventTypeId, Param params) 
 	{
+		OnCheckOnlinePlayers();
+
 		switch (eventTypeId)
 		{
 			case ClientNewEventTypeID:
@@ -114,19 +116,25 @@ class CustomMission: MissionServer
 		}
 
 		super.OnEvent(eventTypeId, params);
-		
+	}
+
+	void OnCheckOnlinePlayers()
+	{
 		WriteFile( "$profile:CV95\\Data\\online.txt", m_SteamIDs );
 		
 		array<string> discordUsers = new array<string>;
-		array<string> steamid = new array<string>;
+		array<string> steamids = new array<string>;
 		array<string> username = new array<string>;
 		if ( ReadFile( "$profile:CV95\\Data\\discord_online.txt", discordUsers ) )
 		{
 			TStringArray tokens = new TStringArray;
-			discordUsers.Split( "|", tokens );
+			foreach(string discordUser: discordUsers)
+			{
+				discordUser.Split( "|", tokens );
 
-			steamid	 = tokens.Get( 0 );
-			username = tokens.Get( 1 );
+				steamids.Insert(tokens.Get( 0 ));
+				username.Insert(tokens.Get( 1 ));
+			}
 		}
 
 		foreach (Man juan: m_Players)
@@ -135,9 +143,9 @@ class CustomMission: MissionServer
 				continue;
 
 			string playerSteamId = juan.GetIdentity().GetPlainId();
-			for (int i=0; i < steamid.Count(); i++)
+			for (int i=0; i < steamids.Count(); i++)
 			{
-				if (steamid[i] == playerSteamId)
+				if (steamids[i] == playerSteamId)
 				{
 					if ( username[i] == "ADMIN" )
 						continue;
@@ -147,9 +155,11 @@ class CustomMission: MissionServer
 
 					GetGame().SendLogoutTime(juan, 0);
 
-					missionServer.PlayerDisconnected(juan, juan.GetIdentity(), juan.GetIdentity().GetId());
+					PlayerDisconnected(juan, juan.GetIdentity(), juan.GetIdentity().GetId());
+					Print("[CivilWar95]:: AUTO-KICK:: Player "+ juan.GetIdentity().GetName() + " (steamid:" + playerSteamId+") has a different name on discord ("+ username[i] +")");
 				}
 			}
+			Print("[CivilWar95]:: AUTO-KICK:: Player "+ juan.GetIdentity().GetName() + " (steamid:" + playerSteamId+") is not on discord");
 		}
 	}
 

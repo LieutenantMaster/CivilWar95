@@ -129,16 +129,16 @@
             ]
         },
         {
-            "ClassName": "m4_oebttstck",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 150,
-            "SellPricePercent": -1.0,
+            "ClassName": "M4_OEBttstck",
+            "MaxPriceThreshold": 95,
+            "MinPriceThreshold": 185,
+            "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
-        },
+        },        
         {
             "ClassName": "m4_mpbttstck",
             "MaxPriceThreshold": 300,
@@ -185,6 +185,17 @@
                 "ghillieatt_woodland",
                 "ghillieatt_mossy"
             ]
+        },
+        {
+            "ClassName": "TF_M4CraneBttstck",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }

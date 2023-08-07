@@ -70,16 +70,25 @@
             "Variants": []
         },
         {
-            "ClassName": "expansion_awm",
-            "MaxPriceThreshold": 10000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "ClassName": "TF_SR25",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 0,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_expansion_awm_5rnd"
-            ],
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansion_awm",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1750,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
             "Variants": []
         }
     ]

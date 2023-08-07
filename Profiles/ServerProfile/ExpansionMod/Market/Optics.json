@@ -31,10 +31,10 @@
             "Variants": []
         },
         {
-            "ClassName": "m4_carryhandleoptic",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 150,
-            "SellPricePercent": -1.0,
+            "ClassName": "M4_CarryHandleOptic",
+            "MaxPriceThreshold": 55,
+            "MinPriceThreshold": 55,
+            "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -66,14 +66,16 @@
             "Variants": []
         },
         {
-            "ClassName": "acogoptic",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 300,
-            "SellPricePercent": -1.0,
+            "ClassName": "ACOGOptic",
+            "MaxPriceThreshold": 275,
+            "MinPriceThreshold": 275,
+            "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [],
+            "SpawnAttachments": [
+                "battery9v"
+            ],
             "Variants": []
         },
         {
@@ -88,10 +90,10 @@
             "Variants": []
         },
         {
-            "ClassName": "m68optic",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
+            "ClassName": "M68Optic",
+            "MaxPriceThreshold": 175,
+            "MinPriceThreshold": 175,
+            "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -150,8 +152,8 @@
         },        
         {
             "ClassName": "huntingoptic",
-            "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 1500,
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 350,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

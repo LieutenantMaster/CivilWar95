@@ -19225,7 +19225,7 @@
         <value user="Tier12"/>
     </type>
     <type name="SodaCan_Cola">
-        <nominal>8</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -19236,7 +19236,7 @@
         <category name="food"/>
         <tag/>
         <usage/>
-        <value user="Tier2"/>
+        <value user="Tier123"/>
     </type>
     <type name="SodaCan_Fronta">
         <nominal>8</nominal>

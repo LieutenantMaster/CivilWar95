@@ -578,25 +578,6 @@
 		</attachments>
 	</type>
 	<type name="TF_AK74M">
-		<attachments chance="0.30">
-			<item name="KashtanOptic" chance="0.50" />
-			<item name="PSO11Optic" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="AK_PlasticBttstck" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="AK_PlasticHndgrd" chance="1.00" />
-		</attachments>
-		<attachments chance="0.50">
-			<item name="TF_AK_6p20Compensator" chance="1.00" />
-		</attachments>
-		<attachments chance="0.30">
-			<item name="TF_Mag_AK74_45Rnd" chance="0.15" />
-			<item name="TF_Mag_AK74_Plastic30Rnd" chance="0.85" />
-		</attachments>
-	</type>
-	<type name="TF_AKM">
 		<attachments chance="1.00">
 			<item name="AK_WoodBttstck" chance="1.00" />
 		</attachments>
@@ -604,17 +585,27 @@
 			<item name="AK_WoodHndgrd" chance="1.00" />
 		</attachments>
 		<attachments chance="0.50">
-			<item name="TF_AK_6p20Compensator" chance="1.00" />
+			<item name="TF_AK_6p20Compensator" chance="0.30" />
 		</attachments>
-		<attachments chance="0.30">
+		<attachments chance="0.50">
+			<item name="TF_Mag_AK74_Bakelit30Rnd" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="TF_AKM">
+		<attachments chance="0.75">
+			<item name="AK_WoodBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="AK_WoodHndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="TF_AK_6p20Compensator" chance="0.30" />
+		</attachments>
+		<attachments chance="0.60">
 			<item name="TF_Mag_AKM_30Rnd" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="TF_AKMN">
-		<attachments chance="0.30">
-			<item name="KazuarOptic" chance="0.50" />
-			<item name="PSO11Optic" chance="0.30" />
-		</attachments>
 		<attachments chance="1.00">
 			<item name="AK_WoodBttstck" chance="1.00" />
 		</attachments>
@@ -622,10 +613,10 @@
 			<item name="AK_WoodHndgrd" chance="1.00" />
 		</attachments>
 		<attachments chance="0.50">
-			<item name="TF_AK_6p20Compensator" chance="1.00" />
+			<item name="TF_AK_6p20Compensator" chance="0.30" />
 		</attachments>
 		<attachments chance="0.30">
-			<item name="TF_Mag_AKM_30Rnd" chance="1.00" />
+			<item name="TF_Mag_AKM_30Rnd" chance="0.60" />
 		</attachments>
 	</type>
 	<type name="TF_VPO136">
