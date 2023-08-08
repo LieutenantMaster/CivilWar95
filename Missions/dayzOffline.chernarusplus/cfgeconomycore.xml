@@ -52,6 +52,9 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="vaz-2107_types.xml" type="types" />
 		<file name="vaz-2107_spawnabletypes.xml" type="spawnabletypes" />
 
+		<file name="ext_types.xml" type="types" />
+		<file name="ext_spawnabletypes.xml" type="spawnabletypes" />
+
 		<file name="cv95_types.xml" type="types" />
 		<file name="pbdoorsandbarricades_types.xml" type="types" />
 		<file name="muchstuffpack_types.xml" type="types" />
