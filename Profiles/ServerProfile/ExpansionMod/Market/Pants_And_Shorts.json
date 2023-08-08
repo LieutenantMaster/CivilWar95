@@ -37,6 +37,19 @@
             ]
         },
         {
+            "ClassName": "FOGR_UFP_M81",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOGR_UFP_M81_Kneepads"
+            ]
+        },
+        {
             "ClassName": "prisonuniformpants",
             "MaxPriceThreshold": 34,
             "MinPriceThreshold": 17,

@@ -1,0 +1,100 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Intendant corrompu",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "ExpansionBanknoteUSD"
+    ],
+    "Categories": [
+        "Adapters:1",
+        "Exchange:3",
+        "Bipods:1",
+        "PistolGrips:1",
+        "SellONUTrader:2",
+        "Medical:1",
+        "Ammo_boxes:1"
+    ],
+    "Items": {
+
+        "TF_SR25": 1,
+        "TF_Mag_SR25_20Rnd": 1,
+
+        "TF_M4A1": 1,
+        "TF_Mag_M4_STANAG_30Rnd": 1,
+
+        "TF_M16A4": 1,
+        "mag_stanag_30rnd": 1,
+
+        "Expansion_M9": 1,
+        "mag_expansion_m9_15rnd": 1,
+
+        "expansion_awm": 1,
+        "mag_expansion_awm_5rnd": 1,
+        "ammobox_expansion_338_15rnd": 1,
+
+        "TF_LVMBAVVest_KH": 1,
+
+        "universallight": 1,
+
+        "FOG_Bag_BlackJack_RG": 1,
+
+        "M4_CarryHandleOptic": 1,
+        "M68Optic": 1,
+        "ACOGOptic": 1,
+        "huntingoptic": 1,
+        "expansion_pmii25optic": 1,
+
+        "TF_AK_Tactica_Tula10000Receiver": 1,
+        "TF_AK_B33Receiver": 1,
+        "TF_AK_AdapterBttstck": 1,
+
+        "TF_M4CraneBttstck": 1,
+        "M4_OEBttstck": 1,
+        "m4_mpbttstck": 1,
+        "m4_cqbbttstck": 1,
+        "TF_M16_Bttstck": 1,
+
+        "TF_AR10_URXHndgrd_MLOCK": 1,
+        "TF_AR10_KACHndgrd_RIS": 1,
+        "TF_AR10_NoveskeHndgrd_Long_RIS": 1,
+        "TF_AR10_LancerHndgrd_MLOCK": 1,
+        "TF_M4_KACHndgrd_RIS": 1,
+        "TF_M4_SMR9Hndgrd_MLOCK_FDE": 1,
+        "M4_PlasticHndgrd": 1,
+        "TF_M16_KACHndgrd_RIS": 1,
+
+        "FlashGrenade": 1,
+        "FOGR_Smersh_Khaki_Vest": 1,
+        "M67Grenade": 1,
+        "TF_RifleSling_Black": 1,
+        "FOG_Tourniquet": 1,
+        "DesignerGlasses": 1,
+        "FOGR_UFP_M81": 1,
+        "AviatorGlasses": 1,
+        "FOG_Tshirt_RG": 1,
+        "FOG_Cronen_Shirt_MC": 1,
+        "FOG_Tshirt_Black": 1,
+        "PersonalRadio": 1,
+        "GasMask": 1,
+        "Shemagh_Facemask_White": 1,
+        "Battery9V": 1,
+        "FOG_Tshirt_Red": 1,
+        "SportGlasses_Black": 1,
+        "M9A1_Bayonet": 1,
+        "FOG_Tactical_Fingerless_Gloves_Black": 1,
+        "M18SmokeGrenade_Red": 1,
+        "M18SmokeGrenade_Green": 1,
+        "BallisticHelmet_UN": 1,
+        "FOG_Operator_Boots_Black": 1,
+        "Armband_Blue": 1,
+        "Binoculars": 1,
+        "MilitaryBeret_UN": 1,
+        "FOG_Crye_G3_Shirt_RG": 1,
+        "FOGR_UFP_M81_Kneepads": 1,
+        "FOG_Bag_DrawBridge_RG": 1
+    }
+}

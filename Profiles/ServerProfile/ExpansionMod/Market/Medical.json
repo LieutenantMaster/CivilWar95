@@ -45,6 +45,17 @@
             "Variants": []
         },
         {
+            "ClassName": "FOG_Tourniquet",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "disinfectantalcohol",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 50,

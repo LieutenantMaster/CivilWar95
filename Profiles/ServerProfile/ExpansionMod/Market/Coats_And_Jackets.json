@@ -454,6 +454,17 @@
             ]
         },
         {
+            "ClassName": "FOG_Tshirt_Red",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "FOG_MTF_Shirt_ERDL",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 120,
@@ -476,6 +487,17 @@
             "Variants": [
                 "FOG_Crye_G3_Shirt_M81"
             ]
+        },
+        {
+            "ClassName": "FOG_Crye_G3_Shirt_RG",
+            "MaxPriceThreshold": 290,
+            "MinPriceThreshold": 275,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         },
         {
             "ClassName": "FOG_Shirt_ISOF_Jacket_M81",

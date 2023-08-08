@@ -12,5 +12,7 @@
     "Categories": [
         "Medical:0"
     ],
-    "Items": {}
+    "Items": {
+        "FOG_Tourniquet": 3
+    }
 }

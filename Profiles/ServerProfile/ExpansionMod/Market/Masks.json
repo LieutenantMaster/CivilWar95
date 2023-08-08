@@ -31,6 +31,17 @@
             "Variants": []
         },
         {
+            "ClassName": "Shemagh_Facemask_White",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "hockeymask",
             "MaxPriceThreshold": 80,
             "MinPriceThreshold": 40,

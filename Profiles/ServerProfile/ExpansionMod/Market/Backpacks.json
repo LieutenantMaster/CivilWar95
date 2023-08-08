@@ -224,6 +224,17 @@
             ]
         },
         {
+            "ClassName": "FOG_Bag_DrawBridge_RG",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "huntingbag",
             "MaxPriceThreshold": 220,
             "MinPriceThreshold": 130,
