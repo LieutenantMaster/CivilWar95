@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "expansionbanknotehryvnia",
-            "MaxPriceThreshold": 10,
-            "MinPriceThreshold": 10,
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
