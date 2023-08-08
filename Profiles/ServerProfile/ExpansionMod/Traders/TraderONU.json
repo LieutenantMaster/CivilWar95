@@ -11,9 +11,10 @@
     ],
     "Categories": [
         "Adapters:1",
-        "Exchange:3",
+        "Exchange:0",
         "Bipods:1",
-        "PistolGrips:1"
+        "PistolGrips:1",
+        "SellONUTrader:2"
     ],
     "Items": {
 
@@ -23,8 +24,15 @@
         "TF_M4A1": 1,
         "TF_Mag_M4_STANAG_30Rnd": 1,
 
+        "TF_M16A4": 1,
+        "mag_stanag_30rnd": 1,
+
+        "Expansion_M9": 1,
+        "mag_expansion_m9_15rnd": 1,
+
         "expansion_awm": 1,
         "mag_expansion_awm_5rnd": 1,
+        "ammobox_expansion_338_15rnd": 1,
 
         "TF_LVMBAVVest_KH": 1,
 
@@ -47,6 +55,7 @@
         "M4_OEBttstck": 1,
         "m4_mpbttstck": 1,
         "m4_cqbbttstck": 1,
+        "TF_M16_Bttstck": 1,
 
         "TF_AR10_URXHndgrd_MLOCK": 1,
         "TF_AR10_KACHndgrd_RIS": 1,
@@ -55,8 +64,11 @@
         "TF_M4_KACHndgrd_RIS": 1,
         "TF_M4_SMR9Hndgrd_MLOCK_FDE": 1,
         "M4_PlasticHndgrd": 1,
+        "TF_M16_KACHndgrd_RIS": 1,
 
         "CigarettePack_Merkur": 2,
-        "sodacan_cola": 2
+        "sodacan_cola": 2,
+        "expansiongoldnugget": 2,
+        "expansionsilvernugget": 2
     }
 }
