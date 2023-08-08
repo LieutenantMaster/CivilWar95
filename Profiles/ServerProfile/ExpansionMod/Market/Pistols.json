@@ -187,15 +187,13 @@
         },
         {
             "ClassName": "expansion_m9",
-            "MaxPriceThreshold": 350,
-            "MinPriceThreshold": 175,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
+            "MaxPriceThreshold": 275,
+            "MinPriceThreshold": 275,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 14,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_expansion_m9_15rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {

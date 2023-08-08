@@ -7,9 +7,9 @@
     "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "expansionbanknoteusd",
-            "MaxPriceThreshold": 1,
-            "MinPriceThreshold": 1,
+            "ClassName": "expansionbanknotehryvnia",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -18,7 +18,7 @@
             "Variants": []
         },
         {
-            "ClassName": "expansionbanknotehryvnia",
+            "ClassName": "expansionbanknoteusd",
             "MaxPriceThreshold": 1,
             "MinPriceThreshold": 1,
             "SellPricePercent": -1.0,

@@ -254,17 +254,6 @@
             "Variants": []
         },
         {
-            "ClassName": "CigarettePack_Merkur",
-            "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 40,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "CigarettePack_Chernamorka",
             "MaxPriceThreshold": 1100,
             "MinPriceThreshold": 900,

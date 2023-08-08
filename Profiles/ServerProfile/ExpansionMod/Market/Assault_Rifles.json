@@ -193,6 +193,19 @@
             "Variants": []
         },
         {
+            "ClassName": "TF_M16A4",
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_stanag_30rnd"
+            ],
+            "Variants": []
+        },
+        {
             "ClassName": "expansion_g36",
             "MaxPriceThreshold": 560,
             "MinPriceThreshold": 160,

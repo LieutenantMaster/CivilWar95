@@ -18,17 +18,6 @@
             "Variants": []
         },
         {
-            "ClassName": "sodacan_cola",
-            "MaxPriceThreshold": 10,
-            "MinPriceThreshold": 10,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 30,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "sodacan_spite",
             "MaxPriceThreshold": 20,
             "MinPriceThreshold": 10,
