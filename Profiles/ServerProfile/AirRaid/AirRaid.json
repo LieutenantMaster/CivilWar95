@@ -1,6 +1,6 @@
 {
     "BomberAltitude": 550,
-    "BomberSpeed": 6,
+    "BomberSpeed": 50,
     "NumOfBombs": 20,
     "Notifications": 0,
     "EnableShips": 1,
@@ -11,7 +11,7 @@
     "EnableMi24": 1,
     "EnableMi6": 1,
     "Interval": 20.0,
-    "SubmarineInterval": 120.0,
+    "SubmarineInterval": 60.0,
     "BoatInterval": 60.0,
     "AndulaInterval": 60.0,
     "Mig21Interval": 20.0,
