@@ -21,6 +21,7 @@
         "FOG_MTF_Shirt_ERDL": 0,
         "FOG_Cronen_Shirt_RG": 0,
         "FOG_Tshirt_RG": 0,
+        "FOG_Crye_G3_Shirt_RG": 0,
 
         "FOGR_Smersh_Green_Vest": 0,
         "militarybelt": 0,
@@ -60,8 +61,8 @@
         "ammobox_545x39_20rnd": 0,
         "kobraoptic": 0,
         "pso1optic": 0,
-        "ak74_hndgrd": 0,
-        "ak74_woodbttstck": 0,
+        "ak_woodhndgrd": 0,
+        "ak_woodbttstck": 0,
         "ak_foldingbttstck": 0,
         "TF_AK_6p20Compensator": 0,
 

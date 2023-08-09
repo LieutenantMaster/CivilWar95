@@ -43,6 +43,17 @@
             ]
         },
         {
+            "ClassName": "ak74_hndgrd_black",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "tf_aks74u_Woodhndgrd",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 150,
@@ -56,16 +67,38 @@
         {
             "ClassName": "ak_woodhndgrd",
             "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 150,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 100,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
                 "ak_woodhndgrd_black",
                 "ak_woodhndgrd_camo"
             ]
+        },
+        {
+            "ClassName": "ak_woodhndgrd_black",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ak_woodhndgrd_camo",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         },
         {
             "ClassName": "tf_an94_plasticbttstck",

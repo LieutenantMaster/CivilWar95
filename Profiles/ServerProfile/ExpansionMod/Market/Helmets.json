@@ -378,22 +378,22 @@
         },
         {
             "ClassName": "zsh3pilothelmet_green",
-            "MaxPriceThreshold": 270,
-            "MinPriceThreshold": 135,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 100,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
             "ClassName": "zsh3pilothelmet_black",
-            "MaxPriceThreshold": 270,
-            "MinPriceThreshold": 135,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 100,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []

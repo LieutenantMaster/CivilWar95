@@ -14,13 +14,14 @@
         "VehiculesFactionsCarParts:0"
     ],
     "Items": {
+        "zsh3pilothelmet_green": 0,
         "EXT_Mi8_Attack_Chedaki": 3,
         "EXT_Mi8_Chedaki": 3,
         "EXT_KA52_Woodland": 3,
         "Dingo_DON_CHDKZ": 3,
         "Kamaz_DON_Covered_Red": 3,
         "Kamaz_DON_Red": 3,
-        "ExpansionUAZCargoRoofless_Black": 3,
+        "ExpansionUAZCargoRoofless_Black": 0,
         "ExpansionHydraulicHoses": 0,
         "ExpansionIgniterPlug": 0,
         "headlighth7_box": 0,
@@ -50,7 +51,24 @@
         "EXT_KA52BackWheel": 3,
         "EXT_KA52FrontWheel": 3,
         "EXT_KA52_door_2_1": 3,
-        "EXT_KA52_door_1_1": 3
+        "EXT_KA52_door_1_1": 3,
+        "EXT_Mi8": 3,
+        "EXT_Mi8_Attack": 3,
+        "EXT_Mi8_ACR": 3,
+        "EXT_Mi8_Civilian": 3,
+        "EXT_Mi8_RAF": 3,
+        "EXT_Mi8_Takistan": 3,
+        "EXT_Mi8_UnitedNations": 3,
+        "EXT_Mi8_Attack_Takistan": 3,
+        "EXT_Mi8_Attack_UnitedNations": 3,
+        "EXT_Mi8_Attack_Civilian": 3,
+        "EXT_Mi8_Attack_ACR": 3,
+        "EXT_MI24": 3,
+        "EXT_MI24_ION": 3,
+        "EXT_MI24_Takistan": 3,
+        "EXT_MI24_UN": 3,
+        "EXT_MI24_ACR": 3,
+        "EXT_Mi8_Attack_RAF": 3
     }
 }
 
