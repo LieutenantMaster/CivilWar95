@@ -362,8 +362,8 @@
         },
         {
             "ClassName": "FOG_Cronen_Shirt_RG",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 120,
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -373,8 +373,8 @@
         },
         {
             "ClassName": "FOG_Cronen_Shirt_black",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 120,
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -417,14 +417,16 @@
         },
         {
             "ClassName": "FOGR_Enhanced_PCU_Reed_URBN",
-            "MaxPriceThreshold": 200,
+            "MaxPriceThreshold": 150,
             "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "FOG_MTF_Shirt_TS"
+            ]
         },
         {
             "ClassName": "FOGR_ISOF_Jacket_Veteran",
@@ -435,23 +437,18 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "FOGR_ISOF_Jacket_Flannel_Warlord"
-            ]
+            "Variants": []
         },
         {
             "ClassName": "FOG_Tshirt_White_Star",
-            "MaxPriceThreshold": 120,
-            "MinPriceThreshold": 100,
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "FOG_MTF_Shirt_RG",
-                "FOG_MTF_Shirt_TS"
-            ]
+            "Variants": []
         },
         {
             "ClassName": "FOG_Tshirt_Red",

@@ -94,8 +94,8 @@
         },
         {
             "ClassName": "balaclavamask_green",
-            "MaxPriceThreshold": 120,
-            "MinPriceThreshold": 60,
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 40,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -162,7 +162,7 @@
         },
         {
             "ClassName": "GasMask_Filter",
-            "MaxPriceThreshold": 200,
+            "MaxPriceThreshold": 50,
             "MinPriceThreshold": 75,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -173,16 +173,14 @@
         },        
         {
             "ClassName": "gp5gasmask",
-            "MaxPriceThreshold": 240,
-            "MinPriceThreshold": 120,
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "gp5gasmask_Black"
-            ]
+            "Variants": []
         },
         {
             "ClassName": "airbornemask",

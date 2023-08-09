@@ -35,7 +35,7 @@
         {
             "ClassName": "rope",
             "MaxPriceThreshold": 20,
-            "MinPriceThreshold": 14,
+            "MinPriceThreshold": 20,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -89,8 +89,8 @@
         },
         {
             "ClassName": "epoxyputty",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 80,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -101,7 +101,7 @@
         {
             "ClassName": "ducttape",
             "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 20,
+            "MinPriceThreshold": 40,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

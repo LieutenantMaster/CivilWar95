@@ -73,12 +73,7 @@
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "tf_aks74u_hndgrd",
-                "aks74u_bttstck",
-                "tf_mag_ak74_bakelit30rnd",
-                "tf_ak_6p20compensator"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -89,12 +84,7 @@
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "ak74_woodbttstck",
-                "ak74_hndgrd",
-                "TF_AK_ZenitDTK1Compensator",
-                "TF_Mag_AK74_Plum30Rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {

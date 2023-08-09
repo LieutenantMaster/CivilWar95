@@ -56,14 +56,16 @@
         },
         {
             "ClassName": "mosin9130",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 1000,
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "CV95_Mosin9130_Old"
+            ]
         },
         {
             "ClassName": "sks",

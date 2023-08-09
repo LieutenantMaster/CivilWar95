@@ -142,7 +142,7 @@
         {
             "ClassName": "puscopeoptic",
             "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 100,
+            "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

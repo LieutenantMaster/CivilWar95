@@ -9,7 +9,7 @@
         {
             "ClassName": "flag_chernarus",
             "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
+            "MinPriceThreshold": 30,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -20,7 +20,7 @@
         {
             "ClassName": "flag_chedaki",
             "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
+            "MinPriceThreshold": 30,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

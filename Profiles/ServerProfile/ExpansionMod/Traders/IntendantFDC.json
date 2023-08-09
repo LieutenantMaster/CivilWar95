@@ -1,0 +1,96 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Intendant - FDC",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "Militaire",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [],
+    "Items": {
+
+        "Ssh68Helmet": 0,
+        "militaryberet_nz": 0,
+        "balaclavamask_green": 0,
+
+        "armband_chernarus": 0,
+
+        "FOG_MTF_Shirt_ERDL": 0,
+        "FOG_Cronen_Shirt_RG": 0,
+        "FOG_Tshirt_RG": 0,
+
+        "FOGR_Smersh_Green_Vest": 0,
+        "militarybelt": 0,
+
+        "FOG_MTF_Pants_ERDL": 0,
+        "FOG_UFP_Pants_RG": 0,
+
+        "militaryboots_black": 0,
+        "militaryboots_brown": 0,
+
+        "fingerless_gloves": 0,
+        "omnogloves_gray": 0,
+
+        "TF_6B23_112Vest_EMR": 0,
+        "TF_6B23Vest_EMR": 0,
+        "TF_6sh112_EMR": 0,
+
+        "FOGR_Smersh_Green": 0,
+        "FOGR_AssaultBag_Green_Mod": 0,
+
+        "TF_RifleSling_Black": 0,
+
+        "gp5gasmask": 0,
+        "GasMask_Filter": 0,
+
+        "mosin9130": 0,
+        "ammobox_762x54_20rnd": 0,
+        "puscopeoptic": 0,
+
+        "TF_AK74M": 0,
+        "mag_ak74_30rnd": 0,
+        "ammobox_545x39_20rnd": 0,
+        "kobraoptic": 0,
+        "pso1optic": 0,
+        "ak74_hndgrd": 0,
+        "ak74_woodbttstck": 0,
+        "ak_foldingbttstck": 0,
+        "TF_AK_6p20Compensator": 0,
+
+        "makarovij70": 0,
+        "mag_ij70_8rnd": 0,
+
+        "TF_AK_6kh5Bayonet": 0,
+        "TF_6kh5KnifeSheath": 0,
+
+        "fieldshovel": 0,
+
+        "rdg2smokegrenade_black": 0,
+
+        "personalradio": 0,
+        "canteen": 0,
+        "fog_pouch_ifak_rg": 0,
+        "TF_PlateCarrierHolster_EMR": 0,
+        "compass": 0,
+        "chernarusmap": 0,
+        "binoculars": 0,
+        "flag_chernarus": 0,
+
+        "battery9v": 0,
+        "leathersewingkit": 0,
+        "weaponcleaningkit": 0,
+        "sewingkit": 0,
+        "rope": 0,
+        "epoxyputty": 0,
+
+        "bandagedressing": 0,
+        "epinephrine": 0,
+        "morphine": 0,
+        "painkillertablets": 0,
+        "salinebagIV": 0,
+        "disinfectantalcohol": 0
+    }
+}

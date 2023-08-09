@@ -204,8 +204,8 @@
         },
         {
             "ClassName": "FOG_MTF_Pants_TS",
-            "MaxPriceThreshold": 202,
-            "MinPriceThreshold": 150,
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -215,8 +215,8 @@
         },
         {
             "ClassName": "FOGR_UFP_Reed_URBN",
-            "MaxPriceThreshold": 202,
-            "MinPriceThreshold": 150,
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -490,8 +490,8 @@
         },
         {
             "ClassName": "FOG_MTF_Pants_ERDL",
-            "MaxPriceThreshold": 250,
-            "MinPriceThreshold": 155,
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

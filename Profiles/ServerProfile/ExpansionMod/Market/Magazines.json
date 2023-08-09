@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "mag_ij70_8rnd",
-            "MaxPriceThreshold": 60,
-            "MinPriceThreshold": 30,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -239,36 +239,17 @@
         },
         {
             "ClassName": "mag_ak74_30rnd",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 100,
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 50,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "TF_Mag_AK74_Plum30Rnd",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 100,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 50,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "TF_Mag_AK74_Bakelit30Rnd",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 100,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 50,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "TF_Mag_AK74_Plum30Rnd",
+                "TF_Mag_AK74_Bakelit30Rnd"
+            ]
         },
         {
             "ClassName": "mag_ak74_45rnd",

@@ -1,0 +1,95 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Intendant - ChDKZ",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "Chedaki",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [],
+    "Items": {
+
+        "Ssh68Helmet": 0,
+        "militaryberet_chdkz": 0,
+        "balaclava3holes_black": 0,
+
+        "armband_chedaki": 0,
+
+        "FOGR_Enhanced_PCU_Reed_URBN": 0,
+        "FOG_Cronen_Shirt_Black": 0,
+        "FOG_Tshirt_White_Star": 0,
+
+        "FOGR_Smersh_Khaki_Vest": 0,
+        "militarybelt": 0,
+
+        "FOGR_UFP_Reed_URBN": 0,
+        "FOG_MTF_Pants_TS": 0,
+
+        "militaryboots_black": 0,
+        "militaryboots_brown": 0,
+
+        "fingerless_gloves": 0,
+        "omnogloves_gray": 0,
+
+        "TF_6B23_112Vest_GFlora": 0,
+        "TF_6B23Vest_GFlora": 0,
+        "TF_6sh112_EMR": 0,
+
+        "FOGR_Smersh_Khaki": 0,
+        "fogr_assaultbag_khaki": 0,
+
+        "TF_RifleSling_Black": 0,
+
+        "gp5gasmask": 0,
+        "GasMask_Filter": 0,
+
+        "mosin9130": 0,
+        "ammobox_762x54_20rnd": 0,
+        "puscopeoptic": 0,
+
+        "tf_aks74u": 0,
+        "mag_ak74_30rnd": 0,
+        "ammobox_545x39_20rnd": 0,
+        "kobraoptic": 0,
+        "tf_aks74u_Woodhndgrd": 0,    
+        "aks74u_bttstck": 0,
+        "ak_foldingbttstck": 0,
+        "TF_AK_6p20Compensator": 0,
+
+        "TF_MakarovPB": 0,
+        "Mag_IJ70_8Rnd": 0,
+
+        "TF_AK_6kh5Bayonet": 0,
+        "TF_6kh5KnifeSheath": 0,
+
+        "fieldshovel": 0,
+
+        "rdg2smokegrenade_black": 0,
+
+        "personalradio": 0,
+        "canteen": 0,
+        "fog_pouch_ifak_black": 0,
+        "TF_PlateCarrierHolster_Coyote": 0,
+        "compass": 0,
+        "chernarusmap": 0,
+        "binoculars": 0,
+        "flag_chedaki": 0,
+
+        "battery9v": 0,
+        "leathersewingkit": 0,
+        "weaponcleaningkit": 0,
+        "sewingkit": 0,
+        "rope": 0,
+        "epoxyputty": 0,
+
+        "bandagedressing": 0,
+        "epinephrine": 0,
+        "morphine": 0,
+        "painkillertablets": 0,
+        "salinebagIV": 0,
+        "disinfectantalcohol": 0
+    }
+}

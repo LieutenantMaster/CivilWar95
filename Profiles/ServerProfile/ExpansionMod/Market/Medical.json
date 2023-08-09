@@ -18,20 +18,48 @@
             "Variants": []
         },
         {
-            "ClassName": "fog_pouch_ifak_brown",
-            "MaxPriceThreshold": 500,
+            "ClassName": "fog_pouch_ifak_rg",
+            "MaxPriceThreshold": 400,
             "MinPriceThreshold": 400,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "fog_pouch_ifak_cb",
-                "fog_pouch_ifak_rg",
-                "fog_pouch_ifak_grey",
-                "fog_pouch_ifak_black"
-            ]
+            "Variants": []
+        },
+        {
+            "ClassName": "fog_pouch_ifak_black",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "fog_pouch_ifak_cb",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "fog_pouch_ifak_grey",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         },
         {
             "ClassName": "bandagedressing",
@@ -58,7 +86,7 @@
         {
             "ClassName": "disinfectantalcohol",
             "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 50,
+            "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -211,9 +239,9 @@
         },
         {
             "ClassName": "epinephrine",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 300,
-            "SellPricePercent": -1,
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 75,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -222,9 +250,9 @@
         },
         {
             "ClassName": "morphine",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 300,
-            "SellPricePercent": -1,
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 75,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,

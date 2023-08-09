@@ -57,7 +57,7 @@
         {
             "ClassName": "TF_PlateCarrierHolster_Coyote",
             "MaxPriceThreshold": 120,
-            "MinPriceThreshold": 80,
+            "MinPriceThreshold": 120,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -68,7 +68,7 @@
         {
             "ClassName": "TF_PlateCarrierHolster_EMR",
             "MaxPriceThreshold": 120,
-            "MinPriceThreshold": 80,
+            "MinPriceThreshold": 120,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -225,8 +225,8 @@
         },
         {
             "ClassName": "TF_6kh5KnifeSheath",
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 150,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

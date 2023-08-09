@@ -64,8 +64,8 @@
         },
         {
             "ClassName": "fingerless_gloves",
-            "MaxPriceThreshold": 50,
-            "MinPriceThreshold": 25,
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -152,8 +152,8 @@
         },
         {
             "ClassName": "omnogloves_gray",
-            "MaxPriceThreshold": 80,
-            "MinPriceThreshold": 40,
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
