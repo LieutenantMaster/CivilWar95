@@ -116,8 +116,8 @@
         },
         {
             "ClassName": "balaclava3holes_black",
-            "MaxPriceThreshold": 110,
-            "MinPriceThreshold": 55,
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 40,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

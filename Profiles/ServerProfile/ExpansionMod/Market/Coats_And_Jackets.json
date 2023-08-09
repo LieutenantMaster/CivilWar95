@@ -424,9 +424,18 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "FOG_MTF_Shirt_TS"
-            ]
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_MTF_Shirt_TS",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         },
         {
             "ClassName": "FOGR_ISOF_Jacket_Veteran",

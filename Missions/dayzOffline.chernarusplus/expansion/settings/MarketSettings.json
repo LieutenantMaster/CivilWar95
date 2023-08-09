@@ -12,7 +12,7 @@
     "UseWholeMapForATMPlayerList": 0,
     "SellPricePercent": 75.0,
     "NetworkBatchSize": 100,
-    "MaxVehicleDistanceToTrader": 120.0,
+    "MaxVehicleDistanceToTrader": 200.0,
     "MaxLargeVehicleDistanceToTrader": 744.0,
     "LargeVehicles": [
         "expansionlhd"
@@ -29,65 +29,53 @@
                 0.0,
                 0.0
             ]
+        },
+        {
+            "Position": [
+                10419.5,
+                6.01418,
+                2449.23
+            ],
+            "Orientation": [
+                -125.712,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "Position": [
+                4967.76,
+                9.51244,
+                2455.52
+            ],
+            "Orientation": [
+                50.8971,
+                0.0,
+                0.0
+            ]
         }
     ],
     "AirSpawnPositions": [
         {
             "Position": [
-                12178.900390625,
-                140.0,
-                12638.400390625
+                10419.5,
+                6.01418,
+                2449.23
             ],
             "Orientation": [
-                -157.1999969482422,
+                -125.712,
                 0.0,
                 0.0
             ]
         },
         {
             "Position": [
-                12126.7001953125,
-                140.0,
-                12664.7001953125
+                4967.76,
+                9.51244,
+                2455.52
             ],
             "Orientation": [
-                -66.5999984741211,
-                0.0,
-                0.0
-            ]
-        },
-        {
-            "Position": [
-                5006.27001953125,
-                9.5,
-                2491.10009765625
-            ],
-            "Orientation": [
-                -131.6999969482422,
-                0.0,
-                0.0
-            ]
-        },
-        {
-            "Position": [
-                4982.0,
-                9.5,
-                2468.0
-            ],
-            "Orientation": [
-                -131.6999969482422,
-                0.0,
-                0.0
-            ]
-        },
-        {
-            "Position": [
-                4968.0,
-                9.5,
-                2513.0
-            ],
-            "Orientation": [
-                -131.6999969482422,
+                50.8971,
                 0.0,
                 0.0
             ]

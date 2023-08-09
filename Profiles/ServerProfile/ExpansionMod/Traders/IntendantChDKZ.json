@@ -19,6 +19,7 @@
         "armband_chedaki": 0,
 
         "FOGR_Enhanced_PCU_Reed_URBN": 0,
+        "FOG_MTF_Shirt_TS": 0,
         "FOG_Cronen_Shirt_Black": 0,
         "FOG_Tshirt_White_Star": 0,
 
@@ -47,8 +48,14 @@
         "GasMask_Filter": 0,
 
         "mosin9130": 0,
+        "mosin_bayonet": 0,
         "ammobox_762x54_20rnd": 0,
         "puscopeoptic": 0,
+
+        "sks": 0,
+        "sks_bayonet": 0,
+        "ammobox_762x39_20rnd": 0,
+        
 
         "tf_aks74u": 0,
         "mag_ak74_30rnd": 0,
@@ -56,10 +63,10 @@
         "kobraoptic": 0,
         "tf_aks74u_Woodhndgrd": 0,    
         "aks74u_bttstck": 0,
-        "ak_foldingbttstck": 0,
         "TF_AK_6p20Compensator": 0,
 
         "TF_MakarovPB": 0,
+        "ammobox_380_35rnd": 0,
         "Mag_IJ70_8Rnd": 0,
 
         "TF_AK_6kh5Bayonet": 0,
@@ -70,7 +77,9 @@
         "rdg2smokegrenade_black": 0,
 
         "personalradio": 0,
+        "rangefinder": 0,
         "canteen": 0,
+        "lockpick": 0,
         "fog_pouch_ifak_black": 0,
         "TF_PlateCarrierHolster_Coyote": 0,
         "compass": 0,

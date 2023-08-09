@@ -309,11 +309,11 @@
         },
         {
             "ClassName": "camonet",
-            "MaxPriceThreshold": 1200,
-            "MinPriceThreshold": 600,
-            "SellPricePercent": -1.0,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MinStockThreshold": 100,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []

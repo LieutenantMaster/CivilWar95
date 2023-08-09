@@ -69,9 +69,31 @@
             ]
         },
         {
+            "ClassName": "militaryberet_cdf",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "slouch_hat_brown",
             "MaxPriceThreshold": 75,
             "MinPriceThreshold": 67,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militaryberet_un",
+            "MaxPriceThreshold": 54,
+            "MinPriceThreshold": 27,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

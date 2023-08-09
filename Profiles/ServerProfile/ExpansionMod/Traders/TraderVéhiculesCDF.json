@@ -1,0 +1,56 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Mécanicien - CDF",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "Militaire",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Car",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "VehiculesFactions:0",
+        "VehiculesFactionsCarParts:0"
+    ],
+    "Items": {
+        "EXT_Mi8_Attack_Chedaki": 3,
+        "EXT_Mi8_Chedaki": 3,
+        "EXT_KA52_Woodland": 3,
+        "Dingo_DON_CHDKZ": 3,
+        "Kamaz_DON_Covered_Red": 3,
+        "Kamaz_DON_Red": 3,
+        "ExpansionUAZCargoRoofless_Black": 3,
+        "ExpansionHydraulicHoses": 0,
+        "ExpansionIgniterPlug": 0,
+        "headlighth7_box": 0,
+        "expansionhelicopterbattery": 0,
+        "carradiator": 0,
+        "camonet": 0,
+        "CarBattery": 0,
+        "TruckBattery": 0,
+        "SparkPlug": 0,
+        "expansionkeychain_red": 0,
+        "expansioncarkey": 0,
+        "ExpansionUAZDoorHood_Black": 3,
+        "ExpansionUAZDoorCargo2_Black": 3,
+        "ExpansionUAZDoorCargo1_Black": 3,
+        "ExpansionUAZDoorDriver_Black": 3,
+        "ExpansionUAZDoorCoDriver_Black": 3,
+        "KamazDoors_CoDriver_DON_Red": 3,
+        "KamazDoors_Driver_DON_Red": 3,
+        "KamazHood_DON_Red": 3,
+        "DingoDoors_CoDriver_DON_CHDKZ": 3,
+        "DingoDoors_Cargo2_DON_CHDKZ": 3,
+        "DingoDoors_Driver_DON_CHDKZ": 3,
+        "DingoDoors_Cargo1_DON_CHDKZ": 3,
+        "DingoTrunk_DON_CHDKZ": 3,
+        "DingoHood_DON_CHDKZ": 3,
+        "DingoWheel_DON_CHDKZ": 3,
+        "EXT_KA52BackWheel": 3,
+        "EXT_KA52FrontWheel": 3,
+        "EXT_KA52_door_2_1": 3,
+        "EXT_KA52_door_1_1": 3
+    }
+}
+

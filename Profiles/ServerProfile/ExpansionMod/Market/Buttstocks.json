@@ -64,7 +64,7 @@
         {
             "ClassName": "ak74_woodbttstck",
             "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 150,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -74,6 +74,28 @@
                 "ak74_woodbttstck_black",
                 "ak74_woodbttstck_camo"
             ]
+        },
+        {
+            "ClassName": "ak74_woodbttstck_black",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ak74_woodbttstck_camo",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         },
         {
             "ClassName": "ak_plasticbttstck",

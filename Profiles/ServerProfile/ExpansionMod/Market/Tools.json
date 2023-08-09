@@ -107,8 +107,8 @@
         },
         {
             "ClassName": "lockpick",
-            "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 20,
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

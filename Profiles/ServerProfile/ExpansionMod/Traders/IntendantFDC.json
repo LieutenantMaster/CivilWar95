@@ -47,8 +47,13 @@
         "GasMask_Filter": 0,
 
         "mosin9130": 0,
+        "mosin_bayonet": 0,
         "ammobox_762x54_20rnd": 0,
         "puscopeoptic": 0,
+
+        "sks": 0,
+        "sks_bayonet": 0,
+        "ammobox_762x39_20rnd": 0,
 
         "TF_AK74M": 0,
         "mag_ak74_30rnd": 0,
@@ -61,6 +66,7 @@
         "TF_AK_6p20Compensator": 0,
 
         "makarovij70": 0,
+        "ammobox_380_35rnd": 0,
         "mag_ij70_8rnd": 0,
 
         "TF_AK_6kh5Bayonet": 0,
@@ -71,6 +77,8 @@
         "rdg2smokegrenade_black": 0,
 
         "personalradio": 0,
+        "rangefinder": 0,
+        "lockpick": 0,
         "canteen": 0,
         "fog_pouch_ifak_rg": 0,
         "TF_PlateCarrierHolster_EMR": 0,

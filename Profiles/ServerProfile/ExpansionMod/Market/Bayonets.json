@@ -9,7 +9,7 @@
         {
             "ClassName": "mosin_bayonet",
             "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 100,
+            "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -20,7 +20,7 @@
         {
             "ClassName": "sks_bayonet",
             "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 100,
+            "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

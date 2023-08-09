@@ -236,10 +236,20 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "FOG_UFP_Pants_RG",
                 "FOG_UFP_Pants_Urban",
                 "FOG_UFP_Pants_Black"
             ]
+        },
+        {
+            "ClassName": "FOG_UFP_Pants_RG",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         },
         {
             "ClassName": "slackspants_black",
