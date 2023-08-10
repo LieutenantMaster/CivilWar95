@@ -1,6 +1,6 @@
 {
     "BomberAltitude": 550,
-    "BomberSpeed": 50,
+    "BomberSpeed": 25,
     "NumOfBombs": 20,
     "Notifications": 0,
     "EnableShips": 1,
