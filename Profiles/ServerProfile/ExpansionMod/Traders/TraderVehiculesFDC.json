@@ -10,18 +10,11 @@
         "expansionbanknotehryvnia"
     ],
     "Categories": [
-        "VehiculesFactions:0",
+        "VehiculesFactionsFDC:0",
         "VehiculesFactionsCarParts:0"
     ],
     "Items": {
         "zsh3pilothelmet_green": 0,
-        "EXT_Mi8_Attack_Chedaki": 3,
-        "EXT_Mi8_Chedaki": 3,
-        "EXT_KA52_Woodland": 3,
-        "Dingo_DON_CHDKZ": 3,
-        "Kamaz_DON_Covered_Red": 3,
-        "Kamaz_DON_Red": 3,
-        "ExpansionUAZCargoRoofless_Black": 0,
         "ExpansionHydraulicHoses": 0,
         "ExpansionIgniterPlug": 0,
         "headlighth7_box": 0,

@@ -192,36 +192,6 @@
             "Variants": []
         },
         {
-            "ClassName": "expansionuaz",
-            "MaxPriceThreshold": 60000,
-            "MinPriceThreshold": 30000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 3,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "expansionuazwheel",
-                "expansionuazwheel",
-                "expansionuazwheel",
-                "expansionuazwheel",
-                "carbattery",
-                "carradiator",
-                "sparkplug",
-                "expansionuazdoorhood",
-                "expansionuazdoordriver",
-                "expansionuazdoorcodriver",
-                "expansionuazdoorcargo1",
-                "expansionuazdoorcargo2",
-                "headlighth7",
-                "headlighth7"
-            ],
-            "Variants": [
-                "expansionuazroofless",
-                "expansionuazcargo",
-                "expansionuazcargoroofless"
-            ]
-        },
-        {
             "ClassName": "expansionbus",
             "MaxPriceThreshold": 180000,
             "MinPriceThreshold": 70000,
@@ -239,27 +209,6 @@
                 "truckbattery",
                 "carradiator",
                 "glowplug"
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "expansionvodnik",
-            "MaxPriceThreshold": 200000,
-            "MinPriceThreshold": 100000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 4,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "expansionvodnikwheel",
-                "expansionvodnikwheel",
-                "expansionvodnikwheel",
-                "expansionvodnikwheel",
-                "truckbattery",
-                "carradiator",
-                "sparkplug",
-                "expansionvodnikdoordriver",
-                "expansionvodnikdoorcodriver"
             ],
             "Variants": []
         },

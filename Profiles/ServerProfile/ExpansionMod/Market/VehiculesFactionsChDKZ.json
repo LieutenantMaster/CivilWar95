@@ -70,98 +70,6 @@
             ],
             "Variants": []
         },
-        {
-                    "ClassName": "EXT_MI24_Chernarus",
-                    "MaxPriceThreshold": 90000,
-                    "MinPriceThreshold": 90000,
-                    "SellPricePercent": 50,
-                    "MaxStockThreshold": 100,
-                    "MinStockThreshold": 100,
-                    "QuantityPercent": -1,
-                    "SpawnAttachments": [
-                        "EXT_MI24_door_1_1",
-                        "EXT_MI24_door_2_1",
-                        "EXT_MI24_door_cargo_1",
-                        "EXT_MI24_door_cargo_2",
-                        "EXT_MI24_wheel_1_1",
-                        "EXT_MI24_wheel_1_2",
-                        "EXT_MI24_wheel_2_1",
-                        "EXT_MI24_wheel_2_2",
-                        "ExpansionHydraulicHoses",
-                        "ExpansionIgniterPlug",
-                        "ExpansionHelicopterBattery",
-                        "HeadlightH7"
-                    ],
-                    "Variants": []
-                },
-                {
-                    "ClassName": "EXT_Mi8_Attack_Chernarus",
-                    "MaxPriceThreshold": 140000,
-                    "MinPriceThreshold": 140000,
-                    "SellPricePercent": 50,
-                    "MaxStockThreshold": 100,
-                    "MinStockThreshold": 100,
-                    "QuantityPercent": -1,
-                    "SpawnAttachments": [
-                        "EXT_Mi8FrontWheel",
-                        "EXT_Mi8FrontWheel",
-                        "EXT_Mi8BackWheel",
-                        "EXT_Mi8BackWheel",
-                        "EXT_Mi8Door",
-                        "ExpansionHydraulicHoses",
-                        "ExpansionIgniterPlug",
-                        "ExpansionHelicopterBattery",
-                        "HeadlightH7"
-                    ],
-                    "Variants": []
-                },
-                {
-                    "ClassName": "EXT_Mi8_Chernarus",
-                    "MaxPriceThreshold": 90000,
-                    "MinPriceThreshold": 90000,
-                    "SellPricePercent": 50,
-                    "MaxStockThreshold": 100,
-                    "MinStockThreshold": 100,
-                    "QuantityPercent": -1,
-                    "SpawnAttachments": [
-                        "EXT_Mi8FrontWheel",
-                        "EXT_Mi8FrontWheel",
-                        "EXT_Mi8BackWheel",
-                        "EXT_Mi8BackWheel",
-                        "EXT_Mi8Door",
-                        "ExpansionHydraulicHoses",
-                        "ExpansionIgniterPlug",
-                        "ExpansionHelicopterBattery",
-                        "HeadlightH7"
-                    ],
-                    "Variants": []
-                },
-                {
-                    "ClassName": "Dingo_DON_CDF",
-                    "MaxPriceThreshold": 60000,
-                    "MinPriceThreshold": 60000,
-                    "SellPricePercent": 50,
-                    "MaxStockThreshold": 100,
-                    "MinStockThreshold": 100,
-                    "QuantityPercent": -1,
-                    "SpawnAttachments": [
-                        "DingoWheel_DON_CDF",
-                        "CarRadiator",
-                        "SparkPlug",
-                        "CarBattery",
-                        "DingoWheel_DON_CDF",
-                        "DingoWheel_DON_CDF",
-                        "DingoWheel_DON_CDF",
-                        "DingoWheel_DON_CDF",
-                        "DingoHood_DON_CDF",
-                        "DingoTrunk_DON_CDF",
-                        "DingoDoors_Cargo1_DON_CDF",
-                        "DingoDoors_Driver_DON_CDF",
-                        "DingoDoors_Cargo2_DON_CDF",
-                        "DingoDoors_CoDriver_DON_CDF"
-                    ],
-                    "Variants": []
-                },
                 {
                     "ClassName": "Dingo_DON_CHDKZ",
                     "MaxPriceThreshold": 60000,
@@ -189,7 +97,7 @@
                     "Variants": []
                 },
                 {
-                    "ClassName": "ExpansionVodnik_CamoMedical",
+                    "ClassName": "ExpansionVodnik",
                     "MaxPriceThreshold": 550000,
                     "MinPriceThreshold": 55000,
                     "SellPricePercent": 50,
@@ -210,35 +118,9 @@
                         "HeadlightH7",
                         "CamoNet"
                     ],
-                    "Variants": []
-                },
-                {
-                    "ClassName": "Kamaz",
-                    "MaxPriceThreshold": 40000,
-                    "MinPriceThreshold": 40000,
-                    "SellPricePercent": 50,
-                    "MaxStockThreshold": 100,
-                    "MinStockThreshold": 100,
-                    "QuantityPercent": -1,
-                    "SpawnAttachments": [
-                        "KamazWheel",
-                        "KamazWheel",
-                        "KamazWheel",
-                        "KamazWheel",
-                        "KamazWheel",
-                        "KamazWheel",
-                        "KamazWheel",
-                        "CarBattery",
-                        "SparkPlug",
-                        "CarRadiator",
-                        "KamazDoors_Driver",
-                        "KamazDoors_CoDriver",
-                        "KamazTrunk",
-                        "KamazHood",
-                        "HeadlightH7",
-                        "HeadlightH7"
-                    ],
-                    "Variants": []
+                    "Variants": [
+                        "ExpansionVodnik_CamoMedical"
+                ]
                 },
                 {
                     "ClassName": "Kamaz_DON_Covered_Red",
@@ -297,34 +179,6 @@
                     "Variants": []
                 },
                 {
-                    "ClassName": "KamazCovered",
-                    "MaxPriceThreshold": 45000,
-                    "MinPriceThreshold": 45000,
-                    "SellPricePercent": 50,
-                    "MaxStockThreshold": 100,
-                    "MinStockThreshold": 100,
-                    "QuantityPercent": -1,
-                    "SpawnAttachments": [
-                        "KamazWheel",
-                        "KamazWheel",
-                        "KamazWheel",
-                        "KamazWheel",
-                        "KamazWheel",
-                        "KamazWheel",
-                        "KamazWheel",
-                        "CarBattery",
-                        "SparkPlug",
-                        "CarRadiator",
-                        "KamazDoors_Driver",
-                        "KamazDoors_CoDriver",
-                        "KamazTrunk",
-                        "KamazHood",
-                        "HeadlightH7",
-                        "HeadlightH7"
-                    ],
-                    "Variants": []
-                },
-                {
                     "ClassName": "ExpansionUAZCargoRoofless_Black",
                     "MaxPriceThreshold": 25000,
                     "MinPriceThreshold": 25000,
@@ -348,33 +202,6 @@
                         "ExpansionUAZDoorCargo2_Black",
                         "CamoNet",
                         "ExpansionUAZDoorHood_Black"
-                    ],
-                    "Variants": []
-                },
-                {
-                    "ClassName": "ExpansionUAZCargoRoofless",
-                    "MaxPriceThreshold": 25000,
-                    "MinPriceThreshold": 25000,
-                    "SellPricePercent": 50,
-                    "MaxStockThreshold": 100,
-                    "MinStockThreshold": 100,
-                    "QuantityPercent": -1,
-                    "SpawnAttachments": [
-                        "ExpansionUAZWheel",
-                        "ExpansionUAZWheel",
-                        "ExpansionUAZWheel",
-                        "ExpansionUAZWheel",
-                        "CarBattery",
-                        "SparkPlug",
-                        "CarRadiator",
-                        "ExpansionUAZDoorDriver",
-                        "ExpansionUAZDoorCoDriver",
-                        "ExpansionUAZDoorCargo1",
-                        "ExpansionUAZDoorCargo2",
-                        "ExpansionUAZDoorHood",
-                        "HeadlightH7",
-                        "HeadlightH7",
-                        "CamoNet"
                     ],
                     "Variants": []
                 }
