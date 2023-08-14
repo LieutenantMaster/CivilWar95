@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "reflexvest",
-            "MaxPriceThreshold": 10,
-            "MinPriceThreshold": 5,
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 60,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

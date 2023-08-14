@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "surgicalmask",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -21,8 +21,8 @@
         },
         {
             "ClassName": "nioshfacemask",
-            "MaxPriceThreshold": 50,
-            "MinPriceThreshold": 40,
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 60,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -54,8 +54,8 @@
         },
         {
             "ClassName": "balaclavamask_beige",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 50,
+            "MaxPriceThreshold": 95,
+            "MinPriceThreshold": 95,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -72,8 +72,8 @@
         },
         {
             "ClassName": "balaclavamask_blackskull",
-            "MaxPriceThreshold": 110,
-            "MinPriceThreshold": 55,
+            "MaxPriceThreshold": 195,
+            "MinPriceThreshold": 195,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -83,8 +83,8 @@
         },
         {
             "ClassName": "balaclavamask_black",
-            "MaxPriceThreshold": 110,
-            "MinPriceThreshold": 55,
+            "MaxPriceThreshold": 95,
+            "MinPriceThreshold": 95,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -94,8 +94,8 @@
         },
         {
             "ClassName": "balaclavamask_green",
-            "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 40,
+            "MaxPriceThreshold": 95,
+            "MinPriceThreshold": 95,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -105,8 +105,8 @@
         },
         {
             "ClassName": "balaclava3holes_blue",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 50,
+            "MaxPriceThreshold": 95,
+            "MinPriceThreshold": 95,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -127,8 +127,8 @@
         },
         {
             "ClassName": "balaclava3holes_green",
-            "MaxPriceThreshold": 110,
-            "MinPriceThreshold": 60,
+            "MaxPriceThreshold": 95,
+            "MinPriceThreshold": 95,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -195,8 +195,8 @@
         },
         {
             "ClassName": "mimemask_female",
-            "MaxPriceThreshold": 160,
-            "MinPriceThreshold": 60,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

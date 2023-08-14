@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "skirt_blue",
-            "MaxPriceThreshold": 60,
-            "MinPriceThreshold": 30,
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 80,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -23,8 +23,8 @@
         },
         {
             "ClassName": "minidress_pink",
-            "MaxPriceThreshold": 70,
-            "MinPriceThreshold": 35,
+            "MaxPriceThreshold": 95,
+            "MinPriceThreshold": 95,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

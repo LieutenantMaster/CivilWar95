@@ -85,8 +85,8 @@
         },
         {
             "ClassName": "canopener",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 20,
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 75,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

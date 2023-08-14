@@ -1,6 +1,6 @@
 {
     "m_Version": 12,
-    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_EVENT",
+    "DisplayName": "BÊTISES",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "witchhat",
-            "MaxPriceThreshold": 15,
-            "MinPriceThreshold": 1,
+            "MaxPriceThreshold": 110,
+            "MinPriceThreshold": 110,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "witchhood_black",
-            "MaxPriceThreshold": 50,
-            "MinPriceThreshold": 40,
+            "MaxPriceThreshold": 110,
+            "MinPriceThreshold": 110,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,

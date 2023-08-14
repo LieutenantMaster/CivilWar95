@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "waterbottle",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

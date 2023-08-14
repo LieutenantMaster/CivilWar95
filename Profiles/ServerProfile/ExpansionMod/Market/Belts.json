@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "civilianbelt",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 100,
+            "MaxPriceThreshold": 130,
+            "MinPriceThreshold": 130,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

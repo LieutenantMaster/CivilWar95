@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "compass",
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 150,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "orienteeringcompass",
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 150,
+            "MaxPriceThreshold": 290,
+            "MinPriceThreshold": 290,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "chernarusmap",
-            "MaxPriceThreshold": 50,
-            "MinPriceThreshold": 50,
+            "MaxPriceThreshold": 95,
+            "MinPriceThreshold": 95,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "binoculars",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
+            "MaxPriceThreshold": 410,
+            "MinPriceThreshold": 410,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

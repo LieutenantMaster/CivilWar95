@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "paper",
-            "MaxPriceThreshold": 4,
+            "MaxPriceThreshold": 2,
             "MinPriceThreshold": 2,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "pen_black",
-            "MaxPriceThreshold": 4,
-            "MinPriceThreshold": 2,
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 40,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -34,8 +34,8 @@
         },
         {
             "ClassName": "rope",
-            "MaxPriceThreshold": 20,
-            "MinPriceThreshold": 20,
+            "MaxPriceThreshold": 55,
+            "MinPriceThreshold": 55,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -45,8 +45,8 @@
         },
         {
             "ClassName": "Tripod",
-            "MaxPriceThreshold": 20,
-            "MinPriceThreshold": 14,
+            "MaxPriceThreshold": 175,
+            "MinPriceThreshold": 175,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
