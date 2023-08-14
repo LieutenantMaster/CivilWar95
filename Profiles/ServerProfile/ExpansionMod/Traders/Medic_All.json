@@ -13,8 +13,6 @@
         "Medical:0"
     ],
     "Items": {
-        "Items": {
-            "FOG_Tourniquet": 3
-        }
+        "FOG_Tourniquet": 3
     }
 }

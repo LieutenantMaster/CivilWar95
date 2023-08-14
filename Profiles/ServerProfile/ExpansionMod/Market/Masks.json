@@ -162,8 +162,8 @@
         },
         {
             "ClassName": "GasMask_Filter",
-            "MaxPriceThreshold": 50,
-            "MinPriceThreshold": 75,
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 50,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

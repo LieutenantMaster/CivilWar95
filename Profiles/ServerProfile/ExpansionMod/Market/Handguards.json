@@ -146,8 +146,8 @@
         },
         {
             "ClassName": "M4_RISHndgrd",
-            "MaxPriceThreshold": 120,
-            "MinPriceThreshold": 185,
+            "MaxPriceThreshold": 185,
+            "MinPriceThreshold": 120,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

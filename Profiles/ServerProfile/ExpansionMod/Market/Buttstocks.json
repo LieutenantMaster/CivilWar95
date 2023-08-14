@@ -184,8 +184,8 @@
         },        
         {
             "ClassName": "m4_mpbttstck",
-            "MaxPriceThreshold": 105,
-            "MinPriceThreshold": 150,
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 105,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -195,8 +195,8 @@
         },
         {
             "ClassName": "m4_cqbbttstck",
-            "MaxPriceThreshold": 130,
-            "MinPriceThreshold": 150,
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 130,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

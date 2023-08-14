@@ -62,8 +62,6 @@ class CustomMission: MissionServer
 
 			m_SteamIDs.Insert(juan.GetIdentity().GetPlainId());
 		}
-
-		OnCheckOnlinePlayers();
 	}
 
 	//! ==================================== ARTY ====================================
@@ -115,6 +113,8 @@ class CustomMission: MissionServer
 			break;
 		}
 
+		OnCheckOnlinePlayers();
+
 		super.OnEvent(eventTypeId, params);
 	}
 
@@ -147,29 +147,39 @@ class CustomMission: MissionServer
 				continue;
 
 			string playerSteamId = juan.GetIdentity().GetPlainId();
+			int userStatus = 1;
 			for (int i=0; i < steamids.Count(); i++)
 			{
 				if (steamids[i] == playerSteamId)
 				{
-					if ( username[i] == "ADMIN" )
+					if ( username[i] == "ADMIN" || username[i] == juan.GetIdentity().GetName() )
 					{
-						Print("[CivilWar95]:: AUTO-KICK:: Player "+ juan.GetIdentity().GetName() + " is ADMIN");
-						continue;
+						userStatus = 0;
 					}
-
-					if ( username[i] == juan.GetIdentity().GetName() )
+					else
 					{
-						Print("[CivilWar95]:: AUTO-KICK:: Player "+ juan.GetIdentity().GetName() + " has a matching discord username");
-						continue;
+						userStatus = 2;
 					}
-
-					GetGame().SendLogoutTime(juan, 0);
-
-					PlayerDisconnected(juan, juan.GetIdentity(), juan.GetIdentity().GetId());
-					Print("[CivilWar95]:: AUTO-KICK:: Player "+ juan.GetIdentity().GetName() + " (steamid:" + playerSteamId+") has a different name on discord ("+ username[i] +")");
 				}
 			}
-			Print("[CivilWar95]:: AUTO-KICK:: Player "+ juan.GetIdentity().GetName() + " (steamid:" + playerSteamId+") is not on discord");
+
+			// this is ass but that will do for now
+			//! TODO: rewrite this horse shit
+			if ( userStatus != 0 )
+			{
+				switch(userStatus)
+				{
+					case 1:
+						Print("[CivilWar95]:: AUTO-KICK:: Player "+ juan.GetIdentity().GetName() + " (steamid:" + playerSteamId+") is not on discord");
+					break;
+					case 2:
+						Print("[CivilWar95]:: AUTO-KICK:: Player "+ juan.GetIdentity().GetName() + " (steamid:" + playerSteamId+") has a different name on discord ("+ username[i] +")");
+					break;
+				}
+
+				//GetGame().SendLogoutTime(juan, 0);
+				//PlayerDisconnected(juan, juan.GetIdentity(), juan.GetIdentity().GetId());
+			}
 		}
 	}
 
