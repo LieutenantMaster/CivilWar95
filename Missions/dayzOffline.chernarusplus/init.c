@@ -57,11 +57,13 @@ class CustomMission: MissionServer
 		m_SteamIDs = new array<string>;
 		foreach (Man juan: m_Players)
 		{
-			if ( juan.GetIdentity() )
-			{
-				m_SteamIDs.Insert(juan.GetIdentity().GetPlainId());
-			}
+			if ( !juan.GetIdentity() )
+				continue;
+
+			m_SteamIDs.Insert(juan.GetIdentity().GetPlainId());
 		}
+
+		OnCheckOnlinePlayers();
 	}
 
 	//! ==================================== ARTY ====================================
@@ -86,8 +88,6 @@ class CustomMission: MissionServer
 	//! ============================== WHITELIST SYSTEM ==============================
 	override void OnEvent(EventType eventTypeId, Param params) 
 	{
-		OnCheckOnlinePlayers();
-
 		switch (eventTypeId)
 		{
 			case ClientNewEventTypeID:
@@ -142,16 +142,26 @@ class CustomMission: MissionServer
 			if ( !juan.GetIdentity() )
 				continue;
 
+			// Dont check dead players just in case
+			if ( !juan.IsAlive() )
+				continue;
+
 			string playerSteamId = juan.GetIdentity().GetPlainId();
 			for (int i=0; i < steamids.Count(); i++)
 			{
 				if (steamids[i] == playerSteamId)
 				{
 					if ( username[i] == "ADMIN" )
+					{
+						Print("[CivilWar95]:: AUTO-KICK:: Player "+ juan.GetIdentity().GetName() + " is ADMIN");
 						continue;
+					}
 
 					if ( username[i] == juan.GetIdentity().GetName() )
+					{
+						Print("[CivilWar95]:: AUTO-KICK:: Player "+ juan.GetIdentity().GetName() + " has a matching discord username");
 						continue;
+					}
 
 					GetGame().SendLogoutTime(juan, 0);
 
