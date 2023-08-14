@@ -175,7 +175,7 @@ class CustomMission: MissionServer
 
 	static bool WriteFile( string filePath, array<string> lines )
 	{
-		FileHandle file = OpenFile( filePath, FileMode.READ );
+		FileHandle file = OpenFile( filePath, FileMode.WRITE );
 
 		if ( !file )
 		{
