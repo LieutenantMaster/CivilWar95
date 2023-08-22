@@ -28,6 +28,9 @@
         "CP_CannabisBrickS1": 2,
 		"CP_CannabisBrickNomad": 2,
 		"CP_CannabisBrickBlackFrost": 2,
+        "MD_OldRadio": 2,
+        "MD_Radio": 2,
+        "MD_TV": 2,
 
         "vodka": 0,
         "CP_JointSkunk": 0,

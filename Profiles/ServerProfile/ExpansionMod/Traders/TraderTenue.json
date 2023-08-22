@@ -12,7 +12,6 @@
     "Categories": [],
     "Items": {
         "workinggloves_yellow": 0,
-        "workinggloves_black": 0,
         "workinggloves_beige": 0,
         "workinggloves_brown": 0,
         "baseballcap_cmmg_pink": 0,
@@ -149,10 +148,7 @@
                 "hikingbootslow_grey": 0,
                 "hikingbootslow_beige": 0,
                 "hikingbootslow_black": 0,
-                "wellies_black": 0,
                 "wellies_brown": 0,
-                "wellies_grey": 0,
-                "wellies_green": 0,
                 "workingboots_grey": 0,
                 "workingboots_brown": 0,
                 "workingboots_beige": 0,

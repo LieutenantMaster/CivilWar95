@@ -1,10 +1,11 @@
 {
     "RaidTimeInSeconds": 30,
     "CanAttach": "true",
-    "CanRaid": "false",
+    "CanRaid": "true",
     "DeleteLockOnRaid": "false",
     "ToolDamageOnRaid": 25,
     "RaidTools": [
-        "FOG_SOCOM_Slammer_Black"
+        "FOG_SOCOM_Slammer_Black",
+        "FirefighterAxe"
     ]
 }

@@ -341,7 +341,7 @@
             "Variants": []
         },
         {
-            "ClassName": "wellies_black",
+            "ClassName": "wellies_brown",
             "MaxPriceThreshold": 70,
             "MinPriceThreshold": 70,
             "SellPricePercent": -1.0,
@@ -350,7 +350,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "wellies_brown",
                 "wellies_grey",
                 "wellies_white",
                 "wellies_yellow",
@@ -488,9 +487,9 @@
         },
         {
             "ClassName": "nbcbootsyellow",
-            "MaxPriceThreshold": 300,
+            "MaxPriceThreshold": 150,
             "MinPriceThreshold": 150,
-            "SellPricePercent": -1.0,
+            "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,

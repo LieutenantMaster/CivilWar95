@@ -1,0 +1,25 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Intendant des pompiers",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Medic Box",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "FireFighterGear:1"
+    ],
+    "Items": {
+        "GP5GasMask": 1,
+        "GasMask_Filter": 1,
+        "Msp_ParamedicBag_NBC": 0,
+        "nbcbootsyellow": 1,
+        "nbcjacketyellow": 1,
+        "nbcglovesyellow": 1,
+        "nbchoodyellow": 1,
+        "nbcpantsyellow": 1
+    }
+}
