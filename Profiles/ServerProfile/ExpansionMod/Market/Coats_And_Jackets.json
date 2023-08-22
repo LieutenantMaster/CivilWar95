@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "labcoat",
-            "MaxPriceThreshold": 20,
-            "MinPriceThreshold": 10,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -276,8 +276,8 @@
         },
         {
             "ClassName": "paramedicjacket_blue",
-            "MaxPriceThreshold": 72,
-            "MinPriceThreshold": 36,
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

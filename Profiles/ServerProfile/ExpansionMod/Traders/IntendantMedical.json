@@ -1,0 +1,38 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Intendant hospitalier",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Medic Box",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [],
+    "Items": {
+        "bloodbagfull": 2,
+        "bloodbagempty": 1,
+        "epinephrine": 1,
+        "morphine": 1,
+        "anticheminjector": 1,
+        "bloodtestkit": 0,
+        "thermometer": 1,
+        "defibrillator": 1,
+        "msp_scissors": 1,
+        "iodinetincture": 1,
+        "Msp_ParamedicBag_Green": 0,
+        "Msp_MedicBag_Green": 0,
+        "medicalscrubsshirt_blue": 0,
+        "medicalscrubshat_blue": 0,
+        "medicalscrubspants_blue": 0,
+        "surgicalgloves_blue": 0,
+        "surgicalmask": 0,
+        "labcoat": 0,
+        "nursedress_blue": 0,
+        "paramedicjacket_blue": 0,
+        "paramedicpants_blue": 0,
+        "MD_Medical_Tent_Large_Kit": 0
+
+    }
+}

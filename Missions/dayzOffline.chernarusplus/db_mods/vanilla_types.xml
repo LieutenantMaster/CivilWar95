@@ -1710,7 +1710,7 @@
         <value/>
     </type>
     <type name="AntiChemInjector">
-        <nominal>1</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3530,7 +3530,7 @@
         <value user="Tier2"/>
     </type>
     <type name="BloodBagEmpty">
-        <nominal>8</nominal>
+        <nominal>14</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3572,7 +3572,7 @@
         <value user="Tier123"/>
     </type>
     <type name="BloodTestKit">
-        <nominal>12</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -19504,7 +19504,7 @@
         <value user="Tier4"/>
     </type>
     <type name="StartKitIV">
-        <nominal>8</nominal>
+        <nominal>14</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -24965,5 +24965,75 @@
         <tag/>
         <usage user="Farm"/>
         <value user="Tier123"/>
+    </type>
+    <type name="HatchbackDoors_Driver_lvparamedic">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <tag/>
+        <usage user="Industrial"/>
+        <value user="Tier12"/>
+    </type>
+        <type name="HatchbackDoors_CoDriver_lvparamedic">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <tag/>
+        <usage user="Industrial"/>
+        <value user="Tier12"/>
+    </type>
+        <type name="HatchbackHood_lvparamedic">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <tag/>
+        <usage user="Industrial"/>
+        <value user="Tier12"/>
+    </type>
+        <type name="HatchbackHood_lvparamedic">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <tag/>
+        <usage user="Industrial"/>
+        <value user="Tier12"/>
+    </type>
+        <type name="HatchbackTrunk_lvparamedic">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <tag/>
+        <usage user="Industrial"/>
+        <value user="Tier12"/>
     </type>
 </types>

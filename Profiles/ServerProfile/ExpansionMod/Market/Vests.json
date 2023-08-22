@@ -253,8 +253,8 @@
         },
         {
             "ClassName": "huntingvest",
-            "MaxPriceThreshold": 250,
-            "MinPriceThreshold": 90,
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 350,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

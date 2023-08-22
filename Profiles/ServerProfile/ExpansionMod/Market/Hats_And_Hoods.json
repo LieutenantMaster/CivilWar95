@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "medicalscrubshat_blue",
-            "MaxPriceThreshold": 4,
-            "MinPriceThreshold": 2,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

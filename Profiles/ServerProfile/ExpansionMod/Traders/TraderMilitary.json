@@ -106,8 +106,8 @@
         "tacticalgoggles": 0,
 
         "fog_pouch_ifak_brown": 0,
-        "morphine": 0,
-        "epinephrine": 0,
+        "morphine": 3,
+        "epinephrine": 3,
         "bandagedressing": 0,
         "salinebagIV": 0,
         "anticheminjector": 0,

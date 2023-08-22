@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "surgicalgloves_blue",
-            "MaxPriceThreshold": 10,
-            "MinPriceThreshold": 5,
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 25,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

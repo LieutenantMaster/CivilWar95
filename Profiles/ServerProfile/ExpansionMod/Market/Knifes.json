@@ -74,8 +74,8 @@
         },
         {
             "ClassName": "machete",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 12,
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -85,8 +85,8 @@
         },
         {
             "ClassName": "crudemachete",
-            "MaxPriceThreshold": 314,
-            "MinPriceThreshold": 12,
+            "MaxPriceThreshold": 225,
+            "MinPriceThreshold": 225,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -96,8 +96,8 @@
         },
         {
             "ClassName": "orientalmachete",
-            "MaxPriceThreshold": 324,
-            "MinPriceThreshold": 12,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

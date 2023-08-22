@@ -223,8 +223,8 @@
         },
         {
             "ClassName": "huntingbag",
-            "MaxPriceThreshold": 220,
-            "MinPriceThreshold": 130,
+            "MaxPriceThreshold": 325,
+            "MinPriceThreshold": 325,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -239,8 +239,8 @@
         },
         {
             "ClassName": "HuntingBag_Hannah",
-            "MaxPriceThreshold": 240,
-            "MinPriceThreshold": 130,
+            "MaxPriceThreshold": 325,
+            "MinPriceThreshold": 325,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

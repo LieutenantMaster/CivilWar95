@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "fishingrod",
-            "MaxPriceThreshold": 120,
-            "MinPriceThreshold": 60,
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

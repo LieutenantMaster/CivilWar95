@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "EXT_MI24_Chernarus",
-            "MaxPriceThreshold": 19000,
-            "MinPriceThreshold": 19000,
+            "MaxPriceThreshold": 190000,
+            "MinPriceThreshold": 190000,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 100,

@@ -23,8 +23,8 @@
         },
         {
             "ClassName": "TF_RifleSling_Black",
-            "MaxPriceThreshold": 50,
-            "MinPriceThreshold": 50,
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

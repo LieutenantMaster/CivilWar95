@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "medicalscrubspants_blue",
-            "MaxPriceThreshold": 20,
-            "MinPriceThreshold": 10,
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -356,8 +356,8 @@
         },
         {
             "ClassName": "paramedicpants_blue",
-            "MaxPriceThreshold": 70,
-            "MinPriceThreshold": 35,
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
