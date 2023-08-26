@@ -13,13 +13,28 @@
         "FireFighterGear:1"
     ],
     "Items": {
-        "GP5GasMask": 1,
-        "GasMask_Filter": 1,
+        "GasMask": 1,
+        "balaclavamask_black": 0,
         "Msp_ParamedicBag_NBC": 0,
+        "PolicePants_Livonia": 0,
+        "FOG_Shirt_Polo_NavyBlue": 0,
+        "tracksuitpants_blue": 0,
+        "tracksuitjacket_blue": 0,
+        "Msp_BoxingGloves_Blue": 0,
+        "Msp_BoxingHelmet_Blue": 0,
+        "Msp_BoxingGloves_Red": 0,
+        "Msp_BoxingHelmet_Red": 0,
+        "Msp_BoxingShorts_Blue": 0,
+        "Msp_BoxingShorts_Red": 0,
+        "megaphone": 1,
         "nbcbootsyellow": 1,
         "nbcjacketyellow": 1,
         "nbcglovesyellow": 1,
         "nbchoodyellow": 1,
-        "nbcpantsyellow": 1
+        "nbcpantsyellow": 1,
+        "oxygentankrig_mung": 1,
+        "flashlight": 1,
+        "personalradio": 1,
+        "FireExtinguisher": 1
     }
 }

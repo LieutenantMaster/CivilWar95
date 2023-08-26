@@ -24,65 +24,68 @@
     <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
   </type>
-
   <type name="CTG_Washer_Kit">
-    <nominal>0</nominal>
-    <lifetime>7200</lifetime>
-    <restock>1800</restock>
+    <nominal>1</nominal>
+    <lifetime>14400</lifetime>
+    <restock>345600</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
-    <cost>100</cost>
+    <cost>10</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
     <usage name="Farm" />
     <usage name="Village" />
-    <usage name="Hunting" />
+    <usage name="Town" />
     <usage name="Industrial" />
+    <value user="Tier1234" />
   </type>
   <type name="CTG_Dryer_Kit">
-    <nominal>0</nominal>
-    <lifetime>7200</lifetime>
-    <restock>1800</restock>
+    <nominal>1</nominal>
+    <lifetime>14400</lifetime>
+    <restock>345600</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
-    <cost>100</cost>
+    <cost>10</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
     <usage name="Farm" />
     <usage name="Village" />
-    <usage name="Hunting" />
+    <usage name="Town" />
     <usage name="Industrial" />
+    <value user="Tier1234" />
   </type>
   <type name="CTG_Electric_Washer_Kit">
-    <nominal>0</nominal>
-    <lifetime>7200</lifetime>
-    <restock>1800</restock>
+    <nominal>1</nominal>
+    <lifetime>14400</lifetime>
+    <restock>345600</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
-    <cost>100</cost>
+    <cost>10</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
     <usage name="Farm" />
     <usage name="Village" />
-    <usage name="Hunting" />
+    <usage name="Town" />
     <usage name="Industrial" />
+    <value user="Tier1234" />
   </type>
   <type name="CTG_Electric_Dryer_Kit">
-    <nominal>0</nominal>
-    <lifetime>7200</lifetime>
-    <restock>1800</restock>
+    <nominal>1</nominal>
+    <lifetime>14400</lifetime>
+    <restock>345600</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
-    <cost>100</cost>
+    <cost>10</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
     <usage name="Farm" />
     <usage name="Village" />
-    <usage name="Hunting" />
+    <usage name="Town" />
     <usage name="Industrial" />
+    <value user="Tier1234" />
   </type>
 </types>

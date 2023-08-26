@@ -194,6 +194,39 @@
             "Variants": []
         },
         {
+            "ClassName": "vinegar_mung",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 25,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "sandwich_mung",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ketchup_mung",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "catfoodcan",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,

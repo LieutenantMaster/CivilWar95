@@ -27,11 +27,21 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "tracksuitjacket_blue",
                 "tracksuitjacket_green",
                 "tracksuitjacket_lightblue",
                 "tracksuitjacket_red"
             ]
+        },
+        {
+            "ClassName": "tracksuitjacket_blue",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         },
         {
             "ClassName": "denimjacket",

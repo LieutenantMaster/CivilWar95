@@ -22,6 +22,17 @@
             ]
         },
         {
+            "ClassName": "weldinggoggles_mung",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "sportglasses_blue",
             "MaxPriceThreshold": 120,
             "MinPriceThreshold": 120,

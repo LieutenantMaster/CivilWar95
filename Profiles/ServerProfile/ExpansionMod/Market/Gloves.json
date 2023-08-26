@@ -22,6 +22,19 @@
             ]
         },
         {
+            "ClassName": "Msp_BoxingGloves_Red",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "msp_boxingsgloves_blue"
+            ]
+        },
+        {
             "ClassName": "workinggloves_yellow",
             "MaxPriceThreshold": 50,
             "MinPriceThreshold": 25,

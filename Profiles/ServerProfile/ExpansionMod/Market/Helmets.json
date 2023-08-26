@@ -24,9 +24,33 @@
             ]
         },
         {
+            "ClassName": "Msp_BoxinghHelmet_Red",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "msp_boxinghelmet_blue"
+            ]
+        },
+        {
             "ClassName": "constructionhelmet_lime",
             "MaxPriceThreshold": 66,
             "MinPriceThreshold": 33,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "M52helmet_mung",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

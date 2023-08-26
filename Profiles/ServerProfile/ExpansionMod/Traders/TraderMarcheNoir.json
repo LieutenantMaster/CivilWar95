@@ -37,6 +37,9 @@
         "CP_JointKush": 0,
         "CP_JointS1": 0,
 
-        "CigarettePack_Chernamorka": 1
+        "CigarettePack_Chernamorka": 1,
+        "cigarette_mung": 0,
+        "cigar_mung": 0,
+        "sherlockpipe_mung": 0
     }
 }

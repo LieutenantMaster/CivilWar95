@@ -18,6 +18,17 @@
             "Variants": []
         },
         {
+            "ClassName": "SAK_Mung",
+            "MaxPriceThreshold": 550,
+            "MinPriceThreshold": 550,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "steakknife",
             "MaxPriceThreshold": 18,
             "MinPriceThreshold": 9,

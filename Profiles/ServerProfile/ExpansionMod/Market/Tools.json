@@ -217,8 +217,8 @@
         },
         {
             "ClassName": "farminghoe",
-            "MaxPriceThreshold": 50,
-            "MinPriceThreshold": 12,
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -239,8 +239,8 @@
         },
         {
             "ClassName": "pitchfork",
-            "MaxPriceThreshold": 60,
-            "MinPriceThreshold": 30,
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 70,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

@@ -47,6 +47,21 @@
             "Variants": []
         },
         {
+            "ClassName": "fannypack_black_mung",
+            "MaxPriceThreshold": 450,
+            "MinPriceThreshold": 450,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "fannypack_pink_mung",
+                "fannypack_multi_mung"
+
+            ]
+        },
+        {
             "ClassName": "FOGR_Smersh_Khaki_Vest",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 250,

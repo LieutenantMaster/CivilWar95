@@ -43,6 +43,7 @@
         "leatherknifesheath": 3,
 
         "kitchenknife": 0,
+        "SAK_Mung": 0,
         "steakknife": 0,
         "kukriknife": 0,
         "fangeknife": 0,
@@ -85,6 +86,8 @@
 
         "huntingbag": 0,
             "HuntingBag_Hannah": 0,
+
+        "rifleholster_leatherengraved_mung": 0,
 
         "fishnettrap": 0,
         "Msp_FishingRodsRack_Kit": 0,

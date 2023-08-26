@@ -91,6 +91,17 @@
             "Variants": []
         },
         {
+            "ClassName": "strawhat_mung",
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 75,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "militaryberet_un",
             "MaxPriceThreshold": 54,
             "MinPriceThreshold": 27,
@@ -288,6 +299,34 @@
             "ClassName": "nbchoodyellow",
             "MaxPriceThreshold": 150,
             "MinPriceThreshold": 150,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "shawl_floral_mung",
+            "MaxPriceThreshold": 65,
+            "MinPriceThreshold": 65,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "shawl_yellow_mung",
+                "shawl_red_mung",
+                "shawl_templar_mung",
+                "shawl_palestini_mung",
+                "shawl_black_mung"
+            ]
+        },
+        {
+            "ClassName": "bandana_mung",
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 75,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

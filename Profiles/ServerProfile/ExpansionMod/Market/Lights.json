@@ -80,6 +80,19 @@
             "Variants": []
         },
         {
+            "ClassName": "mx991_mung",
+            "MaxPriceThreshold": 450,
+            "MinPriceThreshold": 450,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
             "ClassName": "xmaslights",
             "MaxPriceThreshold": 50,
             "MinPriceThreshold": 25,
@@ -94,6 +107,19 @@
             "ClassName": "portablegaslamp",
             "MaxPriceThreshold": 275,
             "MinPriceThreshold": 275,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mediumgascanister"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "oillamp_mung",
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 350,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

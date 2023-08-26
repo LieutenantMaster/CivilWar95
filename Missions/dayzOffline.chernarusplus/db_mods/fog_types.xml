@@ -2685,7 +2685,7 @@
         <value user="Tier123"/>
     </type>
     <type name="FOG_Shirt_Polo_NavyBlue">
-        <nominal>8</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>

@@ -21,8 +21,8 @@
         },
         {
             "ClassName": "megaphone",
-            "MaxPriceThreshold": 60,
-            "MinPriceThreshold": 30,
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

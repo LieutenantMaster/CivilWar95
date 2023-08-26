@@ -194,6 +194,45 @@
             "Variants": []
         },
         {
+            "ClassName": "oxygentankrig_mung",
+            "MaxPriceThreshold": 650,
+            "MinPriceThreshold": 650,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "rifleholster_leatherengraved_mung",
+            "MaxPriceThreshold": 750,
+            "MinPriceThreshold": 750,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "simplebackpack_blue_mung",
+            "MaxPriceThreshold": 550,
+            "MinPriceThreshold": 550,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "simplebackpack_camoblack_mung",
+                "simplebackpack_green_mung",
+                "simplebackpack_redpink_mung",
+                "simplebackpack_redyellow_mung"
+
+            ]
+        },
+        {
             "ClassName": "canvas_backpack_base",
             "MaxPriceThreshold": 350,
             "MinPriceThreshold": 350,
@@ -208,6 +247,19 @@
                 "canvas_backpack_blue",
                 "canvas_backpack_red",
                 "canvas_backpack_purple"        
+            ]
+        },
+        {
+            "ClassName": "bag_6B38_camo_mung",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "bag_6B38_LETO_mung"
             ]
         },
         {
