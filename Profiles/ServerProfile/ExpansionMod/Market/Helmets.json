@@ -24,7 +24,7 @@
             ]
         },
         {
-            "ClassName": "Msp_BoxinghHelmet_Red",
+            "ClassName": "msp_boxinghelmet_red",
             "MaxPriceThreshold": 400,
             "MinPriceThreshold": 400,
             "SellPricePercent": 50,
