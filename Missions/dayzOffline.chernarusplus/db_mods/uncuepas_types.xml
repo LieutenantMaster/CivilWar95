@@ -321,7 +321,7 @@
         <tag/>
         <usage user="Farm"/>
         <usage user="Village"/>
-        <usage user="Hunting"/>
+        <usage user="Hunter"/>
         <value user="Tier123"/>
     </type>
     <type name="CowboyHat_white">
@@ -337,7 +337,7 @@
         <tag/>
         <usage user="Farm"/>
         <usage user="Village"/>
-        <usage user="Hunting"/>
+        <usage user="Hunter"/>
         <value user="Tier123"/>
     </type>
     <type name="CowboyHat_grey">
@@ -353,7 +353,7 @@
         <tag/>
         <usage user="Farm"/>
         <usage user="Village"/>
-        <usage user="Hunting"/>
+        <usage user="Hunter"/>
         <value user="Tier123"/>
     </type>
     <type name="CowboyHat_darkgreen">
@@ -369,7 +369,7 @@
         <tag/>
         <usage user="Farm"/>
         <usage user="Village"/>
-        <usage user="Hunting"/>
+        <usage user="Hunter"/>
         <value user="Tier123"/>
     </type>
     <type name="CowboyHat_blue">
@@ -385,7 +385,7 @@
         <tag/>
         <usage user="Farm"/>
         <usage user="Village"/>
-        <usage user="Hunting"/>
+        <usage user="Hunter"/>
         <value user="Tier123"/>
     </type>
     <type name="RadarCap_white">
@@ -2310,19 +2310,5 @@
         <tag/>
         <usage user="TownVillage"/>
         <value user="Tier123"/>
-    </type>
-    <type name="BallisticHelmet_Skull">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <tag/>
-        <usage user="Military"/>
-        <value user="Tier1234"/>
     </type>
 </types>

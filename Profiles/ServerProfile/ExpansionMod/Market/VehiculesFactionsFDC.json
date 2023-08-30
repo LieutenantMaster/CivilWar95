@@ -99,32 +99,6 @@
             "Variants": []
         },
         {
-            "ClassName": "ExpansionVodnik",
-            "MaxPriceThreshold": 550000,
-            "MinPriceThreshold": 55000,
-            "SellPricePercent": 50,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 100,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "ExpansionVodnikWheel",
-                "ExpansionVodnikWheel",
-                "ExpansionVodnikWheel",
-                "ExpansionVodnikWheel",
-                "TruckBattery",
-                "SparkPlug",
-                "CarRadiator",
-                "ExpansionVodnikDoorDriver",
-                "ExpansionVodnikDoorCoDriver",
-                "HeadlightH7",
-                "HeadlightH7",
-                "CamoNet"
-            ],
-            "Variants": [
-                "ExpansionVodnik_CamoMedical"
-            ]
-        },
-        {
             "ClassName": "Kamaz",
             "MaxPriceThreshold": 40000,
             "MinPriceThreshold": 40000,

@@ -3460,7 +3460,7 @@
 		</group>
 		<group name="Land_Village_store" lootmax="10">
 				<usage name="Village" />
-				<usage name="Hunting" />
+				<usage name="Hunter" />
 				<usage name="Farm" />
 				<usage name="School" />
 				<usage name="Office" />
@@ -10653,7 +10653,7 @@
 				</container>
 		</group>
 		<group name="Land_Misc_TrailRoof_Big" lootmax="2">
-				<usage name="Hunting" />
+				<usage name="Hunter" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -10673,7 +10673,7 @@
 				</container>
 		</group>
 		<group name="Land_Misc_TrailRoof_Small" lootmax="2">
-				<usage name="Hunting" />
+				<usage name="Hunter" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -10693,7 +10693,7 @@
 				</container>
 		</group>		
 		<group name="Land_Misc_DeerStand1" lootmax="2">
-				<usage name="Hunting" />
+				<usage name="Hunter" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -10708,7 +10708,7 @@
 				</container>
 		</group>
 		<group name="Land_Misc_DeerStand2" lootmax="3">
-				<usage name="Hunting" />
+				<usage name="Hunter" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -10724,7 +10724,7 @@
 				</container>
 		</group>
 		<group name="Land_Misc_FeedShack" lootmax="2">
-				<usage name="Hunting" />
+				<usage name="Hunter" />
 				<container name="lootFloor" lootmax="2">
 						<category name="tools" />
 						<category name="containers" />
@@ -10800,7 +10800,7 @@
 				</container>
 		</group>
 		<group name="Land_Camp_House_red">
-				<usage name="Hunting" />
+				<usage name="Hunter" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -10846,7 +10846,7 @@
 				</container>
 		</group>
 		<group name="Land_Camp_House_white">
-				<usage name="Hunting" />
+				<usage name="Hunter" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -10885,7 +10885,7 @@
 				</container>
 		</group>
 		<group name="Land_Camp_House_brown">
-				<usage name="Hunting" />
+				<usage name="Hunter" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -10923,7 +10923,7 @@
 				</container>
 		</group>
 		<group name="Land_Castle_Bergfrit">
-				<usage name="Hunting" />
+				<usage name="Hunter" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -10954,7 +10954,7 @@
 				</container>
 		</group>
 		<group name="Land_Castle_Gate" lootmax="4">
-				<usage name="Hunting" />
+				<usage name="Hunter" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -10978,7 +10978,7 @@
 				</container>
 		</group>
 		<group name="Land_Castle_Stairs_nolc" lootmax="3">
-				<usage name="Hunting" />
+				<usage name="Hunter" />
 				<container name="lootFloor" lootmax="3">
 						<category name="tools" />
 						<category name="containers" />
@@ -12807,7 +12807,7 @@
 				</container>
 		</group>
 		<group name="Land_Castle_Bastion2" >
-				<usage name="Hunting" />
+				<usage name="Hunter" />
 				<usage name="Village" />
 				<container name="lootFloor" lootmax="2">
 						<category name="tools" />
@@ -14536,7 +14536,7 @@
 		</group>
 		<group name="Land_Village_Store_Enoch" lootmax="10">
 				<usage name="Village" />
-				<usage name="Hunting" />
+				<usage name="Hunter" />
 				<usage name="Farm" />
 				<usage name="School" />
 				<usage name="Office" />
@@ -14649,7 +14649,7 @@
 		</group>
 		<group name="Land_Wreck_hb01_aban1_green" lootmax="2">
 				<usage name="Village" />
-				<usage name="Hunting" />
+				<usage name="Hunter" />
 				<usage name="Farm" />
 				<container name="lootFloor" lootmax="2">
 						<category name="tools" />
@@ -14728,7 +14728,7 @@
 		</group>
 		<group name="Land_Wreck_hb01_aban2_green" lootmax="2">
 				<usage name="Village" />
-				<usage name="Hunting" />
+				<usage name="Hunter" />
 				<usage name="Farm" />
 				<container name="lootFloor" lootmax="2">
 						<category name="tools" />
@@ -15407,7 +15407,7 @@
 		<group name="Land_Lunapark_Shooting_Gallery" lootmax="4">
 				<usage name="Village" />
 				<usage name="Town" />
-				<usage name="Hunting" />
+				<usage name="Hunter" />
 				<container name="lootFloor" lootmax="2">
 						<category name="tools" />
 						<category name="containers" />
@@ -16499,7 +16499,7 @@
 		</group>
 		<group name="Land_Wreck_hb01_aban1_green_DE" lootmax="2">
 				<usage name="Village" />
-				<usage name="Hunting" />
+				<usage name="Hunter" />
 				<usage name="Farm" />
 				<container name="lootFloor" lootmax="2">
 						<category name="tools" />
@@ -16578,7 +16578,7 @@
 		</group>
 		<group name="Land_Wreck_hb01_aban2_green_DE" lootmax="2">
 				<usage name="Village" />
-				<usage name="Hunting" />
+				<usage name="Hunter" />
 				<usage name="Farm" />
 				<container name="lootFloor" lootmax="2">
 						<category name="tools" />

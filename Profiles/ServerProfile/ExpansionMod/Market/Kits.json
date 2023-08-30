@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "sewingkit",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 300,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 200,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

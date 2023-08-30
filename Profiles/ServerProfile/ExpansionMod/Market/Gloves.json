@@ -31,7 +31,7 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "msp_boxingsgloves_blue"
+                "msp_boxinggloves_blue"
             ]
         },
         {
@@ -114,17 +114,6 @@
                 "woolglovesfingerless_black",
                 "woolglovesfingerless_tan"
                 ]
-        },
-        {
-            "ClassName": "workinggloves_black",
-            "MaxPriceThreshold": 60,
-            "MinPriceThreshold": 30,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
         },
         {
             "ClassName": "workinggloves_beige",

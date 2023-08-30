@@ -569,6 +569,32 @@
                 "VAZ2107_koleso"
             ],
             "Variants": []
+        },
+        {
+            "ClassName": "ExpansionVodnik",
+            "MaxPriceThreshold": 55000,
+            "MinPriceThreshold": 55000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "ExpansionVodnikWheel",
+                "ExpansionVodnikWheel",
+                "ExpansionVodnikWheel",
+                "ExpansionVodnikWheel",
+                "TruckBattery",
+                "SparkPlug",
+                "CarRadiator",
+                "ExpansionVodnikDoorDriver",
+                "ExpansionVodnikDoorCoDriver",
+                "HeadlightH7",
+                "HeadlightH7",
+                "CamoNet"
+            ],
+            "Variants": [
+                "ExpansionVodnik_CamoMedical"
+            ]
         }
     ]
 }

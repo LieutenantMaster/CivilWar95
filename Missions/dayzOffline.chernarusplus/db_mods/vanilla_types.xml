@@ -15339,8 +15339,6 @@
         <usage />
         <value />
     </type>
-        </type>
-        </type>
         <type name="Nehr_PickupLada_Simple">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -15355,7 +15353,6 @@
         <usage />
         <value />
     </type>
-        </type>
         <type name="Nehr_PickupLada_Simple_Green">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -15384,7 +15381,6 @@
         <usage />
         <value />
     </type>
-        </type>
         <type name="Nehr_PickupLada_Blue">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -15399,7 +15395,6 @@
         <usage />
         <value />
     </type>
-        </type>
         <type name="Nehr_PickupLada_Green">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -22718,7 +22713,6 @@
         <usage user="Everything"/>
         <value user="Tier34"/>
     </type>
-        </type>
         <type name="CigarettePack_Chernamorka">
         <nominal>10</nominal>
         <lifetime>14400</lifetime>
@@ -22733,7 +22727,6 @@
         <usage user="TownVillage"/>
         <value user="Tier23"/>
     </type>
-        </type>
         <type name="CigarettePack_Partyzanka">
         <nominal>15</nominal>
         <lifetime>14400</lifetime>

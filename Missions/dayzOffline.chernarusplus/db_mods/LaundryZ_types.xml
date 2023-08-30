@@ -16,14 +16,6 @@
     <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
   </type>
-    <type name="CTG_Static_Dryer">
-    <lifetime>3888000</lifetime>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-  </type>
-  <type name="CTG_Static_Washer">
-    <lifetime>3888000</lifetime>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-  </type>
   <type name="CTG_Washer_Kit">
     <nominal>1</nominal>
     <lifetime>14400</lifetime>
