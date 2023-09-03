@@ -6486,7 +6486,7 @@
         <value user="Tier1234"/>
     </type>
     <type name="Derringer_Black">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6497,10 +6497,10 @@
         <category name="weapons"/>
         <tag/>
         <usage/>
-        <value user="Tier4"/>
+        <value user="Tier234"/>
     </type>
     <type name="Derringer_Grey">
-        <nominal>8</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6511,7 +6511,7 @@
         <category name="weapons"/>
         <tag/>
         <usage user="Town"/>
-        <value user="Tier4"/>
+        <value user="Tier234"/>
     </type>
     <type name="Derringer_Pink">
         <nominal>0</nominal>
@@ -15298,6 +15298,34 @@
         <value/>
     </type>
         <type name="OffroadHatchback_Firefighter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>80</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category />
+        <tag />
+        <usage />
+        <value />
+    </type>
+            <type name="BPGaz">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>80</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category />
+        <tag />
+        <usage />
+        <value />
+    </type>
+            <type name="BPGazCamo">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>14400</restock>

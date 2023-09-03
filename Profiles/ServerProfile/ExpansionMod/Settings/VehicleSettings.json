@@ -96,6 +96,196 @@
             "ClassName": "ExpansionUh1h",
             "CanPlayerAttach": 0,
             "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "Kamaz",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "KamazCovered",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "Kamaz_DON_Covered_Red",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "Kamaz_DON_Covered_Nowoa",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "Kamaz_DON_Covered_Tan",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "Kamaz_DON_Covered_OrangeB",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "Kamaz_DON_Covered_Blue",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "Kamaz_DON_Covered_LightBlue",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "Kamaz_DON_Covered_Yellow",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "Kamaz_DON_Red",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "Kamaz_DON_Yellow",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "Kamaz_DON_Blue",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "Kamaz_DON_LightBlue",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "Kamaz_DON_Beige",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "Kamaz_DON_Orange",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "Kamaz_DON_OrangeB",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "Kamaz_DON_White",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "Kamaz_DON_Tan",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "Kamaz_DON_Grey",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "EXT_Mi8",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "EXT_Mi8_Attack",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "EXT_Mi8_Chedaki",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "EXT_Mi8_Chernarus",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "EXT_Mi8_UnitedNations",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "EXT_Mi8_Attack_UnitedNations",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "EXT_Mi8_Attack_Chedaki",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "EXT_Mi8_Attack_Chernarus",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "EXT_Mi24",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "EXT_Mi24_Chernarus",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "EXT_Mi24_UN",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "EXT_MerlinHC3",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "H4_UAZ452A_Medical",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "H4_UAZ452A_Police",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "H4_UAZ452A_Blue",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "H4_UAZ452A_Green",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "H4_UAZ452A_White",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "BPGaz",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "BPGazCamo",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
         }
     ]
 }
