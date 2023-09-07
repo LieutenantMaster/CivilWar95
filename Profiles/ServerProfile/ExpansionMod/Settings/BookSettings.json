@@ -11,11 +11,358 @@
     "ShowPlayerFaction": 1,
     "RuleCategories": [
         {
-            "CategoryName": "General",
+            "CategoryName": "ARTICLE 1 - DE LA BUREAUCRATIE",
             "Rules": [
                 {
                     "RuleParagraph": "1.1.",
-                    "RuleText": "Insults, discrimination, extremist and racist statements or texts are taboo."
+                    "RuleText": "La République chernare reconnaît deux statuts, celui de citoyen titulaire d'un passeport rouge ainsi que celui de travailleur immigré titulaire d'une carte de résidence bleue"
+                },
+                {
+                    "RuleParagraph": "1.2.",
+                    "RuleText": "Lors de l'émission de votre premier passeport / carte de résidence, la préfecture enregistrera vos empreintes digitales. En cas de perte de celui-ci la concordance des empreintes seront vérifiées avant réémission du document."
+                },
+                {
+                    "RuleParagraph": "1.3.",
+                    "RuleText": "Il est obligatoire de porter son passeport / sa carte de résidence sur soi en tout temps. Si vous n'êtes pas en mesure de justifier de votre identité lors d'un contrôle de police / armée vous êtes passible d'une rétention administrative de 1h le temps d'une enquête approfondie. Si l'enquête ne conclue a rien vous obtenez le titre d'immigré clandestin sous OQT (Art I.4.3)"
+                },
+                {
+                    "RuleParagraph": "1.4.1.",
+                    "RuleText": "Circuler sur le territoire Chernare sans avoir été enregistré auprès de la préfecture vous confère le titre d'immigré clandestin. Il est interdit d'être un immigré clandestin sous peine d'être arrêté le temps de votre enregistrement."
+                },
+                {
+                    "RuleParagraph": "1.4.2.",
+                    "RuleText": "Est considéré comme Apatride toute personne qu'aucun Etat ne considère comme son ressortissant. Il est interdit d'arrêter un Apatride en vue de son enregistrement à la préfecture. L'accès au territoire national ainsi qu'aux infrastructures de santé leur est interdit. Le droit à la circulation est limité aux zones de transit internationaux."
+                },
+                {
+                    "RuleParagraph": "1.4.3.",
+                    "RuleText": "Est considéré comme Immigré clandestin sous OQT toute personne ne remplissant pas les conditions d'obtention du droit d'asile. L'accès au territoire nationale est interdit aux Immigrés sous OQT. Ils seront conduits à la frontière la plus proche par les services de l'immigration."
+                },
+                {
+                    "RuleParagraph": "1.5.1.",
+                    "RuleText": "La République Chernare, universelle et magnanime reconnaît le droit d'asile à tous les ressortissants de pays étrangers exceptés pour les pays suivants : Takistan, République Démocratique et Populaire de Corée, République Moldave du Dniestr. Tout ressortissant d'un pays de cette liste sera sous le coup d'une obligation de quitter le territoire et reconduit à la frontière."
+                },
+                {
+                    "RuleParagraph": "1.5.2.",
+                    "RuleText": "Dans le cadre d'un processus de déchéance de nationalité (Art I.8), le droit d'asile peut ne pas être systématiquement accordé. Si l'individu possède la nationalité d'un autre pays alors il est considéré comme immigré clandestin sous le coup d'une obligation de quitter le territoire. (Art I.4.3). Si il ne possède aucune nationalité il devient Apatride (Art I.4.2)."
+                },
+                {
+                    "RuleParagraph": "1.6.",
+                    "RuleText": "Toute fausse déclaration et dissimulation à l'administration Chernare entrainera une arrestation le temps d'une enquête approfondie ainsi que d'une contravention de 500 à 2000 Hrvynia assortie d'une peine de 30 min de travaux d'intérêts généraux ou 15min de prison."
+                },
+                {
+                    "RuleParagraph": "1.7.",
+                    "RuleText": "Est considéré comme zone de transit internationale, la gare de Zelenogorsk."
+                },
+                {
+                    "RuleParagraph": "1.8.",
+                    "RuleText": "Dans le cadre d'un manquement grave à ses devoirs, un citoyen peut être déchu de sa nationalité par décision du gouvernement."
+                },
+                {
+                    "RuleParagraph": "1.9.",
+                    "RuleText": "La constitution prévoit l'amendement du code civil par décrets gouvernementaux."
+                },
+                {
+                    "RuleParagraph": "1.10.",
+                    "RuleText": "L'extorsion est réservée au gouvernement, aucun citoyen ne peut exiger d'un autre citoyen de l'argent ou des faveurs par la contrainte."
+                }
+            ]
+        },
+        {
+            "CategoryName": "ARTICLE 2 - DES DROITS DES CITOYENS",
+            "Rules": [
+                {
+                    "RuleParagraph": "2.1.",
+                    "RuleText": "Tout citoyen ou travailleur immigré peut circuler librement sur le territoire Chernare en excluant les zones de Chernogorsk, Elektrozavodsk, les bases militaires ou toute installation à caractère civil ou militaire."
+                },
+                {
+                    "RuleParagraph": "2.2.",
+                    "RuleText": "Tout citoyen Chernare avec un passeport dispose du droit de vote."
+                },
+                {
+                    "RuleParagraph": "2.3.1.",
+                    "RuleText": "Tous les citoyens de plus de 21 ans sont autorisés à détenir et à porter une arme de chasse de catégorie A. Pendant leur transport les armes en question doivent être transportées dans un sac à l'abri des regards."
+                },
+                {
+                    "RuleParagraph": "2.3.2.",
+                    "RuleText": "Les armes de catégorie B (tir sportif, armes de guerre semi automatique) nécessitent un permis de port d'arme obtenable après avoir passé un test d'aptitude au tir dispensé par l'armée et vérification du casier judiciaire."
+                },
+                {
+                    "RuleParagraph": "2.3.3.",
+                    "RuleText": "Le port d'armes de guerre de catégorie C ainsi que d'explosifs est prohibé sur l'entièreté du territoire . Le contrevenant encourt la confiscation des armes, une contravention de 2000 à 10 000 Hrvynia ainsi qu'une peine de prison pouvant varier de 15min à 1 heure"
+                },
+                {
+                    "RuleParagraph": "2.4.1.",
+                    "RuleText": "Tout citoyen est libre d'expression dans les limites de bienséance et des troubles à l'ordre public prévues par la loi"
+                },
+                {
+                    "RuleParagraph": "2.4.2.",
+                    "RuleText": "Sont interdits, les discours subversifs, les discours portant atteinte à la bienséance et à la pudeur, les discours antipatriotiques, les discours incitant à l'émeute, au soulèvement et à quelconque autre trouble à l'ordre publique, les discours antibureaucratiques, la contestation de crimes contre l'humanité, l'apologie du terrorisme, l'incitation à la grève, l'incitation à l'émigration, l'incitation au meurtre, les discours incompatibles avec les valeurs républicaines."
+                },
+                {
+                    "RuleParagraph": "2.4.3.",
+                    "RuleText": "Tout contrevenant encours une contravention allant de 100 à 100 000 Hrvynia ainsi qu'une peine de prison allant de 15min à la condamnation à perpétuité."
+                },
+                {
+                    "RuleParagraph": "2.4.4.",
+                    "RuleText": "Dans le cas de discours antipatriotiques ou portant atteinte à la nation, la constitution prévoit un processus de déchéance de nationalité avec délivrance automatique d'une carte de résidence et d'un visa travail conformément à l'Article I.4 du code civil."
+                },
+                {
+                    "RuleParagraph": "2.5.",
+                    "RuleText": " Toute manifestation doit au préalable être déclarée à la préfecture minimum 3h à l'avance. L'organisateur porte la responsabilité de tous les débordements. Toute manifestation peut être interdite."
+                },
+                {
+                    "RuleParagraph": "2.6.",
+                    "RuleText": "Alinea 6 - Est considéré comme de l'ordre de la légitime défense toute riposte, armée ou non à : Une agression physique, la pénétration sur une propriété privée sans autorisation, une tentative de vol"
+                }
+            ]
+        },
+        {
+            "CategoryName": "ARTICLE 3 - DU DEVOIR DES CITOYENS",
+            "Rules": [
+                {
+                    "RuleParagraph": "3.1.",
+                    "RuleText": "Tout citoyen a le devoir de respecter les lois."
+                },
+                {
+                    "RuleParagraph": "3.2.1.",
+                    "RuleText": "Tout citoyen a le devoir de reporter toute infraction à la loi ou tout comportement suspect dont il est témoin via le formulaire prévu à cet effet."
+                },
+                {
+                    "RuleParagraph": "3.2.2.",
+                    "RuleText": "Pour un formulaire correctement rempli et aboutissant sur une condamnation, une allocation de 1 000 Hrvynia sera virée sur votre compte."
+                },
+                {
+                    "RuleParagraph": "3.3.",
+                    "RuleText": "Tout citoyen a le devoir d'être fidèle envers son pays."
+                },
+                {
+                    "RuleParagraph": "3.4.",
+                    "RuleText": "Tout citoyen a le devoir de payer ses impôts et son loyer."
+                },
+                {
+                    "RuleParagraph": "3.5.",
+                    "RuleText": "Tout citoyen masculin de plus de 21 ans est considéré comme mobilisable dans le cadre de la défense nationale. Refuser la mobilisation peut entraîner la déchéance de la nationalité et ferme le droit à l'obtention d'une carte de résidence."
+                },
+                {
+                    "RuleParagraph": "3.6.",
+                    "RuleText": "Tout citoyen masculin de plus de 18 ans est tenu de faire son service militaire sous peine d'être déchu de ses droits civiques."
+                },
+                {
+                    "RuleParagraph": "3.7.",
+                    "RuleText": " La liberté des uns commence là où s'arrête celle des autres, de fait, le tapage, qu'il soit vocal ou musical, est prohibé."
+                }
+            ]
+        },
+        {
+            "CategoryName": "ARTICLE 4 - DE LA PROPRIÉTÉ PRIVÉE",
+            "Rules": [
+                {
+                    "RuleParagraph": "4.1.",
+                    "RuleText": "Le propriétaire à libre disposition du bien qu'il possède. Il peut décider de vendre, de louer, de donner ou d'user de son bien comme il le souhaite."
+                },
+                {
+                    "RuleParagraph": "4.2.",
+                    "RuleText": "Il est interdit de sous louer toute propriété mise à disposition par le gouvernement."
+                },
+                {
+                    "RuleParagraph": "4.3.1.",
+                    "RuleText": "Il est interdit de pénétrer dans une propriété privée sans l'autorisation de son propriétaire ou le cas échéant de son locataire."
+                },
+                {
+                    "RuleParagraph": "4.3.2.",
+                    "RuleText": "Toute perquisition doit faire l'objet d'une demande préalable auprès de la préfecture via le formulaire correspondant."
+                },
+                {
+                    "RuleParagraph": "4.3.3.",
+                    "RuleText": "Dans le cadre de la lutte contre le terrorisme, tout fonctionnaire de catégorie 5 ou plus à le pouvoir d'ordonner une perquisition sans autorisation à l'exception des logements de fonctionnaires de catégorie 3 ou supérieur."
+                },
+                {
+                    "RuleParagraph": "4.4.",
+                    "RuleText": "S'approprier la propriété d'autrui c'est du vol et le vol est prohibé, en cas de condamnation le contrevenant sera contraint de restituer le bien volé et de s'acquitter d'une contravention au moins égale à la moitié de la somme de la valeur volée."
+                },
+                {
+                    "RuleParagraph": "4.5.",
+                    "RuleText": "Dans le cadre du programme gouvernemental d'accession à la propriété privée, tout citoyen peut payer son appartement ou sa maison en plusieurs fois à la seule condition que l'entiéreté de la somme soit payée au bout d'un mois."
+                }
+            ]
+        },
+        {
+            "CategoryName": "ARTICLE 5 - DE L'USAGE DE LA FORCE",
+            "Rules": [
+                {
+                    "RuleParagraph": "5.1.",
+                    "RuleText": "L'usage de la force est strictement réservée aux fonctionnaires de l'Etat. Les services de maintien de l'ordre sont assurés en premier lieu par la police puis par l'armée Chernare."
+                },
+                {
+                    "RuleParagraph": "5.2.",
+                    "RuleText": "Les forces de polices de Zagorie du Sud sont subordonnées au Commissaire (Cat 5) lui même subordonné au Gouvernement zagorien, à ce titre elles peuvent être déployées dans l'entièreté de la région pour effectuer des missions nécessaire au bon fonctionnement des administrations (expulsions, arrestations ciblées, maintien de l'ordre, etc...)."
+                },
+                {
+                    "RuleParagraph": "5.3.1.",
+                    "RuleText": "Les forces armées chernares sont subordonnées au Capitaine (Cat 5) lui même subordonné au Gouvernement zagorien, à ce titre elles peuvent être déployées dans l'entièreté de la région pour effectuer des missions nécessaire à la protection du territoire et à la pacification de zones critiques."
+                },
+                {
+                    "RuleParagraph": "5.3.2.",
+                    "RuleText": "En cas de nécessité les forces armées peuvent être amenés à être déployées en renfort lors d'opérations de police (maintien de l'ordre, arrestations ciblées, transfert de détenus...)."
+                },
+                {
+                    "RuleParagraph": "5.4.1.",
+                    "RuleText": "Dans le cadre de la lutte contre le terrorisme, tout fonctionnaire de catégorie 5 ou plus à le pouvoir d'ordonner une perquisition sans autorisation à l'exception des logements de fonctionnaires de catégorie 3 ou supérieur."
+                },
+                {
+                    "RuleParagraph": "5.4.2.",
+                    "RuleText": "Dans le cadre d'un couvre feu officiel déclaré et diffusé via haut parleurs, les sommations ne sont plus nécessaires."
+                },
+                {
+                    "RuleParagraph": "4.5.",
+                    "RuleText": "Dans le cadre d'une directive gouvernementales les sommations peuvent ne plus êtes nécessaires."
+                }
+            ]
+        },
+        {
+            "CategoryName": "ARTICLE 6 - DE LA JUSTICE",
+            "Rules": [
+                {
+                    "RuleParagraph": "6.1.",
+                    "RuleText": "Tout citoyen suspecté de s'adonner à des activités illégales a le droit à un procès équitable (dans la limite des stocks disponibles)."
+                },
+                {
+                    "RuleParagraph": "6.2.1.",
+                    "RuleText": "Dans le cadre de leurs fonctions, les agents de police peuvent infliger des contraventions n'excédant pas les 5 000 Hrvynia. Une garde à vue ne peut excéder 2 heures."
+                },
+                {
+                    "RuleParagraph": "6.2.2.",
+                    "RuleText": "Pour toute peines supérieures le suspect doit être déféré devant la justice qui statuera sur son cas. L'accusé peut être accompagné d'un avocat si il a effectué les démarches préalables."
+                },
+                {
+                    "RuleParagraph": "6.3.",
+                    "RuleText": "Tout condamné est présumé coupable."
+                },
+                {
+                    "RuleParagraph": "6.4.",
+                    "RuleText": "Toute possession de quelconques substances ou objets illégaux entraine leur confiscation."
+                },
+                {
+                    "RuleParagraph": "6.5.1.",
+                    "RuleText": "Les sanctions en vigueur sont : La contravention, la garde à vue et la détention administrative, la prison, les travaux d'intérêt généraux, la confiscation de biens, la privation des droits civiques, la mort."
+                },
+                {
+                    "RuleParagraph": "6.5.2.",
+                    "RuleText": "Peuvent-être appliquée sans jugement par un officier de police les sanctions 1, 2 et 3  dans la limite d'1 heure."
+                },
+                {
+                    "RuleParagraph": "6.6.",
+                    "RuleText": "A la discrétion de l'officier de police le plus gradé en service, le condamné peut-être libéré sous caution comprise entre 500 et 10 000 Hrvynia toute les 15 minutes de prison."
+                },
+                {
+                    "RuleParagraph": "6.7.",
+                    "RuleText": "Dans sa grande bonté, le gouvernement Chernare accorde une grande importance à la réhabilitation et à la vie. La condamnation à mort ne doit être prononcée qu'en dernier recours et expressément autorisée par le gouvernement."
+                },
+                {
+                    "RuleParagraph": "6.8.",
+                    "RuleText": "En fonction des disponibilités le pouvoir de juger un coupable revient au juge, puis au gouverneur, puis à son adjoint puis au chef de police."
+                },
+                {
+                    "RuleParagraph": "6.9.",
+                    "RuleText": "Le juge est un fonctionnaire de catégorie 5 nommé par le gouverneur."
+                },
+                {
+                    "RuleParagraph": "6.10.",
+                    "RuleText": "Disposent de l'immunité judiciaire tous les fonctionnaires de catégorie 5 ou plus hormis pour les crimes indiqués."
+                }
+            ]
+        },
+        {
+            "CategoryName": "ARTICLE 7 - DU CODE DE LA ROUTE",
+            "Rules": [
+                {
+                    "RuleParagraph": "7.1.1.",
+                    "RuleText": "Tout véhicule circulant sur la voie publique doit être en bon état de fonctionnement et disposer de tous les équipements de sécurité et de signalisation d'origine constructeur."
+                },
+                {
+                    "RuleParagraph": "7.1.2.",
+                    "RuleText": "Tous les dispositifs de signalisation lumineuse doivent être en état de fonctionnement."
+                },
+                {
+                    "RuleParagraph": "7.1.3.",
+                    "RuleText": "Tous les pneumatiques doivent être en bon état ((au dessus de très abimé))"
+                },
+                {
+                    "RuleParagraph": "7.1.4.",
+                    "RuleText": "Toutes les ouvrants (portières, coffre et capot) doivent être présents."
+                },
+                {
+                    "RuleParagraph": "7.2.",
+                    "RuleText": "La vitesse maximale autorisée est limitée à 30 km/h en ville et limitée à 90 km/h hors agglomération."
+                }
+            ]
+        },
+        {
+            "CategoryName": "ARTICLE 8 - DES DÉLITS ET DE LA CRIMINALITÉ",
+            "Rules": [
+                {
+                    "RuleParagraph": "8.1.1.",
+                    "RuleText": "Tout acte d'intimidation, de violence ou d'extorsion envers un civil par un autre civil est puni d'une contravention de 1000 à 3000 Hrvynia ainsi que d'une peine de 15 à 30 minutes de prison avec sursis."
+                },
+                {
+                    "RuleParagraph": "8.1.2.",
+                    "RuleText": "Tout acte d'intimidation, de violence ou d'extorsion envers un fonctionnaire est puni d'une contravention 10 000 à 25 000 Hrvynia ainsi que d'une peine de prison de 30 à 45 heures."
+                },
+                {
+                    "RuleParagraph": "8.2.",
+                    "RuleText": "Le meurtre est puni d'une contravention de 50 000 à 100 000 Hryvnia, d'une peine de prison de 2h à 4h de prison ou de la mort en cas de récidive."
+                },
+                {
+                    "RuleParagraph": "8.3.",
+                    "RuleText": "La tentative de meurtre est punie d'une contravention de 5 000 à 10 000 Hrvynia et d'une peine de prison de 15 à 30min."
+                },
+                {
+                    "RuleParagraph": "8.4.",
+                    "RuleText": "Il est interdit de menacer qui que ce soit. Toute menace avérée est punie d'une contravention de 1 500 Hrvynia."
+                },
+                {
+                    "RuleParagraph": "8.5.",
+                    "RuleText": "Le vol est prohibé (Art IV,4), le vol à main armée ajoute une peine de prison de 15 min."
+                },
+                {
+                    "RuleParagraph": "8.6.",
+                    "RuleText": "Le trafic d'influence ou la tentative de corruption d'un agents assermentés de l'Etat ou d'un membre des Forces de Défense Chernare est puni d'une contravention de 10 000 à 25 000 Hrvynia."
+                },
+                {
+                    "RuleParagraph": "8.7.",
+                    "RuleText": "Tenter de se dérober à un contrôle de police est interdit et est puni de 2 000 Hrvynia d'amende."
+                },
+                {
+                    "RuleParagraph": "8.8.",
+                    "RuleText": "La dégradation de bien public est punie d'une contravention égale à deux fois la somme des dégats."
+                },
+                {
+                    "RuleParagraph": "8.9.1.",
+                    "RuleText": "La possession de stupéfiants est punie d'une contravention égale à la moitié de la valeur des stupéfiants saisis."
+                },
+                {
+                    "RuleParagraph": "8.9.2.",
+                    "RuleText": "La vente de drogue est punie d'une contravention égale à la somme totale des stupéfiants saisis ainsi que d'une peine de prison de 30 min."
+                },
+                {
+                    "RuleParagraph": "8.10.",
+                    "RuleText": "L'usurpation d'identité est une atteinte au bon fonctionnement des administrations et atteindre intentionnellement au bon fonctionnement des administrations est un crime grave. L'usurpateur encourt une contravention de 20 000 Hrvynia ainsi qu'une peine de prison de 30 min."
+                },
+                {
+                    "RuleParagraph": "8.11.1.",
+                    "RuleText": "Il est interdit de montrer des signes d'ivresse sur la voie publique sous peine de 500 Hrvynia d'amende et 15 minute de dégrisement"
+                },
+                {
+                    "RuleParagraph": "8.11.2.",
+                    "RuleText": "Il est interdit d'attenter à la bienséance et à la pudeur, le contrevenant encourt une contravention de 2 000 Hryvnia ainsi que 15 min de prison"
+                },
+                {
+                    "RuleParagraph": "8.12.",
+                    "RuleText": "Travailler pour une organisation terroriste est un crime grave et une trahison envers sa patrie.  Cela entraine une déchéance de la nationalité chernare n'ouvrant pas le droit à une demande d'asile (Art I.5.2), une contravention de 50 000 Hrvynia et une peine de prison de 1 heure, dans certains cas la peine de mort peut être prononcée. Toute personne suspectée ou reconnue coupable de ce crime ne peut faire valoir son immunité judiciaire."
+                },
+                {
+                    "RuleParagraph": "8.13.",
+                    "RuleText": "Toute tentative de coup d'Etat est un acte de trahison envers la patrie et est puni de mort. Toute personne suspectée ou reconnue coupable de ce crime ne peut faire valoir son immunité judiciaire."
                 }
             ]
         }
