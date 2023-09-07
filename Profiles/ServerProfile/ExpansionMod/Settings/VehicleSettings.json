@@ -278,12 +278,17 @@
             "LockComplexity": 2.5
         },
         {
-            "ClassName": "BPGaz",
+            "ClassName": "BPGazG",
             "CanPlayerAttach": 1,
             "LockComplexity": 2.5
         },
         {
             "ClassName": "BPGazCamo",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "Nehr_PickUpLada_Police",
             "CanPlayerAttach": 1,
             "LockComplexity": 2.5
         }
