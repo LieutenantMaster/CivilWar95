@@ -127,9 +127,9 @@ class CustomMission: MissionServer
 		array<string> username = new array<string>;
 		if ( ReadFile( "$profile:CV95\\Data\\discord_online.txt", discordUsers ) )
 		{
-			TStringArray tokens = new TStringArray;
 			foreach(string discordUser: discordUsers)
 			{
+				array<string> tokens = new array<string>;
 				discordUser.Split( "|", tokens );
 
 				steamids.Insert(tokens.Get( 0 ));
@@ -155,16 +155,13 @@ class CustomMission: MissionServer
 					if ( username[i] == "ADMIN" || username[i] == juan.GetIdentity().GetName() )
 					{
 						userStatus = 0;
-					}
-					else
-					{
+					} else {
 						userStatus = 2;
 					}
+					break;
 				}
 			}
 
-			// this is ass but that will do for now
-			//! TODO: rewrite this horse shit
 			if ( userStatus != 0 )
 			{
 				switch(userStatus)
@@ -202,7 +199,7 @@ class CustomMission: MissionServer
 		return true;
 	}
 
-	static bool ReadFile( string filePath, array<string> lines )
+	static bool ReadFile( string filePath, out array<string> lines )
 	{
 		FileHandle file = OpenFile( filePath, FileMode.READ );
 
@@ -414,20 +411,25 @@ class CustomMission: MissionServer
 		IncrementStockForTraderzonePos("2640 200 5175", 10); 	// Zelenogorsk
 		IncrementStockForTraderzonePos("6510 0 2550", 1); 		// Chernogorsk
 		IncrementStockForTraderzonePos("10453 13 2393", 1); 	// Elecktro
+		IncrementStockForTraderzonePos("9519 5 2005", 1); 		// Elecktro StationService
+		
+		IncrementStockForTraderzonePos("4995 9 2476", 1); 		// Balota
+		IncrementStockForTraderzonePos("6078 158 4914", 1); 	// Nadez
+		IncrementStockForTraderzonePos("6930 18 1694", 1); 		// ONU
 	}
 
 	static bool IsScheaduledRestart()
 	{
-		CF_Date now = CF_Date.Now(true);
+		CF_Date now = CF_Date.Now();
 
-		if ( now.GetHours() != 8 && now.GetHours() != 16 & now.GetHours() != 0 )
+		if ( now.GetHours() != 8 && now.GetHours() != 16 && now.GetHours() != 0 )
 		{
 			Print("[CivilWar95]:: TRADERZONE:: IsScheaduledRestart:: FALSE");
 			Print("[CivilWar95]:: Time: "+ now.GetHours() + "H "+ now.GetMinutes() + "m");
 			return false;
 		}
 		
-		if ( now.GetMinutes() < 10.0)
+		if ( now.GetMinutes() < 10)
 		{
 			Print("[CivilWar95]:: TRADERZONE:: IsScheaduledRestart:: TRUE");
 			Print("[CivilWar95]:: Time: "+ now.GetHours() + "H "+ now.GetMinutes() + "m");

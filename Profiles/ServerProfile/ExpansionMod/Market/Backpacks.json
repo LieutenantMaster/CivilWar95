@@ -21,6 +21,17 @@
             ]
         },
         {
+            "ClassName": "waterproofbag_yellow",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "childbag_green",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 200,

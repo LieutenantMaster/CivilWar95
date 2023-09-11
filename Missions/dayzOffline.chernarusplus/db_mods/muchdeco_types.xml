@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
 <types>
     <!-- Much Decos -->
     <type name="MD_TrashCan">
@@ -15,7 +14,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type> 
     <type name="MD_Box_C">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -29,7 +28,7 @@
         <usage name="Farm"/>
     </type>
     <type name="MD_DarkWoodenCrate">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -43,7 +42,7 @@
         <usage name="Farm"/>
     </type>
     <type name="MD_Small_WoodBox">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -57,7 +56,7 @@
         <usage name="Farm"/>
     </type>
     <type name="MD_Large_WoodBox">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -71,7 +70,7 @@
         <usage name="Farm"/>
     </type>
     <type name="MD_Flat_WoodBox">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -85,7 +84,7 @@
         <usage name="Farm"/>
     </type>
     <type name="MD_WhiteFridge">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -99,7 +98,7 @@
         <usage name="Farm"/>
     </type>
     <type name="MD_DoubleFridge">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -128,7 +127,7 @@
     </type>
 <!-- Greenhouse -->      
     <type name="MD_Polytunnel_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -146,7 +145,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_Greenhouse_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -165,7 +164,7 @@
     </type>
 <!-- Sheds --> 
     <type name="MD_Shed_M1_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -183,7 +182,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_Shed_M3_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -201,7 +200,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_Shed_M4_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -219,7 +218,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_Shed_W1_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -237,7 +236,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_Shed_W2_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -255,7 +254,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_Shed_W3_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -273,7 +272,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_Shed_W4_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -291,7 +290,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_Shed_W5_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -310,7 +309,7 @@
     </type>
 <!-- Tables -->
     <type name="MD_StudentDesk_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -328,7 +327,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>       
     <type name="MD_TeacherDesk_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -346,7 +345,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_LabDesk_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -364,7 +363,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_CampTable_Small_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -382,7 +381,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_CampTable_Long_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -400,7 +399,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_TableDrawer_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -418,7 +417,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_OfficeTable_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -436,7 +435,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_ConferenceTable_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -454,7 +453,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_OfficeDesk_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -472,7 +471,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_KitchenCheckeredTable_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -490,7 +489,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_KitchenTable_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -508,7 +507,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type> 
     <type name="MD_MarketTable_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -528,7 +527,7 @@
 
 <!-- Cases -->
     <type name="MD_BrownWardrobe_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -546,7 +545,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>  
     <type name="MD_GreenWardrobe_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -566,7 +565,7 @@
 
 <!-- Others -->
     <type name="MD_Power_Transformer_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -584,7 +583,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>       
     <type name="MD_PostBox_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -602,7 +601,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_PostBoxWall_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -620,7 +619,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_BlueBench_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -638,7 +637,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_Sunshade_Kit">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -650,13 +649,14 @@
         <tag name="floor"/>
         <usage name="Industrial"/>
         <usage name="Farm"/>
+        <value user="Tier123" />
     </type>
     <type name="MD_Sunshade">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_Sink_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -862,7 +862,7 @@
     </type>
 <!-- Chairs -->         
     <type name="MD_OfficeChair_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -880,7 +880,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_StudentChair_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -898,7 +898,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_RedChair_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -916,7 +916,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_LobbyChair_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -934,7 +934,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_TentChair_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -952,7 +952,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_WoodenChair_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -970,7 +970,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_PaddedWoodenChair_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -988,7 +988,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_KitchenChair_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1007,7 +1007,7 @@
     </type>
 <!-- Fences -->
     <type name="MD_Fence_PipeRailing_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1025,7 +1025,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_Fence_PipeFenceSmall_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1043,7 +1043,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_Fence_PipeFenceLarge_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1061,7 +1061,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_Fence_WoodPole_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1079,7 +1079,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_Fence_End_WoodPole_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1097,7 +1097,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_Fence_Vineyard_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1115,7 +1115,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_Fence_Forest_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1133,7 +1133,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_Fence_End_Forest_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1151,7 +1151,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_Fence_WoodGrid_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1169,7 +1169,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_Fence_End_WoodGrid_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1187,7 +1187,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_Fence_MetalGrid_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1205,7 +1205,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_Fence_End_MetalGrid_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1223,7 +1223,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_Fence_Field_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1241,7 +1241,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_Fence_End_Field_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1260,7 +1260,7 @@
     </type>
 <!-- Tents -->
     <type name="MD_Medical_Tent_Large_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1279,7 +1279,7 @@
     </type>
 <!-- Standalone -->
     <type name="MD_DeskGlobe">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
         <min>1</min>
@@ -1291,9 +1291,10 @@
         <tag name="floor"/>
         <usage name="Industrial"/>
         <usage name="Farm"/>
+        <value user="Tier123" />
     </type>
     <type name="MD_TV">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
         <min>1</min>
@@ -1305,9 +1306,11 @@
         <tag name="floor"/>
         <usage name="Industrial"/>
         <usage name="Farm"/>
+        <usage user="TownVillage" />
+        <value user="Tier123" />
     </type>
     <type name="MD_OldRadio">
-        <nominal>1</nominal>
+        <nominal>6</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
         <min>1</min>
@@ -1319,9 +1322,11 @@
         <tag name="floor"/>
         <usage name="Industrial"/>
         <usage name="Farm"/>
+        <usage user="TownVillage" />
+        <value user="Tier123" />
     </type>
     <type name="MD_Radio">
-        <nominal>1</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
         <min>1</min>
@@ -1333,10 +1338,12 @@
         <tag name="floor"/>
         <usage name="Industrial"/>
         <usage name="Farm"/>
+        <usage user="TownVillage" />
+        <value user="Tier123" />
     </type>
     <type name="MD_Scale">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
         <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1349,7 +1356,7 @@
         <usage name="Farm"/>
     </type>
     <type name="MD_Cashier">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
         <min>1</min>
@@ -1363,7 +1370,7 @@
         <usage name="Farm"/>
     </type>
     <type name="MD_Clock">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
         <min>1</min>
@@ -1377,7 +1384,7 @@
         <usage name="Farm"/>
     </type>
     <type name="MD_ClothBag">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
         <min>1</min>
@@ -1391,12 +1398,12 @@
         <usage name="Farm"/>
     </type>
     <type name="MD_Canister">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
         <restock>7200</restock>
         <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>0</quantmin>
+        <quantmax>0</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
@@ -1406,7 +1413,7 @@
     </type>
 <!-- Beds -->
     <type name="MD_Bed_Double_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1424,7 +1431,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_Bed_Folding_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1442,7 +1449,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_Bed_Wood_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1461,7 +1468,7 @@
     </type>
 <!-- Gates -->
     <type name="MD_Fence_Gate_Forest_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1479,7 +1486,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_Gate_TallSliding_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1497,7 +1504,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_Gate_ShortSliding_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1515,7 +1522,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_Double_Gate_MetalFence1_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1533,7 +1540,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_Double_Gate_MetalFence2_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1551,7 +1558,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_Double_Gate_TinFence1_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1569,7 +1576,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_Double_Gate_TinFence2_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1588,7 +1595,7 @@
     </type>
 <!-- Stands -->
     <type name="MD_NewsStand1_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1606,7 +1613,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>       
     <type name="MD_NewsStand2_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1624,7 +1631,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_FastFoodStand_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1642,7 +1649,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_GroceryStand_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1661,7 +1668,7 @@
     </type>
 <!-- Camp houses -->            
     <type name="MD_CampHouse_White_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1679,7 +1686,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_CampHouse_Brown_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1697,7 +1704,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_CampHouse_Red_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1716,7 +1723,7 @@
     </type>
 <!-- Caravans -->              
     <type name="MD_Caravan_WGreen_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1734,7 +1741,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_Caravan_WBrown_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1752,7 +1759,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_Caravan_MGreen_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1770,7 +1777,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_Caravan_MRust_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1789,7 +1796,7 @@
     </type>
 <!-- Slum shelters -->        
     <type name="MD_SlumShelter_LightBlue_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1807,7 +1814,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_SlumShelter_DarkBlue_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1825,7 +1832,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_SlumShelter_ThinBlue_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1843,7 +1850,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_SlumShelter_SmallMetal_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1861,7 +1868,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="MD_SlumShelter_LargeMetal_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1880,7 +1887,7 @@
     </type>
 <!-- Camonet shelters -->    
     <type name="MD_CamonetShelter_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1898,7 +1905,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_CamonetShelter_BE_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1916,7 +1923,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_CamonetShelter_BN_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1934,7 +1941,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_CamonetShelter_RE_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1952,7 +1959,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_CamonetShelter_RN_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1970,7 +1977,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>    
     <type name="MD_CamonetShelter_SE_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>
@@ -1988,7 +1995,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type> 
     <type name="MD_CamonetShelter_SN_Kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10400</lifetime>
         <restock>10400</restock>
         <min>1</min>

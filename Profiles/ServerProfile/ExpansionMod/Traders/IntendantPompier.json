@@ -32,6 +32,9 @@
         "oxygentankrig_mung": 1,
         "flashlight": 1,
         "personalradio": 1,
-        "FireExtinguisher": 1
+        "FireExtinguisher": 1,
+        "flaregun": 1,
+        "ammo_flare": 1,
+        "waterproofbag_yellow": 1
     }
 }
