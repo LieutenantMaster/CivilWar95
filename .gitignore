@@ -40,7 +40,8 @@ Profiles/ServerProfile/EventManagerLog/
 Profiles/ServerProfile/.gitattributes
 Profiles/ServerProfile/.gitignore
 Profiles/ServerProfile/readme.md
-Profiles/ServerProfile/CV95/Data/online.txt
+Profiles/ServerProfile/CW95/Data/online.txt
+Profiles/ServerProfile/CW95/Data/discord_online.txt
 
 *.log
 *.RPT
