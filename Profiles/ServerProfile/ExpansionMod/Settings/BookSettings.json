@@ -64,6 +64,10 @@
                 {
                     "RuleParagraph": "1.10.",
                     "RuleText": "L'extorsion est réservée au gouvernement, aucun citoyen ne peut exiger d'un autre citoyen de l'argent ou des faveurs par la contrainte."
+                },
+                {
+                    "RuleParagraph": "1.11.",
+                    "RuleText": "Sont écrits à l'encre orange exclusivement, tous les documents officiels. Il est interdit d'usurper le gouvernement en dérobant le matériel d'impression.  L'usurpation est punie de **50 000 Hrvynia** d'amende ainsi que d'une peine de 1h de prison. "
                 }
             ]
         },
@@ -149,7 +153,7 @@
                 },
                 {
                     "RuleParagraph": "3.7.",
-                    "RuleText": " La liberté des uns commence là où s'arrête celle des autres, de fait, le tapage, qu'il soit vocal ou musical, est prohibé."
+                    "RuleText": "La liberté des uns commence là où s'arrête celle des autres, de fait, le tapage, qu'il soit vocal ou musical, est prohibé."
                 }
             ]
         },
@@ -294,6 +298,18 @@
                 {
                     "RuleParagraph": "7.2.",
                     "RuleText": "La vitesse maximale autorisée est limitée à 30 km/h en ville et limitée à 90 km/h hors agglomération."
+                },
+                {
+                    "RuleParagraph": "7.3.1.",
+                    "RuleText": "Les piétons ont la priorité absolue sur tous les passages piétons."
+                },
+                {
+                    "RuleParagraph": "7.3.2.",
+                    "RuleText": "Il est strictement interdit de traverser hors des passages piétons, un automobiliste ne peut endosser aucune responsabilité si il renverse un piéton sur la route."
+                },
+                {
+                    "RuleParagraph": "7.3.1.",
+                    "RuleText": "Tout véhicule doit disposer d'autant de gilet réflechissants qu'il y'a de passagers. Par ailleurs il est obligatoire de porter le gilet réfléchissant en cas de panne hors agglomération."
                 }
             ]
         },
@@ -363,6 +379,16 @@
                 {
                     "RuleParagraph": "8.13.",
                     "RuleText": "Toute tentative de coup d'Etat est un acte de trahison envers la patrie et est puni de mort. Toute personne suspectée ou reconnue coupable de ce crime ne peut faire valoir son immunité judiciaire."
+                }
+            ]
+        },
+        {
+            "CategoryName": "ARTICLE 9 - DES DROITS CONSTITUTIONNELS",
+            "Rules":
+            [
+                {
+                    "RuleParagraph": "9.1.",
+                    "RuleText": "La constitution prévoit la possibilité de mettre en place des référendums. Seul les citoyens naturalisés chernares disposent du droit de vote."
                 }
             ]
         }
