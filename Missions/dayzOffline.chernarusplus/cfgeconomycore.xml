@@ -57,7 +57,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="underground_types.xml" type="types" />
 		<file name="LaundryZ_types.xml" type="types" />
 		<file name="muchdeco_types.xml" type="types" />
-		<file name="cv95_types.xml" type="types" />
+		<file name="cw95_types.xml" type="types" />
 		<file name="pbdoorsandbarricades_types.xml" type="types" />
 		<file name="muchstuffpack_types.xml" type="types" />
 		<file name="uaz452a_types.xml" type="types" />

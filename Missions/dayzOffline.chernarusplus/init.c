@@ -340,7 +340,7 @@ class CustomMission: MissionServer
 					factionLoadout = "PlayerSurvivorLoadout";
 			break;
 			case "Civilian":
-				SelectedPos = "2729.891846 200.718246 5186.811035";
+				SelectedPos = "2760.51 206.098 5175.6";
 				if ( isMale )
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 				else

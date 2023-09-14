@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
-    <type name="CV95_Mosin9130_Old">
+    <type name="CW95_Mosin9130_Old">
         <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -14,7 +14,7 @@
         <value user="Tier23"/>
         <usage user="Everything"/>
     </type>
-        <type name="CV95_SVD_Wood">
+        <type name="CW95_SVD_Wood">
         <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>86400</restock>
@@ -28,7 +28,7 @@
         <value user="Tier4"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_MusicPlayer">
+    <type name="CW95_MusicPlayer">
         <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -42,7 +42,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_BosanskaArtiljerija">
+    <type name="CW95_Cassette_BosanskaArtiljerija">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -56,7 +56,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_BosanskaArtiljerija">
+    <type name="CW95_Cassette_BosanskaArtiljerija">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -70,7 +70,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_Rossiya">
+    <type name="CW95_Cassette_Rossiya">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -84,7 +84,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_ChernarussianAnthem">
+    <type name="CW95_Cassette_ChernarussianAnthem">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -98,7 +98,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_CrniBombarderi">
+    <type name="CW95_Cassette_CrniBombarderi">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -112,7 +112,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_DarkIsTheNight">
+    <type name="CW95_Cassette_DarkIsTheNight">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -126,7 +126,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_DontTellMomImInChechnya">
+    <type name="CW95_Cassette_DontTellMomImInChechnya">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -140,7 +140,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_International">
+    <type name="CW95_Cassette_International">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -154,7 +154,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_Karavan">
+    <type name="CW95_Cassette_Karavan">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -168,7 +168,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_Katyusha">
+    <type name="CW95_Cassette_Katyusha">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -182,7 +182,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_Kombat">
+    <type name="CW95_Cassette_Kombat">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -196,7 +196,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_MyDadIsAWarCriminal">
+    <type name="CW95_Cassette_MyDadIsAWarCriminal">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -210,7 +210,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_NoviGod">
+    <type name="CW95_Cassette_NoviGod">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -224,7 +224,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_OjAlijaAljo">
+    <type name="CW95_Cassette_OjAlijaAljo">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -238,7 +238,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_PolyushkaPolye">
+    <type name="CW95_Cassette_PolyushkaPolye">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -252,7 +252,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_RemoveTakistani">
+    <type name="CW95_Cassette_RemoveTakistani">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -266,7 +266,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_ThreeChoppersOverMozdok">
+    <type name="CW95_Cassette_ThreeChoppersOverMozdok">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -280,7 +280,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_Troika">
+    <type name="CW95_Cassette_Troika">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -294,7 +294,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_TheBigHangover">
+    <type name="CW95_Cassette_TheBigHangover">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -308,7 +308,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_Atas">
+    <type name="CW95_Cassette_Atas">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -322,7 +322,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_PoslednyayaLyubov">
+    <type name="CW95_Cassette_PoslednyayaLyubov">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -336,7 +336,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_DavaiZa">
+    <type name="CW95_Cassette_DavaiZa">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -350,7 +350,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_MilyeZelyonyeGlaza">
+    <type name="CW95_Cassette_MilyeZelyonyeGlaza">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -364,7 +364,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_Kukushka">
+    <type name="CW95_Cassette_Kukushka">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -378,7 +378,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_Leto">
+    <type name="CW95_Cassette_Leto">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -392,7 +392,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_GruppaKrovi">
+    <type name="CW95_Cassette_GruppaKrovi">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -406,7 +406,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_Zvezda">
+    <type name="CW95_Cassette_Zvezda">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -420,7 +420,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_Peremen">
+    <type name="CW95_Cassette_Peremen">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
@@ -434,7 +434,7 @@
         <value user="Tier1234"/>
         <usage user="Everything"/>
     </type>
-    <type name="CV95_Cassette_ChDKZAnthem">
+    <type name="CW95_Cassette_ChDKZAnthem">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
