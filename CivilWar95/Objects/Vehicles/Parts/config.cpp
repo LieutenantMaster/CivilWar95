@@ -11,7 +11,7 @@
 
 class CfgPatches
 {
-	class CV95_Vehicles_Parts
+	class CW95_Vehicles_Parts
 	{
 		units[]={};
 		weapons[]={};
@@ -25,7 +25,7 @@ class CfgPatches
 class CfgVehicles
 {
 	class Inventory_Base;
-	class CV95_WindScreen: Inventory_Base
+	class CW95_WindScreen: Inventory_Base
 	{
 		scope=2;
 		displayName="WindScreen";

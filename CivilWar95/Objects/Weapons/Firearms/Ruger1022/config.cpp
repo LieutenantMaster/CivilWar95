@@ -11,7 +11,7 @@
 
 class CfgPatches
 {
-	class CV95_Weapons_Firearms_Ruger1022
+	class CW95_Weapons_Firearms_Ruger1022
 	{
 		units[]={};
 		weapons[]={};

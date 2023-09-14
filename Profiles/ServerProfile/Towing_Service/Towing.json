@@ -1,7 +1,5 @@
 {
     "BlacklistedVehicles": [
-        "BlacklistedCar",
-        "AnotherVehicle",
-        "AnotherTruck"
+        "ExpansionLHD"
     ]
 }

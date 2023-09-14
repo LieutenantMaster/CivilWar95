@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class CV95_LanguageCore
+	class CW95_LanguageCore
 	{
 		units[]={};
 		weapons[]={};

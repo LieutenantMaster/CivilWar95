@@ -11,7 +11,7 @@
 
 class CfgPatches
 {
-	class CV95_Weapons_Firearms_SVD
+	class CW95_Weapons_Firearms_SVD
 	{
 		units[]={};
 		weapons[]={};
@@ -36,7 +36,7 @@ class cfgWeapons
 			"\dz\weapons\firearms\svd\data\svd_co.paa"
 		};
 	};
-	class CV95_SVD_Wood: SVD
+	class CW95_SVD_Wood: SVD
 	{
 		scope=2;
 		hiddenSelectionsTextures[]=
@@ -44,7 +44,7 @@ class cfgWeapons
 			"CivilWar95\CivilWar95\Objects\Weapons\Firearms\Svd\data\svd_wood_co.paa"
 		};
 	};
-	class CV95_SVD_Old: SVD
+	class CW95_SVD_Old: SVD
 	{
 		scope=2;
 		hiddenSelectionsTextures[]=

@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class CV95_Objects_BuilderItems
+	class CW95_Objects_BuilderItems
 	{
 		units[]={};
 		weapons[]={};
@@ -15,924 +15,924 @@ class CfgPatches
 class CfgVehicles
 {
 	class TripwireTrap;
-	class CV95_ArmedTripwireTrap: TripwireTrap {};
+	class CW95_ArmedTripwireTrap: TripwireTrap {};
 
 	class LandMineTrap;
-	class CV95_ArmedLandMineTrap: LandMineTrap {};
+	class CW95_ArmedLandMineTrap: LandMineTrap {};
 
 	class BearTrap;
-	class CV95_ArmedBearTrap: BearTrap {};
+	class CW95_ArmedBearTrap: BearTrap {};
 
 	class Grenade_ChemGas;
-	class CV95_ArmedGrenade_ChemGas: Grenade_ChemGas {};
+	class CW95_ArmedGrenade_ChemGas: Grenade_ChemGas {};
 
 	class M67Grenade;
-	class CV95_ArmedM67Grenade: M67Grenade {};
+	class CW95_ArmedM67Grenade: M67Grenade {};
 
 	class RGD5Grenade;
-	class CV95_ArmedRGD5Grenade: RGD5Grenade {};
+	class CW95_ArmedRGD5Grenade: RGD5Grenade {};
 
 	class FlashGrenade;
-	class CV95_ArmedFlashGrenade: FlashGrenade {};
+	class CW95_ArmedFlashGrenade: FlashGrenade {};
 
 	class HouseNoDestruct;
-	class CV95_Effect_Base: HouseNoDestruct
+	class CW95_Effect_Base: HouseNoDestruct
 	{
 		scope=0;
 	};
-	class CV95_Effect_CAMP_FIRE_START: CV95_Effect_Base
+	class CW95_Effect_CAMP_FIRE_START: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_CAMP_SMALL_FIRE: CV95_Effect_Base
+	class CW95_Effect_CAMP_SMALL_FIRE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_CAMP_NORMAL_FIRE: CV95_Effect_Base
+	class CW95_Effect_CAMP_NORMAL_FIRE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_CAMP_SMALL_SMOKE: CV95_Effect_Base
+	class CW95_Effect_CAMP_SMALL_SMOKE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_CAMP_NORMAL_SMOKE: CV95_Effect_Base
+	class CW95_Effect_CAMP_NORMAL_SMOKE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_CAMP_FIRE_END: CV95_Effect_Base
+	class CW95_Effect_CAMP_FIRE_END: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_CAMP_STEAM_2END: CV95_Effect_Base
+	class CW95_Effect_CAMP_STEAM_2END: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_CAMP_STEAM_EXTINGUISH_START: CV95_Effect_Base
+	class CW95_Effect_CAMP_STEAM_EXTINGUISH_START: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_CAMP_STOVE_FIRE: CV95_Effect_Base
+	class CW95_Effect_CAMP_STOVE_FIRE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_CAMP_STOVE_FIRE_START: CV95_Effect_Base
+	class CW95_Effect_CAMP_STOVE_FIRE_START: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_CAMP_STOVE_FIRE_END: CV95_Effect_Base
+	class CW95_Effect_CAMP_STOVE_FIRE_END: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_CAMP_NO_IGNITE_WIND: CV95_Effect_Base
+	class CW95_Effect_CAMP_NO_IGNITE_WIND: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_HOUSE_FIRE_START: CV95_Effect_Base
+	class CW95_Effect_HOUSE_FIRE_START: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_HOUSE_SMALL_FIRE: CV95_Effect_Base
+	class CW95_Effect_HOUSE_SMALL_FIRE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_HOUSE_SMALL_SMOKE: CV95_Effect_Base
+	class CW95_Effect_HOUSE_SMALL_SMOKE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_HOUSE_NORMAL_FIRE: CV95_Effect_Base
+	class CW95_Effect_HOUSE_NORMAL_FIRE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_HOUSE_NORMAL_SMOKE: CV95_Effect_Base
+	class CW95_Effect_HOUSE_NORMAL_SMOKE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_HOUSE_FIRE_END: CV95_Effect_Base
+	class CW95_Effect_HOUSE_FIRE_END: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_HOUSE_FIRE_STEAM_2END: CV95_Effect_Base
+	class CW95_Effect_HOUSE_FIRE_STEAM_2END: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_BARREL_FIRE_START: CV95_Effect_Base
+	class CW95_Effect_BARREL_FIRE_START: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_BARREL_SMALL_FIRE: CV95_Effect_Base
+	class CW95_Effect_BARREL_SMALL_FIRE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_BARREL_SMALL_SMOKE: CV95_Effect_Base
+	class CW95_Effect_BARREL_SMALL_SMOKE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_BARREL_NORMAL_FIRE: CV95_Effect_Base
+	class CW95_Effect_BARREL_NORMAL_FIRE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_BARREL_NORMAL_SMOKE: CV95_Effect_Base
+	class CW95_Effect_BARREL_NORMAL_SMOKE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_BARREL_FIRE_END: CV95_Effect_Base
+	class CW95_Effect_BARREL_FIRE_END: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_BARREL_FIRE_STEAM_2END: CV95_Effect_Base
+	class CW95_Effect_BARREL_FIRE_STEAM_2END: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_OVEN_FIRE_START: CV95_Effect_Base
+	class CW95_Effect_OVEN_FIRE_START: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_OVEN_SMALL_FIRE: CV95_Effect_Base
+	class CW95_Effect_OVEN_SMALL_FIRE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_OVEN_NORMAL_FIRE: CV95_Effect_Base
+	class CW95_Effect_OVEN_NORMAL_FIRE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_OVEN_FIRE_END: CV95_Effect_Base
+	class CW95_Effect_OVEN_FIRE_END: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_COOKING_BOILING_EMPTY: CV95_Effect_Base
+	class CW95_Effect_COOKING_BOILING_EMPTY: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_COOKING_BOILING_START: CV95_Effect_Base
+	class CW95_Effect_COOKING_BOILING_START: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_COOKING_BOILING_DONE: CV95_Effect_Base
+	class CW95_Effect_COOKING_BOILING_DONE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_COOKING_BAKING_START: CV95_Effect_Base
+	class CW95_Effect_COOKING_BAKING_START: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_COOKING_BAKING_DONE: CV95_Effect_Base
+	class CW95_Effect_COOKING_BAKING_DONE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_COOKING_DRYING_START: CV95_Effect_Base
+	class CW95_Effect_COOKING_DRYING_START: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_COOKING_DRYING_DONE: CV95_Effect_Base
+	class CW95_Effect_COOKING_DRYING_DONE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_COOKING_BURNING_DONE: CV95_Effect_Base
+	class CW95_Effect_COOKING_BURNING_DONE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_TORCH_T3: CV95_Effect_Base
+	class CW95_Effect_TORCH_T3: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_TORCH_T1: CV95_Effect_Base
+	class CW95_Effect_TORCH_T1: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_TORCH_T2: CV95_Effect_Base
+	class CW95_Effect_TORCH_T2: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_BROOM_TORCH_T1: CV95_Effect_Base
+	class CW95_Effect_BROOM_TORCH_T1: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_BROOM_TORCH_T2: CV95_Effect_Base
+	class CW95_Effect_BROOM_TORCH_T2: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_BROOM_TORCH_T3: CV95_Effect_Base
+	class CW95_Effect_BROOM_TORCH_T3: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_ROADFLARE_BURNING_INIT: CV95_Effect_Base
+	class CW95_Effect_ROADFLARE_BURNING_INIT: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_ROADFLARE_BURNING_MAIN: CV95_Effect_Base
+	class CW95_Effect_ROADFLARE_BURNING_MAIN: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_ROADFLARE_BURNING_ENDING: CV95_Effect_Base
+	class CW95_Effect_ROADFLARE_BURNING_ENDING: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_ROADFLARE_BURNING_SMOKE: CV95_Effect_Base
+	class CW95_Effect_ROADFLARE_BURNING_SMOKE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_FLAREPROJ_FIRE: CV95_Effect_Base
+	class CW95_Effect_FLAREPROJ_FIRE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_FLAREPROJ_ACTIVATE: CV95_Effect_Base
+	class CW95_Effect_FLAREPROJ_ACTIVATE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_FLAREPROJ_ACTIVATE_RED: CV95_Effect_Base
+	class CW95_Effect_FLAREPROJ_ACTIVATE_RED: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_FLAREPROJ_ACTIVATE_GREEN: CV95_Effect_Base
+	class CW95_Effect_FLAREPROJ_ACTIVATE_GREEN: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_FLAREPROJ_ACTIVATE_BLUE: CV95_Effect_Base
+	class CW95_Effect_FLAREPROJ_ACTIVATE_BLUE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_DIGGING_STASH: CV95_Effect_Base
+	class CW95_Effect_DIGGING_STASH: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_RDG2_BLACK_START: CV95_Effect_Base
+	class CW95_Effect_GRENADE_RDG2_BLACK_START: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_RDG2_BLACK_LOOP: CV95_Effect_Base
+	class CW95_Effect_GRENADE_RDG2_BLACK_LOOP: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_RDG2_BLACK_END: CV95_Effect_Base
+	class CW95_Effect_GRENADE_RDG2_BLACK_END: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_RDG2_WHITE_START: CV95_Effect_Base
+	class CW95_Effect_GRENADE_RDG2_WHITE_START: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_RDG2_WHITE_LOOP: CV95_Effect_Base
+	class CW95_Effect_GRENADE_RDG2_WHITE_LOOP: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_RDG2_WHITE_END: CV95_Effect_Base
+	class CW95_Effect_GRENADE_RDG2_WHITE_END: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_M18_GREEN_START: CV95_Effect_Base
+	class CW95_Effect_GRENADE_M18_GREEN_START: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_M18_GREEN_LOOP: CV95_Effect_Base
+	class CW95_Effect_GRENADE_M18_GREEN_LOOP: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_M18_GREEN_END: CV95_Effect_Base
+	class CW95_Effect_GRENADE_M18_GREEN_END: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_M18_PURPLE_START: CV95_Effect_Base
+	class CW95_Effect_GRENADE_M18_PURPLE_START: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_M18_PURPLE_LOOP: CV95_Effect_Base
+	class CW95_Effect_GRENADE_M18_PURPLE_LOOP: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_M18_PURPLE_END: CV95_Effect_Base
+	class CW95_Effect_GRENADE_M18_PURPLE_END: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_M18_RED_START: CV95_Effect_Base
+	class CW95_Effect_GRENADE_M18_RED_START: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_M18_RED_LOOP: CV95_Effect_Base
+	class CW95_Effect_GRENADE_M18_RED_LOOP: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_M18_RED_END: CV95_Effect_Base
+	class CW95_Effect_GRENADE_M18_RED_END: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_M18_WHITE_START: CV95_Effect_Base
+	class CW95_Effect_GRENADE_M18_WHITE_START: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_M18_WHITE_LOOP: CV95_Effect_Base
+	class CW95_Effect_GRENADE_M18_WHITE_LOOP: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_M18_WHITE_END: CV95_Effect_Base
+	class CW95_Effect_GRENADE_M18_WHITE_END: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_M18_YELLOW_START: CV95_Effect_Base
+	class CW95_Effect_GRENADE_M18_YELLOW_START: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_M18_YELLOW_LOOP: CV95_Effect_Base
+	class CW95_Effect_GRENADE_M18_YELLOW_LOOP: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_M18_YELLOW_END: CV95_Effect_Base
+	class CW95_Effect_GRENADE_M18_YELLOW_END: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_M18_BLACK_START: CV95_Effect_Base
+	class CW95_Effect_GRENADE_M18_BLACK_START: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_M18_BLACK_LOOP: CV95_Effect_Base
+	class CW95_Effect_GRENADE_M18_BLACK_LOOP: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_M18_BLACK_END: CV95_Effect_Base
+	class CW95_Effect_GRENADE_M18_BLACK_END: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_M84: CV95_Effect_Base
+	class CW95_Effect_GRENADE_M84: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_RGD5: CV95_Effect_Base
+	class CW95_Effect_RGD5: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_M67: CV95_Effect_Base
+	class CW95_Effect_M67: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_POWER_GENERATOR_SMOKE: CV95_Effect_Base
+	class CW95_Effect_POWER_GENERATOR_SMOKE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_BARBED_WIRE_SPARKS: CV95_Effect_Base
+	class CW95_Effect_BARBED_WIRE_SPARKS: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_EASTER_EGG_ACTIVATE: CV95_Effect_Base
+	class CW95_Effect_EASTER_EGG_ACTIVATE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_BLEEDING_SOURCE: CV95_Effect_Base
+	class CW95_Effect_BLEEDING_SOURCE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_BLEEDING_SOURCE_LIGHT: CV95_Effect_Base
+	class CW95_Effect_BLEEDING_SOURCE_LIGHT: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_BLOOD_SURFACE_DROPS: CV95_Effect_Base
+	class CW95_Effect_BLOOD_SURFACE_DROPS: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_BLOOD_SURFACE_CHUNKS: CV95_Effect_Base
+	class CW95_Effect_BLOOD_SURFACE_CHUNKS: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_VOMIT: CV95_Effect_Base
+	class CW95_Effect_VOMIT: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_BREATH_VAPOUR_LIGHT: CV95_Effect_Base
+	class CW95_Effect_BREATH_VAPOUR_LIGHT: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_BREATH_VAPOUR_MEDIUM: CV95_Effect_Base
+	class CW95_Effect_BREATH_VAPOUR_MEDIUM: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_BREATH_VAPOUR_HEAVY: CV95_Effect_Base
+	class CW95_Effect_BREATH_VAPOUR_HEAVY: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_VOMIT_CHUNKS: CV95_Effect_Base
+	class CW95_Effect_VOMIT_CHUNKS: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_MUZZLE_FLASH_SVD_STAR: CV95_Effect_Base
+	class CW95_Effect_GUN_MUZZLE_FLASH_SVD_STAR: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_SOLO_MUZZLE_FLASH: CV95_Effect_Base
+	class CW95_Effect_GUN_SOLO_MUZZLE_FLASH: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_FNX: CV95_Effect_Base
+	class CW95_Effect_GUN_FNX: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_FNX_SUPPRESSED: CV95_Effect_Base
+	class CW95_Effect_GUN_FNX_SUPPRESSED: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_PARTICLE_TEST: CV95_Effect_Base
+	class CW95_Effect_GUN_PARTICLE_TEST: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_PARTICLE_CASING: CV95_Effect_Base
+	class CW95_Effect_GUN_PARTICLE_CASING: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_PARTICLE_CASING_RAISE: CV95_Effect_Base
+	class CW95_Effect_GUN_PARTICLE_CASING_RAISE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_CZ75: CV95_Effect_Base
+	class CW95_Effect_GUN_CZ75: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_AKM: CV95_Effect_Base
+	class CW95_Effect_GUN_AKM: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_AKM_SUPPRESSED: CV95_Effect_Base
+	class CW95_Effect_GUN_AKM_SUPPRESSED: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_IZH18: CV95_Effect_Base
+	class CW95_Effect_GUN_IZH18: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_IZH18_SUPPRESSED: CV95_Effect_Base
+	class CW95_Effect_GUN_IZH18_SUPPRESSED: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_MP5K: CV95_Effect_Base
+	class CW95_Effect_GUN_MP5K: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_MP5K_2: CV95_Effect_Base
+	class CW95_Effect_GUN_MP5K_2: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_MP5K_SUPPRESSED: CV95_Effect_Base
+	class CW95_Effect_GUN_MP5K_SUPPRESSED: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_MP5K_COMPENSATOR: CV95_Effect_Base
+	class CW95_Effect_GUN_MP5K_COMPENSATOR: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_UMP45: CV95_Effect_Base
+	class CW95_Effect_GUN_UMP45: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_M4A1: CV95_Effect_Base
+	class CW95_Effect_GUN_M4A1: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_MP133: CV95_Effect_Base
+	class CW95_Effect_GUN_MP133: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_PELLETS: CV95_Effect_Base
+	class CW95_Effect_GUN_PELLETS: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_MOSIN9130: CV95_Effect_Base
+	class CW95_Effect_GUN_MOSIN9130: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_MOSIN_COMPENSATOR: CV95_Effect_Base
+	class CW95_Effect_GUN_MOSIN_COMPENSATOR: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_CZ527: CV95_Effect_Base
+	class CW95_Effect_GUN_CZ527: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_SKS: CV95_Effect_Base
+	class CW95_Effect_GUN_SKS: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_WINCHESTER70: CV95_Effect_Base
+	class CW95_Effect_GUN_WINCHESTER70: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_VSS: CV95_Effect_Base
+	class CW95_Effect_GUN_VSS: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_AK74: CV95_Effect_Base
+	class CW95_Effect_GUN_AK74: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_AK101: CV95_Effect_Base
+	class CW95_Effect_GUN_AK101: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_MAGNUM: CV95_Effect_Base
+	class CW95_Effect_GUN_MAGNUM: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_CZ61: CV95_Effect_Base
+	class CW95_Effect_GUN_CZ61: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_LONG_WINDED_SMOKE: CV95_Effect_Base
+	class CW95_Effect_GUN_LONG_WINDED_SMOKE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GUN_LONG_WINDED_SMOKE_SMALL: CV95_Effect_Base
+	class CW95_Effect_GUN_LONG_WINDED_SMOKE_SMALL: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_SMOKING_BARREL: CV95_Effect_Base
+	class CW95_Effect_SMOKING_BARREL: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_SMOKING_BARREL_SMALL: CV95_Effect_Base
+	class CW95_Effect_SMOKING_BARREL_SMALL: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_SMOKING_BARREL_HEAVY: CV95_Effect_Base
+	class CW95_Effect_SMOKING_BARREL_HEAVY: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_SMOKING_BARREL_STEAM: CV95_Effect_Base
+	class CW95_Effect_SMOKING_BARREL_STEAM: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_SMOKING_BARREL_STEAM_SMALL: CV95_Effect_Base
+	class CW95_Effect_SMOKING_BARREL_STEAM_SMALL: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_SMARKS_CHAMBER: CV95_Effect_Base
+	class CW95_Effect_SMARKS_CHAMBER: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_TEST: CV95_Effect_Base
+	class CW95_Effect_IMPACT_TEST: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_DISTANT_DUST: CV95_Effect_Base
+	class CW95_Effect_IMPACT_DISTANT_DUST: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_TEST_RICOCHET: CV95_Effect_Base
+	class CW95_Effect_IMPACT_TEST_RICOCHET: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_TEST2: CV95_Effect_Base
+	class CW95_Effect_IMPACT_TEST2: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_TEST_ENTER_DEBUG: CV95_Effect_Base
+	class CW95_Effect_IMPACT_TEST_ENTER_DEBUG: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_TEST_RICOCHET_DEBUG: CV95_Effect_Base
+	class CW95_Effect_IMPACT_TEST_RICOCHET_DEBUG: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_TEST_EXIT_DEBUG: CV95_Effect_Base
+	class CW95_Effect_IMPACT_TEST_EXIT_DEBUG: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_TEST_NO_MATERIAL_ERROR: CV95_Effect_Base
+	class CW95_Effect_IMPACT_TEST_NO_MATERIAL_ERROR: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_WOOD_ENTER: CV95_Effect_Base
+	class CW95_Effect_IMPACT_WOOD_ENTER: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_WOOD_RICOCHET: CV95_Effect_Base
+	class CW95_Effect_IMPACT_WOOD_RICOCHET: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_WOOD_EXIT: CV95_Effect_Base
+	class CW95_Effect_IMPACT_WOOD_EXIT: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_CONCRETE_ENTER: CV95_Effect_Base
+	class CW95_Effect_IMPACT_CONCRETE_ENTER: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_CONCRETE_RICOCHET: CV95_Effect_Base
+	class CW95_Effect_IMPACT_CONCRETE_RICOCHET: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_CONCRETE_EXIT: CV95_Effect_Base
+	class CW95_Effect_IMPACT_CONCRETE_EXIT: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_FOLIAGE_ENTER: CV95_Effect_Base
+	class CW95_Effect_IMPACT_FOLIAGE_ENTER: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_FOLIAGE_RICOCHET: CV95_Effect_Base
+	class CW95_Effect_IMPACT_FOLIAGE_RICOCHET: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_FOLIAGE_EXIT: CV95_Effect_Base
+	class CW95_Effect_IMPACT_FOLIAGE_EXIT: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_GRASS_ENTER: CV95_Effect_Base
+	class CW95_Effect_IMPACT_GRASS_ENTER: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_GRASS_RICOCHET: CV95_Effect_Base
+	class CW95_Effect_IMPACT_GRASS_RICOCHET: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_DIRT_ENTER: CV95_Effect_Base
+	class CW95_Effect_IMPACT_DIRT_ENTER: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_DIRT_RICOCHET: CV95_Effect_Base
+	class CW95_Effect_IMPACT_DIRT_RICOCHET: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_DIRT_EXIT: CV95_Effect_Base
+	class CW95_Effect_IMPACT_DIRT_EXIT: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_RUBBER_ENTER: CV95_Effect_Base
+	class CW95_Effect_IMPACT_RUBBER_ENTER: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_RUBBER_RICOCHET: CV95_Effect_Base
+	class CW95_Effect_IMPACT_RUBBER_RICOCHET: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_RUBBER_EXIT: CV95_Effect_Base
+	class CW95_Effect_IMPACT_RUBBER_EXIT: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_GRAVEL_ENTER: CV95_Effect_Base
+	class CW95_Effect_IMPACT_GRAVEL_ENTER: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_GRAVEL_RICOCHET: CV95_Effect_Base
+	class CW95_Effect_IMPACT_GRAVEL_RICOCHET: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_GRAVEL_EXIT: CV95_Effect_Base
+	class CW95_Effect_IMPACT_GRAVEL_EXIT: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_PLASTER_ENTER: CV95_Effect_Base
+	class CW95_Effect_IMPACT_PLASTER_ENTER: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_PLASTER_RICOCHET: CV95_Effect_Base
+	class CW95_Effect_IMPACT_PLASTER_RICOCHET: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_PLASTER_EXIT: CV95_Effect_Base
+	class CW95_Effect_IMPACT_PLASTER_EXIT: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_METAL_ENTER: CV95_Effect_Base
+	class CW95_Effect_IMPACT_METAL_ENTER: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_METAL_RICOCHET: CV95_Effect_Base
+	class CW95_Effect_IMPACT_METAL_RICOCHET: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_METAL_EXIT: CV95_Effect_Base
+	class CW95_Effect_IMPACT_METAL_EXIT: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_MEAT_ENTER: CV95_Effect_Base
+	class CW95_Effect_IMPACT_MEAT_ENTER: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_MEAT_RICOCHET: CV95_Effect_Base
+	class CW95_Effect_IMPACT_MEAT_RICOCHET: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_MEAT_EXIT: CV95_Effect_Base
+	class CW95_Effect_IMPACT_MEAT_EXIT: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_MEATBONES_ENTER: CV95_Effect_Base
+	class CW95_Effect_IMPACT_MEATBONES_ENTER: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_MEATBONES_RICOCHET: CV95_Effect_Base
+	class CW95_Effect_IMPACT_MEATBONES_RICOCHET: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_MEATBONES_EXIT: CV95_Effect_Base
+	class CW95_Effect_IMPACT_MEATBONES_EXIT: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_GLASS_ENTER: CV95_Effect_Base
+	class CW95_Effect_IMPACT_GLASS_ENTER: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_GLASS_RICOCHET: CV95_Effect_Base
+	class CW95_Effect_IMPACT_GLASS_RICOCHET: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_GLASS_EXIT: CV95_Effect_Base
+	class CW95_Effect_IMPACT_GLASS_EXIT: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_WATER_SMALL_ENTER: CV95_Effect_Base
+	class CW95_Effect_IMPACT_WATER_SMALL_ENTER: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_WATER_MEDIUM_ENTER: CV95_Effect_Base
+	class CW95_Effect_IMPACT_WATER_MEDIUM_ENTER: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_WATER_LARGE_ENTER: CV95_Effect_Base
+	class CW95_Effect_IMPACT_WATER_LARGE_ENTER: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_TEXTILE_ENTER: CV95_Effect_Base
+	class CW95_Effect_IMPACT_TEXTILE_ENTER: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_TEXTILE_RICOCHET: CV95_Effect_Base
+	class CW95_Effect_IMPACT_TEXTILE_RICOCHET: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_TEXTILE_EXIT: CV95_Effect_Base
+	class CW95_Effect_IMPACT_TEXTILE_EXIT: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_SAND_ENTER: CV95_Effect_Base
+	class CW95_Effect_IMPACT_SAND_ENTER: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_SAND_RICOCHET: CV95_Effect_Base
+	class CW95_Effect_IMPACT_SAND_RICOCHET: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_SAND_EXIT: CV95_Effect_Base
+	class CW95_Effect_IMPACT_SAND_EXIT: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_PLASTIC_ENTER: CV95_Effect_Base
+	class CW95_Effect_IMPACT_PLASTIC_ENTER: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_PLASTIC_RICOCHET: CV95_Effect_Base
+	class CW95_Effect_IMPACT_PLASTIC_RICOCHET: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_IMPACT_PLASTIC_EXIT: CV95_Effect_Base
+	class CW95_Effect_IMPACT_PLASTIC_EXIT: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_EXPLOSION_LANDMINE: CV95_Effect_Base
+	class CW95_Effect_EXPLOSION_LANDMINE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_EXPLOSION_TEST: CV95_Effect_Base
+	class CW95_Effect_EXPLOSION_TEST: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_SMOKING_HELI_WRECK: CV95_Effect_Base
+	class CW95_Effect_SMOKING_HELI_WRECK: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_AURORA_SANTA_WRECK: CV95_Effect_Base
+	class CW95_Effect_AURORA_SANTA_WRECK: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_SMOKE_GENERIC_WRECK: CV95_Effect_Base
+	class CW95_Effect_SMOKE_GENERIC_WRECK: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_SMOKING_CAR_ENGINE: CV95_Effect_Base
+	class CW95_Effect_SMOKING_CAR_ENGINE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_EVAPORATION: CV95_Effect_Base
+	class CW95_Effect_EVAPORATION: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_HATCHBACK_COOLANT_OVERHEATING: CV95_Effect_Base
+	class CW95_Effect_HATCHBACK_COOLANT_OVERHEATING: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_HATCHBACK_COOLANT_OVERHEATED: CV95_Effect_Base
+	class CW95_Effect_HATCHBACK_COOLANT_OVERHEATED: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_HATCHBACK_ENGINE_OVERHEATING: CV95_Effect_Base
+	class CW95_Effect_HATCHBACK_ENGINE_OVERHEATING: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_HATCHBACK_ENGINE_OVERHEATED: CV95_Effect_Base
+	class CW95_Effect_HATCHBACK_ENGINE_OVERHEATED: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_HATCHBACK_EXHAUST_SMOKE: CV95_Effect_Base
+	class CW95_Effect_HATCHBACK_EXHAUST_SMOKE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_ENV_SWARMING_FLIES: CV95_Effect_Base
+	class CW95_Effect_ENV_SWARMING_FLIES: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_BONFIRE_FIRE: CV95_Effect_Base
+	class CW95_Effect_BONFIRE_FIRE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_BONFIRE_SMOKE: CV95_Effect_Base
+	class CW95_Effect_BONFIRE_SMOKE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_SPOOKY_MIST: CV95_Effect_Base
+	class CW95_Effect_SPOOKY_MIST: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_VOMIT_BLOOD: CV95_Effect_Base
+	class CW95_Effect_VOMIT_BLOOD: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_CONTAMINATED_AREA_GAS_TINY: CV95_Effect_Base
+	class CW95_Effect_CONTAMINATED_AREA_GAS_TINY: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_CONTAMINATED_AREA_GAS_AROUND: CV95_Effect_Base
+	class CW95_Effect_CONTAMINATED_AREA_GAS_AROUND: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_CONTAMINATED_AREA_GAS_BIGASS: CV95_Effect_Base
+	class CW95_Effect_CONTAMINATED_AREA_GAS_BIGASS: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_CONTAMINATED_AREA_GAS_GROUND: CV95_Effect_Base
+	class CW95_Effect_CONTAMINATED_AREA_GAS_GROUND: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_CONTAMINATED_AREA_GAS_SHELL: CV95_Effect_Base
+	class CW95_Effect_CONTAMINATED_AREA_GAS_SHELL: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_FIREWORKS_SHOT: CV95_Effect_Base
+	class CW95_Effect_FIREWORKS_SHOT: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_FIREWORKS_EXPLOSION_RED: CV95_Effect_Base
+	class CW95_Effect_FIREWORKS_EXPLOSION_RED: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_FIREWORKS_EXPLOSION_GREEN: CV95_Effect_Base
+	class CW95_Effect_FIREWORKS_EXPLOSION_GREEN: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_FIREWORKS_EXPLOSION_BLUE: CV95_Effect_Base
+	class CW95_Effect_FIREWORKS_EXPLOSION_BLUE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_FIREWORKS_EXPLOSION_YELLOW: CV95_Effect_Base
+	class CW95_Effect_FIREWORKS_EXPLOSION_YELLOW: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_FIREWORKS_EXPLOSION_PINK: CV95_Effect_Base
+	class CW95_Effect_FIREWORKS_EXPLOSION_PINK: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_FIREWORKS_FUSE: CV95_Effect_Base
+	class CW95_Effect_FIREWORKS_FUSE: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_FIREWORKS_AFTERBURN_START: CV95_Effect_Base
+	class CW95_Effect_FIREWORKS_AFTERBURN_START: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_FIREWORKS_AFTERBURN_END: CV95_Effect_Base
+	class CW95_Effect_FIREWORKS_AFTERBURN_END: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_GRENADE_CHEM_BREAK: CV95_Effect_Base
+	class CW95_Effect_GRENADE_CHEM_BREAK: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_CLAYMORE_EXPLOSION: CV95_Effect_Base
+	class CW95_Effect_CLAYMORE_EXPLOSION: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_PLASTIC_EXPLOSION: CV95_Effect_Base
+	class CW95_Effect_PLASTIC_EXPLOSION: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_WATER_JET: CV95_Effect_Base
+	class CW95_Effect_WATER_JET: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_WATER_JET_WEAK: CV95_Effect_Base
+	class CW95_Effect_WATER_JET_WEAK: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_WATER_SPILLING: CV95_Effect_Base
+	class CW95_Effect_WATER_SPILLING: CW95_Effect_Base
 	{
 		scope=2;
 	};
-	class CV95_Effect_DROWNING_BUBBLES: CV95_Effect_Base
+	class CW95_Effect_DROWNING_BUBBLES: CW95_Effect_Base
 	{
 		scope=2;
 	};

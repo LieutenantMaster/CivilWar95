@@ -11,7 +11,7 @@
 
 class CfgPatches
 {
-	class CV95_Weapons_Shotguns_MP133
+	class CW95_Weapons_Shotguns_MP133
 	{
 		units[]={};
 		weapons[]={};
@@ -25,14 +25,14 @@ class CfgPatches
 class cfgWeapons
 {
 	class Mp133Shotgun;
-	class CV95_Mp133Shotgun_Old: Mp133Shotgun
+	class CW95_Mp133Shotgun_Old: Mp133Shotgun
 	{
 		hiddenSelectionsTextures[]=
 		{
 			"CivilWar95\CivilWar95\Objects\Weapons\Shotguns\Mp133\data\mp133_old_co.paa"
 		};
 	};
-	class CV95_Mp133Shotgun_Mat_Black: Mp133Shotgun
+	class CW95_Mp133Shotgun_Mat_Black: Mp133Shotgun
 	{
 		hiddenSelectionsTextures[]=
 		{

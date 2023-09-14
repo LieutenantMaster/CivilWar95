@@ -1,6 +1,17 @@
+/**
+ * config.cpp
+ *
+ * © 2023 CivilWar95
+ * By LieutenantMaster and Niphoria
+ *
+ * This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+ * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
+ *
+*/
+
 class CfgPatches
 {
-	class CV95_Objects_Gear_MusicPlayer
+	class CW95_Objects_Gear_MusicPlayer
 	{
 		units[]={};
 		weapons[]={};
@@ -19,12 +30,12 @@ class CfgVehicles
 	{
 		attachments[]+=
 		{
-			"CV95_Radio"
+			"CW95_Radio"
 		};
 	};
 	
 	class Inventory_Base;
-	class CV95_MusicPlayer: Inventory_Base
+	class CW95_MusicPlayer: Inventory_Base
 	{
 		scope=2;
 		rotationFlags=1;
@@ -36,13 +47,13 @@ class CfgVehicles
 		soundImpactType="plastic";
 		inventorySlot[]=
 		{
-			"CV95_Radio",
+			"CW95_Radio",
 			"Belt_Left"
 		};
 		attachments[]=
 		{
 			"BatteryD",
-			"CV95_Cassette"
+			"CW95_Cassette"
 		};
 		hiddenSelections[]=
 		{
@@ -115,7 +126,7 @@ class CfgVehicles
 			};
 		};
 	};
-	class CV95_Cassette_Base: Inventory_Base
+	class CW95_Cassette_Base: Inventory_Base
 	{
 		scope=0;
 		displayName="$STR_CW95_CASSETTEBASE_NAME";
@@ -124,7 +135,7 @@ class CfgVehicles
 		soundImpactType="plastic";
 		inventorySlot[]=
 		{
-			"CV95_Cassette"
+			"CW95_Cassette"
 		};
 		weight=50;
 		itemSize[]={2,1};
@@ -149,7 +160,7 @@ class CfgVehicles
 			};
 		};
 	};
-	class CV95_Cassette_BosanskaArtiljerija: CV95_Cassette_Base
+	class CW95_Cassette_BosanskaArtiljerija: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 216.0;
@@ -157,10 +168,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_BosanskaArtiljerija_Music"
+			"CW95_BosanskaArtiljerija_Music"
 		};
 	};
-	class CV95_Cassette_Rossiya: CV95_Cassette_Base
+	class CW95_Cassette_Rossiya: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 188.0;
@@ -168,10 +179,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_Rossiya_Music"
+			"CW95_Rossiya_Music"
 		};
 	};
-	class CV95_Cassette_ChernarussianAnthem: CV95_Cassette_Base
+	class CW95_Cassette_ChernarussianAnthem: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 78.0;
@@ -179,10 +190,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_ChernarussianAnthem_Music"
+			"CW95_ChernarussianAnthem_Music"
 		};
 	};
-	class CV95_Cassette_CrniBombarderi: CV95_Cassette_Base
+	class CW95_Cassette_CrniBombarderi: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 133.0;
@@ -190,10 +201,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_CrniBombarderi_Music"
+			"CW95_CrniBombarderi_Music"
 		};
 	};
-	class CV95_Cassette_DarkIsTheNight: CV95_Cassette_Base
+	class CW95_Cassette_DarkIsTheNight: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 168.0;
@@ -201,10 +212,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_DarkIsTheNight_Music"
+			"CW95_DarkIsTheNight_Music"
 		};
 	};
-	class CV95_Cassette_DontTellMomImInChechnya: CV95_Cassette_Base
+	class CW95_Cassette_DontTellMomImInChechnya: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 186.0;
@@ -212,10 +223,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_DontTellMomImInChechnya_Music"
+			"CW95_DontTellMomImInChechnya_Music"
 		};
 	};
-	class CV95_Cassette_International: CV95_Cassette_Base
+	class CW95_Cassette_International: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 238.0;
@@ -223,10 +234,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_International_Music"
+			"CW95_International_Music"
 		};
 	};
-	class CV95_Cassette_Karavan: CV95_Cassette_Base
+	class CW95_Cassette_Karavan: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 209.0;
@@ -234,10 +245,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_Karavan_Music"
+			"CW95_Karavan_Music"
 		};
 	};
-	class CV95_Cassette_Katyusha: CV95_Cassette_Base
+	class CW95_Cassette_Katyusha: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 129.0;
@@ -245,10 +256,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_Katyusha_Music"
+			"CW95_Katyusha_Music"
 		};
 	};
-	class CV95_Cassette_Kombat: CV95_Cassette_Base
+	class CW95_Cassette_Kombat: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 300.0;
@@ -256,10 +267,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_Kombat_Music"
+			"CW95_Kombat_Music"
 		};
 	};
-	class CV95_Cassette_MyDadIsAWarCriminal: CV95_Cassette_Base
+	class CW95_Cassette_MyDadIsAWarCriminal: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 143.0;
@@ -267,10 +278,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_MyDadIsAWarCriminal_Music"
+			"CW95_MyDadIsAWarCriminal_Music"
 		};
 	};
-	class CV95_Cassette_NoviGod: CV95_Cassette_Base
+	class CW95_Cassette_NoviGod: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 238.0;
@@ -278,10 +289,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_NoviGod_Music"
+			"CW95_NoviGod_Music"
 		};
 	};
-	class CV95_Cassette_OjAlijaAljo: CV95_Cassette_Base
+	class CW95_Cassette_OjAlijaAljo: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 183.0;
@@ -289,10 +300,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_OjAlijaAljo_Music"
+			"CW95_OjAlijaAljo_Music"
 		};
 	};
-	class CV95_Cassette_PolyushkaPolye: CV95_Cassette_Base
+	class CW95_Cassette_PolyushkaPolye: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 194.0;
@@ -300,10 +311,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_PolyushkaPolye_Music"
+			"CW95_PolyushkaPolye_Music"
 		};
 	};
-	class CV95_Cassette_RemoveTakistani: CV95_Cassette_Base
+	class CW95_Cassette_RemoveTakistani: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 306.0;
@@ -311,10 +322,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_RemoveTakistani_Music"
+			"CW95_RemoveTakistani_Music"
 		};
 	};
-	class CV95_Cassette_ThreeChoppersOverMozdok: CV95_Cassette_Base
+	class CW95_Cassette_ThreeChoppersOverMozdok: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 185.0;
@@ -322,10 +333,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_ThreeChoppersOverMozdok_Music"
+			"CW95_ThreeChoppersOverMozdok_Music"
 		};
 	};
-	class CV95_Cassette_Troika: CV95_Cassette_Base
+	class CW95_Cassette_Troika: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 199.0;
@@ -333,10 +344,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_Troika_Music"
+			"CW95_Troika_Music"
 		};
 	};
-	class CV95_Cassette_TheBigHangover: CV95_Cassette_Base
+	class CW95_Cassette_TheBigHangover: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 138.0;
@@ -344,10 +355,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_TheBigHangover_Music"
+			"CW95_TheBigHangover_Music"
 		};
 	};
-	class CV95_Cassette_Atas: CV95_Cassette_Base
+	class CW95_Cassette_Atas: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 206.0;
@@ -355,10 +366,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_Atas_Music"
+			"CW95_Atas_Music"
 		};
 	};
-	class CV95_Cassette_PoslednyayaLyubov: CV95_Cassette_Base
+	class CW95_Cassette_PoslednyayaLyubov: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 261.0;
@@ -366,10 +377,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_PoslednyayaLyubov_Music"
+			"CW95_PoslednyayaLyubov_Music"
 		};
 	};
-	class CV95_Cassette_DavaiZa: CV95_Cassette_Base
+	class CW95_Cassette_DavaiZa: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 250.0;
@@ -377,10 +388,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_DavaiZa_Music"
+			"CW95_DavaiZa_Music"
 		};
 	};
-	class CV95_Cassette_MilyeZelyonyeGlaza: CV95_Cassette_Base
+	class CW95_Cassette_MilyeZelyonyeGlaza: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 184.0;
@@ -388,10 +399,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_MilyeZelyonyeGlaza_Music"
+			"CW95_MilyeZelyonyeGlaza_Music"
 		};
 	};
-	class CV95_Cassette_Kukushka: CV95_Cassette_Base
+	class CW95_Cassette_Kukushka: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 387.0;
@@ -399,10 +410,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_Kukushka_Music"
+			"CW95_Kukushka_Music"
 		};
 	};
-	class CV95_Cassette_Leto: CV95_Cassette_Base
+	class CW95_Cassette_Leto: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 354.0;
@@ -410,10 +421,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_Leto_Music"
+			"CW95_Leto_Music"
 		};
 	};
-	class CV95_Cassette_GruppaKrovi: CV95_Cassette_Base
+	class CW95_Cassette_GruppaKrovi: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 284.0;
@@ -421,10 +432,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_GruppaKrovi_Music"
+			"CW95_GruppaKrovi_Music"
 		};
 	};
-	class CV95_Cassette_Zvezda: CV95_Cassette_Base
+	class CW95_Cassette_Zvezda: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 266.0;
@@ -432,10 +443,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_Zvezda_Music"
+			"CW95_Zvezda_Music"
 		};
 	};
-	class CV95_Cassette_Peremen: CV95_Cassette_Base
+	class CW95_Cassette_Peremen: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 292.0;
@@ -443,10 +454,10 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_Peremen_Music"
+			"CW95_Peremen_Music"
 		};
 	};
-	class CV95_Cassette_ChDKZAnthem: CV95_Cassette_Base
+	class CW95_Cassette_ChDKZAnthem: CW95_Cassette_Base
 	{
 		scope=2;
 		trackTime = 133.0;
@@ -454,7 +465,7 @@ class CfgVehicles
 		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
 		Tracks[] = 
 		{
-			"CV95_ChDKZAnthem_Music"
+			"CW95_ChDKZAnthem_Music"
 		};
 	};
 };
@@ -462,42 +473,42 @@ class CfgVehicles
 class CfgNonAIVehicles
 {
 	class ProxyAttachment;
-	//class ProxyCV95Radio: ProxyAttachment
+	//class ProxyCW95Radio: ProxyAttachment
 	//{
 	//	scope=2;
 	//	inventorySlot[]=
 	//	{
-	//		"CV95_ExternalBag"
+	//		"CW95_ExternalBag"
 	//	};
-		//model="Silens-Nox-Redux\CV95_CLOTHES\Attachments\NBCBag\Models\cannister.p3d";
+		//model="Silens-Nox-Redux\CW95_CLOTHES\Attachments\NBCBag\Models\cannister.p3d";
 	//};
-	class ProxyCV95_Cassette: ProxyAttachment
+	class ProxyCW95_Cassette: ProxyAttachment
 	{
 		scope=2;
 		inventorySlot[]=
 		{
-			"CV95_Cassette"
+			"CW95_Cassette"
 		};
 		model="\dz\gear\tools\cassette.p3d";
 	};
 };
 class CfgSlots
 {
-	class Slot_CV95_ExternalBag
+	class Slot_CW95_ExternalBag
 	{
-		name="CV95_ExternalBag";
+		name="CW95_ExternalBag";
 		displayName="External Bag";
 		ghostIcon="set:dayz_inventory image:back";
 	};
-	class Slot_CV95_Cassette
+	class Slot_CW95_Cassette
 	{
-		name="CV95_Cassette";
+		name="CW95_Cassette";
 		displayName="Cassette";
 		ghostIcon="plant";
 	};
-	class Slot_CV95_Radio
+	class Slot_CW95_Radio
 	{
-		name="CV95_Radio";
+		name="CW95_Radio";
 		displayName="Cassette Player";
 		ghostIcon="plant";
 	};

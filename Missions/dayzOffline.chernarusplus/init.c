@@ -36,8 +36,8 @@ void main()
 		}
 	}
 
-	if ( !FileExist( CV95_PATH_MISSION_PLAYERDATA ) )
-		ExpansionStatic.MakeDirectoryRecursive( CV95_PATH_MISSION_PLAYERDATA );
+	if ( !FileExist( CW95_PATH_MISSION_PLAYERDATA ) )
+		ExpansionStatic.MakeDirectoryRecursive( CW95_PATH_MISSION_PLAYERDATA );
 };
 
 class CustomMission: MissionServer
@@ -95,14 +95,14 @@ class CustomMission: MissionServer
 				PlayerIdentity identity = newParams.param1;
 				string steamid = identity.GetPlainId();
 
-				if ( FindInFile( "$profile:CV95\\Data\\blacklist.txt", steamid ) )
+				if ( FindInFile( "$profile:CW95\\Data\\blacklist.txt", steamid ) )
 				{
 					Print("[CivilWar95]:: LOGIN:: Blacklist:: Connection denied to the player " + steamid);
 					OnClientDisconnectedEvent(identity, NULL, 0, true);
 					return;
 				}
 
-				if ( !FindInFile( "$profile:CV95\\Data\\whitelist.txt", steamid ) )
+				if ( !FindInFile( "$profile:CW95\\Data\\whitelist.txt", steamid ) )
 				{
 					Print("[CivilWar95]:: LOGIN:: Whitelist:: Connection denied to the player " + steamid);
 					OnClientDisconnectedEvent(identity, NULL, 0, true);
@@ -120,12 +120,12 @@ class CustomMission: MissionServer
 
 	void OnCheckOnlinePlayers()
 	{
-		WriteFile( "$profile:CV95\\Data\\online.txt", m_SteamIDs );
+		WriteFile( "$profile:CW95\\Data\\online.txt", m_SteamIDs );
 		
 		array<string> discordUsers = new array<string>;
 		array<string> steamids = new array<string>;
 		array<string> username = new array<string>;
-		if ( ReadFile( "$profile:CV95\\Data\\discord_online.txt", discordUsers ) )
+		if ( ReadFile( "$profile:CW95\\Data\\discord_online.txt", discordUsers ) )
 		{
 			foreach(string discordUser: discordUsers)
 			{
@@ -254,7 +254,7 @@ class CustomMission: MissionServer
 		string loadoutType = "DEFAULT";
 
 		string steamID = m_player.GetIdentity().GetPlainId();
-		string filename = CV95_PATH_MISSION_PLAYERDATA + steamID + ".map";
+		string filename = CW95_PATH_MISSION_PLAYERDATA + steamID + ".map";
 
 		FileHandle file;
 		if (!FileExist( filename ))

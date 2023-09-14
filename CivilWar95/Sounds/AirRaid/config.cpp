@@ -11,7 +11,7 @@
 
 class CfgPatches
 {
-	class CV95_Sounds_AirRaid
+	class CW95_Sounds_AirRaid
 	{
 		units[]={};
 		weapons[]={};
@@ -39,6 +39,31 @@ class CfgSoundShaders
 	class CW95_GenericPlane_Loop_SoundShader: CW95_GenericVehicle_Engine_SoundShader
 	{
 		samples[] = {{"CivilWar95\CivilWar95\Sounds\AirRaid\CW95_Su34_Engine_Ext",1}};
+		volume = 2;
+	};
+	class CW95_GenericHeliExplosion_SoundShader: CW95_GenericVehicle_Engine_SoundShader
+	{
+		samples[] = {{"NULL",1}};
+		volume = 2;
+	};
+	class CW95_GenericHeliCrash_SoundShader: CW95_GenericVehicle_Engine_SoundShader
+	{
+		samples[] = {{"NULL",1}};
+		volume = 2;
+	};
+	class CW95_GenericBombExplosion_SoundShader: CW95_GenericVehicle_Engine_SoundShader
+	{
+		samples[] = {{"NULL",1}};
+		volume = 2;
+	};
+	class CW95_GenericRocketExplosion_SoundShader: CW95_GenericVehicle_Engine_SoundShader
+	{
+		samples[] = {{"NULL",1}};
+		volume = 2;
+	};
+	class CW95_GenericGunJakb_SoundShader: CW95_GenericVehicle_Engine_SoundShader
+	{
+		samples[] = {{"NULL",1}};
 		volume = 2;
 	};
 };

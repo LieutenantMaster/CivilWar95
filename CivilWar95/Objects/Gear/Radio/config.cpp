@@ -11,7 +11,7 @@
 
 class CfgPatches
 {
-	class CV95_Gear_Radio
+	class CW95_Gear_Radio
 	{
 		units[]={};
 		weapons[]={};
@@ -25,16 +25,22 @@ class CfgPatches
 class CfgVehicles
 {
 	class Inventory_Base;
-	class CV95_Whistle_Base : Inventory_Base
+	class CW95_Whistle_Base : Inventory_Base
 	{
 		scope=0;
+		WhistleSoundSet="CW95_Whistle_01_SoundSet";
+		WhistleLength=1531;
+		WhistleLengthDelay=3531;
 	};
-	class CV95_Whistle_Generic : CV95_Whistle_Base
+	class CW95_Whistle_Generic : CW95_Whistle_Base
 	{
 		scope=0;
 		displayName="Sifflet (à bille)";
 		descriptionShort="Les sifflets partagent avec les flûtes le mécanisme d'induction de l'air par biseau pour produire un son.";
 		model="CivilWar95\CivilWar95\Objects\Gear\Radio\Whistles\whistle01.p3d";
+		WhistleSoundSet="CW95_Whistle_01_SoundSet";
+		WhistleLength=1531;
+		WhistleLengthDelay=3531;
 		weight=100;
 		absorbency=0.5;
 		itemSize[]={2,1};
@@ -68,50 +74,37 @@ class CfgVehicles
 			};
 		};
 	};
-	class CV95_Whistle_Shiny : CV95_Whistle_Generic
+	class CW95_Whistle_Mat : CW95_Whistle_Generic
 	{
 		scope=2;
-		hiddenSelectionsTextures[]=
-		{
-			"CivilWar95\CivilWar95\Objects\Gear\Radio\Whistles\data\Whistle_shiny_co.paa"
-		};
-	};
-	class CV95_Whistle_Mat : CV95_Whistle_Generic
-	{
-		scope=2;
+		WhistleSoundSet="CW95_Whistle_02_SoundSet";
+		WhistleLength=1840;
+		WhistleLengthDelay=2440;
 		hiddenSelectionsTextures[]=
 		{
 			"CivilWar95\CivilWar95\Objects\Gear\Radio\Whistles\data\Whistle_mat_co.paa"
 		};
 	};
-	//! Comedic whistle
-	class CV95_Whistle_Toy : CV95_Whistle_Generic
+	class CW95_Whistle_Shiny : CW95_Whistle_Generic
 	{
 		scope=2;
+		WhistleSoundSet="CW95_Whistle_03_SoundSet";
+		WhistleLength=1917;
+		WhistleLengthDelay=2817;
+		hiddenSelectionsTextures[]=
+		{
+			"CivilWar95\CivilWar95\Objects\Gear\Radio\Whistles\data\Whistle_shiny_co.paa"
+		};
+	};
+	class CW95_Whistle_Toy : CW95_Whistle_Generic
+	{
+		scope=2;
+		WhistleSoundSet="CW95_Whistle_04_SoundSet";
+		WhistleLength=4060;
+		WhistleLengthDelay=5060;
 		hiddenSelectionsTextures[]=
 		{
 			"CivilWar95\CivilWar95\Objects\Gear\Radio\Whistles\data\Whistle_toy_co.paa"
-		};
-	};
-	//! doesn't make sounds for the player but any entities will hear it
-	class CV95_Whistle_Silenced : CV95_Whistle_Generic
-	{
-		scope=0;
-	};
-	class CV95_Whistle_Silenced_Shiny : CV95_Whistle_Silenced
-	{
-		scope=2;
-		hiddenSelectionsTextures[]=
-		{
-			"CivilWar95\CivilWar95\Objects\Gear\Radio\Whistles\data\Whistle_shiny_deaf_co.paa"
-		};		
-	};
-	class CV95_Whistle_Silenced_Mat : CV95_Whistle_Silenced
-	{
-		scope=2;
-		hiddenSelectionsTextures[]=
-		{
-			"CivilWar95\CivilWar95\Objects\Gear\Radio\Whistles\data\Whistle_mat_deaf_co.paa"
 		};
 	};
 };

@@ -11,7 +11,7 @@
 
 class CfgPatches
 {
-	class CV95_Sounds_Gear_Knocking
+	class CW95_Sounds_Gear_Knocking
 	{
 		units[]={};
 		weapons[]={};
@@ -25,25 +25,25 @@ class CfgPatches
 
 class CfgSoundShaders
 {
-	class CV95_Knocking_Base_SoundShader
+	class CW95_Knocking_Base_SoundShader
 	{
 		range=30;
 	};
-	class CV95_Knocking_SoundShader: CV95_Knocking_Base_SoundShader
+	class CW95_Knocking_SoundShader: CW95_Knocking_Base_SoundShader
 	{
 		samples[] = {
-            {"CivilWar95\CivilWar95\Sounds\Environnement\Knocking\CV95_Knock_01", 1},
-            {"CivilWar95\CivilWar95\Sounds\Environnement\Knocking\CV95_Knock_02", 1},
-            {"CivilWar95\CivilWar95\Sounds\Environnement\Knocking\CV95_Knock_03", 1},
-            {"CivilWar95\CivilWar95\Sounds\Environnement\Knocking\CV95_Knock_04", 1},
-            {"CivilWar95\CivilWar95\Sounds\Environnement\Knocking\CV95_Knock_05", 1},
-            {"CivilWar95\CivilWar95\Sounds\Environnement\Knocking\CV95_Knock_06", 1},
-            {"CivilWar95\CivilWar95\Sounds\Environnement\Knocking\CV95_Knock_07", 1},
-            {"CivilWar95\CivilWar95\Sounds\Environnement\Knocking\CV95_Knock_08", 1},
-            {"CivilWar95\CivilWar95\Sounds\Environnement\Knocking\CV95_Knock_09", 1},
-            {"CivilWar95\CivilWar95\Sounds\Environnement\Knocking\CV95_Knock_10", 1},
-            {"CivilWar95\CivilWar95\Sounds\Environnement\Knocking\CV95_Knock_11", 1},
-            {"CivilWar95\CivilWar95\Sounds\Environnement\Knocking\CV95_Knock_12", 1}
+            {"CivilWar95\CivilWar95\Sounds\Environnement\Knocking\CW95_Knock_01", 1},
+            {"CivilWar95\CivilWar95\Sounds\Environnement\Knocking\CW95_Knock_02", 1},
+            {"CivilWar95\CivilWar95\Sounds\Environnement\Knocking\CW95_Knock_03", 1},
+            {"CivilWar95\CivilWar95\Sounds\Environnement\Knocking\CW95_Knock_04", 1},
+            {"CivilWar95\CivilWar95\Sounds\Environnement\Knocking\CW95_Knock_05", 1},
+            {"CivilWar95\CivilWar95\Sounds\Environnement\Knocking\CW95_Knock_06", 1},
+            {"CivilWar95\CivilWar95\Sounds\Environnement\Knocking\CW95_Knock_07", 1},
+            {"CivilWar95\CivilWar95\Sounds\Environnement\Knocking\CW95_Knock_08", 1},
+            {"CivilWar95\CivilWar95\Sounds\Environnement\Knocking\CW95_Knock_09", 1},
+            {"CivilWar95\CivilWar95\Sounds\Environnement\Knocking\CW95_Knock_10", 1},
+            {"CivilWar95\CivilWar95\Sounds\Environnement\Knocking\CW95_Knock_11", 1},
+            {"CivilWar95\CivilWar95\Sounds\Environnement\Knocking\CW95_Knock_12", 1}
         };
 		volume=2.75;
 	};
@@ -51,7 +51,7 @@ class CfgSoundShaders
 
 class CfgSoundSets
 {
-	class CV95_Knocking_Base_SoundSet
+	class CW95_Knocking_Base_SoundSet
 	{
 		sound3DProcessingType="Vehicle_Ext_3DProcessingType";
 		distanceFilter="softVehiclesDistanceFreqAttenuationFilter";
@@ -60,11 +60,11 @@ class CfgSoundSets
 		doppler=1;
 		loop=0;
 	};
-	class CV95_Knocking_SoundSet: CV95_Knocking_Base_SoundSet
+	class CW95_Knocking_SoundSet: CW95_Knocking_Base_SoundSet
 	{
 		soundShaders[]=
 		{
-			"CV95_Knocking_SoundShader"
+			"CW95_Knocking_SoundShader"
 		};
 		loop=1;
 	};

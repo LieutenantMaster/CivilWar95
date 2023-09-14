@@ -1,7 +1,7 @@
 {
     "ConfigVersion": "1",
-    "HatchDigTime": 120,
-    "UpgradeDigTime": 120,
-    "UpgradeBuildTime": 20,
-    "BaseBuildToolDamage": 25
+    "HatchDigTime": 160,
+    "UpgradeDigTime": 160,
+    "UpgradeBuildTime": 30,
+    "BaseBuildToolDamage": 40
 }

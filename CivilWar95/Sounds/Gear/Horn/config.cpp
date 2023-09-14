@@ -11,7 +11,7 @@
 
 class CfgPatches
 {
-	class CV95_Sounds_Gear_Horn
+	class CW95_Sounds_Gear_Horn
 	{
 		units[]={};
 		weapons[]={};
@@ -25,20 +25,20 @@ class CfgPatches
 
 class CfgSoundShaders
 {
-	class CV95_Horn_Base_Extreme_SoundShader
+	class CW95_Horn_Base_Extreme_SoundShader
 	{
 		range=400;
 	};
-	class CV95_Horn_01_SoundShader: CV95_Horn_Base_Extreme_SoundShader
+	class CW95_Horn_01_SoundShader: CW95_Horn_Base_Extreme_SoundShader
 	{
-		samples[]={{"CivilWar95\CivilWar95\Sounds\Gear\Horn\CV95_Horn_01", 1}};
+		samples[]={{"CivilWar95\CivilWar95\Sounds\Gear\Horn\CW95_Horn_01", 1}};
 		volume=1.0;
 	};
 };
 
 class CfgSoundSets
 {
-	class CV95_Horn_Base_SoundSet
+	class CW95_Horn_Base_SoundSet
 	{
 		sound3DProcessingType="Vehicle_Ext_3DProcessingType";
 		distanceFilter="softVehiclesDistanceFreqAttenuationFilter";
@@ -47,11 +47,11 @@ class CfgSoundSets
 		doppler=0;
 		loop=0;
 	};
-	class CV95_Horn_01_SoundSet: CV95_Horn_Base_SoundSet
+	class CW95_Horn_01_SoundSet: CW95_Horn_Base_SoundSet
 	{
 		soundShaders[]=
 		{
-			"CV95_Horn_01_SoundShader"
+			"CW95_Horn_01_SoundShader"
 		};
 		loop=1;
 	};

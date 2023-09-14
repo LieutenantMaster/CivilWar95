@@ -1,5 +1,0 @@
-
-.tga
-source/
-
-.wrp

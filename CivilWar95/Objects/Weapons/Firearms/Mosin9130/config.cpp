@@ -11,7 +11,7 @@
 
 class CfgPatches
 {
-	class CV95_Weapons_Firearms_MosinNagant
+	class CW95_Weapons_Firearms_MosinNagant
 	{
 		units[]={};
 		weapons[]={};
@@ -25,7 +25,7 @@ class CfgPatches
 class cfgWeapons
 {
 	class Mosin9130;
-	class CV95_Mosin9130_Old: Mosin9130
+	class CW95_Mosin9130_Old: Mosin9130
 	{
 		scope=2;
 		hiddenSelectionsTextures[]=
@@ -34,7 +34,7 @@ class cfgWeapons
 		};
 	};
 	class SawedoffMosin9130;
-	class CV95_SawedoffMosin9130_Old: SawedoffMosin9130
+	class CW95_SawedoffMosin9130_Old: SawedoffMosin9130
 	{
 		scope=2;
 		hiddenSelectionsTextures[]=

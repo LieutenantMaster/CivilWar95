@@ -11,7 +11,8 @@
     "ThreatDistanceLimit": -1.0,
     "DamageMultiplier": -1.0,
     "ObjectPatrols": [],
-    "Patrols": [
+    "Patrols":
+    [
         {
             "Faction": "Raiders",
             "LoadoutFile": "",
@@ -25,29 +26,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6722.317383,
-                    12.531586,
-                    2806.131836
+                    6338.093262, 9.605743, 2573.815186
                 ],
                 [
-                    6704.057129,
-                    3.296112,
-                    2514.522949
+                    6296.623535, 9.820374, 2467.674805
                 ],
                 [
-                    7042.333984,
-                    6.416351,
-                    2925.471191
-                ],
-                [
-                    6876.761719,
-                    7.579376,
-                    3073.510986
+                    6447.722168, 6.258789, 2554.718262
                 ]
             ]
         },
@@ -64,29 +54,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6972.419434,
-                    8.03772,
-                    3128.976318
+                    6428.869141, 8.240234, 2371.502930
                 ],
                 [
-                    6569.382324,
-                    13.107666,
-                    2973.720703
+                    6447.655273, 8.159851, 2345.483887
                 ],
                 [
-                    6407.551758,
-                    6.372833,
-                    2271.765137
-                ],
-                [
-                    6722.317383,
-                    12.531586,
-                    2806.131836
+                    6510.0542383, 6.298706, 2374.526367
                 ]
             ]
         },
@@ -103,29 +82,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6593.461914,
-                    14.106262,
-                    2697.880615
+                    6496.723633, 6.193710, 2277.273438
                 ],
                 [
-                    6931.14209,
-                    7.425018,
-                    2801.901367
+                    6435.416016, 8.296280, 2408.630615
                 ],
                 [
-                    6789.297363,
-                    3.296204,
-                    2503.941895
-                ],
-                [
-                    6609.102051,
-                    7.111206,
-                    2908.013428
+                    6398.097656, 6.296295, 2304.722168
                 ]
             ]
         },
@@ -142,29 +110,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6757.470703,
-                    6.129883,
-                    2727.55835
+                    6445.183594, 6.171951, 2262.905029
                 ],
                 [
-                    6697.525879,
-                    6.229431,
-                    2674.212891
+                    6378.724609, 6.351257, 2252.347900
                 ],
                 [
-                    6459.539063,
-                    19.566071,
-                    3176.970703
-                ],
-                [
-                    6147.767578,
-                    44.821259,
-                    3088.70874
+                    6345.365234, 6.297516, 2316.939697
                 ]
             ]
         },
@@ -181,29 +138,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6794.790527,
-                    3.298035,
-                    2601.182617
+                    6312.199219, 6.378769, 2246.628174
                 ],
                 [
-                    7001.351074,
-                    8.666138,
-                    3017.445313
+                    6273.365234, 3.007782, 2151.205566
                 ],
                 [
-                    6231.75293,
-                    20.216125,
-                    2837.095459
-                ],
-                [
-                    6296.320801,
-                    12.974274,
-                    2340.210938
+                    6580.848633, 6.255035, 2295.497559
                 ]
             ]
         },
@@ -220,29 +166,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6701.933105,
-                    3.296387,
-                    2383.501221
+                    6850.503906, 3.405853, 2774.011963
                 ],
                 [
-                    5951.941406,
-                    58.553619,
-                    2500.046875
+                    6697.149902, 7.296295, 2929.577637
                 ],
                 [
-                    6210.508789,
-                    11.356964,
-                    2382.210205
-                ],
-                [
-                    6355.804688,
-                    6.34494,
-                    2288.858398
+                    6805.458496, 8.281128, 2982.483398
                 ]
             ]
         },
@@ -259,29 +194,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6572.413574,
-                    13.985046,
-                    3065.811768
+                    6874.656250, 7.572861, 3076.360352
                 ],
                 [
-                    6210.508789,
-                    11.356964,
-                    2382.210205
+                    6618.274414, 13.689423, 3017.950684
                 ],
                 [
-                    6569.592773,
-                    6.242401,
-                    2598.474609
-                ],
-                [
-                    6931.14209,
-                    7.425018,
-                    2801.901367
+                    6545.853516, 13.667313, 3032.671387
                 ]
             ]
         },
@@ -298,29 +222,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6737.453125,
-                    3.296173,
-                    2547.379883
+                    6647.941406, 14.918594, 3106.970947
                 ],
                 [
-                    6701.933105,
-                    3.296387,
-                    2383.501221
+                    6496.815430, 12.185410, 3054.795898
                 ],
                 [
-                    6627.319824,
-                    6.296082,
-                    2434.706055
-                ],
-                [
-                    6920.145508,
-                    10.917419,
-                    2914.607666
+                    6518.968750, 16.747789, 3117.619873
                 ]
             ]
         },
@@ -337,29 +250,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6421.095215,
-                    6.26651,
-                    2208.548584
+                    6474.899414, 16.842087, 3123.410156
                 ],
                 [
-                    6704.057129,
-                    3.296112,
-                    2514.522949
+                    6411.645508, 16.830063, 3131.615723
                 ],
                 [
-                    6210.508789,
-                    11.356964,
-                    2382.210205
-                ],
-                [
-                    6609.102051,
-                    7.111206,
-                    2908.013428
+                    6424.802246, 24.647095, 3224.279541
                 ]
             ]
         },
@@ -376,29 +278,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6587.61084,
-                    6.296356,
-                    2537.685547
+                    6361.063965, 23.737061, 3236.188232
                 ],
                 [
-                    6642.25293,
-                    6.32843,
-                    2554.234619
+                    6326.227051, 28.403198, 3334.787354
                 ],
                 [
-                    6839.46582,
-                    11.791992,
-                    2834.83252
-                ],
-                [
-                    7130.881836,
-                    4.67334,
-                    2560.474854
+                    6499.285645, 19.495132, 3171.466553
                 ]
             ]
         },
@@ -415,29 +306,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6147.767578,
-                    44.821259,
-                    3088.70874
+                    6340.226563, 22.512535, 3164.947021
                 ],
                 [
-                    6152.494629,
-                    20.186157,
-                    2812.767334
+                    6321.237793, 34.186852, 3118.837646
                 ],
                 [
-                    6006.519531,
-                    60.498474,
-                    2611.404053
-                ],
-                [
-                    6407.551758,
-                    6.372833,
-                    2271.765137
+                    6245.181641, 40.649551, 3102.831787
                 ]
             ]
         },
@@ -454,29 +334,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6931.14209,
-                    7.425018,
-                    2801.901367
+                    6208.333496, 44.372711, 3034.011475
                 ],
                 [
-                    5976.244141,
-                    68.752686,
-                    2734.090332
+                    6189.508789, 35.677856, 2962.847168
                 ],
                 [
-                    6400.348145,
-                    9.616302,
-                    2761.390625
-                ],
-                [
-                    6517.851074,
-                    7.281281,
-                    2950.494141
+                    6240.315918, 30.075607, 2961.835205
                 ]
             ]
         },
@@ -493,29 +362,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6569.592773,
-                    6.242401,
-                    2598.474609
+                    6216.126953, 24.264297, 2888.119385
                 ],
                 [
-                    6427.087891,
-                    8.214752,
-                    2360.069336
+                    6072.433594, 29.258179, 2911.596924
                 ],
                 [
-                    6327.84082,
-                    27.816711,
-                    3164.103271
-                ],
-                [
-                    6701.933105,
-                    3.296387,
-                    2383.501221
+                    6155.429199, 26.210358, 2914.183350
                 ]
             ]
         },
@@ -532,29 +390,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6744.038574,
-                    3.296356,
-                    2599.57666
+                    6137.267578, 41.751175, 2999.145020
                 ],
                 [
-                    6517.851074,
-                    7.281281,
-                    2950.494141
+                    6082.320313, 37.032425, 2965.365723
                 ],
                 [
-                    6245.739258,
-                    24.203796,
-                    2916.72998
-                ],
-                [
-                    5804.803711,
-                    59.519806,
-                    2429.315674
+                    6105.685059, 44.568008, 3041.462158
                 ]
             ]
         },
@@ -571,29 +418,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6794.790527,
-                    3.298035,
-                    2601.182617
+                    6260.361816, 20.216309, 2870.921387
                 ],
                 [
-                    6806.164551,
-                    7.795929,
-                    3047.422363
+                    6328.728516, 14.941650, 2841.335938
                 ],
                 [
-                    6642.25293,
-                    6.32843,
-                    2554.234619
-                ],
-                [
-                    6251.373047,
-                    40.055725,
-                    3113.940186
+                    6344.071777, 19.690765, 2930.833008
                 ]
             ]
         },
@@ -610,29 +446,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6210.508789,
-                    11.356964,
-                    2382.210205
+                    6431.573730, 12.932297, 2884.984619
                 ],
                 [
-                    6876.761719,
-                    7.579376,
-                    3073.510986
+                    6381.017090, 14.406189, 2821.891357
                 ],
                 [
-                    6716.912109,
-                    6.225647,
-                    2702.424561
-                ],
-                [
-                    6596.09668,
-                    9.447266,
-                    2806.754883
+                    6123.161133, 20.216293, 2811.086182
                 ]
             ]
         },
@@ -649,29 +474,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6315.316406,
-                    9.711609,
-                    2460.301514
+                    6399.595215, 6.369110, 2275.552002
                 ],
                 [
-                    6569.592773,
-                    6.242401,
-                    2598.474609
+                    6443.147949, 7.743042, 2326.653320
                 ],
                 [
-                    6876.761719,
-                    7.579376,
-                    3073.510986
-                ],
-                [
-                    6607.873535,
-                    14.04837,
-                    3017.320068
+                    6528.021484, 6.392090, 2301.888428
                 ]
             ]
         },
@@ -688,29 +502,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6251.373047,
-                    40.055725,
-                    3113.940186
+                    6373.124023, 6.296295, 2302.891846
                 ],
                 [
-                    7072.960938,
-                    4.31955,
-                    2457.511719
+                    6243.740723, 5.023590, 2189.100586
                 ],
                 [
-                    7009.007813,
-                    3.046295,
-                    2761.548584
-                ],
-                [
-                    6407.551758,
-                    6.372833,
-                    2271.765137
+                    6749.007324, 3.296326, 2597.052734
                 ]
             ]
         },
@@ -727,29 +530,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6501.462402,
-                    15.674255,
-                    3110.608887
+                    7181.469727, 4.165405, 2572.745850
                 ],
                 [
-                    6352.75293,
-                    9.607941,
-                    2619.612305
+                    7219.974121, 6.296295, 2701.372803
                 ],
                 [
-                    6459.004883,
-                    9.6073,
-                    2705.161621
-                ],
-                [
-                    6245.739258,
-                    24.203796,
-                    2916.72998
+                    7135.438965, 6.415375, 2783.617188
                 ]
             ]
         },
@@ -766,29 +558,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6806.164551,
-                    7.795929,
-                    3047.422363
+                    7292.179688, 6.416351, 2719.511475
                 ],
                 [
-                    6931.14209,
-                    7.425018,
-                    2801.901367
+                    7339.844727, 6.843719, 2919.296875
                 ],
                 [
-                    6459.004883,
-                    9.6073,
-                    2705.161621
-                ],
-                [
-                    6152.494629,
-                    20.186157,
-                    2812.767334
+                    7458.594238, 5.996277, 2779.574463
                 ]
             ]
         },
@@ -805,29 +586,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    7130.881836,
-                    4.67334,
-                    2560.474854
+                    7329.120117, 6.043640, 2834.955566
                 ],
                 [
-                    6794.790527,
-                    3.298035,
-                    2601.182617
+                    7028.871094, 6.397705, 2904.161133
                 ],
                 [
-                    6737.453125,
-                    3.296173,
-                    2547.379883
-                ],
-                [
-                    6459.004883,
-                    9.6073,
-                    2705.161621
+                    7535.560059, 5.709442, 2989.452393
                 ]
             ]
         },
@@ -844,29 +614,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6421.095215,
-                    6.26651,
-                    2208.548584
+                    7620.151855, 6.162842, 2923.832275
                 ],
                 [
-                    6572.413574,
-                    13.985046,
-                    3065.811768
+                    7775.910156, 4.393463, 3071.366699
                 ],
                 [
-                    6920.145508,
-                    10.917419,
-                    2914.607666
-                ],
-                [
-                    6536.634766,
-                    6.296326,
-                    2467.667725
+                    7870.976074, 5.915207, 2977.655518
                 ]
             ]
         },
@@ -883,29 +642,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6871.799805,
-                    7.567169,
-                    3078.129639
+                    7926.083008, 6.309479, 3056.740234
                 ],
                 [
-                    6572.413574,
-                    13.985046,
-                    3065.811768
+                    7979.380859, 5.903519, 2932.133545
                 ],
                 [
-                    6716.912109,
-                    6.225647,
-                    2702.424561
-                ],
-                [
-                    6427.087891,
-                    8.214752,
-                    2360.069336
+                    8060.612793, 5.718109, 3026.541748
                 ]
             ]
         },
@@ -922,29 +670,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6931.14209,
-                    7.425018,
-                    2801.901367
+                    8031.172363, 9.472015, 3222.464111
                 ],
                 [
-                    6984.5,
-                    6.296448,
-                    2654.753174
+                    7775.727051, 6.395203, 3199.729736
                 ],
                 [
-                    6839.46582,
-                    11.791992,
-                    2834.83252
-                ],
-                [
-                    6513.870117,
-                    9.433044,
-                    2816.614014
+                    7972.338379, 5.472260, 3370.789063
                 ]
             ]
         },
@@ -961,29 +698,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    5976.244141,
-                    68.752686,
-                    2734.090332
+                    7865.188965, 6.296310, 3453.875732
                 ],
                 [
-                    6871.799805,
-                    7.567169,
-                    3078.129639
+                    7770.596191, 6.296265, 3359.344971
                 ],
                 [
-                    6429.69873,
-                    7.565369,
-                    2590.489746
-                ],
-                [
-                    6572.413574,
-                    13.985046,
-                    3065.811768
+                    7725.682129, 6.363693, 3551.332520
                 ]
             ]
         },
@@ -1000,29 +726,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6459.539063,
-                    19.566071,
-                    3176.970703
+                    7614.122559, 6.288452, 3527.250000
                 ],
                 [
-                    6607.873535,
-                    14.04837,
-                    3017.320068
+                    7618.239258, 6.294617, 3418.767578
                 ],
                 [
-                    6569.382324,
-                    13.107666,
-                    2973.720703
-                ],
-                [
-                    6265.800781,
-                    9.231964,
-                    2499.666504
+                    7406.443848, 8.295029, 3412.054932
                 ]
             ]
         },
@@ -1039,29 +754,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6569.382324,
-                    13.107666,
-                    2973.720703
+                    7301.882813, 6.342453, 3334.448730
                 ],
                 [
-                    6400.348145,
-                    9.616302,
-                    2761.390625
+                    7221.145020, 6.336243, 3261.218994
                 ],
                 [
-                    7130.881836,
-                    4.67334,
-                    2560.474854
-                ],
-                [
-                    6871.799805,
-                    7.567169,
-                    3078.129639
+                    7140.384277, 15.274521, 3082.819092
                 ]
             ]
         },
@@ -1078,29 +782,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6572.413574,
-                    13.985046,
-                    3065.811768
+                    7074.655762, 6.297516, 3274.314209
                 ],
                 [
-                    6593.461914,
-                    14.106262,
-                    2697.880615
+                    6909.446777, 38.498657, 3416.905518
                 ],
                 [
-                    6931.14209,
-                    7.425018,
-                    2801.901367
-                ],
-                [
-                    7072.960938,
-                    4.31955,
-                    2457.511719
+                    6915.463379, 47.559052, 3599.697998
                 ]
             ]
         },
@@ -1117,29 +810,18 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6517.851074,
-                    7.281281,
-                    2950.494141
+                    6782.345215, 54.681519, 3581.186523
                 ],
                 [
-                    6627.319824,
-                    6.296082,
-                    2434.706055
+                    6910.0526758, 62.391602, 3732.598633
                 ],
                 [
-                    6569.382324,
-                    13.107666,
-                    2973.720703
-                ],
-                [
-                    6794.790527,
-                    3.298035,
-                    2601.182617
+                    6802.063965, 59.481323, 3686.830078
                 ]
             ]
         },
@@ -1156,29 +838,970 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.4,
+            "Chance": 0.05,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    6794.790527,
-                    3.298035,
-                    2601.182617
+                    6651.458984, 65.370636, 3671.918701
                 ],
                 [
-                    6839.46582,
-                    11.791992,
-                    2834.83252
+                    6559.533691, 60.796295, 3634.347656
                 ],
                 [
-                    6281.131348,
-                    8.594543,
-                    2671.123535
+                    6578.578613, 61.296265, 3582.056885
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6474.426758, 60.340103, 3534.672363
                 ],
                 [
-                    6459.539063,
-                    19.566071,
-                    3176.970703
+                    6390.526367, 72.108841, 3684.487549
+                ],
+                [
+                    6259.825195, 40.712692, 3531.844727
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6229.519043, 38.377380, 3360.552734
+                ],
+                [
+                    6157.104004, 48.897263, 3473.809082
+                ],
+                [
+                    6090.541504, 50.181763, 3489.851807
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6068.096191, 57.418503, 3346.748535
+                ],
+                [
+                    6135.617188, 53.286301, 3300.567627
+                ],
+                [
+                    6039.138184, 65.974213, 3300.0553857
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6115.014648, 53.650360, 3222.312012
+                ],
+                [
+                    5976.019531, 77.859970, 3297.105957
+                ],
+                [
+                    6027.782227, 69.302460, 3236.463135
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6034.286621, 62.748734, 3148.615479
+                ],
+                [
+                    6079.113281, 53.705627, 3126.670898
+                ],
+                [
+                    6190.0583398, 43.266708, 3124.108154
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6183.289551, 50.016312, 3194.894531
+                ],
+                [
+                    6231.297363, 43.952682, 3309.463135
+                ],
+                [
+                    5929.230957, 88.783829, 3164.526611
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    5848.974609, 96.464500, 3169.223145
+                ],
+                [
+                    5771.992188, 92.315460, 3050.731445
+                ],
+                [
+                    5678.147949, 89.434570, 3007.429443
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    5744.594238, 87.510330, 2908.289063
+                ],
+                [
+                    5762.567383, 82.711060, 2775.443604
+                ],
+                [
+                    5619.591797, 69.128464, 2680.601318
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    5500.0508691, 65.860855, 2704.289551
+                ],
+                [
+                    5412.690430, 61.403427, 2724.306885
+                ],
+                [
+                    5404.427246, 59.564362, 2640.203613
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    5375.643555, 52.290192, 2838.632080
+                ],
+                [
+                    5514.764160, 65.696991, 2597.415771
+                ],
+                [
+                    5536.068359, 62.761566, 2469.373291
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    5662.788574, 70.698242, 2551.416504
+                ],
+                [
+                    5660.852051, 63.912384, 2482.343506
+                ],
+                [
+                    5712.187988, 56.273209, 2377.029053
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    5816.854492, 73.855652, 2600.239746
+                ],
+                [
+                    5932.333984, 64.572708, 2595.256104
+                ],
+                [
+                    5651.954590, 53.536438, 2291.000244
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    5856.381348, 55.484650, 2386.950928
+                ],
+                [
+                    5848.443848, 28.532623, 2303.489746
+                ],
+                [
+                    5921.536133, 77.560150, 2756.507080
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6104.393066, 27.168022, 2553.315186
+                ],
+                [
+                    6160.215820, 22.311546, 2631.626465
+                ],
+                [
+                    6193.276855, 12.812027, 2488.951416
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6029.045898, 41.227577, 2419.336914
+                ],
+                [
+                    5962.467285, 10.0581461, 2275.836670
+                ],
+                [
+                    5814.597656, 14.993027, 2234.588623
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    5680.389160, 33.525513, 2238.178711
+                ],
+                [
+                    5632.254883, 14.763428, 2180.935547
+                ],
+                [
+                    5549.729492, 37.162674, 2205.055176
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    5514.408203, 58.274963, 2271.886963
+                ],
+                [
+                    6552.822754, 6.296288, 2497.047363
+                ],
+                [
+                    6556.144531, 6.296280, 2467.088135
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6597.656250, 6.296310, 2467.032715
+                ],
+                [
+                    6586.837402, 6.296318, 2421.106445
+                ],
+                [
+                    6529.205078, 6.296295, 2446.644531
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6500.706543, 6.296272, 2474.622803
+                ],
+                [
+                    6473.956055, 6.296288, 2450.0504785
+                ],
+                [
+                    6507.547852, 6.296288, 2411.654297
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6546.364258, 6.296288, 2401.476318
+                ],
+                [
+                    6489.705078, 6.296272, 2429.255127
+                ],
+                [
+                    6568.014648, 6.588676, 2361.153320
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6627.490234, 7.209732, 2315.943115
+                ],
+                [
+                    6654.783203, 6.296211, 2381.602051
+                ],
+                [
+                    6580.0543359, 6.296318, 2376.213135
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6611.538574, 6.342499, 2359.459473
+                ],
+                [
+                    6631.315918, 6.296288, 2408.868896
+                ],
+                [
+                    6669.656250, 6.253143, 2410.617188
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6666.441895, 6.133102, 2460.180908
+                ],
+                [
+                    6638.289551, 6.296280, 2464.429688
+                ],
+                [
+                    6701.791992, 3.296272, 2540.839355
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6709.774902, 3.296288, 2426.494141
+                ],
+                [
+                    6663.752441, 6.290894, 2547.688721
+                ],
+                [
+                    6669.991699, 6.720123, 2606.717285
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6637.134277, 7.673111, 2596.778320
+                ],
+                [
+                    6603.211426, 6.296295, 2617.993896
+                ],
+                [
+                    6626.184570, 6.296326, 2517.560059
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6574.390137, 6.296326, 2564.814209
+                ],
+                [
+                    6536.837402, 6.296249, 2526.501465
+                ],
+                [
+                    6590.304199, 6.296326, 2540.615234
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6661.615234, 6.046326, 2516.533203
+                ],
+                [
+                    6651.842285, 6.283829, 2568.907471
+                ],
+                [
+                    6574.642090, 6.277267, 2600.869385
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6638.573730, 6.286316, 2682.807861
+                ],
+                [
+                    6616.526855, 6.176315, 2677.422607
+                ],
+                [
+                    6707.012695, 3.296310, 2642.483154
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6681.329102, 6.369583, 2732.742676
+                ],
+                [
+                    6756.440430, 6.143356, 2729.974609
+                ],
+                [
+                    6807.174805, 3.296310, 2669.534180
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6773.031738, 5.829269, 2630.247559
+                ],
+                [
+                    6824.886230, 3.309982, 2554.696533
+                ],
+                [
+                    6766.184082, 3.296295, 2519.579590
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6750.500488, 3.296341, 2458.510742
+                ],
+                [
+                    6569.051758, 9.366791, 2734.319580
+                ],
+                [
+                    6500.0536523, 9.586273, 2721.073242
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6514.516113, 9.511749, 2773.882080
+                ],
+                [
+                    6496.778809, 9.637619, 2674.235352
+                ],
+                [
+                    6429.579590, 9.616287, 2708.282471
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6452.330566, 9.616287, 2658.000732
+                ],
+                [
+                    6371.758789, 9.616302, 2636.721680
+                ],
+                [
+                    6363.744141, 9.387451, 2741.557861
+                ]
+            ]
+        },
+        {
+            "Faction": "Raiders",
+            "LoadoutFile": "",
+            "NumberOfAI": -3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.05,
+            "WaypointInterpolation": "UniformCubic",
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    6434.422852, 9.636292, 2784.274658
+                ],
+                [
+                    6440.643555, 12.339584, 2851.969238
+                ],
+                [
+                    6345.990234, 14.351196, 2814.432617
                 ]
             ]
         }

@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class CV95_Sounds_MusicPlayer
+	class CW95_Sounds_MusicPlayer
 	{
 		units[]={};
 		weapons[]={};
@@ -14,7 +14,7 @@ class CfgPatches
 
 class CfgSoundShaders
 {
-	class CV95_BosanskaArtiljerija_Music_SoundShader
+	class CW95_BosanskaArtiljerija_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -26,7 +26,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_Rossiya_Music_SoundShader
+	class CW95_Rossiya_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -38,7 +38,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_ChernarussianAnthem_Music_SoundShader
+	class CW95_ChernarussianAnthem_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -50,7 +50,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_CrniBombarderi_Music_SoundShader
+	class CW95_CrniBombarderi_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -62,7 +62,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_DarkIsTheNight_Music_SoundShader
+	class CW95_DarkIsTheNight_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -74,7 +74,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_DontTellMomImInChechnya_Music_SoundShader
+	class CW95_DontTellMomImInChechnya_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -86,7 +86,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_International_Music_SoundShader
+	class CW95_International_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -98,7 +98,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_Karavan_Music_SoundShader
+	class CW95_Karavan_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -110,7 +110,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_Katyusha_Music_SoundShader
+	class CW95_Katyusha_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -122,7 +122,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_Kombat_Music_SoundShader
+	class CW95_Kombat_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -134,7 +134,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_MyDadIsAWarCriminal_Music_SoundShader
+	class CW95_MyDadIsAWarCriminal_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -146,7 +146,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_NoviGod_Music_SoundShader
+	class CW95_NoviGod_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -158,7 +158,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_OjAlijaAljo_Music_SoundShader
+	class CW95_OjAlijaAljo_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -170,7 +170,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_PolyushkaPolye_Music_SoundShader
+	class CW95_PolyushkaPolye_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -182,7 +182,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_RemoveTakistani_Music_SoundShader
+	class CW95_RemoveTakistani_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -194,7 +194,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_ThreeChoppersOverMozdok_Music_SoundShader
+	class CW95_ThreeChoppersOverMozdok_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -206,7 +206,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_Troika_Music_SoundShader
+	class CW95_Troika_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -218,7 +218,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_TheBigHangover_Music_SoundShader
+	class CW95_TheBigHangover_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -230,7 +230,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_Atas_Music_SoundShader
+	class CW95_Atas_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -242,7 +242,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_PoslednyayaLyubov_Music_SoundShader
+	class CW95_PoslednyayaLyubov_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -254,7 +254,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_DavaiZa_Music_SoundShader
+	class CW95_DavaiZa_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -266,7 +266,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_MilyeZelyonyeGlaza_Music_SoundShader
+	class CW95_MilyeZelyonyeGlaza_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -278,7 +278,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_Kukushka_Music_SoundShader
+	class CW95_Kukushka_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -290,7 +290,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_Leto_Music_SoundShader
+	class CW95_Leto_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -302,7 +302,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_GruppaKrovi_Music_SoundShader
+	class CW95_GruppaKrovi_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -314,7 +314,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_Zvezda_Music_SoundShader
+	class CW95_Zvezda_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -326,7 +326,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_Peremen_Music_SoundShader
+	class CW95_Peremen_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -338,7 +338,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_ChDKZAnthem_Music_SoundShader
+	class CW95_ChDKZAnthem_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -350,7 +350,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_Ruined_Music_SoundShader
+	class CW95_Ruined_Music_SoundShader
 	{
 		samples[]=
 		{
@@ -362,7 +362,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=30;
 	};
-	class CV95_Cassette_Rewind
+	class CW95_Cassette_Rewind
 	{
 		samples[]=
 		{
@@ -374,7 +374,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=15;
 	};
-	class CV95_Cassette_Fastforward
+	class CW95_Cassette_Fastforward
 	{
 		samples[]=
 		{
@@ -386,7 +386,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=15;
 	};
-	class CV95_Cassette_Buttons
+	class CW95_Cassette_Buttons
 	{
 		samples[]=
 		{
@@ -406,7 +406,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=15;
 	};
-	class CV95_MusicPlayer_DoorOpen
+	class CW95_MusicPlayer_DoorOpen
 	{
 		samples[]=
 		{
@@ -419,7 +419,7 @@ class CfgSoundShaders
 		volume=1.0;
 		range=15;
 	};
-	class CV95_MusicPlayer_DoorClose
+	class CW95_MusicPlayer_DoorClose
 	{
 		samples[]=
 		{
@@ -438,342 +438,342 @@ class CfgSoundSets
 	class Rifle_Shot_Base_SoundSet;
 	class Rifle_Tail_Base_SoundSet;
 	class Rifle_InteriorTail_Base_SoundSet;
-	class CV95_TheBigHangover_Music
+	class CW95_TheBigHangover_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_TheBigHangover_Music_SoundShader"
+			"CW95_TheBigHangover_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_Atas_Music
+	class CW95_Atas_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_Atas_Music_SoundShader"
+			"CW95_Atas_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_PoslednyayaLyubov_Music
+	class CW95_PoslednyayaLyubov_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_PoslednyayaLyubov_Music_SoundShader"
+			"CW95_PoslednyayaLyubov_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_DavaiZa_Music
+	class CW95_DavaiZa_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_DavaiZa_Music_SoundShader"
+			"CW95_DavaiZa_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_MilyeZelyonyeGlaza_Music
+	class CW95_MilyeZelyonyeGlaza_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_MilyeZelyonyeGlaza_Music_SoundShader"
+			"CW95_MilyeZelyonyeGlaza_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_Kukushka_Music
+	class CW95_Kukushka_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_Kukushka_Music_SoundShader"
+			"CW95_Kukushka_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_Leto_Music
+	class CW95_Leto_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_Leto_Music_SoundShader"
+			"CW95_Leto_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_GruppaKrovi_Music
+	class CW95_GruppaKrovi_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_GruppaKrovi_Music_SoundShader"
+			"CW95_GruppaKrovi_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_Zvezda_Music
+	class CW95_Zvezda_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_Zvezda_Music_SoundShader"
+			"CW95_Zvezda_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_Peremen_Music
+	class CW95_Peremen_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_Peremen_Music_SoundShader"
+			"CW95_Peremen_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_ChDKZAnthem_Music
+	class CW95_ChDKZAnthem_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_ChDKZAnthem_Music_SoundShader"
+			"CW95_ChDKZAnthem_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_BosanskaArtiljerija_Music
+	class CW95_BosanskaArtiljerija_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_BosanskaArtiljerija_Music_SoundShader"
+			"CW95_BosanskaArtiljerija_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_Rossiya_Music
+	class CW95_Rossiya_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_Rossiya_Music_SoundShader"
+			"CW95_Rossiya_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_ChernarussianAnthem_Music
+	class CW95_ChernarussianAnthem_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_ChernarussianAnthem_Music_SoundShader"
+			"CW95_ChernarussianAnthem_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_CrniBombarderi_Music
+	class CW95_CrniBombarderi_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_CrniBombarderi_Music_SoundShader"
+			"CW95_CrniBombarderi_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_DarkIsTheNight_Music
+	class CW95_DarkIsTheNight_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_DarkIsTheNight_Music_SoundShader"
+			"CW95_DarkIsTheNight_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_DontTellMomImInChechnya_Music
+	class CW95_DontTellMomImInChechnya_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_DontTellMomImInChechnya_Music_SoundShader"
+			"CW95_DontTellMomImInChechnya_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_International_Music
+	class CW95_International_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_International_Music_SoundShader"
+			"CW95_International_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_Karavan_Music
+	class CW95_Karavan_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_Karavan_Music_SoundShader"
+			"CW95_Karavan_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_Katyusha_Music
+	class CW95_Katyusha_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_Katyusha_Music_SoundShader"
+			"CW95_Katyusha_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_Kombat_Music
+	class CW95_Kombat_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_Kombat_Music_SoundShader"
+			"CW95_Kombat_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_MyDadIsAWarCriminal_Music
+	class CW95_MyDadIsAWarCriminal_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_MyDadIsAWarCriminal_Music_SoundShader"
+			"CW95_MyDadIsAWarCriminal_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_NoviGod_Music
+	class CW95_NoviGod_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_NoviGod_Music_SoundShader"
+			"CW95_NoviGod_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_OjAlijaAljo_Music
+	class CW95_OjAlijaAljo_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_OjAlijaAljo_Music_SoundShader"
+			"CW95_OjAlijaAljo_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_PolyushkaPolye_Music
+	class CW95_PolyushkaPolye_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_PolyushkaPolye_Music_SoundShader"
+			"CW95_PolyushkaPolye_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_RemoveTakistani_Music
+	class CW95_RemoveTakistani_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_RemoveTakistani_Music_SoundShader"
+			"CW95_RemoveTakistani_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_ThreeChoppersOverMozdok_Music
+	class CW95_ThreeChoppersOverMozdok_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_ThreeChoppersOverMozdok_Music_SoundShader"
+			"CW95_ThreeChoppersOverMozdok_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_Troika_Music
+	class CW95_Troika_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_Troika_Music_SoundShader"
+			"CW95_Troika_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_Ruined_Music
+	class CW95_Ruined_Music
 	{
 		soundShaders[]=
 		{
-			"CV95_Ruined_Music_SoundShader"
+			"CW95_Ruined_Music_SoundShader"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_Cassette_Rewind
+	class CW95_Cassette_Rewind
 	{
 		soundShaders[]=
 		{
-			"CV95_Cassette_Rewind"
+			"CW95_Cassette_Rewind"
 		};
 		volumeFactor=1000;	// lol
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_Cassette_Fastforward
+	class CW95_Cassette_Fastforward
 	{
 		soundShaders[]=
 		{
-			"CV95_Cassette_Fastforward"
+			"CW95_Cassette_Fastforward"
 		};
 		volumeFactor=1000;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_Cassette_Button
+	class CW95_Cassette_Button
 	{
 		soundShaders[]=
 		{
-			"CV95_Cassette_Buttons"
+			"CW95_Cassette_Buttons"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
 	
-	class CV95_MusicPlayer_DoorOpen
+	class CW95_MusicPlayer_DoorOpen
 	{
 		soundShaders[]=
 		{
-			"CV95_MusicPlayer_DoorOpen"
+			"CW95_MusicPlayer_DoorOpen"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
 		spatial=1;
 	};
-	class CV95_MusicPlayer_DoorClose
+	class CW95_MusicPlayer_DoorClose
 	{
 		soundShaders[]=
 		{
-			"CV95_MusicPlayer_DoorClose"
+			"CW95_MusicPlayer_DoorClose"
 		};
 		volumeFactor=1;
 		frequencyFactor=1;
