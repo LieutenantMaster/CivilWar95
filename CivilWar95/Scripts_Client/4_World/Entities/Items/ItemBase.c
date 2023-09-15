@@ -40,4 +40,25 @@ modded class ItemBase
 
 		return false;
 	}
+
+/*
+#ifdef EXPANSIONMODBASEBUILDING
+	string CW95_GetOriginalCodeOwner()
+	{
+		if (!IsInherited(ExpansionCodeLock) && !IsInherited(ExpansionSafeBase))
+		{
+			ExpansionCodeLock codelock = ExpansionGetCodeLock();
+			if (codelock)
+				return codelock.CW95_GetOriginalCodeOwner();
+		}
+
+		return "";
+	}
+	
+	ExpansionCodeLock ExpansionGetCodeLock()
+	{
+		return ExpansionCodeLock.Cast(GetAttachmentByConfigTypeName("ExpansionCodeLock"));
+	}
+#endif
+*/
 };

@@ -11,13 +11,10 @@
 
 modded class BuildingBase
 {
+	protected bool m_IsKnocking;
 	protected bool m_ShouldKnock;
-	protected int  m_Index;
 
-	protected string GetLoopKnockingSoundset()
-	{
-		return "CW95_Knocking_SoundSet";
-	}
+	protected int  m_Index;
 	
 	void BuildingBase()
 	{
@@ -27,23 +24,35 @@ modded class BuildingBase
 		RegisterNetSyncVariableInt( "m_Index" );
 	}
 
+	protected string GetLoopKnockingSoundset()
+	{
+		return "CW95_Knocking_SoundSet";
+	}
+
 	void KnockAtDoor(int index) 		
 	{
+		m_IsKnocking = false;
 		m_ShouldKnock = true;
 		m_Index = index;
 		
-#ifdef SERVER
 		SetSynchDirty();
-#endif
+	}
+
+	void StopKnockAtDoor()
+	{
+		m_ShouldKnock = false;
+		m_IsKnocking = true;
+		
+		SetSynchDirty();
 	}
 	
 	override void OnVariablesSynchronized()
 	{
 		super.OnVariablesSynchronized();
 
-		if ( m_ShouldKnock )
+		if ( m_ShouldKnock && !m_IsKnocking )
 		{
-			m_ShouldKnock = false;
+			StopKnockAtDoor();
 #ifndef SERVER
 			PlayKnockingSound(m_Index);
 #endif

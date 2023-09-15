@@ -273,6 +273,7 @@ class CfgVehicles
 
 	class ExpansionMoneyBanknote_Base: Inventory_Base
 	{
+		canBeSplit=1;
 		inventorySlot[]+=
 		{
 			"ExpansionMoney"

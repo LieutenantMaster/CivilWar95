@@ -16,7 +16,6 @@ class CW95_Whistle_Base: ItemBase
 	
 	void CW95_Whistle_Base()
 	{
-		RegisterNetSyncVariableBool( "m_IsWhistling" );
 		RegisterNetSyncVariableBool( "m_ShouldWhistle" );
 	}
 
@@ -35,23 +34,25 @@ class CW95_Whistle_Base: ItemBase
 		return GetGame().ConfigGetInt("WhistleLengthDelay");
 	}
 
-	void SetShouldWhistle(bool onOff)
-	{
-		m_ShouldWhistle = onOff;
-
-		#ifdef SERVER
-		SetSynchDirty();
-		#endif
-	}
-
-	bool ShouldWhistle() 				
+	bool ShouldWhistle()
 	{
 		return m_ShouldWhistle;
+	}
+
+	void StartWhistling()
+	{
+		m_IsWhistling = false;
+		m_ShouldWhistle = true;
+
+		SetSynchDirty();
 	}
 
 	void SetCanWhistle()
 	{
 		m_IsWhistling = false;
+		m_ShouldWhistle = true;
+
+		SetSynchDirty();
 	}
 
 	bool CanWhistle()
@@ -63,7 +64,7 @@ class CW95_Whistle_Base: ItemBase
 	{
 		super.OnVariablesSynchronized();
 
-		if ( ShouldWhistle() )
+		if ( ShouldWhistle() && !m_IsWhistling )
 		{
 			m_IsWhistling = true;
 			m_ShouldWhistle = false;
@@ -75,7 +76,9 @@ class CW95_Whistle_Base: ItemBase
 
 	void PlayWhistleSound()
 	{
+#ifndef SERVER
 		SEffectManager.PlaySound( GetLoopWhistleSoundset(), GetPosition() );
+#endif
 	}
 	
 	override void SetActions()

@@ -11,34 +11,43 @@
 
 modded class Fence
 {
+	protected bool m_IsKnocking;
 	protected bool m_ShouldKnock;
+	
+	void Fence()
+	{
+		RegisterNetSyncVariableBool( "m_ShouldKnock" );
+		RegisterNetSyncVariableInt( "m_Index" );
+	}
 
 	protected string GetLoopKnockingSoundset()
 	{
 		return "CW95_Knocking_SoundSet";
 	}
-	
-	void Fence()
-	{
-		RegisterNetSyncVariableBool( "m_ShouldKnock" );
-	}
 
 	void KnockAtDoor() 		
 	{
+		m_IsKnocking = false;
 		m_ShouldKnock = true;
 		
-#ifdef SERVER
 		SetSynchDirty();
-#endif
+	}
+
+	void StopKnockAtDoor()
+	{
+		m_ShouldKnock = false;
+		m_IsKnocking = true;
+		
+		SetSynchDirty();
 	}
 	
 	override void OnVariablesSynchronized()
 	{
 		super.OnVariablesSynchronized();
 
-		if ( m_ShouldKnock )
+		if ( m_ShouldKnock && !m_IsKnocking )
 		{
-			m_ShouldKnock = false;
+			StopKnockAtDoor();
 #ifndef SERVER
 			PlayKnockingSound();
 #endif

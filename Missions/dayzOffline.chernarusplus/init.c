@@ -122,7 +122,6 @@ class CustomMission: MissionServer
 
 	void OnCheckOnlinePlayers()
 	{
-		return;
 		WriteFile( "$profile:CW95\\Data\\online.txt", m_SteamIDs );
 		
 		array<string> discordUsers = new array<string>;
@@ -254,26 +253,14 @@ class CustomMission: MissionServer
 			super.EquipCharacter(char_data);
 			return;
 		}
-		string loadoutType = "DEFAULT";
 
 		string steamID = m_player.GetIdentity().GetPlainId();
 		string filename = CW95_PATH_MISSION_PLAYERDATA + steamID + ".map";
-
 		FileHandle file;
-		if (!FileExist( filename ))
-		{
-			m_player.SetPosition("2729.891846 200.718246 5186.811035");
-			if ( m_player.IsMale() )
-				loadoutType = "PlayerSurvivorLoadout";
-			else
-				loadoutType = "PlayerSurvivorLoadout";
-				
-			ExpansionHumanLoadout.Apply(m_player, loadoutType, false);
-			return;
-		}
 
 		string factionName;
 		vector spawnPos = "0 0 0";
+		string loadoutType = "DEFAULT";
 
 		file = OpenFile(filename , FileMode.READ );
 		if ( file )
@@ -334,12 +321,10 @@ class CustomMission: MissionServer
 		bool skipPosSelection = spawnPos != "0 0 0";
 		bool skipLoadoutSelection = loadoutType != "DEFAULT";
 
-		Print("faction name is " + factionName);
 		switch(factionName)
 		{
 			default:
 			case "": // New Player !
-				Print("Should spawn at train !");
 				factionName = "Civilian";
 				SelectedPos = GetFistSpawns().GetRandomElement();
 				if ( isMale )
@@ -376,7 +361,7 @@ class CustomMission: MissionServer
 					factionLoadout = "TTSKOBoots,Armband_CDF,TTSKOPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Beige";
 			break;
 			case "Napa":
-				SelectedPos = "5861.304688 139.957092 4678.910645";
+				SelectedPos = "5765.2 1556.95 4597.31";
 				if ( isMale )
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 				else

@@ -37,6 +37,11 @@ class CW95_ActionRaiseWhistleSelf: ActionContinuousBase
 	{
 		return false;
 	}
+
+	override bool HasTarget()
+	{
+		return false;
+	}
 	
 	override bool ActionCondition ( PlayerBase player, ActionTarget target, ItemBase item )
 	{

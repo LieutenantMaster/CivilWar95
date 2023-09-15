@@ -1,6 +1,6 @@
 {
     "m_Version": 15,
-    "Enabled": 1,
+    "Enabled": 0,
     "DespawnTime": 600.0,
     "RespawnTime": 600.0,
     "MinDistRadius": 100.0,

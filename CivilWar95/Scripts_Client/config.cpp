@@ -9,6 +9,8 @@ class CfgPatches
 		{
 			"DZ_Scripts",
 			"DayZExpansion_Scripts",
+			"DayZExpansion_Market_Scripts",
+			"DayZExpansion_BaseBuilding_Scripts",
 			"AirRaid"
 		};
 	};
@@ -32,32 +34,12 @@ class CfgMods
 
 		dependencies[]=
 		{
-			"Engine",
-			"GameLib",
 			"Game",
 			"World",
 			"Mission"
 		};
 		class defs
 		{
-			class engineScriptModule
-			{
-				value = "";
-				files[] =
-				{
-					"CivilWar95/CivilWar95/Scripts_Client/Common",
-					"CivilWar95/CivilWar95/Scripts_Client/1_Core"
-				};
-			};
-			class gameLibScriptModule
-			{
-				value = "";
-				files[] =
-				{
-					"CivilWar95/CivilWar95/Scripts_Client/Common",
-					"CivilWar95/CivilWar95/Scripts_Client/2_GameLib"
-				};
-			};
 			class gameScriptModule
 			{
 				value = "";
