@@ -17,7 +17,6 @@ modded class Fence
 	void Fence()
 	{
 		RegisterNetSyncVariableBool( "m_ShouldKnock" );
-		RegisterNetSyncVariableInt( "m_Index" );
 	}
 
 	protected string GetLoopKnockingSoundset()

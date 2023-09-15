@@ -118,6 +118,9 @@ modded class PlayerBase
 				factionName = GetGroup().GetFaction().GetName();
 		}
 
+		if ( factionName == "" )
+			factionName = "Civilian";
+
 		string primaryData 		= factionName + 			"|" + loadoutType + 		  "|" + spawnPos.ToString();
 		string secondaryData 	= GetIdentity().GetName() + "|" + GetIdentity().GetId() + "|" + steamID;
 

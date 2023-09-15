@@ -11,6 +11,7 @@
 
 modded class DayZIntroScenePC
 {
+	/*
 	override void Expansion_HandleCustomScene(string childName)
 	{
 		switch (childName)
@@ -32,6 +33,7 @@ modded class DayZIntroScenePC
 			break;
 		}
 	}
+	*/
 	
 	void SpawnAI(string loadout, vector[] waypoints, int speed)
 	{

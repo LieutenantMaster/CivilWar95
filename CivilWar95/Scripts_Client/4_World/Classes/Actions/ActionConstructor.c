@@ -16,7 +16,7 @@ modded class ActionConstructor
 		super.RegisterActions(actions);
 		
 		actions.Insert( CW95_ActionRaiseWhistleSelf );
-		actions.Insert( CW95_ActionKnockAtDoor );
+		//actions.Insert( CW95_ActionKnockAtDoor );
 
 		actions.Insert(MP_PlayMusicAction);
 		actions.Insert(MP_StopAction);

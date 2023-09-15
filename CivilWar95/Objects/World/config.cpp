@@ -14,7 +14,6 @@ class CfgPatches
     };
 };
 
-
 class cfgExpansionCharacterScenes
 {
 	class ChernarusPlus
@@ -39,7 +38,7 @@ class cfgExpansionCharacterScenes
                 10,
                 19,
                 18,
-                47
+                10
             };
 			overcast=0.49;
 			rain=0.0;
