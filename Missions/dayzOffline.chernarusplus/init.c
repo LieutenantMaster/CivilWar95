@@ -293,20 +293,23 @@ class CustomMission: MissionServer
 
 		GetFactionData(factionName, m_player.IsMale(), loadoutType, spawnPos);
 
-		typename factionType = eAIFaction.GetType(factionName);
-		if (factionType)
+		if ( factionName != "" )
 		{
-			eAIFaction faction = eAIFaction.Cast(factionType.Spawn());
-			if (faction)
+			typename factionType = eAIFaction.GetType(factionName);
+			if (factionType)
 			{
-				factionName = faction.GetName();
-				if (m_player.GetGroup())
+				eAIFaction faction = eAIFaction.Cast(factionType.Spawn());
+				if (faction)
 				{
-					m_player.GetGroup().SetFaction(faction);
-				}
-				else
-				{
-					eAIGroup group = eAIGroup.GetGroupByLeader(m_player, true, faction);
+					factionName = faction.GetName();
+					if (m_player.GetGroup())
+					{
+						m_player.GetGroup().SetFaction(faction);
+					}
+					else
+					{
+						eAIGroup group = eAIGroup.GetGroupByLeader(m_player, true, faction);
+					}
 				}
 			}
 		}
