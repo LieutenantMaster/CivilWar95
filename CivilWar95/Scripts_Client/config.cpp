@@ -90,14 +90,20 @@ class CfgMods
 
 class cfgExpansionCharacterScenes
 {
-	delete ChernarusPlus;
 	class ChernarusPlus
 	{
- 		class CW95_Chernogorsk
+		delete SouthSvetlo;
+		delete Cherno;
+		delete Kamyshovo;
+		delete twospooky;
+		delete campfire_guitar;
+		delete expansion_market_update;
+		
+ 		class cw95_chernaruplus_chernogorsk_street
 		{
-			CameraPosition[]={6384.3, 9.32, 2538.92};
+			CameraPosition[]={6384.3, 10.52, 2538.92};
 			CameraOrientation[]={33.8983, 0, -0};
-			PlayerPosition[]={6386.7, 9.33248, 2540.93};
+			PlayerPosition[]={6386.5, 9.33248, 2541.93};
 			PlayerOrientation[]={-138.983, 0, -0};
 			fov=0.4;
             date[]=
@@ -105,7 +111,7 @@ class cfgExpansionCharacterScenes
                 1995,
                 10,
                 19,
-                16,
+                18,
                 47
             };
 			overcast=0.49;
@@ -114,7 +120,7 @@ class cfgExpansionCharacterScenes
 			windspeed=0.22;
 			MappingFiles[]=
 			{
-                "CivilWar95/CivilWar95/Scripts_Client/Data/Mapping/CW95_Chernogorsk"
+                "CivilWar95/CivilWar95/Scripts_Client/Data/CW95_Chernogorsk"
 			};
 			CustomPose=1054;
 			HandItem="";

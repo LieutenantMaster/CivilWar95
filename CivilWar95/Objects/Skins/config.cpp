@@ -24,107 +24,134 @@ class CfgVehicles
 	{
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\dayzexpansion\objects\basebuilding\misc\signs\data\sign_board_checkpoint_co.paa"};
-	}
+	};
 	class CW95_ExpansionSignDanger_Blufor: ExpansionSignDanger
 	{
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\dayzexpansion\objects\basebuilding\misc\signs\data\sign_board_mp_blufor_co.paa"};
-	}
+	};
 	class CW95_ExpansionSignDanger_Independent: ExpansionSignDanger
 	{
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\dayzexpansion\objects\basebuilding\misc\signs\data\sign_board_mp_independent_co.paa"};
-	}
+	};
 	class CW95_ExpansionSignDanger_Opfor: ExpansionSignDanger
 	{
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\dayzexpansion\objects\basebuilding\misc\signs\data\sign_board_mp_opfor_co.paa"};
-	}
+	};
 	class CW95_ExpansionSignDanger_Stop: ExpansionSignDanger
 	{
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\dayzexpansion\objects\basebuilding\misc\signs\data\sign_board_stop_co.paa"};
-	}
+	};
 	class CW95_ExpansionSignDanger_Zagorie: ExpansionSignDanger
 	{
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\dayzexpansion\objects\basebuilding\misc\signs\data\sign_wooden_relic_zagorie_co.paa"};
-	}
+	};
 	class CW95_ExpansionSignDanger_Tree: ExpansionSignDanger
 	{
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\dayzexpansion\objects\basebuilding\misc\signs\data\sign_wooden_relic_tree_co.paa"};
-	}
+	};
 	class CW95_ExpansionSignDanger_Building: ExpansionSignDanger
 	{
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\dayzexpansion\objects\basebuilding\misc\signs\data\sign_wooden_relic_building_co.paa"};
-	}
+	};
 
 	class CW95_ExpansionSignDanger3_FirstAid: ExpansionSignDanger3
 	{
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\dayzexpansion\objects\basebuilding\misc\signs\data\sign_one_leg_h_firstaid_co.paa"};
-	}
+	};
 	class CW95_ExpansionSignDanger3_NoEntry: ExpansionSignDanger3
 	{
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\dayzexpansion\objects\basebuilding\misc\signs\data\sign_one_leg_h_noentry_co.paa"};
-	}
+	};
 	class CW95_ExpansionSignDanger3_NoDumping: ExpansionSignDanger3
 	{
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\dayzexpansion\objects\basebuilding\misc\signs\data\sign_one_leg_v_nodumping_co.paa"};
-	}
+	};
 	class CW95_ExpansionSignDanger3_Quarry: ExpansionSignDanger3
 	{
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\dayzexpansion\objects\basebuilding\misc\signs\data\sign_one_leg_v_quarry_co.paa"};
-	}
+	};
 	
 	class ChernarusMap: ItemMap
 	{
 		scope=2;
+		hiddenSelections[]=
+		{
+			"texture_map_closed",
+			"texture_map_opened",
+			"texture_legend"
+		};
 		hiddenSelectionsTextures[] =
 		{
 			"dz\gear\navigation\data\map_chernarus_co.paa",
 			"CivilWar95\CivilWar95\Objects\Skins\Data\Carte_Chernarus.paa",
 			"CivilWar95\CivilWar95\Objects\Skins\Data\Carte_Chernarus.paa"
 		};
-	}
+	};
 	class CW95_ZelenoMap: ChernarusMap
 	{
 		scope=2;
+		displayName = "Carte de Zélénogorsk";
+		hiddenSelections[]=
+		{
+			"texture_map_closed",
+			"texture_map_opened",
+			"texture_legend"
+		};
 		hiddenSelectionsTextures[] =
 		{
 			"dz\gear\navigation\data\map_chernarus_co.paa",
 			"CivilWar95\CivilWar95\Objects\Skins\Data\Carte_Zeleno.paa",
 			"CivilWar95\CivilWar95\Objects\Skins\Data\Carte_Zeleno.paa"
 		};
-	}
+	};
 	class CW95_ZelenoMap_Open: CW95_ZelenoMap {};
 
 	class CW95_ChernoMap: ChernarusMap
 	{
-		scope=0;
+		scope=2;
+		displayName = "Carte de Chernogorsk";
+		hiddenSelections[]=
+		{
+			"texture_map_closed",
+			"texture_map_opened",
+			"texture_legend"
+		};
 		hiddenSelectionsTextures[] =
 		{
 			"dz\gear\navigation\data\map_chernarus_co.paa",
 			"CivilWar95\CivilWar95\Objects\Skins\Data\Carte_Cherno.paa",
 			"CivilWar95\CivilWar95\Objects\Skins\Data\Carte_Cherno.paa"
 		};
-	}
+	};
 	class CW95_ChernoMap_Open: CW95_ChernoMap {};
 
 	class CW95_ChernoMetroMap: ChernarusMap
 	{
 		scope=0;
+		displayName = "Carte du métro de Chernogorsk";
+		hiddenSelections[]=
+		{
+			"texture_map_closed",
+			"texture_map_opened",
+			"texture_legend"
+		};
 		hiddenSelectionsTextures[] =
 		{
 			"dz\gear\navigation\data\map_chernarus_co.paa",
 			"CivilWar95\CivilWar95\Objects\Skins\Data\Carte_ChernoMetro.paa",
 			"CivilWar95\CivilWar95\Objects\Skins\Data\Carte_ChernoMetro.paa"
 		};
-	}
+	};
 	class CW95_ChernoMap_Open: CW95_ChernoMetroMap {};
 };

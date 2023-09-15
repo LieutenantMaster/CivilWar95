@@ -24,7 +24,6 @@ class CfgPatches
 	};
 };
 
-
 class CfgSlots
 {
 	class Slot_ExpansionMoney
@@ -355,6 +354,20 @@ class CfgVehicles
 		displayName = "$STR_CW95_Expansion_Guitar_Old_NAME";
 		descriptionShort = "$STR_CW95_Expansion_Guitar_Old_DESC";
 	};
+	
+    class Clothing;
+    class GhillieSuit_ColorBase: Clothing
+    {
+        inventorySlot[]+= {"Armband","Hips"};        
+    };
+    class GhillieBushrag_ColorBase: Clothing
+    {
+        inventorySlot[]+= {"Armband","Hips"};    
+    };
+    class GhillieTop_ColorBase: Clothing
+    {
+        inventorySlot[]+= {"Armband","Hips"};        
+    };
 
 	//!--------------- Doors and Barricade ---------------
 	/*

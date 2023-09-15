@@ -86,6 +86,9 @@ class CustomMission: MissionServer
 	//! ============================== WHITELIST SYSTEM ==============================
 	override void OnEvent(EventType eventTypeId, Param params) 
 	{
+		super.OnEvent(eventTypeId, params);
+		return;
+		
 		switch (eventTypeId)
 		{
 			case ClientNewEventTypeID:
@@ -115,11 +118,11 @@ class CustomMission: MissionServer
 
 		OnCheckOnlinePlayers();
 
-		super.OnEvent(eventTypeId, params);
 	}
 
 	void OnCheckOnlinePlayers()
 	{
+		return;
 		WriteFile( "$profile:CW95\\Data\\online.txt", m_SteamIDs );
 		
 		array<string> discordUsers = new array<string>;
@@ -328,10 +331,12 @@ class CustomMission: MissionServer
 		bool skipPosSelection = spawnPos != "0 0 0";
 		bool skipLoadoutSelection = loadoutType != "DEFAULT";
 
+		Print("faction name is " + factionName);
 		switch(factionName)
 		{
 			default:
 			case "": // New Player !
+				Print("Should spawn at train !");
 				factionName = "Civilian";
 				SelectedPos = GetFistSpawns().GetRandomElement();
 				if ( isMale )
