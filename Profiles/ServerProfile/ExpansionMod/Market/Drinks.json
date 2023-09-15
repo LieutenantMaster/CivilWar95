@@ -63,8 +63,8 @@
         },
         {
             "ClassName": "thermos_mung",
-            "MaxPriceThreshold": 250,
-            "MinPriceThreshold": 250,
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 600,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

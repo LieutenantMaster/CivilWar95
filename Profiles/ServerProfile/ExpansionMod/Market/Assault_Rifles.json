@@ -89,8 +89,8 @@
         },
         {
             "ClassName": "tf_an94",
-            "MaxPriceThreshold": 7250,
-            "MinPriceThreshold": 6250,
+            "MaxPriceThreshold": 9500,
+            "MinPriceThreshold": 9500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -210,8 +210,8 @@
         },
         {
             "ClassName": "TF_OTs_14_Groza",
-            "MaxPriceThreshold": 6250,
-            "MinPriceThreshold": 5250,
+            "MaxPriceThreshold": 7500,
+            "MinPriceThreshold": 7500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "saiga",
-            "MaxPriceThreshold": 6250,
-            "MinPriceThreshold": 5250,
+            "MaxPriceThreshold": 8500,
+            "MinPriceThreshold": 8500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
