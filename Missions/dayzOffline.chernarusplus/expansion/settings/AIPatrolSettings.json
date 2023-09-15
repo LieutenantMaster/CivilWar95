@@ -26,7 +26,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -54,7 +54,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -82,7 +82,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -110,7 +110,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -138,7 +138,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -166,7 +166,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -194,7 +194,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -222,7 +222,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -250,7 +250,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -278,7 +278,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -306,7 +306,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -334,7 +334,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -362,7 +362,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -390,7 +390,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -418,7 +418,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -446,7 +446,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -474,7 +474,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -502,7 +502,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -530,7 +530,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -558,7 +558,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -586,7 +586,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -614,7 +614,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -642,7 +642,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -670,7 +670,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -698,7 +698,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -726,7 +726,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -754,7 +754,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -782,7 +782,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -810,7 +810,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -838,7 +838,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -866,7 +866,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -894,7 +894,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -922,7 +922,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -950,7 +950,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -978,7 +978,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1006,7 +1006,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1034,7 +1034,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1062,7 +1062,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1090,7 +1090,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1118,7 +1118,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1146,7 +1146,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1174,7 +1174,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1202,7 +1202,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1230,7 +1230,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1258,7 +1258,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1286,7 +1286,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1314,7 +1314,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1342,7 +1342,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1370,7 +1370,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1398,7 +1398,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1426,7 +1426,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1454,7 +1454,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1482,7 +1482,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1510,7 +1510,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1538,7 +1538,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1566,7 +1566,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1594,7 +1594,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1622,7 +1622,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1650,7 +1650,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1678,7 +1678,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1706,7 +1706,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1734,7 +1734,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1762,7 +1762,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
@@ -1790,7 +1790,7 @@
             "MaxDistRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.1,
+            "Chance": 0.4,
             "WaypointInterpolation": "UniformCubic",
             "RespawnTime": -2.0,
             "Waypoints": [
