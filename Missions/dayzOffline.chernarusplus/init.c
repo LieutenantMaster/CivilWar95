@@ -71,6 +71,9 @@ class CustomMission: MissionServer
 
 		// Start between 1 second and 1 hour
 		GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).CallLater( InitArty, Math.RandomIntInclusive(1000, 3600000), false );
+
+		// 60 secs
+		GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).CallLater( OnCheckOnlinePlayers, 60000, false );
 	}
 
 	void InitArty()
@@ -87,7 +90,6 @@ class CustomMission: MissionServer
 	override void OnEvent(EventType eventTypeId, Param params) 
 	{
 		super.OnEvent(eventTypeId, params);
-		return;
 		
 		switch (eventTypeId)
 		{
@@ -115,9 +117,6 @@ class CustomMission: MissionServer
 
 			break;
 		}
-
-		OnCheckOnlinePlayers();
-
 	}
 
 	void OnCheckOnlinePlayers()

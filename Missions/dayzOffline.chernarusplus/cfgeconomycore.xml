@@ -69,5 +69,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="dayzdogs_types.xml" type="types" />
 
 		<file name="mung_types.xml" type="types" />
+		<file name="dingo_types.xml" type="types" />
 	</ce>
 </economycore>
