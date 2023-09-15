@@ -380,7 +380,7 @@ class CustomMission: MissionServer
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 			break;
 			case "Chedaki":
-				SelectedPos = "10291.471680 13.395282 2288.099609";
+				SelectedPos = "10283 16.583 2287.63";
 				if ( isMale )
 					factionLoadout = "TTSKOBoots,Armband_Chedaki,BDUPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Green";
 				else

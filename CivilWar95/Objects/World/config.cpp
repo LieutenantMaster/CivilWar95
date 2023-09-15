@@ -8,10 +8,55 @@ class CfgPatches
         requiredAddons[]=
         {
             "DZ_Data",
-            "DZ_Worlds_Chernarusplus_World"
+            "DZ_Worlds_Chernarusplus_World",
+            "DayZExpansion_Worlds_IntroScenes"
         };
     };
 };
+
+
+class cfgExpansionCharacterScenes
+{
+	class ChernarusPlus
+	{
+		delete SouthSvetlo;
+		delete Cherno;
+		delete Kamyshovo;
+		delete twospooky;
+		delete campfire_guitar;
+		delete expansion_market_update;
+		
+ 		class cw95_chernaruplus_chernogorsk_street
+		{
+			CameraPosition[]={6384.3, 10.52, 2538.92};
+			CameraOrientation[]={33.8983, 0, -0};
+			PlayerPosition[]={6386.5, 9.33248, 2541.93};
+			PlayerOrientation[]={-138.983, 0, -0};
+			fov=0.4;
+            date[]=
+            {
+                1995,
+                10,
+                19,
+                18,
+                47
+            };
+			overcast=0.49;
+			rain=0.0;
+			fog=0.67;
+			windspeed=0.22;
+			MappingFiles[]=
+			{
+                "CivilWar95/CivilWar95/Scripts_Client/Data/CW95_Chernogorsk"
+			};
+			CustomPose=1054;
+			HandItem="";
+			CanRotate=0;
+			CanUseInCharacterCreation=1;
+		};
+	};
+};
+
 class CfgWorlds
 {
     class DefaultWorld;
