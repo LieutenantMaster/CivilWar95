@@ -88,13 +88,11 @@ class CustomMission: MissionServer
 
 	//! ============================== WHITELIST SYSTEM ==============================
 	override void OnEvent(EventType eventTypeId, Param params) 
-	{
-		super.OnEvent(eventTypeId, params);
-		
+	{		
 		switch (eventTypeId)
 		{
 			case ClientNewEventTypeID:
-
+			{
 				ClientNewEventParams newParams;
 				Class.CastTo(newParams, params);
 				PlayerIdentity identity = newParams.param1;
@@ -114,9 +112,11 @@ class CustomMission: MissionServer
 					return;
 				}
 				Print("[CivilWar95]:: LOGIN:: Connection granted to the player " + steamid);
-
+			}
 			break;
 		}
+		
+		super.OnEvent(eventTypeId, params);
 	}
 
 	void OnCheckOnlinePlayers()

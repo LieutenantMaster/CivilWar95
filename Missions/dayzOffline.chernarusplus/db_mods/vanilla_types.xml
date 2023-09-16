@@ -5087,20 +5087,6 @@
         <usage user="AmusementPark"/>
         <value user="Tier12"/>
     </type>
-    <type name="ChristmasTree">
-        <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category/>
-        <tag/>
-        <usage/>
-        <value/>
-    </type>
     <type name="CivSedanDoors_BackLeft">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
@@ -15307,7 +15293,7 @@
         <usage/>
         <value/>
     </type>
-        <type name="OffroadHatchback_Firefighter">
+    <type name="OffroadHatchback_Firefighter">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>14400</restock>
@@ -15321,21 +15307,7 @@
         <usage />
         <value />
     </type>
-            <type name="BPGaz">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>80</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category />
-        <tag />
-        <usage />
-        <value />
-    </type>
-            <type name="BPGazCamo">
+    <type name="BPGazCamo">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>14400</restock>
@@ -21941,48 +21913,6 @@
         <tag/>
         <usage user="SeasonalEvent"/>
         <value user="Tier12"/>
-    </type>
-    <type name="WitchHood_Chainmail_Black">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="clothes"/>
-        <tag/>
-        <usage/>
-        <value user="Tier123"/>
-    </type>
-    <type name="WitchHood_Chainmail_Brown">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="clothes"/>
-        <tag/>
-        <usage/>
-        <value user="Tier123"/>
-    </type>
-    <type name="WitchHood_Chainmail_Red">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="clothes"/>
-        <tag/>
-        <usage/>
-        <value user="Tier123"/>
     </type>
     <type name="WitchHood_Red">
         <nominal>0</nominal>
