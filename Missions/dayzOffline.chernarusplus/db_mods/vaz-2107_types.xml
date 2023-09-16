@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
-<type name="CrSk_VAZ_2107">
+    <type name="CrSk_VAZ_2107">
 		<nominal>0</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>14400</restock>

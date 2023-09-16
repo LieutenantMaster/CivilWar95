@@ -12,15 +12,19 @@
 modded class PlayerBase
 {
 	private ref FrontLineManager m_FrontLineManager;
+	
+	ref Timer m_UpdateTimer;
+
+	protected bool m_WasSurrender;
 
 #ifdef DIAG
 #ifndef SERVER
 	void PlayerBase()
 	{
 		if (!IsAI())
-			GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).CallLater( CW95_DelayedInit, 1000, false );
+			GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).CallLater( CW95_DelayedInit, 1000, true );
 	}
-
+	
 	void CW95_DelayedInit()
 	{
 		m_FrontLineManager = new FrontLineManager();
@@ -28,6 +32,40 @@ modded class PlayerBase
 	}
 #endif
 #endif
+	
+	void ~PlayerBase()
+	{
+		if ( m_UpdateTimer )
+		{
+			m_UpdateTimer.Stop();
+			delete m_UpdateTimer;
+		}
+	}
+	
+	override void Init()
+	{
+		super.Init();
+		
+		m_UpdateTimer = new Timer( CALL_CATEGORY_GAMEPLAY );
+		m_UpdateTimer.Run( 0.1, this, "UpdateSurrender", NULL, true );
+	}
+
+	void UpdateSurrender()
+	{
+		if ( m_EmoteManager && m_EmoteManager.m_Callback )
+		{
+			if (m_EmoteManager.m_Callback.m_callbackID == 1113)
+				m_IsSurrender = true;
+			else if (m_EmoteManager.m_Callback.m_callbackID == 1114)
+				m_IsSurrender = false;
+
+			if ( m_WasSurrender != m_IsSurrender )
+			{
+				m_WasSurrender = m_IsSurrender;
+				SetSynchDirty();
+			}
+		}
+	}
 
 	#ifdef EXPANSION_MODSTORAGE
 	override void CF_OnStoreSave(CF_ModStorageMap storage)

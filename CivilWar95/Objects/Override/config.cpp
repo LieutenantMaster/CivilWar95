@@ -7,7 +7,9 @@ class CfgPatches
 		requiredVersion=0.1;
 		requiredAddons[]=
 		{
+			"DZ_Characters_Vests",
 			"DZ_Gear_Consumables",
+			"DZ_Gear_Containers",
 			"DZ_Weapons_Magazines",
 			"DZ_Weapons_Melee",
 			"DZ_Animals_ursus_arctos",
@@ -18,8 +20,6 @@ class CfgPatches
 			"DayZExpansion_Objects_Misc",
 
 			"CJ_Passport"
-
-			//"PB_SmallMetalPlate"
 		};
 	};
 };
@@ -52,6 +52,8 @@ class CfgMagazines
 class CfgVehicles
 {
     class Inventory_Base;
+	class Container_Base;
+	class Clothing;
 	class HouseNoDestruct;
 
 	class PoliceVest;
@@ -359,25 +361,50 @@ class CfgVehicles
     class Clothing;
     class GhillieSuit_ColorBase: Clothing
     {
-        inventorySlot[]+= {"Armband","Hips"};        
+        inventorySlot[]+= {"Armband","Hips"};
     };
     class GhillieBushrag_ColorBase: Clothing
     {
-        inventorySlot[]+= {"Armband","Hips"};    
+        inventorySlot[]+= {"Armband","Hips"};
     };
     class GhillieTop_ColorBase: Clothing
     {
-        inventorySlot[]+= {"Armband","Hips"};        
+        inventorySlot[]+= {"Armband","Hips"};
     };
 
-	//!--------------- Doors and Barricade ---------------
-	/*
-	class PB_SmallMetalPlate: Inventory_Base
+	class AK_Bayonet: Inventory_Base
 	{
-		displayName = "$STR_CW95_PB_SmallMetalPlate_NAME";
-		descriptionShort = "$STR_CW95_PB_SmallMetalPlate_DESC";
+		inventorySlot[]+={"Knife"};
 	};
-	*/
+	class M9A1_Bayonet: Inventory_Base
+	{
+		inventorySlot[]+={"Knife"};
+	};
+	
+	class PlateCarrierPouches : Container_Base
+	{
+		inventorySlot[]=
+		{
+			"VestPouch",
+			"VestHolster",
+			"Belt_Right"
+		};
+	};
+	
+	class SmershVest : Clothing
+	{
+		inventorySlot[]=
+		{
+			"Vest",
+			"Hips"
+		};
+		itemInfo[]=
+		{
+			"Clothing",
+			"Vest",
+			"Hips"
+		};
+	};
 	
 	//!--------------- Air Raid ---------------
 	class CW95_TU95: HouseNoDestruct

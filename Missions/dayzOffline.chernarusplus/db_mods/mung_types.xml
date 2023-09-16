@@ -202,20 +202,20 @@
         <usage user="Village" />
         <value user="Tier123" />
     </type>
-  <type name="sleepingbag_yellow_mung_deployed">
-    <lifetime>3888000</lifetime>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-  </type>
-    <type name="sleepingbag_green_mung_deployed">
-    <lifetime>3888000</lifetime>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-  </type>
-    <type name="sleepingbag_red_mung_deployed">
-    <lifetime>3888000</lifetime>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-  </type>
-    <type name="sleepingbag_blue_mung_deployed">
-    <lifetime>3888000</lifetime>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-  </type>
+    <type name="sleepingbag_yellow_mung_deployed">
+      <lifetime>3888000</lifetime>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+      <type name="sleepingbag_green_mung_deployed">
+      <lifetime>3888000</lifetime>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+      <type name="sleepingbag_red_mung_deployed">
+      <lifetime>3888000</lifetime>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+      <type name="sleepingbag_blue_mung_deployed">
+      <lifetime>3888000</lifetime>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
 </types>

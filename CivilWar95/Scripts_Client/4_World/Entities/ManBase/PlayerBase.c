@@ -14,6 +14,13 @@ modded class PlayerBase
 	//protected bool m_IsWounded;
 	//protected autoprt TIntArray m_Injuries;
 
+	protected bool m_IsSurrender;
+
+	void PlayerBase()
+	{
+		RegisterNetSyncVariableBool("m_IsSurrender");
+	}
+
 	override void SetActions()
 	{
 		super.SetActions();
@@ -64,12 +71,6 @@ modded class PlayerBase
 		return true;
 	}
 	#endif
-	
-	override EStatLevels GetStatLevelHealth()
-	{
-		float health = GetHealth("","");
-		return GetStatLevel(health, 20, 40, 70, 85);
-	}
 
 	override void OnCommandVehicleStart()
 	{
@@ -85,6 +86,20 @@ modded class PlayerBase
 			GetInventory().LockInventory(LOCK_FROM_SCRIPT);
 		
 		super.OnCommandVehicleFinish();		
+	}
+	
+	override EStatLevels GetStatLevelHealth()
+	{
+		float health = GetHealth("","");
+		return GetStatLevel(health, 20, 40, 70, 85);
+	}
+
+	override bool CanManipulateInventory()
+	{
+		if( IsControlledPlayer() )
+			return !IsRestrained() && !IsRestrainPrelocked() && !m_IsSurrender;
+
+		return true;
 	}
 
 	static bool IsWounded()
