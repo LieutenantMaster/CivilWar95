@@ -10,14 +10,14 @@
     "EnableUFO": 0,
     "EnableMi24": 1,
     "EnableMi6": 1,
-    "Interval": 1.0,
+    "Interval": 20.0,
     "SubmarineInterval": 60.0,
     "BoatInterval": 60.0,
-    "AndulaInterval": 2.0,
-    "Mig21Interval": 2.0,
+    "AndulaInterval": 60.0,
+    "Mig21Interval": 20.0,
     "UFOInterval": 920.0,
-    "Mi24Interval": 2.0,
-    "Mi6Interval": 2.0,
+    "Mi24Interval": 20.0,
+    "Mi6Interval": 20.0,
     "AirRaidLocations": [
         {
             "name": "AvantPosteChDKZ",
@@ -81,7 +81,7 @@
         },
         {
             "name": "ZelenoGreenMountain",
-            "sirenpos": "2754 217 5323",
+            "sirenpos": "6511 9 2968",
             "target": "3699 403 5982",
             "type": "heavy"
         }
