@@ -1,221 +1,221 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
-      <type name="ballgrill_mung">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
-        <tag name="floor" />
-        <usage user="Industrial" />
-        <usage user="Farm" />
-        <value user="Tier12" />
-    </type>
-      <type name="dutchoven_mung">
-        <nominal>8</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
-        <tag name="floor" />
-        <usage user="Industrial" />
-        <usage user="Farm" />
-        <usage user="Town" />
-        <usage user="Village" />
-        <value user="Tier123" />
-    </type>
-      <type name="kv5_mung">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
-        <tag name="floor" />
-        <usage user="Industrial" />
-        <usage user="Farm" />
-        <usage user="Town" />
-        <usage user="Village" />
-        <value user="Tier123" />
-    </type>
-    <type name="zippo_mung">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
-        <tag name="floor" />
-        <usage user="Industrial" />
-        <usage user="Farm" />
-        <usage user="Town" />
-        <usage user="Village" />
-        <value user="Tier123" />
-    </type>
-        <type name="Nagant1895_mung">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
-        <tag name="floor" />
-        <usage user="Industrial" />
-        <usage user="Farm" />
-        <usage user="Town" />
-        <usage user="Village" />
-        <value user="Tier123" />
-    </type>
-        <type name="swmodel3_mung">
-        <nominal>2</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
-        <tag name="floor" />
-        <usage user="Industrial" />
-        <usage user="Farm" />
-        <usage user="Town" />
-        <usage user="Village" />
-        <value user="Tier123" />
-    </type>
-        <type name="Gewehr43_mung">
-        <nominal>1</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
-        <tag name="floor" />
-        <usage user="Industrial" />
-        <usage user="Farm" />
-        <usage user="Town" />
-        <usage user="Village" />
-        <value user="Tier123" />
-    </type>
-        <type name="mag_Gewehr43_10Rnd_mung">
-        <nominal>4</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>50</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
-        <tag name="floor" />
-        <usage user="Industrial" />
-        <usage user="Farm" />
-        <usage user="Town" />
-        <usage user="Village" />
-        <value user="Tier123" />
-    </type>
-        <type name="sleepingbag_yellow_mung">
-        <nominal>4</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
-        <tag name="floor" />
-        <usage user="Industrial" />
-        <usage user="Farm" />
-        <usage user="Town" />
-        <usage user="Village" />
-        <value user="Tier123" />
-    </type>
-        <type name="sleepingbag_red_mung">
-        <nominal>4</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
-        <tag name="floor" />
-        <usage user="Industrial" />
-        <usage user="Farm" />
-        <usage user="Town" />
-        <usage user="Village" />
-        <value user="Tier123" />
-    </type>
-        <type name="sleepingbag_green_mung">
-        <nominal>4</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
-        <tag name="floor" />
-        <usage user="Industrial" />
-        <usage user="Farm" />
-        <usage user="Town" />
-        <usage user="Village" />
-        <value user="Tier123" />
-    </type>
-        <type name="sleepingbag_blue_mung">
-        <nominal>4</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
-        <tag name="floor" />
-        <usage user="Industrial" />
-        <usage user="Farm" />
-        <usage user="Town" />
-        <usage user="Village" />
-        <value user="Tier123" />
-    </type>
-    <type name="sleepingbag_yellow_mung_deployed">
+    <type name="ballgrill_mung">
+      <nominal>0</nominal>
       <lifetime>3888000</lifetime>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-      <type name="sleepingbag_green_mung_deployed">
-      <lifetime>3888000</lifetime>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-      <type name="sleepingbag_red_mung_deployed">
-      <lifetime>3888000</lifetime>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-      <type name="sleepingbag_blue_mung_deployed">
-      <lifetime>3888000</lifetime>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
+      <restock>14400</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="floor" />
+      <usage user="Industrial" />
+      <usage user="Farm" />
+      <value user="Tier12" />
+  </type>
+    <type name="dutchoven_mung">
+      <nominal>8</nominal>
+      <lifetime>14400</lifetime>
+      <restock>14400</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="floor" />
+      <usage user="Industrial" />
+      <usage user="Farm" />
+      <usage user="Town" />
+      <usage user="Village" />
+      <value user="Tier123" />
+  </type>
+    <type name="kv5_mung">
+      <nominal>6</nominal>
+      <lifetime>14400</lifetime>
+      <restock>14400</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="floor" />
+      <usage user="Industrial" />
+      <usage user="Farm" />
+      <usage user="Town" />
+      <usage user="Village" />
+      <value user="Tier123" />
+  </type>
+  <type name="zippo_mung">
+      <nominal>6</nominal>
+      <lifetime>14400</lifetime>
+      <restock>14400</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="floor" />
+      <usage user="Industrial" />
+      <usage user="Farm" />
+      <usage user="Town" />
+      <usage user="Village" />
+      <value user="Tier123" />
+  </type>
+      <type name="Nagant1895_mung">
+      <nominal>6</nominal>
+      <lifetime>14400</lifetime>
+      <restock>14400</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="floor" />
+      <usage user="Industrial" />
+      <usage user="Farm" />
+      <usage user="Town" />
+      <usage user="Village" />
+      <value user="Tier123" />
+  </type>
+      <type name="swmodel3_mung">
+      <nominal>2</nominal>
+      <lifetime>14400</lifetime>
+      <restock>14400</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="floor" />
+      <usage user="Industrial" />
+      <usage user="Farm" />
+      <usage user="Town" />
+      <usage user="Village" />
+      <value user="Tier123" />
+  </type>
+      <type name="Gewehr43_mung">
+      <nominal>1</nominal>
+      <lifetime>14400</lifetime>
+      <restock>14400</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="floor" />
+      <usage user="Industrial" />
+      <usage user="Farm" />
+      <usage user="Town" />
+      <usage user="Village" />
+      <value user="Tier123" />
+  </type>
+      <type name="mag_Gewehr43_10Rnd_mung">
+      <nominal>4</nominal>
+      <lifetime>14400</lifetime>
+      <restock>14400</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="floor" />
+      <usage user="Industrial" />
+      <usage user="Farm" />
+      <usage user="Town" />
+      <usage user="Village" />
+      <value user="Tier123" />
+  </type>
+      <type name="sleepingbag_yellow_mung">
+      <nominal>4</nominal>
+      <lifetime>14400</lifetime>
+      <restock>14400</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="floor" />
+      <usage user="Industrial" />
+      <usage user="Farm" />
+      <usage user="Town" />
+      <usage user="Village" />
+      <value user="Tier123" />
+  </type>
+      <type name="sleepingbag_red_mung">
+      <nominal>4</nominal>
+      <lifetime>14400</lifetime>
+      <restock>14400</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="floor" />
+      <usage user="Industrial" />
+      <usage user="Farm" />
+      <usage user="Town" />
+      <usage user="Village" />
+      <value user="Tier123" />
+  </type>
+      <type name="sleepingbag_green_mung">
+      <nominal>4</nominal>
+      <lifetime>14400</lifetime>
+      <restock>14400</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="floor" />
+      <usage user="Industrial" />
+      <usage user="Farm" />
+      <usage user="Town" />
+      <usage user="Village" />
+      <value user="Tier123" />
+  </type>
+      <type name="sleepingbag_blue_mung">
+      <nominal>4</nominal>
+      <lifetime>14400</lifetime>
+      <restock>14400</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="floor" />
+      <usage user="Industrial" />
+      <usage user="Farm" />
+      <usage user="Town" />
+      <usage user="Village" />
+      <value user="Tier123" />
+  </type>
+  <type name="sleepingbag_yellow_mung_deployed">
+    <lifetime>3888000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+    <type name="sleepingbag_green_mung_deployed">
+    <lifetime>3888000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+    <type name="sleepingbag_red_mung_deployed">
+    <lifetime>3888000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+    <type name="sleepingbag_blue_mung_deployed">
+    <lifetime>3888000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
 </types>

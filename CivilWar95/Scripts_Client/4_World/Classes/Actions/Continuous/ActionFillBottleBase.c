@@ -14,12 +14,12 @@ modded class ActionFillBottleBase
 	override bool ActionCondition(PlayerBase player, ActionTarget target, ItemBase item)
 	{
 		CarScript car = CarScript.Cast(target.GetObject());
-		if (car)
-			return car.IsFuelStation();
+		if (car && car.IsFuelStation())
+			return false;
 
 		Object targetObject = target.GetObject();
-		if (targetObject)
-            return targetObject.IsFuelStation();
+		if (targetObject && targetObject.IsFuelStation())
+            return false;
         
 		return super.ActionCondition(player, target, item);
 	}

@@ -13,13 +13,15 @@
     "Items": {
         "batterycharger": 0,
         "powergenerator": 0,
-        "carbattery": 0,
+        "carbattery": 2,
+        "truckbattery": 2,
+        "carradiator": 2,
+        "sparkplug": 2,
 
         "cablereel": 0,
         "battery9v": 0,
         "personalradio": 0,
         "spotlight": 0,
-        "sparkplug": 0,
         "electronicrepairkit": 0,
         "screwdriver": 1,
         "wrench": 1,
@@ -61,7 +63,14 @@
         "PB_smallmetalplate": 1,
         "reflexvest": 0,
         "metalwire": 0,
-        "weldinggoggles_mung": 0
+        "weldinggoggles_mung": 0,
 
+        "ExpansionCircuitBoard_MK1": 2,
+        "ExpansionCircuitBoard_MK2": 2,
+        "ExpansionCircuitBoard_MK3": 2,
+
+        "MD_TV": 2,
+        "MD_Radio": 2,
+        "MD_OldRadio": 2
     }
 }

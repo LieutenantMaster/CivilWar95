@@ -98,10 +98,10 @@
             ]
         },
         {
-            "ClassName": "vodka",
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 150,
-            "SellPricePercent": -1.0,
+            "ClassName": "Vodka",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,

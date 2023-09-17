@@ -1272,7 +1272,7 @@
         <value user="Tier123" />
     </type>
     <type name="MD_TV">
-        <nominal>2</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
         <min>1</min>
@@ -1282,13 +1282,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
         <usage user="TownVillage" />
-        <value user="Tier123" />
+        <value name="Tier1" />
     </type>
     <type name="MD_OldRadio">
-        <nominal>6</nominal>
+        <nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
         <min>1</min>
@@ -1298,13 +1296,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
         <usage user="TownVillage" />
-        <value user="Tier123" />
+        <value name="Tier1" />
     </type>
     <type name="MD_Radio">
-        <nominal>3</nominal>
+        <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
         <min>1</min>
@@ -1314,10 +1310,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
         <usage user="TownVillage" />
-        <value user="Tier123" />
+        <value name="Tier1" />
     </type>
     <type name="MD_Scale">
         <nominal>0</nominal>

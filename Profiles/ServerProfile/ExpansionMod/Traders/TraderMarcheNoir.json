@@ -11,9 +11,6 @@
     ],
     "Categories": [],
     "Items": {
-        "ExpansionCircuitBoard_MK1": 2,
-        "ExpansionCircuitBoard_MK2": 2,
-        "ExpansionCircuitBoard_MK3": 2,
         "expansiongoldbar": 2,
         "expansionsilverbar": 2,
         "ExpansionGoldNugget": 3,
@@ -28,18 +25,9 @@
         "CP_CannabisBrickS1": 2,
 		"CP_CannabisBrickNomad": 2,
 		"CP_CannabisBrickBlackFrost": 2,
-        "MD_OldRadio": 2,
-        "MD_Radio": 2,
-        "MD_TV": 2,
 
-        "vodka": 0,
         "CP_JointSkunk": 0,
         "CP_JointKush": 0,
-        "CP_JointS1": 0,
-
-        "CigarettePack_Chernamorka": 1,
-        "cigarette_mung": 0,
-        "cigar_mung": 0,
-        "sherlockpipe_mung": 0
+        "CP_JointS1": 0
     }
 }

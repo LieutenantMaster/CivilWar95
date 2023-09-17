@@ -12,6 +12,7 @@
 modded class CarScript
 {
 	float m_OdometerMeters = 0.0;
+	static int m_MaxDistanceUntilRuined = 80; // KM
 	
 	bool IsFuelStation()
 	{
@@ -46,13 +47,13 @@ modded class CarScript
 						{
 							if ( attachment.GetHealth() > 0 )
 							{
-								float totaldmg = attachment.GetMaxHealth() / ( 5000 / 10);
-								totaldmg += Math.RandomFloatInclusive(0, -0.5) * totaldmg;
+								float totaldmg = attachment.GetMaxHealth() / ( m_MaxDistanceUntilRuined * 1000 / 10);
+								totaldmg += Math.RandomFloatInclusive(-0.2, 0.2) * totaldmg;
 
 								attachment.AddHealth(-totaldmg);
 							}
 						}
-					}					
+					}
 				}
 				m_OdometerMeters = 0;
 			}

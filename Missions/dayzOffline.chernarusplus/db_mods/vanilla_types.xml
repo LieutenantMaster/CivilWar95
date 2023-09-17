@@ -39,6 +39,20 @@
         <usage user="Police"/>
         <value user="Tier4"/>
     </type>
+        <type name="Vodka">
+        <nominal>30</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag/>
+        <usage user="TownVillage"/>
+        <value name="Tier1"/>
+    </type>
     <type name="AK101">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
@@ -4606,8 +4620,8 @@
         <value user="Tier1234"/>
     </type>
     <type name="CarBattery">
-        <nominal>5</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>10</nominal>
+        <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
         <quantmin>20</quantmin>
@@ -4617,21 +4631,21 @@
         <category name="tools"/>
         <tag/>
         <usage user="Industrial"/>
-        <value user="Tier123"/>
+        <value name="Tier1"/>
     </type>
     <type name="CarRadiator">
-        <nominal>5</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>10</nominal>
+        <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <tag name="floor"/>
+        <tag/>
         <usage user="Industrial"/>
-        <value user="Tier123"/>
+        <value name="Tier1"/>
     </type>
     <type name="CarTent">
         <nominal>0</nominal>
@@ -19474,18 +19488,18 @@
         <value user="Tier2"/>
     </type>
     <type name="SparkPlug">
-        <nominal>6</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <tag name="shelves"/>
+        <tag/>
         <usage user="Industrial"/>
-        <value user="Tier123"/>
+        <value name="Tier1"/>
     </type>
     <type name="SpearBone">
         <nominal>0</nominal>
@@ -20980,8 +20994,8 @@
         <value user="Tier123"/>
     </type>
     <type name="TruckBattery">
-        <nominal>8</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>10</nominal>
+        <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
         <quantmin>20</quantmin>
@@ -20991,7 +21005,7 @@
         <category name="tools"/>
         <tag/>
         <usage user="Industrial"/>
-        <value user="Tier123"/>
+        <value name="Tier1"/>
     </type>
     <type name="Truck_01_Covered">
         <nominal>0</nominal>
@@ -22668,20 +22682,6 @@
         <value user="Tier12"/>
     </type>
         <type name="CigarettePack_Merkur">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="food"/>
-        <tag name="shelves"/>
-        <usage user="Everything"/>
-        <value user="Tier34"/>
-    </type>
-        <type name="CigarettePack_Chernamorka">
         <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
@@ -22693,10 +22693,10 @@
         <category name="food"/>
         <tag name="shelves"/>
         <usage user="TownVillage"/>
-        <value user="Tier23"/>
+        <value name="Tier1"/>
     </type>
-        <type name="CigarettePack_Partyzanka">
-        <nominal>15</nominal>
+        <type name="CigarettePack_Chernamorka">
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -22707,7 +22707,21 @@
         <category name="food"/>
         <tag name="shelves"/>
         <usage user="TownVillage"/>
-        <value user="Tier12"/>
+        <value name="Tier1"/>
+    </type>
+        <type name="CigarettePack_Partyzanka">
+        <nominal>30</nominal>
+        <lifetime>14400</lifetime>
+        <restock>14400</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage user="TownVillage"/>
+        <value name="Tier1"/>
     </type>
     <type name="ZmbF_BlueCollarFat_Blue">
         <nominal>0</nominal>

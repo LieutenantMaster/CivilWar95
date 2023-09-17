@@ -294,22 +294,20 @@
         },
         {
             "ClassName": "CigarettePack_Chernamorka",
-            "MaxPriceThreshold": 1100,
-            "MinPriceThreshold": 900,
-            "SellPricePercent": 50,
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 75,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-				"CigarettePack_Partyzanka"
-			]
+            "Variants": []
         },
         {
             "ClassName": "CigarettePack_Partyzanka",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 400,
-            "SellPricePercent": 50,
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": 75,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
