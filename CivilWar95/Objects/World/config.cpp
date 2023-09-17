@@ -37,8 +37,8 @@ class cfgExpansionCharacterScenes
                 1995,
                 10,
                 19,
-                18,
-                10
+                17,
+                30
             };
 			overcast=0.49;
 			rain=0.0;
@@ -48,7 +48,7 @@ class cfgExpansionCharacterScenes
 			{
                 "CivilWar95/CivilWar95/Scripts_Client/Data/CW95_Chernogorsk"
 			};
-			CustomPose=1054;
+			CustomPose=-1;
 			HandItem="";
 			CanRotate=0;
 			CanUseInCharacterCreation=1;

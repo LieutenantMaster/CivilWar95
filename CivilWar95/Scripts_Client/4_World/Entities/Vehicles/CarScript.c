@@ -15,4 +15,9 @@ modded class CarScript
 	{
 		return false;
 	}
+
+	bool HasFuelToGive()
+	{
+		return !IsRuined() && !IsEmpty();
+	}
 };
