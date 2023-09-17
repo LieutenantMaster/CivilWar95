@@ -53,4 +53,9 @@ modded class FuelStation
 	{
 		return m_IsEmpty;
 	}
+	
+	bool HasFuelToGive()
+	{
+		return !IsRuined() && !IsEmpty();
+	}
 };

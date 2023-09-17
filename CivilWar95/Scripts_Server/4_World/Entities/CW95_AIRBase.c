@@ -153,27 +153,15 @@ modded class CW95_AIRBase
 
 		m_PrevTargetAltitude = targetAltitude;
 
-
 		float delta = targetAltitude - altitude;
 
-		m_Speed = m_TargetSpeed;
-
-		if ( m_Speed > 0 )
+		if ( m_ReachedTarget )
 		{
 			//! Adjust pitch
-			angle = m_MaxPitch * ( delta / m_Speed ) + m_DefaultPitch;
-		}
+			angle = (m_MaxPitch * ( delta / m_TargetSpeed )) + m_DefaultPitch;
 
-		if ( delta > 5 )
-		{
-			if ( altitude < 120 )
-				m_Speed = m_TargetSpeed - (m_TargetSpeed / delta);
-			else if ( altitude > 120 )
-				m_Speed = m_TargetSpeed - (m_TargetSpeed / delta);
-		}
-		else if ( delta < -5 && altitude > 120)
-		{
-			m_Speed = m_TargetSpeed + (m_TargetSpeed / delta);
+			//! Adjust speed based on pitch (eg: slow down when going up)
+			m_Speed = m_TargetSpeed + ((m_TargetSpeed / 100) * angle);
 		}
 
 		return altitude + delta * dt;
