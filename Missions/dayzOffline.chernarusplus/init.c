@@ -3,7 +3,7 @@ void main()
 	// Uncomment this line to update the loot spawn pos for the mapping
 	// You can then grab the updated XML file from the storage folder once the server started with this line
 	// Please comment this line again once you are done
-	MissionServer.ExportLootData = true;
+	//MissionServer.ExportLootData = true;
 	
 	//INIT ECONOMY--------------------------------------
 	Hive ce = CreateHive();
@@ -322,7 +322,6 @@ class CustomMission: MissionServer
 
 		switch(factionName)
 		{
-			default:
 			case "": // New Player !
 				factionName = "Civilian";
 				SelectedPos = GetFistSpawns().GetRandomElement();
@@ -331,7 +330,15 @@ class CustomMission: MissionServer
 				else
 					factionLoadout = "PlayerSurvivorLoadout";
 			break;
+			default:
 			case "Civilian":
+				SelectedPos = "2760.51 206.098 5175.6";
+				if ( isMale )
+					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
+				else
+					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
+			break;
+			case "Pompier":
 				SelectedPos = "2760.51 206.098 5175.6";
 				if ( isMale )
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
@@ -345,6 +352,7 @@ class CustomMission: MissionServer
 				else
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 			break;
+			case "Medecin":
 			case "Medic":
 				SelectedPos = "2729.891846 200.718246 5186.811035";
 				if ( isMale )
