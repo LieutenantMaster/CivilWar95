@@ -9,6 +9,9 @@
     "Currencies": [
         "expansionbanknotehryvnia"
     ],
-    "Categories": ["Meubles:1"],
+    "Categories": [
+        "Meubles:1",
+        "Electromenager:1"
+    ],
     "Items": {}
 }

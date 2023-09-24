@@ -1575,7 +1575,7 @@
         <value user="Tier34"/>
     </type>
     <type name="TF_Maska1Visor">
-        <nominal>4</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -1589,7 +1589,7 @@
         <value user="Tier34"/>
     </type>
     <type name="TF_Maska1SchVisor">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3358,7 +3358,7 @@
         <value user="Tier4"/>
     </type>
     <type name="TF_AK74M">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>28800</restock>
         <min>0</min>
@@ -3374,11 +3374,11 @@
     <type name="TF_AKM">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>28800</restock>
+        <restock>259200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
-        <cost>20</cost>
+        <cost>30</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <tag/>
@@ -3388,11 +3388,11 @@
     <type name="TF_AKMN">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>28800</restock>
+        <restock>259200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
-        <cost>20</cost>
+        <cost>10</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <tag/>
@@ -3404,9 +3404,9 @@
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
-        <quantmin>0</quantmin>
-        <quantmax>80</quantmax>
-        <cost>80</cost>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <tag/>
@@ -3414,7 +3414,7 @@
         <value user="Tier34"/>
     </type>
     <type name="TF_AKS74U">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -3425,7 +3425,7 @@
         <category name="weapons"/>
         <tag/>
         <usage user="Everything"/>
-        <value user="Tier4"/>
+        <value user="Tier34"/>
     </type>
     <type name="TF_M4A1">
         <nominal>0</nominal>
@@ -3584,13 +3584,13 @@
         <value user="Tier4"/>
     </type>
     <type name="TF_PKM">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>14400</restock>
+        <restock>604800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
-        <cost>80</cost>
+        <cost>10</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="weapons"/>
         <tag/>
@@ -4001,7 +4001,7 @@
         <value user="Tier4"/>
     </type>
     <type name="TF_Mag_AKM_10Rnd">
-        <nominal>20</nominal>
+        <nominal>40</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4185,7 +4185,7 @@
         <value user="Tier4"/>
     </type>
     <type name="TF_Mag_AK74_Bakelit30Rnd">
-        <nominal>3</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4199,7 +4199,7 @@
         <value user="Tier234"/>
     </type>
     <type name="TF_Mag_AK74_Plum30Rnd">
-        <nominal>3</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4227,7 +4227,7 @@
         <value user="Tier234"/>
     </type>
     <type name="TF_Mag_AKM_Bakelit40Rnd">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4241,7 +4241,7 @@
         <value user="Tier4"/>
     </type>
     <type name="TF_Mag_AKM_Steel40Rnd">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>

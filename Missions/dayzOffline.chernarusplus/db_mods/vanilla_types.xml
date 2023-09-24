@@ -2829,7 +2829,7 @@
         <value user="Tier12"/>
     </type>
     <type name="BallisticHelmet_Black">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -2843,7 +2843,7 @@
         <value user="Tier1234"/>
     </type>
     <type name="BallisticHelmet_Green">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6440,8 +6440,8 @@
         <value/>
     </type>
     <type name="Deagle_Gold">
-        <nominal>3</nominal>
-        <lifetime>28800</lifetime>
+        <nominal>1</nominal>
+        <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -6451,7 +6451,7 @@
         <category name="weapons"/>
         <tag/>
         <usage user="Town"/>
-        <value user="Tier4"/>
+        <value user="Tier34"/>
     </type>
     <type name="DeerPelt">
         <nominal>0</nominal>
@@ -6496,7 +6496,7 @@
         <value user="Tier1234"/>
     </type>
     <type name="Derringer_Black">
-        <nominal>4</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -6510,7 +6510,7 @@
         <value user="Tier234"/>
     </type>
     <type name="Derringer_Grey">
-        <nominal>4</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -8342,7 +8342,7 @@
     </type>
     <type name="GardenPlot">
         <nominal>0</nominal>
-        <lifetime>604800</lifetime>
+        <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -14638,14 +14638,14 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="weapons"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
         <tag/>
-        <usage user="Everything"/>
         <value user="Tier234"/>
+        <usage user="Everything"/>
     </type>
     <type name="Mosin9130_Black">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -16750,7 +16750,7 @@
     </type>
     <type name="PortableGasLamp">
         <nominal>4</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -16851,7 +16851,7 @@
         <value user="Tier123"/>
     </type>
     <type name="PressVest_Blue">
-        <nominal>4</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -16866,7 +16866,7 @@
         <value user="Tier12"/>
     </type>
     <type name="PressVest_LightBlue">
-        <nominal>4</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -17579,13 +17579,13 @@
         <value/>
     </type>
     <type name="SKS">
-        <nominal>10</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
-        <cost>100</cost>
+        <cost>80</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="weapons"/>
         <tag/>
@@ -17623,7 +17623,7 @@
     <type name="SVD">
         <nominal>1</nominal>
         <lifetime>14400</lifetime>
-        <restock>86400</restock>
+        <restock>259200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -21635,11 +21635,11 @@
     <type name="VSS">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>28800</restock>
+        <restock>259200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
-        <cost>80</cost>
+        <cost>30</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <tag/>
@@ -21649,11 +21649,11 @@
     <type name="VSS_black">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>28800</restock>
+        <restock>259200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
-        <cost>80</cost>
+        <cost>30</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <tag/>

@@ -3,9 +3,8 @@
     "CanAttach": "true",
     "CanRaid": "true",
     "DeleteLockOnRaid": "false",
-    "ToolDamageOnRaid": 25,
+    "ToolDamageOnRaid": 100,
     "RaidTools": [
-        "FOG_SOCOM_Slammer_Black",
-        "FirefighterAxe"
+        "FOG_SOCOM_Slammer_Black"
     ]
 }

@@ -8,9 +8,9 @@
     "Items": [
         {
             "ClassName": "smallprotectorcase",
-            "MaxPriceThreshold": 140,
-            "MinPriceThreshold": 70,
-            "SellPricePercent": -1.0,
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,

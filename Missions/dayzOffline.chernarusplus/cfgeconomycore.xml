@@ -53,6 +53,9 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="vaz-2107_spawnabletypes.xml" type="spawnabletypes" />
 
 		<file name="ext_types.xml" type="types" />
+		<file name="morecars_types.xml" type="types" />
+		<file name="bdgaz_types.xml" type="types" />
+		<file name="zil130_types.xml" type="types" />
 
 		<file name="underground_types.xml" type="types" />
 		<file name="LaundryZ_types.xml" type="types" />
@@ -67,6 +70,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="zennotes_types.xml" type="types" />
 		<file name="moredoors_types.xml" type="types" />
 		<file name="dayzdogs_types.xml" type="types" />
+		<file name="cp_types.xml" type="types" />
 
 		<file name="mung_types.xml" type="types" />
 		<file name="dingo_types.xml" type="types" />

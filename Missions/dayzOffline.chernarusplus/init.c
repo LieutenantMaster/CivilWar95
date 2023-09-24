@@ -88,7 +88,7 @@ class CustomMission: MissionServer
 
 	//! ============================== WHITELIST SYSTEM ==============================
 	override void OnEvent(EventType eventTypeId, Param params) 
-	{		
+	{
 		switch (eventTypeId)
 		{
 			case ClientNewEventTypeID:
@@ -260,6 +260,7 @@ class CustomMission: MissionServer
 		string factionName;
 		vector spawnPos = "0 0 0";
 		string loadoutType = "DEFAULT";
+		float height = 1.8;
 
 		file = OpenFile(filename , FileMode.READ );
 		if ( file )
@@ -273,6 +274,7 @@ class CustomMission: MissionServer
 				factionName	= tokens.Get( 0 );
 				loadoutType = tokens.Get( 1 );
 				spawnPos 	= tokens.Get( 2 ).ToVector();
+				height 		= tokens.Get( 3 ).ToFloat();
 			}
 		}
 		CloseFile(file);
@@ -310,6 +312,7 @@ class CustomMission: MissionServer
 		}
 
 		m_player.SetPosition(spawnPos);
+		//m_player.SendHeight(height);
 	}
 
 	void GetFactionData(out string factionName, bool isMale, out string loadoutType, out vector spawnPos)
@@ -368,7 +371,7 @@ class CustomMission: MissionServer
 					factionLoadout = "TTSKOBoots,Armband_CDF,TTSKOPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Beige";
 			break;
 			case "Napa":
-				SelectedPos = "5765.2 1556.95 4597.31";
+				SelectedPos = "5752.89 117.377 4591.47";
 				if ( isMale )
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 				else

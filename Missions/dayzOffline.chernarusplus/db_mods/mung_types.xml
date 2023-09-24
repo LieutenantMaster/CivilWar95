@@ -67,7 +67,7 @@
       <value user="Tier123" />
   </type>
       <type name="Nagant1895_mung">
-      <nominal>6</nominal>
+      <nominal>0</nominal>
       <lifetime>14400</lifetime>
       <restock>14400</restock>
       <min>0</min>
@@ -84,7 +84,7 @@
       <value user="Tier123" />
   </type>
       <type name="swmodel3_mung">
-      <nominal>2</nominal>
+      <nominal>0</nominal>
       <lifetime>14400</lifetime>
       <restock>14400</restock>
       <min>0</min>

@@ -3,5 +3,5 @@
     "HatchDigTime": 160,
     "UpgradeDigTime": 160,
     "UpgradeBuildTime": 30,
-    "BaseBuildToolDamage": 40
+    "BaseBuildToolDamage": 100
 }

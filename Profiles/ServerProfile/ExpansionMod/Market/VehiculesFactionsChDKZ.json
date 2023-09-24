@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "EXT_Mi8_Attack_Chedaki",
-            "MaxPriceThreshold": 140000,
-            "MinPriceThreshold": 140000,
+            "MaxPriceThreshold": 300000,
+            "MinPriceThreshold": 300000,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 100,
@@ -29,8 +29,8 @@
         },
         {
             "ClassName": "EXT_Mi8_Chedaki",
-            "MaxPriceThreshold": 90000,
-            "MinPriceThreshold": 90000,
+            "MaxPriceThreshold": 200000,
+            "MinPriceThreshold": 200000,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 100,
@@ -50,8 +50,8 @@
         },
         {
             "ClassName": "EXT_KA52_Woodland",
-            "MaxPriceThreshold": 190000,
-            "MinPriceThreshold": 190000,
+            "MaxPriceThreshold": 450000,
+            "MinPriceThreshold": 450000,
             "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 100,

@@ -332,7 +332,7 @@
         <value user="Tier1234" />
     </type>
     <type name="Msp_TackleBox">
-        <nominal>15</nominal>
+        <nominal>2</nominal>
         <lifetime>3888000</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -346,7 +346,7 @@
         <value user="Tier1234" />
     </type>
     <type name="Msp_TackleBox_Black">
-        <nominal>15</nominal>
+        <nominal>2</nominal>
         <lifetime>3888000</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -360,7 +360,7 @@
         <value user="Tier1234" />
     </type>
     <type name="Msp_CoolerBox">
-        <nominal>15</nominal>
+        <nominal>2</nominal>
         <lifetime>3888000</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -374,7 +374,7 @@
         <value user="Tier1234" />
     </type>
     <type name="Msp_CoolerBox_Black">
-        <nominal>15</nominal>
+        <nominal>2</nominal>
         <lifetime>3888000</lifetime>
         <restock>14400</restock>
         <min>0</min>

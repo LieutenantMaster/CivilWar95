@@ -264,6 +264,17 @@
             "Variants": []
         },
         {
+            "ClassName": "kv5_mung",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "nailbox",
             "MaxPriceThreshold": 600,
             "MinPriceThreshold": 300,

@@ -30,9 +30,9 @@
         },
         {
             "ClassName": "derringer_black",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 200,
-            "SellPricePercent": -1.0,
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": 50,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -142,15 +142,13 @@
             "SpawnAttachments": [
                 "mag_deagle_9rnd"
             ],
-            "Variants": [
-                "deagle_gold"
-            ]
+            "Variants": []
         },
         {
             "ClassName": "deagle_gold",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,

@@ -13,21 +13,28 @@
     "Items": {
         "expansiongoldbar": 2,
         "expansionsilverbar": 2,
-        "ExpansionGoldNugget": 3,
-        "ExpansionSilverNugget": 3,
+
         "Expansion_Guitar": 2,
-        "Expansion_Guitar_old": 2,        
-        "CP_CannabisBrickSkunk": 2,
-        "CP_CannabisBrickBlue": 2,
-        "CP_CannabisBrickKush": 2,
-        "CP_CannabisBrickStardawg": 2,
-        "CP_CannabisBrickFuture": 2,
-        "CP_CannabisBrickS1": 2,
-		"CP_CannabisBrickNomad": 2,
-		"CP_CannabisBrickBlackFrost": 2,
+        "Expansion_Guitar_old": 2,
+        
+        "Deagle_Gold": 1,
+        "derringer_black": 1,
+
+        "CP_EmptyBag": 0,
+        "CP_Bagger": 0,
+        "CP_PlasticWrapper": 0,
+        "CP_Relief_Balm": 0,
+        "CP_RollingPapers": 0,
+        "CP_PlasticRoll": 0,
 
         "CP_JointSkunk": 0,
         "CP_JointKush": 0,
-        "CP_JointS1": 0
+        "CP_JointS1": 0,
+
+        "kv5_mung": 1,
+        "smallprotectorcase": 1,
+        "alarmclock_blue": 2,
+        "kitchentimer": 2,
+        "plastic_explosive": 2
     }
 }

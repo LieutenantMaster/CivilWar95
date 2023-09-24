@@ -11,13 +11,6 @@
     ],
     "Categories": [],
     "Items": {
-        "CP_EmptyBag": 0,
-        "CP_Bagger": 0,
-        "CP_PlasticWrapper": 0,
-        "CP_Relief_Balm": 0,
-        "CP_RollingPapers": 0,
-
-
         "CP_CannabisBrickSkunk": 2,
         "CP_CannabisBrickBlue": 2,
         "CP_CannabisBrickKush": 2,
@@ -29,15 +22,10 @@
 
         "expansiongoldbar": 2,
         "expansionsilverbar": 2,
-        "expansiongoldnugget": 3,
-        "expansionsilvernugget": 3,
 
         "expansioncircuitboard_mk1": 2,
         "expansioncircuitboard_mk2": 2,
         "expansioncircuitboard_mk3": 2,
-
-        
-        "CP_PlasticRoll": 0,
 
         "FOG_Shirt_Tactical_Coat_Black": 0,
         "FOGR_Gorka_Jacket_Green": 0,
@@ -62,6 +50,8 @@
         "FOG_Hooded_Cloak_Grey": 0,
 
         "Ssh68Helmet": 0,
+        "TF_Maska1Helmet": 0,
+        "TF_Maska1SchVisor": 0,
         "TF_6B23Vest_GFlora": 0,
         "smershvest": 0,
         "FOGR_Smersh_Khaki_Vest": 0,
@@ -69,7 +59,6 @@
         "smershbag": 0,
         "FOGR_Smersh_Khaki": 0,
         "FOGR_Smersh_Green": 0,
-
 
         "TF_RifleSling_Black": 0,
         "TF_RifleSling_Brown": 0,

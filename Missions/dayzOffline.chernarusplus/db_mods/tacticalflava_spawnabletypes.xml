@@ -839,13 +839,18 @@
 	</type>
 	<type name="TF_PKM">
 		<attachments chance="1.00">
-			<item name="TF_PKP_PlasticBttstck" chance="1.00" />
+			<item name="TF_PKP_WoodBttstck" chance="1.00" />
 		</attachments>
-		<attachments chance="0.50">
-			<item name="TF_PKM_6ch43Compensator" chance="1.00" />
+		<attachments chance="1.00">
+			<item name="TF_PKM_6ch63Compensator" chance="0.30" />
+			<item name="TF_PKM_6ch43Compensator" chance="0.30" />
+			<item name="TF_PKM_6ch76Compensator" chance="0.30" />
 		</attachments>
 		<attachments chance="0.20">
 			<item name="TF_Mag_PKM_100Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+		<item name="TF_PKM_ZenitB50Hndgrd_RIS" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="TF_PKP">

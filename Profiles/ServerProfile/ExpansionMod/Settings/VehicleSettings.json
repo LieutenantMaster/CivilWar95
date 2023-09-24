@@ -6,7 +6,7 @@
     "VehicleLockedAllowInventoryAccess": 0,
     "VehicleLockedAllowInventoryAccessWithoutDoors": 1,
     "MasterKeyPairingMode": 2,
-    "MasterKeyUses": 2,
+    "MasterKeyUses": 9,
     "CanPickLock": 0,
     "PickLockTools": [
         "Lockpick"
