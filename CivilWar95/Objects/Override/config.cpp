@@ -17,9 +17,13 @@ class CfgPatches
 			"DayZExpansion_Core_Objects_CircuitBoard",
 			"DayZExpansion_Core_Objects_Currencies",
 			"DayZExpansion_Objects_Gear_Guitar",
+			"DayZExpansion_Market_Objects",
 			"DayZExpansion_Objects_Misc",
 
-			"CJ_Passport"
+			"CJ_Passport",
+			"TF_Magazine_AK",
+			"MuchDecos_Standalone",
+			"CannabisPlus_Cigarette"
 		};
 	};
 };
@@ -34,245 +38,33 @@ class CfgSlots
 	};
 };
 
-class CfgMagazines
-{
-    class DefaultMagazine;
-	class Magazine_Base: DefaultMagazine
-	{
-		inventorySlot[]+=
-		{
-			"VestGrenadeA",
-			"VestGrenadeB",
-			"VestGrenadeC",
-			"VestGrenadeD"
-		};
-    };
-};
-
 class CfgVehicles
 {
-    class Inventory_Base;
-	class Container_Base;
-	class Clothing;
-	class HouseNoDestruct;
-
-	class PoliceVest;
-	class CigarettePack_ColorBase;
-	class Pliers;
-
-	class ExpansionCircuitBoardBase;
-	class ExpansionMoneyBar_Base;
-
-	class Projectile;
-	class ArmorType;
-	class Melee;
-	class Zone_Head;
-	class Health;
-	
-	class AnimalBase;
-	class Animal_UrsusArctos: AnimalBase
+	class Rifle_Base;
+	class AK74_Base: Rifle_Base
 	{
-		class DamageSystem
+		magazines[]+=
 		{
-			class GlobalHealth
-			{
-				class Health
-				{
-					hitpoints=1400;
-					healthLevels[]=
-					{
-						
-						{
-							1,
-							{}
-						},
-						
-						{
-							0.69999999,
-							{}
-						},
-						
-						{
-							0.5,
-							{}
-						},
-						
-						{
-							0.30000001,
-							{}
-						},
-						
-						{
-							0,
-							{}
-						}
-					};
-				};
-				class Blood
-				{
-					hitpoints=8750;
-				};
-				class Shock
-				{
-					hitpoints=8750;
-				};
-			};
-			class DamageZones
-			{
-				class Zone_Head
-				{
-					componentNames[]=
-					{
-						"Zone_Head"
-					};
-					transferToZonesNames[]={};
-					transferToZonesCoefs[]={};
-					fatalInjuryCoef=0.1;
-					canBleed=0;
-					class Health
-					{
-						hitpoints=440;
-						transferToGlobalCoef=1;
-					};
-					class Blood: Health
-					{
-						hitpoints=8750;
-					};
-					class Shock: Health
-					{
-						hitpoints=8750;
-					};
-					class ArmorType
-					{
-						class Melee
-						{
-							class Health
-							{
-								damage=0.50999999;
-							};
-						};
-						class Projectile: Melee
-						{
-							class Health: Health
-							{
-								damage=0.25;
-							};
-						};
-						class FragGrenade: Melee
-						{
-						};
-					};
-				};
-				class Zone_Neck: Zone_Head
-				{
-					componentNames[]=
-					{
-						"Zone_Neck"
-					};
-					transferToZonesNames[]={};
-					transferToZonesCoefs[]={};
-					fatalInjuryCoef=0.1;
-					class Health
-					{
-						hitpoints=525;
-						transferToGlobalCoef=1;
-					};
-					class ArmorType: ArmorType
-					{
-						class Melee: Melee
-						{
-							class Health: Health
-							{
-								damage=0.15000001;
-							};
-						};
-						class Projectile: Projectile
-						{
-							class Health: Health
-							{
-								damage=0.25;
-							};
-						};
-					};
-				};
-				class Zone_Belly: Zone_Head
-				{
-					componentNames[]=
-					{
-						"Zone_Belly"
-					};
-					transferToZonesNames[]={};
-					transferToZonesCoefs[]={};
-					fatalInjuryCoef=0.0099999998;
-					class Health: Health
-					{
-						hitpoints=700;
-					};
-					class ArmorType: ArmorType
-					{
-						class Melee: Melee
-						{
-							class Health: Health
-							{
-								damage=0.15000001;
-							};
-						};
-					};
-				};
-				class Zone_Pelvis: Zone_Head
-				{
-					componentNames[]=
-					{
-						"Zone_Pelvis"
-					};
-					transferToZonesNames[]={};
-					transferToZonesCoefs[]={};
-					fatalInjuryCoef=0.0099999998;
-					class Health: Health
-					{
-						hitpoints=875;
-					};
-					class ArmorType: ArmorType
-					{
-						class Melee: Melee
-						{
-							class Health: Health
-							{
-								damage=0.15000001;
-							};
-						};
-					};
-				};
-				class Zone_Legs: Zone_Head
-				{
-					componentNames[]=
-					{
-						"Zone_Legs"
-					};
-					transferToZonesNames[]={};
-					transferToZonesCoefs[]={};
-					fatalInjuryCoef=0.0099999998;
-					class Health: Health
-					{
-						hitpoints=350;
-						transferToGlobalCoef=0;
-					};
-				};
-			};
+			"TF_Mag_AK74_Plastic30Rnd",
+			"TF_Mag_AK74_Plum30Rnd",
+			"TF_Mag_AK74_Bakelit30Rnd"
 		};
 	};
 
+	class PoliceVest;
 	class PoliceVest_Black: PoliceVest
 	{
 		itemsCargoSize[]={6,7};
     };
 	/*
+	// msp ou dex ou willstride
 	class Defender_Vest_Black: TODO
 	{
 		itemsCargoSize[]={6,7};
     };
 	*/
 
+    class Inventory_Base;
 	class ExpansionMoneyBanknote_Base: Inventory_Base
 	{
 		canBeSplit=1;
@@ -281,36 +73,65 @@ class CfgVehicles
 			"ExpansionMoney"
 		};
     };
+	class ExpansionBanknoteUSD: ExpansionMoneyBanknote_Base
+	{
+		weight=0;
+	};
+	class ExpansionBanknoteEuro: ExpansionMoneyBanknote_Base
+	{
+		weight=0;
+	};
+	class ExpansionBanknoteHryvnia: ExpansionMoneyBanknote_Base
+	{
+		weight=0;
+	};
 
+	class CP_Cigarette: Inventory_Base
+	{
+		inventorySlot[]+=
+		{
+			"ExpansionMoney"
+		};
+	};
+
+	class Clothing;
+	class cigarette_mung: Clothing
+	{
+		inventorySlot[]+=
+		{
+			"Mask"
+		};
+	};
 	class CJ_Pass: Inventory_Base
 	{
 		attachments[]+=
 		{
-			"ExpansionMoney"
+			"Mask"
 		};
     };
-
-	class WoodenLog: Inventory_Base
+	//!--------------- MuchDecos ---------------
+	class MD_Item;
+	class MD_TV: MD_Item
 	{
-		itemSize[]={3,9};
-    };
-	class CigarettePack_Chernamorka: CigarettePack_ColorBase
-	{
-		displayName = "$STR_CW95_CigarettePack_Chernamorka_NAME";
-		descriptionShort = "$STR_CW95_CigarettePack_Chernamorka_DESC";
+		itemsSize[]={6,5};
+		displayName = "$STR_CW95_MD_TV_NAME";
+		descriptionShort = "$STR_CW95_MD_TV_DESC";
 	};
-	class CigarettePack_Merkur: CigarettePack_ColorBase
+	class MD_Radio: MD_Item
 	{
-		displayName = "$STR_CW95_CigarettePack_Merkur_NAME";
-		descriptionShort = "$STR_CW95_CigarettePack_Merkur_DESC";
+		itemsSize[]={4,3};
+		displayName = "$STR_CW95_MD_Radio_NAME";
+		descriptionShort = "$STR_CW95_MD_Radio_DESC";
 	};
-	class CigarettePack_Partyzanka: CigarettePack_ColorBase
+	class MD_OldRadio: MD_Item
 	{
-		displayName = "$STR_CW95_CigarettePack_Partyzanka_NAME";
-		descriptionShort = "$STR_CW95_CigarettePack_Partyzanka_DESC";
+		itemsSize[]={3,3};
+		displayName = "$STR_CW95_MD_OldRadio_NAME";
+		descriptionShort = "$STR_CW95_MD_OldRadio_DESC";
 	};
 	
 	//!--------------- DAYZ EXPANSION ---------------
+	class ExpansionCircuitBoardBase;
 	class ExpansionCircuitBoard_MK1: ExpansionCircuitBoardBase
 	{
 		displayName = "$STR_CW95_ExpansionCircuitBoard_MK1_NAME";
@@ -326,6 +147,8 @@ class CfgVehicles
 		displayName = "$STR_CW95_ExpansionCircuitBoard_MK3_NAME";
 		descriptionShort = "$STR_CW95_ExpansionCircuitBoard_MK3_DESC";
 	};
+
+	class ExpansionMoneyBar_Base;
 	class ExpansionSilverBar: ExpansionMoneyBar_Base
 	{
 		descriptionShort = "$STR_CW95_ExpansionSilverBar_DESC";
@@ -342,6 +165,8 @@ class CfgVehicles
 	{
 		descriptionShort = "$STR_CW95_ExpansionGoldNugget_DESC";
 	};
+
+	class Pliers;
 	class ExpansionBoltCutters: Pliers
 	{
 		displayName = "$STR_CW95_ExpansionBoltCutters_NAME";
@@ -358,71 +183,25 @@ class CfgVehicles
 		descriptionShort = "$STR_CW95_Expansion_Guitar_Old_DESC";
 	};
 	
-    class Clothing;
-    class GhillieSuit_ColorBase: Clothing
-    {
-        inventorySlot[]+= {"Armband","Hips"};
-    };
-    class GhillieBushrag_ColorBase: Clothing
-    {
-        inventorySlot[]+= {"Armband","Hips"};
-    };
-    class GhillieTop_ColorBase: Clothing
-    {
-        inventorySlot[]+= {"Armband","Hips"};
-    };
-
-	class AK_Bayonet: Inventory_Base
-	{
-		inventorySlot[]+={"Knife"};
-	};
-	class M9A1_Bayonet: Inventory_Base
-	{
-		inventorySlot[]+={"Knife"};
-	};
-	
-	class PlateCarrierPouches : Container_Base
-	{
-		inventorySlot[]=
-		{
-			"VestPouch",
-			"VestHolster",
-			"Belt_Right"
-		};
-	};
-	
-	class SmershVest : Clothing
-	{
-		inventorySlot[]=
-		{
-			"Vest",
-			"Hips"
-		};
-		itemInfo[]=
-		{
-			"Clothing",
-			"Vest",
-			"Hips"
-		};
-	};
-	
 	//!--------------- Air Raid ---------------
-	class CW95_TU95: HouseNoDestruct
+	class HouseNoDestruct;
+	class CW95_TU95: Inventory_Base
 	{
 		scope=1;
 		model="AirRaid\model\tucko.p3d";
 		forceFarBubble="true";
 	};
-	class CW95_Mig21: HouseNoDestruct
+	class CW95_Mig21: Inventory_Base
 	{
 		scope=1;
 		model="AirRaid\model\Mig21.p3d";
 		forceFarBubble="true";
 	};
-	class CW95_Mi24: HouseNoDestruct
+	class CW95_Mi24: Inventory_Base
 	{
 		scope=1;
 		model="AirRaid\model\Mi24.p3d";
+		forceFarBubble="true";
 	};
 	/*
 	class CW95_Mi8: HouseNoDestruct
@@ -431,74 +210,23 @@ class CfgVehicles
 		model=".p3d";
 	};
 	*/
-	class CW95_Mi6: HouseNoDestruct
+	class CW95_Mi6: Inventory_Base
 	{
 		scope=1;
 		model="AirRaid\model\Mi6.p3d";
+		forceFarBubble="true";
 	};
-};
-
-class CfgAmmo
-{
-	class MeleeDamage;
-	class MeleeBlunt: MeleeDamage
+	class CW95_Rocket_Explosion: HouseNoDestruct
 	{
-		class DamageApplied
-		{
-			type="Melee";
-			class Health
-			{
-				damage=5;
-			};
-			class Blood
-			{
-				damage=0;
-			};
-			class Shock
-			{
-				damage=35;
-			};
-		};
+		scope=2;
+		model="\DZ\data\lightpoint.p3d";
+		ammoType="CW95_ProjectileRocket_Ammo";
 	};
-	class MeleeFistLight: MeleeDamage
+	class Roadflare;
+	class CW95_ProjectileRocket: Roadflare
 	{
-		class DamageApplied
-		{
-			type="Melee";
-			bleedThreshold=0.1;
-			class Health
-			{
-				damage=2;
-			};
-			class Blood
-			{
-				damage=30;
-			};
-			class Shock
-			{
-				damage=15;
-			};
-		};
-	};
-	class MeleeFistHeavy: MeleeDamage
-	{
-		class DamageApplied
-		{
-			type="Melee";
-			bleedThreshold=0.1;
-			class Health
-			{
-				damage=7;
-			};
-			class Blood
-			{
-				damage=50;
-			};
-			class Shock
-			{
-				damage=20;
-			};
-		};
+		scope=2;
+		model = "\dz\weapons\ammunition\rocket_rpg7_inflight.p3d";
 	};
 };
 
@@ -511,6 +239,48 @@ class CfgNonAIVehicles
 		inventorySlot[]=
 		{
 			"ExpansionMoney"
+		};
+	};
+};
+
+class CfgAmmo
+{
+	class DefaultAmmo;
+	class CW95_ProjectileRocket_Ammo: DefaultAmmo
+	{
+		indirectHit=1;
+		indirectHitRange=3;
+		explosive=1;
+		typicalSpeed=3;
+		initSpeed=3;
+		simulation="shotShell";
+		simulationStep=0.050000001;
+		soundSetExplosion[]=
+		{
+			"Grenade_explosion_SoundSet",
+			"Grenade_Tail_SoundSet"
+		};
+		class DamageApplied
+		{
+			type="FragGrenade";
+			bleedThreshold=0.40000001;
+			class Health
+			{
+				damage=5;
+			};
+			class Blood
+			{
+				damage=0;
+			};
+			class Shock
+			{
+				damage=50;
+			};
+		};
+		class NoiseExplosion
+		{
+			strength=100;
+			type="shot";
 		};
 	};
 };

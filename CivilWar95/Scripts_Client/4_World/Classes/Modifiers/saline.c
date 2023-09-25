@@ -9,6 +9,7 @@
  *
 */
 
+/*
 modded class SalineMdfr
 {
 	override float CalculateRegenTime()
@@ -16,3 +17,4 @@ modded class SalineMdfr
 		return 625;
 	}
 };
+*/

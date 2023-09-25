@@ -12,25 +12,25 @@
 class CW95_Effect_Base: House
 {
 	Particle m_ParticleEfx;
+	EffectSound m_SoundSetLoop;
 
+	#ifndef SERVER
 	void CW95_Effect_Base()
 	{
-		if ( !GetGame().IsDedicatedServer() )
-		{
-            DoEffect();
-        }
+		DoEffect();
     }
-
-    void DoEffect() {}
 
 	override void EEDelete(EntityAI parent)
 	{
-		if ( !GetGame().IsDedicatedServer() )
-		{
-			if ( m_ParticleEfx )
-				m_ParticleEfx.Stop();
-		}
+		if ( m_ParticleEfx )
+			m_ParticleEfx.Stop();
+
+		if ( m_SoundSetLoop )
+			StopSoundSet( m_SoundSetLoop );
 	}
+	#endif
+
+    void DoEffect() {}
 };
 
 /**

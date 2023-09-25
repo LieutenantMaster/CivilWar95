@@ -27,4 +27,11 @@ modded class Bottle_Base
         else if ( m_RainProcurement.IsRunning() )
             m_RainProcurement.StopRainProcurement();            
     }
+		
+	override void SetActions()
+	{
+		super.SetActions();
+		
+		AddAction(CW95_ActionExtinguishByLiquid);
+	}
 };

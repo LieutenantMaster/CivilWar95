@@ -320,14 +320,14 @@ modded class AirRaid
 			}
 			spawnPos = Noise2D(pos + posOffset);
 			spawnPos[1] = altitude;
-			CW95_AIRBase plane = CW95_AIRBase.Cast( GetGame().CreateObject( classname, spawnPos, false, true, true) );
+			CW95_AIRBase plane = CW95_AIRBase.Cast( GetGame().CreateObject( classname, spawnPos, false, false, true) );
 			ARLogger.Log( "    id:" + i + " pos:" + spawnPos);
 			
 			bombingSpawn = targetpos + posOffset;
 			bombingSpawn[1] = spawnPos[1];
 
 			plane.CW95Setup(locationCfg, m_ActiveARConfig, bombingSpawn, speed + Math.RandomFloatInclusive(-1.0,1.0), altitude);
-			plane.SetDirection(spawnPos - bombingSpawn);
+			plane.SetDirection(vector.Direction(spawnPos, bombingSpawn));
 		}
 	}
 
@@ -361,14 +361,14 @@ modded class AirRaid
 			}
 			spawnPos = Noise2D(mapEdgePos + posOffset);
 			spawnPos[1] = altitude;
-			CW95_AIRBase plane = CW95_AIRBase.Cast( GetGame().CreateObject( classname, spawnPos, false, true, true) );
+			CW95_AIRBase plane = CW95_AIRBase.Cast( GetGame().CreateObject( classname, spawnPos, false, false, true) );
 			ARLogger.Log( "  id:" + i + " pos:" + spawnPos);
 			
 			bombingSpawn = targetpos + posOffset;
 			bombingSpawn[1] = altitude;
 
 			plane.CW95Setup(locationCfg, m_ActiveARConfig, bombingSpawn, speed + Math.RandomFloatInclusive(-1.0,1.0), altitude);
-			plane.SetDirection(spawnPos - bombingSpawn);
+			plane.SetDirection(vector.Direction(spawnPos, bombingSpawn));
 			ARLogger.Log( "  id:" + i + " pos:" + spawnPos + " dir:" + plane.GetDirection());
 
 			if ( i == 0 )

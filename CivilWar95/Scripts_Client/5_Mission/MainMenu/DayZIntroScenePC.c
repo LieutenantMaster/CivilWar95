@@ -11,7 +11,6 @@
 
 modded class DayZIntroScenePC
 {
-	/*
 	override void Expansion_HandleCustomScene(string childName)
 	{
 		switch (childName)
@@ -21,19 +20,23 @@ modded class DayZIntroScenePC
                 PPEffects.Init();
                 PPEffects.DisableBurlapSackBlindness();
                 PPEffects.SetVignette(0.3, 0, 0, 0, 255);
-                
+				
                 GetGame().GetCallQueue(CALL_CATEGORY_GAMEPLAY).CallLater( SetRain, 55000, false, 0.4, 10);
                 GetGame().GetCallQueue(CALL_CATEGORY_GAMEPLAY).CallLater( SetRain, 65000, false, 0.6, 127);
+				
                 GetGame().GetCallQueue(CALL_CATEGORY_GAMEPLAY).CallLater( SetRain, 128500, false, 0.1, 1);
+
                 GetGame().GetCallQueue(CALL_CATEGORY_GAMEPLAY).CallLater( SetStorm, 130500, false, 1.0, 0);
                 GetGame().GetCallQueue(CALL_CATEGORY_GAMEPLAY).CallLater( SetRain, 130500, false, 1.0, 1);
+                GetGame().GetCallQueue(CALL_CATEGORY_GAMEPLAY).CallLater( SetStorm, 130510, false, 0.0, 1);
+
+                GetGame().GetCallQueue(CALL_CATEGORY_GAMEPLAY).CallLater( SetStorm, 193000, false, 0.2, 1);
                 GetGame().GetCallQueue(CALL_CATEGORY_GAMEPLAY).CallLater( SetRain, 193000, false, 0.1, 2);
-                GetGame().GetCallQueue(CALL_CATEGORY_GAMEPLAY).CallLater( SetStorm, 193000, false, 0.0, 1);	
+                GetGame().GetCallQueue(CALL_CATEGORY_GAMEPLAY).CallLater( SetStorm, 193010, false, 0.0, 1);
 			}
 			break;
 		}
 	}
-	*/
 	
 	void SpawnAI(string loadout, vector[] waypoints, int speed)
 	{
@@ -42,7 +45,13 @@ modded class DayZIntroScenePC
 	
 	void SpawnEffect(string classname, vector position, vector direction = vector.Zero)
 	{
-		
+		GetGame().CreateObject(classname, position);
+	}
+	
+	void SpawnSound(string classname, vector position)
+	{
+		EffectSound eff = SEffectManager.PlaySound( classname, position, 0.1, 0.1 );
+		eff.SetAutodestroy(true);
 	}
 	
 	void SetRain(float Strength, float Transition)

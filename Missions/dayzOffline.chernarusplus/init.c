@@ -79,8 +79,8 @@ class CustomMission: MissionServer
 	void InitArty()
 	{
 		m_PlayArty 				 = true;
-		m_ArtyDelay 			 = Math.RandomFloatInclusive(1800, 7200);
-		m_MinSimultaneousStrikes = Math.RandomIntInclusive(0, 3);
+		m_ArtyDelay 			 = Math.RandomFloatInclusive(1000, 4000);
+		m_MinSimultaneousStrikes = Math.RandomIntInclusive(2, 6);
 		m_MaxSimultaneousStrikes = Math.RandomIntInclusive(m_MinSimultaneousStrikes, 10);
 
 		m_FiringPos = CHERNARUS_STRIKE_POS;

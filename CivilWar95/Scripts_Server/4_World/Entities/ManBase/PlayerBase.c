@@ -22,7 +22,7 @@ modded class PlayerBase
 	void PlayerBase()
 	{
 		if (!IsAI())
-			GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).CallLater( CW95_DelayedInit, 1000, true );
+			GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).CallLater( CW95_DelayedInit, 1000, false );
 	}
 	
 	void CW95_DelayedInit()
@@ -159,7 +159,10 @@ modded class PlayerBase
 		if ( factionName == "" )
 			factionName = "Civilian";
 
-		string primaryData 		= factionName + 			"|" + loadoutType + 		  "|" + spawnPos.ToString();
+		if ( m_PHeight < 0.2 )
+			m_PHeight = 1.8;
+
+		string primaryData 		= factionName + 			"|" + loadoutType + 		  "|" + spawnPos.ToString() + "|" + m_PHeight;
 		string secondaryData 	= GetIdentity().GetName() + "|" + GetIdentity().GetId() + "|" + steamID;
 
 		file = OpenFile(filename, FileMode.WRITE);

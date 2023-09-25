@@ -35,8 +35,8 @@ class CfgVehicles
 	class CW95_Whistle_Generic : CW95_Whistle_Base
 	{
 		scope=0;
-		displayName="Sifflet (à bille)";
-		descriptionShort="Les sifflets partagent avec les flûtes le mécanisme d'induction de l'air par biseau pour produire un son.";
+		displayName="$STR_CW95_ITEM_WHISTLE_NAME";
+		descriptionShort="$STR_CW95_ITEM_WHISTLE_DESC";
 		model="CivilWar95\CivilWar95\Objects\Gear\Radio\Whistles\whistle01.p3d";
 		WhistleSoundSet="CW95_Whistle_01_SoundSet";
 		WhistleLength=1531;

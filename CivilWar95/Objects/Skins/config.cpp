@@ -8,17 +8,17 @@ class CfgPatches
 		requiredAddons[]=
 		{
 			"DZ_Data",
-			"DZ_Gear_Navigation"
+			"DZ_Gear_Navigation",
+			"DayZExpansion_Market_Objects"
 		};
 	};
 };
 
 class CfgVehicles
 {
-	class ExpansionSignDanger;
-	class ExpansionSignDanger2;
-	class ExpansionSignDanger3;
-	class ItemMap;
+	class ExpansionSignDanger; 	// Big 	 square
+	class ExpansionSignDanger2; // Small triangle
+	class ExpansionSignDanger3; // Small square
 
 	class CW95_ExpansionSignDanger_Checkpoint: ExpansionSignDanger
 	{
@@ -61,6 +61,52 @@ class CfgVehicles
 		hiddenSelectionsTextures[] = {"\dayzexpansion\objects\basebuilding\misc\signs\data\sign_wooden_relic_building_co.paa"};
 	};
 
+	class CW95_ExpansionSignDanger2_RedSkull: ExpansionSignDanger2
+	{
+		hiddenSelections[] = {"camo"};
+		hiddenSelectionsTextures[] = {"\dayzexpansion\objects\basebuilding\misc\signs\data\sign_danger_red_co.paa"};
+	};
+	class CW95_ExpansionSignDanger2_Barrage: ExpansionSignDanger2
+	{
+		hiddenSelections[] = {"camo"};
+		hiddenSelectionsTextures[] = {"\CivilWar95\CivilWar95\Objects\Skins\Data\ExpansionSignDanger2\sign_barage_co.paa"};
+	};
+	class CW95_ExpansionSignDanger2_Barrage2: ExpansionSignDanger2
+	{
+		hiddenSelections[] = {"camo"};
+		hiddenSelectionsTextures[] = {"\CivilWar95\CivilWar95\Objects\Skins\Data\ExpansionSignDanger2\sign_barage2_co.paa"};
+	};
+	class CW95_ExpansionSignDanger2_Barrage3: ExpansionSignDanger2
+	{
+		hiddenSelections[] = {"camo"};
+		hiddenSelectionsTextures[] = {"\CivilWar95\CivilWar95\Objects\Skins\Data\ExpansionSignDanger2\sign_barage3_co.paa"};
+	};
+	class CW95_ExpansionSignDanger2_Chantier: ExpansionSignDanger2
+	{
+		hiddenSelections[] = {"camo"};
+		hiddenSelectionsTextures[] = {"\CivilWar95\CivilWar95\Objects\Skins\Data\ExpansionSignDanger2\sign_chantier_co.paa"};
+	};
+	class CW95_ExpansionSignDanger2_Controle: ExpansionSignDanger2
+	{
+		hiddenSelections[] = {"camo"};
+		hiddenSelectionsTextures[] = {"\CivilWar95\CivilWar95\Objects\Skins\Data\ExpansionSignDanger2\sign_controle_co.paa"};
+	};
+	class CW95_ExpansionSignDanger2_Controle2: ExpansionSignDanger2
+	{
+		hiddenSelections[] = {"camo"};
+		hiddenSelectionsTextures[] = {"\CivilWar95\CivilWar95\Objects\Skins\Data\ExpansionSignDanger2\sign_controle2_co.paa"};
+	};
+	class CW95_ExpansionSignDanger2_NoGun: ExpansionSignDanger2
+	{
+		hiddenSelections[] = {"camo"};
+		hiddenSelectionsTextures[] = {"\CivilWar95\CivilWar95\Objects\Skins\Data\ExpansionSignDanger2\sign_nogun_co.paa"};
+	};
+	class CW95_ExpansionSignDanger2_Manif: ExpansionSignDanger2
+	{
+		hiddenSelections[] = {"camo"};
+		hiddenSelectionsTextures[] = {"\CivilWar95\CivilWar95\Objects\Skins\Data\ExpansionSignDanger2\sign_manif_co.paa"};
+	};
+
 	class CW95_ExpansionSignDanger3_FirstAid: ExpansionSignDanger3
 	{
 		hiddenSelections[] = {"camo"};
@@ -81,7 +127,45 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\dayzexpansion\objects\basebuilding\misc\signs\data\sign_one_leg_v_quarry_co.paa"};
 	};
+	class CW95_ExpansionSignDanger3_Cherna: ExpansionSignDanger3
+	{
+		hiddenSelections[] = {"camo"};
+		hiddenSelectionsTextures[] = {"\CivilWar95\CivilWar95\Objects\Skins\Data\ExpansionSignDanger3\cherna_co.paa"};
+	};
+	class CW95_ExpansionSignDanger3_Controle: ExpansionSignDanger3
+	{
+		hiddenSelections[] = {"camo"};
+		hiddenSelectionsTextures[] = {"\CivilWar95\CivilWar95\Objects\Skins\Data\ExpansionSignDanger3\controle_co.paa"};
+	};
+	class CW95_ExpansionSignDanger3_Etoile: ExpansionSignDanger3
+	{
+		hiddenSelections[] = {"camo"};
+		hiddenSelectionsTextures[] = {"\CivilWar95\CivilWar95\Objects\Skins\Data\ExpansionSignDanger3\etoile_co.paa"};
+	};
+	class CW95_ExpansionSignDanger3_Mairie: ExpansionSignDanger3
+	{
+		hiddenSelections[] = {"camo"};
+		hiddenSelectionsTextures[] = {"\CivilWar95\CivilWar95\Objects\Skins\Data\ExpansionSignDanger3\mairie_co.paa"};
+	};
+	class CW95_ExpansionSignDanger3_Manif: ExpansionSignDanger3
+	{
+		hiddenSelections[] = {"camo"};
+		hiddenSelectionsTextures[] = {"\CivilWar95\CivilWar95\Objects\Skins\Data\ExpansionSignDanger3\manif_co.paa"};
+	};
+	class CW95_ExpansionSignDanger3_NoGun: ExpansionSignDanger3
+	{
+		hiddenSelections[] = {"camo"};
+		hiddenSelectionsTextures[] = {"\CivilWar95\CivilWar95\Objects\Skins\Data\ExpansionSignDanger3\nogun_co.paa"};
+	};
+
+	class ExpansionATM_Base;
+	class ExpansionATM_1: ExpansionATM_Base
+	{
+		scope=1;
+		hiddenSelectionsTextures[] = {"\CivilWar95\CivilWar95\Objects\Skins\Data\expansion_atm_01_co.paa"};
+	};
 	
+	class ItemMap;
 	class ChernarusMap: ItemMap
 	{
 		scope=2;
@@ -101,18 +185,11 @@ class CfgVehicles
 	class CW95_ZelenoMap: ChernarusMap
 	{
 		scope=2;
-		displayName = "Carte de Zélénogorsk";
-		hiddenSelections[]=
-		{
-			"texture_map_closed",
-			"texture_map_opened",
-			"texture_legend"
-		};
+		displayName = "$STR_CW95_ITEM_MAPZELENO_NAME";
 		hiddenSelectionsTextures[] =
 		{
 			"dz\gear\navigation\data\map_chernarus_co.paa",
 			"CivilWar95\CivilWar95\Objects\Skins\Data\Carte_Zeleno.paa",
-			"CivilWar95\CivilWar95\Objects\Skins\Data\Carte_Zeleno.paa"
 		};
 	};
 	class CW95_ZelenoMap_Open: CW95_ZelenoMap {};
@@ -120,17 +197,10 @@ class CfgVehicles
 	class CW95_ChernoMap: ChernarusMap
 	{
 		scope=2;
-		displayName = "Carte de Chernogorsk";
-		hiddenSelections[]=
-		{
-			"texture_map_closed",
-			"texture_map_opened",
-			"texture_legend"
-		};
+		displayName = "$STR_CW95_ITEM_MAPCHERNO_NAME";
 		hiddenSelectionsTextures[] =
 		{
 			"dz\gear\navigation\data\map_chernarus_co.paa",
-			"CivilWar95\CivilWar95\Objects\Skins\Data\Carte_Cherno.paa",
 			"CivilWar95\CivilWar95\Objects\Skins\Data\Carte_Cherno.paa"
 		};
 	};
@@ -139,17 +209,10 @@ class CfgVehicles
 	class CW95_ChernoMetroMap: ChernarusMap
 	{
 		scope=0;
-		displayName = "Carte du métro de Chernogorsk";
-		hiddenSelections[]=
-		{
-			"texture_map_closed",
-			"texture_map_opened",
-			"texture_legend"
-		};
+		displayName = "$STR_CW95_ITEM_MAPCHERNOMETRO_NAME";
 		hiddenSelectionsTextures[] =
 		{
 			"dz\gear\navigation\data\map_chernarus_co.paa",
-			"CivilWar95\CivilWar95\Objects\Skins\Data\Carte_ChernoMetro.paa",
 			"CivilWar95\CivilWar95\Objects\Skins\Data\Carte_ChernoMetro.paa"
 		};
 	};

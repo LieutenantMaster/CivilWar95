@@ -14,6 +14,7 @@ modded class ExpansionClientSettings
 	override void OnSettingsUpdated(typename type, ExpansionSettingSerializationBase setting)
 	{
         EnableGPSBasedOnVehicleSpeed = true;
+		ShowPINCode = false;
 
 		super.OnSettingsUpdated(type, setting);
 	}
@@ -21,6 +22,7 @@ modded class ExpansionClientSettings
 	override private void OnSave( ParamsWriteContext ctx )
 	{
         EnableGPSBasedOnVehicleSpeed = true;
+		ShowPINCode = false;
 
 		super.OnSave(ctx);
     }

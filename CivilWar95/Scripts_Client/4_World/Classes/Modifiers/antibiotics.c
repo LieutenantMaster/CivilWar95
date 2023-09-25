@@ -9,6 +9,7 @@
  *
 */
 
+/*
 modded class AntibioticsMdfr
 {
 	float m_RegenTime;
@@ -31,3 +32,4 @@ modded class AntibioticsMdfr
 		player.AntibioticsAttack( ANTIBIOTICS_STRENGTH * deltaT );
 	}
 };
+*/

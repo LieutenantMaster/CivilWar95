@@ -13,7 +13,7 @@ class CW95_CraftBigToSmallStones: RecipeBase
 {	
 	override void Init()
 	{
-		m_Name = "Casser la pierre";
+		m_Name = "#STR_CW95_CRAFT_BIGTOSMALLSTONES";
 		m_IsInstaRecipe = false;//should this recipe be performed instantly without animation
 		m_AnimationLength = 1;//animation length in relative time units
 		m_Specialty = 0.01;// value > 0 for roughness, value < 0 for precision

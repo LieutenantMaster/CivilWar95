@@ -19,12 +19,10 @@ modded class UiHintPanel
 		if (!m_ExCustomLoadingScreenData)
 			m_ExCustomLoadingScreenData = new CustomLoadingScreenData();
 
-		if (m_ExCustomLoadingScreenData && m_ExCustomLoadingScreenData.UseCustomHints)
+		if (m_ExCustomLoadingScreenData)
 		{
 			JsonFileLoader<array<ref HintPage>>.JsonLoadFile(m_ExDataPath, m_ContentList);
-		}
-		else
-		{
+		} else {
 			JsonFileLoader<array<ref HintPage>>.JsonLoadFile(m_DataPath, m_ContentList);
 		}
 	}

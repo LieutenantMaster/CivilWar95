@@ -14,11 +14,6 @@ modded class CarScript
 	float m_OdometerMeters = 0.0;
 	static int m_MaxDistanceUntilRuined = 80; // KM
 	
-	bool IsFuelStation()
-	{
-		return false;
-	}
-	
 	override void OnUpdate( float dt )
     {
 		//if is moving back or forward

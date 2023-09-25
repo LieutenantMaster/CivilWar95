@@ -13,7 +13,7 @@ class CW95_ActionKnockAtDoorCB: ActionContinuousBaseCB
 {
 	override void CreateActionComponent()
 	{
-		m_ActionData.m_ActionComponent = new CAContinuousTime(1.0);
+		m_ActionData.m_ActionComponent = new CAContinuousTime(0.1);
 	}
 }
 
@@ -40,7 +40,11 @@ class CW95_ActionKnockAtDoor: ActionContinuousBase
 	}
 
 	override bool ActionCondition( PlayerBase player, ActionTarget target, ItemBase item )
-	{		
+	{
+		#ifndef DIAG
+		return false;
+		#endif
+
 		if( !target )
 			return false;
 
@@ -54,7 +58,6 @@ class CW95_ActionKnockAtDoor: ActionContinuousBase
 		else if( Class.CastTo(building, target.GetObject()) )
 		{
 			int doorIndex = building.GetDoorIndex(target.GetComponentIndex());
-			Print(" ActionCondition doorIndex is "+ doorIndex);
 			if ( doorIndex != -1 )
 				return !building.IsDoorOpen(doorIndex);
 		}
@@ -75,8 +78,6 @@ class CW95_ActionKnockAtDoor: ActionContinuousBase
 			int doorIndex = building.GetDoorIndex(action_data.m_Target.GetComponentIndex());
 			if( doorIndex != -1 )
 				building.KnockAtDoor(doorIndex);
-
-			Print(" OnStartServer doorIndex is "+ doorIndex);
 		}
 	}
 };

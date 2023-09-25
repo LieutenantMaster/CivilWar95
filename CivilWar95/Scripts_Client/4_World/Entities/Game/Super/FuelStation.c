@@ -49,7 +49,7 @@ modded class FuelStation
 		return m_IsDestroyed;
 	}
 	
-	bool IsEmpty()
+	override bool IsEmpty()
 	{
 		return m_IsEmpty;
 	}

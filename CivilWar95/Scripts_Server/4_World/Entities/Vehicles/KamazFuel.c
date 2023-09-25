@@ -1,15 +1,12 @@
 modded class KamazFuel
 {	
-	override bool IsFuelStation()
-	{
-		return true;
-	}
-
 	override void EEKilled(Object killer)
 	{
 		super.EEKilled(killer);
-		
-	 	//Explode(DT_EXPLOSION, "LandFuelFeed_Ammo");
+
+		#ifdef SERVER
+	 	//Explode(DT_EXPLOSION, "Dummy_Heavy");
+		#endif
 	}
 	
 	override void OnExplosionEffects(Object source, Object directHit, int componentIndex, string surface, vector pos, vector surfNormal, float energyFactor, float explosionFactor, bool isWater, string ammoType)

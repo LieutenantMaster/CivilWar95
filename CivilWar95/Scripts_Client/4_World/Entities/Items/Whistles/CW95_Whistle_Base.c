@@ -39,14 +39,6 @@ class CW95_Whistle_Base: ItemBase
 		return m_ShouldWhistle;
 	}
 
-	void StartWhistling()
-	{
-		m_IsWhistling = false;
-		m_ShouldWhistle = true;
-
-		SetSynchDirty();
-	}
-
 	void SetCanWhistle()
 	{
 		m_IsWhistling = false;
@@ -77,7 +69,9 @@ class CW95_Whistle_Base: ItemBase
 	void PlayWhistleSound()
 	{
 #ifndef SERVER
-		SEffectManager.PlaySound( GetLoopWhistleSoundset(), GetPosition() );
+		
+		EffectSound whistleSound = SEffectManager.PlaySound( GetLoopWhistleSoundset(), GetPosition() );
+		whistleSound.SetSoundAutodestroy( true );
 #endif
 	}
 	

@@ -31,8 +31,7 @@ modded class LoadingScreen
 		
 		m_ModdedWarning.Show(false);
 
-		if (m_ExCustomLoadingScreenData.RandomizeBackgounds)
-			m_ShownBackgrounds = new array<int>;
+		m_ShownBackgrounds = new array<int>;
 
 		m_ExPanelWidget = Widget.Cast(m_WidgetRoot.FindAnyWidget("PanelWidget1"));
 
@@ -52,7 +51,7 @@ modded class LoadingScreen
 		m_ImageWidgetBackground.LoadMaskTexture("");
 
 		//! Replace and set logo
-		if (m_ExCustomLoadingScreenData.ShowLogo && m_ExCustomLoadingScreenData.LogoPath != string.Empty)
+		if (m_ExCustomLoadingScreenData.LogoPath != string.Empty)
 		{
 			float posLogoX, posLogoY;
 			m_ImageLogoCorner.GetScreenPos(posLogoX, posLogoY);
@@ -64,11 +63,6 @@ modded class LoadingScreen
 			m_ImageLogoCorner.SetSize(300,300);
 
 			m_ImageLogoMid.SetSize(300,300);
-		}
-		//! Hide vanilla logo
-		else if (!m_ExCustomLoadingScreenData.ShowLogo)
-		{
-			m_ImageLogoCorner.Show(false);
 		}
 
 		if (m_ImageLogoCorner)

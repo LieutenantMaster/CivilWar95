@@ -9,7 +9,7 @@
  *
 */
 
-class CW95_AIRBase: BuildingSuper
+class CW95_AIRBase: ItemBase
 {
 	protected EffectSound m_SoundLoop1;
 	protected EffectSound m_SoundLoop2;
@@ -19,6 +19,7 @@ class CW95_AIRBase: BuildingSuper
 	void CW95_AIRBase()
 	{
 		SetEventMask( EntityEvent.CONTACT | EntityEvent.SIMULATE );
+		SetLifetime( 7200 );
 
 		m_NameSoundSets = new TStringArray;
 		

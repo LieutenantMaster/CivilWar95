@@ -11,7 +11,6 @@
 
 modded class Fence
 {
-	protected bool m_IsKnocking;
 	protected bool m_ShouldKnock;
 	
 	void Fence()
@@ -26,7 +25,6 @@ modded class Fence
 
 	void KnockAtDoor() 		
 	{
-		m_IsKnocking = false;
 		m_ShouldKnock = true;
 		
 		SetSynchDirty();
@@ -35,7 +33,6 @@ modded class Fence
 	void StopKnockAtDoor()
 	{
 		m_ShouldKnock = false;
-		m_IsKnocking = true;
 		
 		SetSynchDirty();
 	}
@@ -44,7 +41,7 @@ modded class Fence
 	{
 		super.OnVariablesSynchronized();
 
-		if ( m_ShouldKnock && !m_IsKnocking )
+		if ( m_ShouldKnock )
 		{
 			StopKnockAtDoor();
 #ifndef SERVER
@@ -55,6 +52,7 @@ modded class Fence
 
 	private void PlayKnockingSound()
 	{
-		SEffectManager.PlaySound( GetLoopKnockingSoundset(), GetPosition() );
+		EffectSound knockSound = SEffectManager.PlaySound( GetLoopKnockingSoundset(), GetPosition() );
+		knockSound.SetSoundAutodestroy( true );
 	}
 };

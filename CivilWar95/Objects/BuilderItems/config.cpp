@@ -36,6 +36,25 @@ class CfgVehicles
 	class CW95_ArmedFlashGrenade: FlashGrenade {};
 
 	class HouseNoDestruct;
+	class CW95_DynamicEffect_Base: HouseNoDestruct
+	{
+		scope=0;
+		model="CivilWar95\CivilWar95\Objects\BuilderItems\invInteract.p3d";
+	};
+	class CW95_DynamicFire_Base: CW95_DynamicEffect_Base {};
+	class CW95_DynamicFire_Light: CW95_DynamicFire_Base
+	{
+		scope=2;
+	};
+	class CW95_DynamicFire_Normal: CW95_DynamicFire_Base
+	{
+		scope=2;
+	};
+	class CW95_DynamicFire_Heavy: CW95_DynamicFire_Base
+	{
+		scope=2;
+	};
+
 	class CW95_Effect_Base: HouseNoDestruct
 	{
 		scope=0;

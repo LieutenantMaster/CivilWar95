@@ -11,7 +11,7 @@
 
 modded class CarScript
 {	
-	bool IsFuelStation()
+	override bool IsFuelStation()
 	{
 		return false;
 	}
@@ -19,5 +19,15 @@ modded class CarScript
 	bool HasFuelToGive()
 	{
 		return !IsRuined() && !IsEmpty();
+	}
+
+	bool HasArmement()
+	{
+		return false;
+	}
+
+	bool CanFireFromSeatIndex(PlayerBase player)
+	{
+		return false;
 	}
 };

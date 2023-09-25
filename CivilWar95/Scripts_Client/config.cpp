@@ -11,6 +11,7 @@ class CfgPatches
 			"DayZExpansion_Scripts",
 			"DayZExpansion_Market_Scripts",
 			"DayZExpansion_BaseBuilding_Scripts",
+			"Extension_Helicopters_Scripts",
 			"AirRaid"
 		};
 	};
@@ -30,7 +31,7 @@ class CfgMods
 		overview = "";
 		author = "LieutenantMaster";
 		authorID = "";
-		inputs="CivilWar95/CivilWar95/Data/inputs.xml";
+		inputs="CivilWar95/CivilWar95/Scripts_Client/Data/Inputs.xml";
 
 		dependencies[]=
 		{

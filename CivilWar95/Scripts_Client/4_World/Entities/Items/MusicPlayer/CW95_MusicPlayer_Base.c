@@ -65,10 +65,6 @@ class CW95_MusicPlayer: Inventory_Base
 	
 	void ~CW95_MusicPlayer()
 	{
-		// we could probably sync correctly everything so it would keep playing
-		// even after a server restart - we just havent bothered trying seriously yet
-		m_IsPlaying = false;
-
 		if(m_Timer)
 			delete m_Timer;
 
@@ -97,7 +93,8 @@ class CW95_MusicPlayer: Inventory_Base
 		super.CF_OnStoreSave(storage);
 
 		auto ctx = storage[DZ_CivilWar95];
-		if (!ctx) return;
+		if (!ctx)
+			return;
 
         ctx.Write( m_Volume );
 		ctx.Write( m_Tracktimer );
@@ -113,7 +110,8 @@ class CW95_MusicPlayer: Inventory_Base
 			return false;
 
 		auto ctx = storage[DZ_CivilWar95];
-		if (!ctx) return true;
+		if (!ctx)
+			return true;
         
         if ( !ctx.Read( m_Volume ) )
             return false;

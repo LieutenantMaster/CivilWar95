@@ -1,3 +1,14 @@
+/**
+ * Enums.c
+ *
+ * © 2023 CivilWar95
+ * By LieutenantMaster
+ *
+ * This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+ * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
+ *
+*/
+
 enum FrontLineTypes
 {
 	AI = 0,
@@ -21,8 +32,9 @@ enum FrontLineArtilleryTypes
 enum CW95RPC
 {
 	INVALID = 80850,
-	FrontLineTrigger,
-	SyncTimeCassette,
+	FrontLineTrigger = 80851,
+	SyncTimeCassette = 80852,
+	PlayerHeight = 80853,
 	COUNT
 };
 

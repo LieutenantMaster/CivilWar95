@@ -11,15 +11,11 @@
 
 modded class BuildingBase
 {
-	protected bool m_IsKnocking;
-	protected bool m_ShouldKnock;
-
-	protected int  m_Index;
+	bool m_ShouldKnock;
+	int  m_Index;
 	
 	void BuildingBase()
 	{
-		m_Index = -1;
-
 		RegisterNetSyncVariableBool( "m_ShouldKnock" );
 		RegisterNetSyncVariableInt( "m_Index" );
 	}
@@ -31,17 +27,8 @@ modded class BuildingBase
 
 	void KnockAtDoor(int index) 		
 	{
-		m_IsKnocking = false;
 		m_ShouldKnock = true;
 		m_Index = index;
-		
-		SetSynchDirty();
-	}
-
-	void StopKnockAtDoor()
-	{
-		m_ShouldKnock = false;
-		m_IsKnocking = true;
 		
 		SetSynchDirty();
 	}
@@ -50,17 +37,14 @@ modded class BuildingBase
 	{
 		super.OnVariablesSynchronized();
 
-		if ( m_ShouldKnock && !m_IsKnocking )
-		{
-			StopKnockAtDoor();
 #ifndef SERVER
-			PlayKnockingSound(m_Index);
+		PlayKnockingSound(m_Index);
 #endif
-		}
 	}
 
-	private void PlayKnockingSound(int index)
+	void PlayKnockingSound(int index)
 	{
-		SEffectManager.PlaySound( GetLoopKnockingSoundset(), GetDoorSoundPos(index) );
+		EffectSound knockSound = SEffectManager.PlaySound( GetLoopKnockingSoundset(), GetDoorSoundPos(index) );
+		knockSound.SetSoundAutodestroy( true );
 	}
 };

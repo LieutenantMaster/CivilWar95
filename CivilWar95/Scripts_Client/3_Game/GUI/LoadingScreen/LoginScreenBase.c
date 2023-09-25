@@ -29,8 +29,7 @@ modded class LoginScreenBase
 		if (!m_ExCustomLoadingScreenData)
 			return;
 
-		if (m_ExCustomLoadingScreenData.RandomizeBackgounds)
-			m_ShownBackgrounds = new array<int>;
+		m_ShownBackgrounds = new array<int>;
 	}
 
 	override void Update(float timeslice)
@@ -40,26 +39,15 @@ modded class LoginScreenBase
 		m_ExLoadingTime += timeslice;
 		if (m_ExLoadingTime >= LOADING_SCREEN_CHANGE_TIME)
 		{
-			if (!m_ExCustomLoadingScreenData.RandomizeBackgounds)
+			if (m_ShownBackgrounds.Count() < m_ExCustomLoadingScreenData.m_ExBackgrounds.Count())
 			{
+				m_ExBackgroundIndex = GetRandomBackroundIndex();
 				SetBackgroundImage(m_ExBackgroundIndex);
-				m_ExBackgroundIndex++;
-				if (m_ExBackgroundIndex > (m_ExCustomLoadingScreenData.m_ExBackgrounds.Count() - 1))
-					m_ExBackgroundIndex = 0;
+				m_ShownBackgrounds.Insert(m_ExBackgroundIndex);
 			}
 			else
 			{
-				if (m_ShownBackgrounds.Count() < m_ExCustomLoadingScreenData.m_ExBackgrounds.Count())
-				{
-					m_ExBackgroundIndex = GetRandomBackroundIndex();
-					SetBackgroundImage(m_ExBackgroundIndex);
-					m_ShownBackgrounds.Insert(m_ExBackgroundIndex);
-				}
-				else
-				{
-					m_ShownBackgrounds.Clear();
-				}
-
+				m_ShownBackgrounds.Clear();
 			}
 
 			m_ExLoadingTime = 0;

@@ -9,6 +9,7 @@
  *
 */
 
+/*
 modded class HemolyticReactionMdfr
 {
 	override float CalculateRunTime()
@@ -16,3 +17,4 @@ modded class HemolyticReactionMdfr
 		return Math.RandomIntInclusive(850, 2000);
 	}
 };
+*/

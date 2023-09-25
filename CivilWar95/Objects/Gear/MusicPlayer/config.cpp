@@ -503,13 +503,13 @@ class CfgSlots
 	class Slot_CW95_Cassette
 	{
 		name="CW95_Cassette";
-		displayName="Cassette";
+		displayName="$STR_CW95_CASSETTEBASE_NAME";
 		ghostIcon="plant";
 	};
 	class Slot_CW95_Radio
 	{
 		name="CW95_Radio";
-		displayName="Cassette Player";
+		displayName="$STR_CW95_MUSICPLAYER_NAME";
 		ghostIcon="plant";
 	};
 };

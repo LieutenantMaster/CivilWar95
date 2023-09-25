@@ -28,8 +28,8 @@ class CfgVehicles
 	class CW95_WindScreen: Inventory_Base
 	{
 		scope=2;
-		displayName="WindScreen";
-		descriptionShort="WindScreen";
+		displayName="$STR_CW95_ITEM_WINDSCREEN_NAME";
+		descriptionShort="$STR_CW95_ITEM_WINDSCREEN_DESC";
 		model="\dz\vehicles\parts\windscreen_box.p3d";
 		weight=1000;
 		itemSize[]={2,3};

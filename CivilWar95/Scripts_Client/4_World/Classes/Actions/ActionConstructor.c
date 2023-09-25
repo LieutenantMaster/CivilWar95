@@ -14,9 +14,15 @@ modded class ActionConstructor
 	override void RegisterActions(TTypenameArray actions)
 	{
 		super.RegisterActions(actions);
+
+		actions.Insert(CW95_ActionVehicleFlare);
+		actions.Insert(CW95_ActionVehicleRocket);
+
+		actions.Insert(CW95_ActionExtinguishByExtinguisher);
+		actions.Insert(CW95_ActionExtinguishByLiquid);
 		
-		actions.Insert( CW95_ActionRaiseWhistleSelf );
-		//actions.Insert( CW95_ActionKnockAtDoor );
+		actions.Insert(CW95_ActionRaiseWhistleSelf);
+		actions.Insert(CW95_ActionKnockAtDoor);
 
 		actions.Insert(MP_PlayMusicAction);
 		actions.Insert(MP_StopAction);
