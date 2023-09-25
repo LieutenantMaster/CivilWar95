@@ -70,7 +70,7 @@ class CustomMission: MissionServer
 		super.OnInit();
 
 		// Start between 1 second and 1 hour
-		GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).CallLater( InitArty, Math.RandomIntInclusive(1000, 3600000), false );
+		GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).CallLater( InitArty, Math.RandomIntInclusive(1000, 360000), false );
 
 		// 60 secs
 		GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).CallLater( OnCheckOnlinePlayers, 60000, true );
@@ -411,36 +411,38 @@ class CustomMission: MissionServer
 	
 	static void UpdateTraderZones()
 	{
-		IncrementStockForTraderzonePos("2640 200 5175", 10); 	// Zelenogorsk
-		IncrementStockForTraderzonePos("6510 0 2550", 1); 		// Chernogorsk
-		IncrementStockForTraderzonePos("10453 13 2393", 1); 	// Elecktro
-		IncrementStockForTraderzonePos("9519 5 2005", 1); 		// Elecktro StationService
+		int CityRestockPercent = 10;
+		int LocalRestockPercent = 3;
+
+		IncrementStockForTraderzonePos("2640 200 5175", CityRestockPercent); 	// Zelenogorsk
+		IncrementStockForTraderzonePos("6510 0 2550", LocalRestockPercent); 	// Chernogorsk
+		IncrementStockForTraderzonePos("10453 13 2393", LocalRestockPercent); 	// Elecktro
+		IncrementStockForTraderzonePos("9519 5 2005", LocalRestockPercent); 	// Elecktro StationService
 		
-		IncrementStockForTraderzonePos("4995 9 2476", 1); 		// Balota
-		IncrementStockForTraderzonePos("6078 158 4914", 1); 	// Nadez
-		IncrementStockForTraderzonePos("6930 18 1694", 1); 		// ONU
+		IncrementStockForTraderzonePos("4995 9 2476", LocalRestockPercent); 	// Balota
+		IncrementStockForTraderzonePos("6078 158 4914", LocalRestockPercent); 	// Nadez
+		IncrementStockForTraderzonePos("6930 18 1694", LocalRestockPercent); 	// ONU
 	}
 
 	static bool IsScheaduledRestart()
 	{
 		CF_Date now = CF_Date.Now();
-
-		if ( now.GetHours() != 8 && now.GetHours() != 16 && now.GetHours() != 0 )
-		{
-			Print("[CivilWar95]:: TRADERZONE:: IsScheaduledRestart:: FALSE");
-			Print("[CivilWar95]:: Time: "+ now.GetHours() + "H "+ now.GetMinutes() + "m");
-			return false;
-		}
 		
-		if ( now.GetMinutes() < 10)
+		int hour = now.GetHours();
+		int minute = now.GetMinutes();
+
+		if ( (hour > 6 && hour < 9) || (hour > 14 && hour < 17) || (hour > -1 || hour < 24) )
 		{
-			Print("[CivilWar95]:: TRADERZONE:: IsScheaduledRestart:: TRUE");
-			Print("[CivilWar95]:: Time: "+ now.GetHours() + "H "+ now.GetMinutes() + "m");
-			return true;
+			if ( minute < 10 || minute > 50 )
+			{
+				Print("[CivilWar95]:: TRADERZONE:: IsScheaduledRestart:: TRUE");
+				Print("[CivilWar95]:: Time: "+ hour + "H "+ minute + "m");
+				return true;
+			}
 		}
 
 		Print("[CivilWar95]:: TRADERZONE:: IsScheaduledRestart:: FALSE");
-		Print("[CivilWar95]:: Time: "+ now.GetHours() + "H "+ now.GetMinutes() + "m");
+		Print("[CivilWar95]:: Time: "+ hour + "H "+ minute + "m");
 		
 		return false;
 	}

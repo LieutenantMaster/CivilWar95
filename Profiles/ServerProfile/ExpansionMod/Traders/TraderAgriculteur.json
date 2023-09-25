@@ -11,7 +11,7 @@
     ],
     "Categories": [],
     "Items": {
-        "shovel": 0,
+        "shovel": 3,
         "farminghoe": 0,
         "gardenlime": 0,
         "pepperseedspack": 0,
@@ -23,7 +23,8 @@
         "zucchini": 2,
         "greenbellpepper": 2,
         "strawhat_mung": 0,
-        "pitchfork": 0
+        "pitchfork": 0,
+        "MD_Scarecrow": 0
 
 
     }

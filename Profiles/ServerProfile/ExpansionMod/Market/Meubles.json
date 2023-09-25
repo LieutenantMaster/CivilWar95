@@ -169,6 +169,30 @@
             "Variants": []
         },
         {
+            "ClassName": "MD_WoodPileLarge_Kit",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MD_WoodPileSmall_Kit",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MD_WoodPileMossy_Kit"
+            ]
+        },
+        {
             "ClassName": "MD_PostBox_Kit",
             "MaxPriceThreshold": 1250,
             "MinPriceThreshold": 1250,
@@ -320,7 +344,7 @@
         },
         {
             "ClassName": "MD_RedChair_Kit",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 1500,
             "MinPriceThreshold": 500,
             "SellPricePercent": 25,
             "MaxStockThreshold": 10,
@@ -373,8 +397,8 @@
         },
         {
             "ClassName": "MD_WhiteCouch_Kit",
-            "MaxPriceThreshold": 2700,
-            "MinPriceThreshold": 2700,
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
             "SellPricePercent": 25,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -386,8 +410,8 @@
         },
         {
             "ClassName": "MD_EvergreenFlowerPot",
-            "MaxPriceThreshold": 400,
-            "MinPriceThreshold": 400,
+            "MaxPriceThreshold": 750,
+            "MinPriceThreshold": 750,
             "SellPricePercent": 25,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -395,6 +419,21 @@
             "SpawnAttachments": [],
             "Variants": [
                 "MD_SnakePlantFlowerPot"
+            ]
+        },
+        {
+            "ClassName": "Msp_HousePlant_Succulent",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 25,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Msp_HousePlant_RubberFig",
+                "Msp_HousePlant_FicusTree",
+                "Msp_HousePlant_Philodendron"
             ]
         }
     ]
