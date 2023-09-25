@@ -5,6 +5,7 @@
     "DeleteLockOnRaid": "false",
     "ToolDamageOnRaid": 100,
     "RaidTools": [
-        "FOG_SOCOM_Slammer_Black"
+        "FOG_SOCOM_Slammer_Black",
+        "FirefighterAxe"
     ]
 }

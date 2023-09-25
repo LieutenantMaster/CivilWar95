@@ -32,14 +32,17 @@ class CfgMagazines
     };
 };
 
-class CfgVehicles
+class cfgWeapons
 {
 	class Archery_Base;
 	class Crossbow_Base: Archery_Base
 	{
-		itemSize[]={9,3};
+		itemSize[]={8,3};
 	};
+};
 
+class CfgVehicles
+{
     class Inventory_Base;
 	class AK_Bayonet: Inventory_Base
 	{

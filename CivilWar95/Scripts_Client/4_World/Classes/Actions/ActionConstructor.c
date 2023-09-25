@@ -22,7 +22,9 @@ modded class ActionConstructor
 		actions.Insert(CW95_ActionExtinguishByLiquid);
 		
 		actions.Insert(CW95_ActionRaiseWhistleSelf);
+#ifdef CW95_ENABLE_KNOCK
 		actions.Insert(CW95_ActionKnockAtDoor);
+#endif
 
 		actions.Insert(MP_PlayMusicAction);
 		actions.Insert(MP_StopAction);

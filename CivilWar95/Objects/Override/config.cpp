@@ -38,7 +38,7 @@ class CfgSlots
 	};
 };
 
-class CfgVehicles
+class cfgWeapons
 {
 	class Rifle_Base;
 	class AK74_Base: Rifle_Base
@@ -50,7 +50,10 @@ class CfgVehicles
 			"TF_Mag_AK74_Bakelit30Rnd"
 		};
 	};
+};
 
+class CfgVehicles
+{
 	class PoliceVest;
 	class PoliceVest_Black: PoliceVest
 	{
@@ -90,7 +93,7 @@ class CfgVehicles
 	{
 		inventorySlot[]+=
 		{
-			"ExpansionMoney"
+			"Mask"
 		};
 	};
 
@@ -106,7 +109,7 @@ class CfgVehicles
 	{
 		attachments[]+=
 		{
-			"Mask"
+			"ExpansionMoney"
 		};
     };
 	//!--------------- MuchDecos ---------------

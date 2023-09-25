@@ -9,6 +9,7 @@
  *
 */
 
+#ifdef CW95_ENABLE_KNOCK
 modded class BuildingBase
 {
 	bool m_ShouldKnock;
@@ -48,3 +49,4 @@ modded class BuildingBase
 		knockSound.SetSoundAutodestroy( true );
 	}
 };
+#endif

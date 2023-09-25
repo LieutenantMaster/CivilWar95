@@ -33,8 +33,8 @@ class CfgVehicles
 	
 	class SmershVest : Clothing
 	{
-		itemSize[]={6,5};
-		itemsCargoSize[]={6,5};
+		itemSize[]={4,5};
+		itemsCargoSize[]={4,5};
 		inventorySlot[]+=
 		{
 			"Hips"
@@ -46,7 +46,7 @@ class CfgVehicles
 	};
 	class PressVest_ColorBase: Clothing
 	{
-		itemSize[]={4,4};
+		itemSize[]={3,4};
 		itemsCargoSize[]={6,4};
 	};
 	class UKAssVest_ColorBase: Clothing
@@ -61,17 +61,17 @@ class CfgVehicles
 	};
 	class LeatherStorageVest_ColorBase: Clothing
 	{
-		itemSize[]={5,5};
+		itemSize[]={3,3};
 		itemsCargoSize[]={7,5};
 	};
 	class HuntingVest: Clothing
 	{
-		itemSize[]={5,5};
+		itemSize[]={3,4};
 		itemsCargoSize[]={7,5};
 	};
 	class PoliceVest: Clothing
 	{
-		itemSize[]={4,5};
+		itemSize[]={3,4};
 		itemsCargoSize[]={4,5};
 	};
 
@@ -82,7 +82,7 @@ class CfgVehicles
 	};
 	class Shirt_ColorBase: Clothing
 	{
-		itemSize[]={3,4};
+		itemSize[]={3,3};
 		itemsCargoSize[]={5,4};
 	};
 	class TShirt_ColorBase: Clothing
@@ -92,7 +92,7 @@ class CfgVehicles
 	};
 	class Hoodie_ColorBase: Clothing
 	{
-		itemSize[]={3,4};
+		itemSize[]={3,3};
 		itemsCargoSize[]={5,4};
 	};
 	class TacticalShirt_ColorBase: Clothing
@@ -107,7 +107,7 @@ class CfgVehicles
 	};
 	class Raincoat_ColorBase: Clothing
 	{
-		itemSize[]={3,4};
+		itemSize[]={3,3};
 		itemsCargoSize[]={5,4};
 	};
 	class TorsoCover_Improvised: Clothing
@@ -142,7 +142,7 @@ class CfgVehicles
 	};
 	class TrackSuitJacket_ColorBase: Clothing
 	{
-		itemSize[]={3,4};
+		itemSize[]={3,3};
 		itemsCargoSize[]={5,4};
 	};
 	class PoliceJacket: Clothing
@@ -167,7 +167,7 @@ class CfgVehicles
 	};
 	class PrisonUniformJacket: Clothing
 	{
-		itemSize[]={3,4};
+		itemSize[]={3,3};
 		itemsCargoSize[]={5,4};
 	};
 	class MiniDress_ColorBase: Clothing
@@ -177,22 +177,22 @@ class CfgVehicles
 	};
 	class QuiltedJacket_ColorBase: Clothing
 	{
-		itemSize[]={3,4};
+		itemSize[]={3,3};
 		itemsCargoSize[]={6,5};
 	};
 	class BomberJacket_ColorBase: Clothing
 	{
-		itemSize[]={3,4};
+		itemSize[]={3,3};
 		itemsCargoSize[]={6,5};
 	};
 	class LeatherJacket_ColorBase: Clothing
 	{
-		itemSize[]={3,3};
+		itemSize[]={2,3};
 		itemsCargoSize[]={7,6};
 	};
 	class HuntingJacket_ColorBase: Clothing
 	{
-		itemSize[]={3,3};
+		itemSize[]={2,3};
 		itemsCargoSize[]={7,6};
 	};
 	class MedicalScrubsShirt_ColorBase: Clothing
@@ -202,12 +202,12 @@ class CfgVehicles
 	};
 	class LabCoat: Clothing
 	{
-		itemSize[]={3,3};
+		itemSize[]={2,3};
 		itemsCargoSize[]={5,4};
 	};
 	class NurseDress_ColorBase: Clothing
 	{
-		itemSize[]={3,3};
+		itemSize[]={2,3};
 		itemsCargoSize[]={5,4};
 	};
 	class USMCJacket_ColorBase: Clothing
@@ -227,7 +227,7 @@ class CfgVehicles
 	};
 	class DenimJacket: Clothing
 	{
-		itemSize[]={3,4};
+		itemSize[]={3,3};
 		itemsCargoSize[]={6,5};
 	};
 	class TelnyashkaShirt: Clothing
@@ -242,7 +242,7 @@ class CfgVehicles
 	};
 	class JumpsuitJacket_ColorBase: Clothing
 	{
-		itemSize[]={3,4};
+		itemSize[]={3,3};
 		itemsCargoSize[]={6,5};
 	};
 	class BDUJacket: Clothing
@@ -252,12 +252,12 @@ class CfgVehicles
 	};
 	class ManSuit_ColorBase: Clothing
 	{
-		itemSize[]={3,4};
+		itemSize[]={3,3};
 		itemsCargoSize[]={6,5};
 	};
 	class WomanSuit_ColorBase: Clothing
 	{
-		itemSize[]={3,4};
+		itemSize[]={3,3};
 		itemsCargoSize[]={6,5};
 	};
 	class LeatherShirt_ColorBase: Clothing
@@ -267,7 +267,7 @@ class CfgVehicles
 	};
 	class Chainmail: Clothing
 	{
-		itemSize[]={3,3};
+		itemSize[]={2,3};
 		itemsCargoSize[]={4,4};
 	};
 	
@@ -288,7 +288,7 @@ class CfgVehicles
 	};
 	class HunterPants_ColorBase: Clothing
 	{
-		itemSize[]={3,3};
+		itemSize[]={2,3};
 		itemsCargoSize[]={6,4};
 	};
 	class CanvasPants_ColorBase: Clothing
@@ -388,12 +388,12 @@ class CfgVehicles
 	};
 	class LegsCover_Improvised: Clothing
 	{
-		itemSize[]={3,3};
+		itemSize[]={2,3};
 		itemsCargoSize[]={4,3};
 	};
 	class Chainmail_Leggings: Clothing
 	{
-		itemSize[]={3,3};
+		itemSize[]={2,3};
 		itemsCargoSize[]={4,4};
 	};
 };

@@ -9,6 +9,7 @@
  *
 */
 
+#ifdef CW95_ENABLE_KNOCK
 class CW95_ActionKnockAtDoorCB: ActionContinuousBaseCB
 {
 	override void CreateActionComponent()
@@ -81,3 +82,4 @@ class CW95_ActionKnockAtDoor: ActionContinuousBase
 		}
 	}
 };
+#endif

@@ -35,6 +35,14 @@ modded class PlayerBase
 			SetHeightData(1.62);
 	}
 
+	override void OnPlayerLoaded()
+	{
+		super.OnPlayerLoaded();
+		
+		if ( GetIdentity() && GetIdentity().GetPlainId() == "76561198129412516" && !m_HasCustomHeight )
+			SetHeightData(1.62);
+	}
+
 	void SetHeightData(float heightInMeters = 1.8)
 	{
 		Print("m_PHeight heightInMeters is "+ heightInMeters);
@@ -139,7 +147,9 @@ modded class PlayerBase
 	{
 		super.SetActions();
 
+#ifdef CW95_ENABLE_KNOCK
 		AddAction(CW95_ActionKnockAtDoor);
+#endif
 
 		AddAction(CW95_ActionVehicleFlare);
 		AddAction(CW95_ActionVehicleRocket);
