@@ -4,10 +4,12 @@
     "CanCraftDoorKits": 0,
     "CanCraftBarricadesKits": 0,
     "RaidToolsT1eT2": [
-        "FOG_SOCOM_Slammer_Black"
+        "FOG_SOCOM_Slammer_Black",
+        "FirefighterAxe"
     ],
     "RaidToolsT3": [
-        "FOG_SOCOM_Slammer_Black"
+        "FOG_SOCOM_Slammer_Black",
+        "FirefighterAxe"
     ],
     "CarDestroyPartsTools": [
         "FOG_SOCOM_Slammer_Black"
@@ -15,12 +17,12 @@
     "PB_DestroyTime": 30,
     "PB_DismantleTime": 25,
     "PB_ToolDamage": 1,
-    "T1DoorDestroyTime": 30,
+    "T1DoorDestroyTime": 15,
     "T2DoorDestroyTime": 30,
-    "T3DoorDestroyTime": 30,
-    "T1BarricadeAndWallDestroyTime": 120,
-    "T2BarricadeAndWallDestroyTime": 120,
-    "T3BarricadeAndWallDestroyTime": 120,
+    "T3DoorDestroyTime": 60,
+    "T1BarricadeAndWallDestroyTime": 15,
+    "T2BarricadeAndWallDestroyTime": 30,
+    "T3BarricadeAndWallDestroyTime": 60,
     "DialLockDestroyTime": 180,
     "T1GateWallDestroyTime": 480,
     "T2GateWallDestroyTime": 480

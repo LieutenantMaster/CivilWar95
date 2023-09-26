@@ -128,17 +128,17 @@
             "AccelMultiplierY": 0.5,
             "AccelMultiplierZ": 0.5,
             "ParachuteDamage": 1,
-            "LandingSpeedDamage": 1
+            "LandingSpeedDamage": 0
         },
         {
             "ClassName": "ADM_TactiParaBag_Camo_Speed",
-            "CanopyName": "ADM_Parachute_ADM",
+            "CanopyName": "ADM_Parachute_Fabric",
             "TopSpeedMultiplierY": 2.0,
             "TopSpeedMultiplierZ": 4.0,
             "AccelMultiplierY": 1.0,
             "AccelMultiplierZ": 1.0,
             "ParachuteDamage": 1,
-            "LandingSpeedDamage": 1
+            "LandingSpeedDamage": 0
         },
         {
             "ClassName": "ADM_JetPack_ColorBase",
