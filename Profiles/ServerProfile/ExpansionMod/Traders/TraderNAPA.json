@@ -43,6 +43,17 @@
         "improvisedexplosive": 0,
 
         "fog_pouch_ifak_brown": 0,
+        "AMS_Bandage": 0,
+        "AMS_FirstAidKit": 0,
+        "AMS_Absorbent": 0,
+        "AMS_BandageTape": 0,
+        "AMS_AntiSept": 0,
+        "AMS_Methadone": 0,
+        "AMS_Tourniquet": 0,
+        "AMS_Splint": 0,
+        "AMS_Ai2": 0,
+        "AMS_MFAK": 0,
+        "AMS_Vikasol": 0,
 
         "ukassvest_black": 0,
         "highcapacityvest_black": 0,

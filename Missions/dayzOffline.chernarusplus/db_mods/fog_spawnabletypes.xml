@@ -2066,7 +2066,7 @@
     </type>
     <type name="FOG_TV110T_Medkit_Tan">
         <attachments chance="0.50">
-            <item name="BandageDressing" chance="1.00" />
+            <item name="BandageDressing" chance="0.00" />
         </attachments>
         <attachments chance="0.50">
             <item name="BloodTestKit" chance="1.00" />
@@ -2095,7 +2095,7 @@
     </type>
     <type name="FOG_TV110T_Medkit_CB">
         <attachments chance="0.50">
-            <item name="BandageDressing" chance="1.00" />
+            <item name="BandageDressing" chance="0.00" />
         </attachments>
         <attachments chance="0.50">
             <item name="BloodTestKit" chance="1.00" />
@@ -2124,7 +2124,7 @@
     </type>
     <type name="FOG_TV110T_Medkit_Black">
         <attachments chance="0.50">
-            <item name="BandageDressing" chance="1.00" />
+            <item name="BandageDressing" chance="0.00" />
         </attachments>
         <attachments chance="0.50">
             <item name="BloodTestKit" chance="1.00" />
@@ -2153,7 +2153,7 @@
     </type>
     <type name="FOG_TV110T_Medkit_RG">
         <attachments chance="0.50">
-            <item name="BandageDressing" chance="1.00" />
+            <item name="BandageDressing" chance="0.00" />
         </attachments>
         <attachments chance="0.50">
             <item name="BloodTestKit" chance="1.00" />
@@ -2182,7 +2182,7 @@
     </type>
     <type name="FOG_TV110T_Medkit_AU">
         <attachments chance="0.50">
-            <item name="BandageDressing" chance="1.00" />
+            <item name="BandageDressing" chance="0.00" />
         </attachments>
         <attachments chance="0.50">
             <item name="BloodTestKit" chance="1.00" />
@@ -2211,7 +2211,7 @@
     </type>
     <type name="FOG_TV110T_Medkit_FG">
         <attachments chance="0.50">
-            <item name="BandageDressing" chance="1.00" />
+            <item name="BandageDressing" chance="0.00" />
         </attachments>
         <attachments chance="0.50">
             <item name="BloodTestKit" chance="1.00" />
@@ -2240,7 +2240,7 @@
     </type>
     <type name="FOG_TV110T_Medkit_MC">
         <attachments chance="0.50">
-            <item name="BandageDressing" chance="1.00" />
+            <item name="BandageDressing" chance="0.00" />
         </attachments>
         <attachments chance="0.50">
             <item name="BloodTestKit" chance="1.00" />
@@ -2269,7 +2269,7 @@
     </type>
     <type name="FOG_Pouch_IFAK_Brown">
         <attachments chance="0.50">
-            <item name="BandageDressing" chance="1.00" />
+            <item name="BandageDressing" chance="0.00" />
         </attachments>
         <attachments chance="0.50">
             <item name="BloodTestKit" chance="1.00" />
@@ -2298,7 +2298,7 @@
     </type>
     <type name="FOG_Pouch_IFAK_CB">
         <attachments chance="0.50">
-            <item name="BandageDressing" chance="1.00" />
+            <item name="BandageDressing" chance="0.00" />
         </attachments>
         <attachments chance="0.50">
             <item name="BloodTestKit" chance="1.00" />
@@ -2327,7 +2327,7 @@
     </type>
     <type name="FOG_Pouch_IFAK_RG">
         <attachments chance="0.50">
-            <item name="BandageDressing" chance="1.00" />
+            <item name="BandageDressing" chance="0.00" />
         </attachments>
         <attachments chance="0.50">
             <item name="BloodTestKit" chance="1.00" />
@@ -2356,7 +2356,7 @@
     </type>
     <type name="FOG_Pouch_IFAK_Grey">
         <attachments chance="0.50">
-            <item name="BandageDressing" chance="1.00" />
+            <item name="BandageDressing" chance="0.00" />
         </attachments>
         <attachments chance="0.50">
             <item name="BloodTestKit" chance="1.00" />
@@ -2385,7 +2385,7 @@
     </type>
     <type name="FOG_Pouch_IFAK_Black">
         <attachments chance="0.50">
-            <item name="BandageDressing" chance="1.00" />
+            <item name="BandageDressing" chance="0.00" />
         </attachments>
         <attachments chance="0.50">
             <item name="BloodTestKit" chance="1.00" />

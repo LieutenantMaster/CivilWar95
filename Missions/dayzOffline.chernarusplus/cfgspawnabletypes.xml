@@ -215,7 +215,7 @@
 	<type name="FirstAidKit">
 		<tag name="shelves" />
 		<cargo chance="1">
-			<item name="BandageDressing" />
+			<item name="AMS_Bandage" />
 		</cargo>
 		<cargo chance="0.8">
 			<item name="Thermometer" />

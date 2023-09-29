@@ -88,6 +88,11 @@
             "LockComplexity": 4.0
         },
         {
+            "ClassName": "EXT_Ch_47f",
+            "CanPlayerAttach": 1,
+            "LockComplexity": 1.0
+        },
+        {
             "ClassName": "ExpansionMh6",
             "CanPlayerAttach": 0,
             "LockComplexity": 3.0

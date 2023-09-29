@@ -6429,7 +6429,7 @@
     </type>
     <!-- Treat like BandageDressing -->
     <type name="FOG_Tourniquet">
-        <nominal>8</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>

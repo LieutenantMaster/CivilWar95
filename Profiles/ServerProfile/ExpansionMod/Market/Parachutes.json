@@ -1,0 +1,21 @@
+{
+    "m_Version": 12,
+    "DisplayName": "PARACHUTES",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "ADM_TactiParaBag_Camo_Speed",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 10,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

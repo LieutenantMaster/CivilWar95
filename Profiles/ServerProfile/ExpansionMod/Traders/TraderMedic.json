@@ -12,7 +12,7 @@
     "Categories": [],
     "Items": {
         "disinfectantalcohol": 1,
-        "bandagedressing": 1,
+        "AMS_Bandage": 1,
         "charcoaltablets": 1,
         "purificationtablets": 1,
         "vitaminbottle": 1,
@@ -35,7 +35,14 @@
        "thermometer": 3,
        "defibrillator": 3,
        "msp_scissors": 3,
-       "iodinetincture": 3
+       "iodinetincture": 3,
+
+       "AMS_FirstAidKit": 1,
+       "AMS_BandageTape": 1,
+       "AMS_Energy": 1,
+       "AMS_BandAid": 1,
+       "AMS_WaterStraw": 1,
+       "AMS_GoldenStar": 1
 
 
     }

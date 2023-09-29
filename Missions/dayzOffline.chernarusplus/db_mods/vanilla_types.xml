@@ -2870,7 +2870,7 @@
         <usage user="Military"/>
         <value user="Tier1234"/>
     </type>
-    <type name="BandageDressing">
+    <type name="AMS_Bandage">
         <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>

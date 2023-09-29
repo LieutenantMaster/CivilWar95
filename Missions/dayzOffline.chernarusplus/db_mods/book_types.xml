@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 	<type name="BookThreeMenInABoat">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -16,13 +16,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="Book20000LieuesSousLesMers">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -31,13 +31,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookLesCorneilles">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -46,13 +46,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookLaComdieHumaine">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -61,13 +61,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookLleMystrieuse">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -76,13 +76,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookDonQuichotte">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -91,13 +91,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookDelaTerreLaLune">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -106,13 +106,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookFrankenstein">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -121,13 +121,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookRomeoUndJulia">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -136,13 +136,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookVoyageAuCentreDeLaTerre">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -151,13 +151,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookLenfer1of2">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -166,13 +166,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookFaustErsterTeil">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -181,13 +181,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheLastMan">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -196,13 +196,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookDasNibelungenlied">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -211,13 +211,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookDelorigineDesEspces">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -226,13 +226,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookLestroisMousquetaires">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -241,13 +241,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookMrchenFrKinder">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -256,13 +256,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookDracula">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -271,13 +271,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookCinqSemainesEnBallon">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -286,13 +286,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookWutheringHeights">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -301,13 +301,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookWielandOrTheTransformation">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -316,13 +316,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookWarAndPeace">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -331,13 +331,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheAeneid">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -346,13 +346,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookUncleSilas">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -361,13 +361,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookUlysses">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -376,13 +376,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTreasureIsland">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -391,13 +391,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTranslationsOfShakuntala">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -406,13 +406,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheTurnOfTheScrew">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -421,13 +421,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheThreeMusketeers">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -436,13 +436,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheScarletPimpernel">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -451,13 +451,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookAliceInWonderland">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -466,13 +466,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheGiacomoLeopardi">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -481,13 +481,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheDecameron">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -496,13 +496,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookLerougeEtLeNoir">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -511,13 +511,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookJapaneseLiterature">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -526,13 +526,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookHunger">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -541,13 +541,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookHinduLiterature">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -556,13 +556,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookFaust">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -571,13 +571,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookCandide">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -586,13 +586,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookAnnaKarenina">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -601,13 +601,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookGilgameshEpic">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -616,13 +616,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookAfterLondon">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -631,13 +631,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookADollsHouse">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -646,13 +646,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheRedBadgeOfCourage">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -661,13 +661,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheJustifiedSinner">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -676,13 +676,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheMonkARomance">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -691,13 +691,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheHouseOfTheSevenGables">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -706,13 +706,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookMiddlemarch">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -721,13 +721,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookKingSolomonsMines">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -736,13 +736,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookAPrincessOfMars">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -751,13 +751,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookThePrisonerOfZenda">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -766,13 +766,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookThePossessed">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -781,13 +781,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheManWhoWasThursday">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -796,13 +796,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheMahabharataOfKrishna">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -811,13 +811,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheIslandOfDoctorMoreau">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -826,13 +826,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookRobinsonCrusoeAdventures">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -841,13 +841,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheComingRace">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -856,13 +856,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheCallOfTheWild">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -871,13 +871,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookSonsAndLovers">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -886,13 +886,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookShe">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -901,13 +901,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookScaramouche">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -916,13 +916,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookRasselas">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -931,13 +931,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookPrideAndPrejudice">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -946,13 +946,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookPhilosophiaeNaturalis">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -961,13 +961,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookDonQuixote">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -976,13 +976,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheTrial">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -991,13 +991,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookNjalsSaga">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1006,13 +1006,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookToTheInteriorOfTheEarth">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1021,13 +1021,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheRightsOfWoman">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1036,13 +1036,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheCanterburyTales">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1051,13 +1051,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookLadbcle">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1066,13 +1066,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookKingLear">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1081,13 +1081,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookMobyDick">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1096,13 +1096,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheMetamorphosesOfOvid">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1111,13 +1111,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookNaturalSelection">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1126,13 +1126,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookNostromo">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1141,13 +1141,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookMadameBovary">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1156,13 +1156,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookLordJim">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1171,13 +1171,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookLachartreuseDeParme">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1186,13 +1186,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookKidnapped">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1201,13 +1201,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookIvanhoe">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1216,13 +1216,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookHerland">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1231,13 +1231,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookHeartOfDarkness">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1246,13 +1246,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookGulliversTravels">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1261,13 +1261,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookGreatExpectations">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1276,13 +1276,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookFatherGoriot">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1291,13 +1291,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookErewhon">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1306,13 +1306,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookDeadSouls">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1321,13 +1321,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookBuddenBrooks">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1336,13 +1336,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookBlackBeauty">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1351,13 +1351,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookAndersensfairytales">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1366,13 +1366,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookWealthOfNations">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1381,13 +1381,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookAVoyageToArcturus">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1396,13 +1396,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheDayOfTheBeast">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1411,13 +1411,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheQuirt">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1426,13 +1426,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheCaveOfGold">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1441,13 +1441,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookSunsetPass">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1456,13 +1456,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookSpinifexAndSand">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1471,13 +1471,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookSkyrider">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1486,13 +1486,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookGunmansReckoning">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1501,13 +1501,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheLastOfThePlainsmen">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1516,13 +1516,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheHiddenChildren">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1531,13 +1531,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookDesertGold">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1546,13 +1546,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheHheritageOfTheSioux">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1561,13 +1561,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookSelectedStories">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1576,13 +1576,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheLastTrail">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1591,13 +1591,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookBlackJack">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1606,13 +1606,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheThunderBird">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1621,13 +1621,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookATexasMatchmaker">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1636,13 +1636,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookBettyZane">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1651,13 +1651,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookRonickyDoone">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1666,13 +1666,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTrailin">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1681,13 +1681,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookLonesomeLand">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1696,13 +1696,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookCassidysRustlerRoundUp">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1711,13 +1711,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookFlyingURanch">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1726,13 +1726,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheDesertOfWheat">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1741,13 +1741,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheBarrier">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1756,13 +1756,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheOutlet">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1771,13 +1771,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheVariableMan">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1786,13 +1786,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookATravelerInTime">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1801,13 +1801,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheCosmicComputer">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1816,13 +1816,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTonyAndTheBeetles">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1831,13 +1831,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookAndersen">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1846,13 +1846,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheHoundOfTheBaskervilles">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1861,13 +1861,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheShunnedHouse">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1876,13 +1876,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheCallOfCthulhu">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1891,13 +1891,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheBrothersKaramazov">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1906,13 +1906,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheJungleBook">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1921,13 +1921,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookVerwandlung">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1936,13 +1936,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookYouth">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1951,13 +1951,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookBilaNemoc">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1966,13 +1966,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheCountryOfTheBlind">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1981,13 +1981,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheTimeMachine">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -1996,13 +1996,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookThePitAndThePendulum">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -2011,13 +2011,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookThePictureOfDorianGray">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -2026,13 +2026,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookRussianCheatSheet">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -2041,13 +2041,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookRussian">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -2056,13 +2056,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookRobinsonCrusoe">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -2071,13 +2071,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheArtOfWar">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -2086,13 +2086,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheRaven">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -2101,13 +2101,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheMetamorphosis">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -2116,13 +2116,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookCrimeAndPunishment">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -2131,13 +2131,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookAroundTheWorldIn80days">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 			<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -2146,13 +2146,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookTheWarOfTheWorlds">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
@@ -2161,13 +2161,13 @@
 		<value user="Tier123"/>
 	</type>
 	<type name="BookBible">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>14400</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
-		<cost>100</cost>
+		<cost>40</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
 		<usage name="Town"/>
