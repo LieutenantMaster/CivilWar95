@@ -1,6 +1,6 @@
 {
     "ConfigVersion": "2",
-    "UseCrafting": 0,
+    "UseCrafting": 1,
     "CabinetKitCrafting": 1,
     "SofaKitCrafting": 0,
     "BedKitCrafting": 1,
