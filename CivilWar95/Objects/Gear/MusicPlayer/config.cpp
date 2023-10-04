@@ -26,11 +26,11 @@ class CfgPatches
 };
 class CfgVehicles
 {
+	/*
 	class GUIInventoryAttachmentsProps;
 	class Body;
 
 	class CarScript;
-	/*
 	class CarScript: Car
 	{
 		attachments[]+= {"CW95_Radio"};
@@ -42,7 +42,6 @@ class CfgVehicles
 			};
 		};
 	};
-	*/
 	class OffroadHatchback: CarScript
 	{
 		attachments[]+= {"CW95_Radio"};
@@ -240,6 +239,7 @@ class CfgVehicles
 			};
 		};
 	};
+	*/
 	
 	class Inventory_Base;
 	class CW95_MusicPlayer: Inventory_Base
