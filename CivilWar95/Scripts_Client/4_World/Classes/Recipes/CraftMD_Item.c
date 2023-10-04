@@ -8,7 +8,7 @@
  * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
  *
 */
-
+#ifndef DIAG
 modded class CraftMD_Item
 {
 	override bool CanDo(ItemBase ingredients[], PlayerBase player)//final check for recipe's validity
@@ -16,3 +16,4 @@ modded class CraftMD_Item
 		return false;
 	}
 };
+#endif

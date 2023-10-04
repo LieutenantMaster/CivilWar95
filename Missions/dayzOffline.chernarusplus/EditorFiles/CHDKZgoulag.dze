@@ -1,0 +1,2249 @@
+{
+    "MapName": "ChernarusPlus",
+    "CameraPosition": [
+        11159.8681640625,
+        14.668806076049805,
+        2529.82373046875
+    ],
+    "EditorObjects": [
+        {
+            "Type": "bldr_rock_wallv",
+            "DisplayName": "bldr_rock_wallv",
+            "Position": [
+                11212.4462890625,
+                -22.243549346923829,
+                2377.259033203125
+            ],
+            "Orientation": [
+                -144.00003051757813,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_wallh1",
+            "DisplayName": "bldr_rock_wallh1",
+            "Position": [
+                11179.6162109375,
+                0.24352264404296876,
+                2391.7177734375
+            ],
+            "Orientation": [
+                -53.99998474121094,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Boathouse_PierL",
+            "DisplayName": "StaticObj_Boathouse_PierL",
+            "Position": [
+                11246.57421875,
+                0.444610595703125,
+                2408.548828125
+            ],
+            "Orientation": [
+                116.99972534179688,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Bridge_Wood_50_1",
+            "DisplayName": "StaticObj_Bridge_Wood_50_1",
+            "Position": [
+                11093.6337890625,
+                2.2133941650390627,
+                2656.817626953125
+            ],
+            "Orientation": [
+                53.99998474121094,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_bridge_wood_25",
+            "DisplayName": "bldr_bridge_wood_25",
+            "Position": [
+                11077.9560546875,
+                2.6995387077331545,
+                2678.271484375
+            ],
+            "Orientation": [
+                53.999996185302737,
+                0.0,
+                -5.499999046325684
+            ],
+            "Scale": 0.9999990463256836,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Bridge_Wood_25",
+            "DisplayName": "StaticObj_Bridge_Wood_25",
+            "Position": [
+                11130.3525390625,
+                2.289487361907959,
+                2606.179443359375
+            ],
+            "Orientation": [
+                53.0348014831543,
+                0.0,
+                7.999997138977051
+            ],
+            "Scale": 0.9999982714653015,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11144.4345703125,
+                2.3992919921875,
+                2593.06201171875
+            ],
+            "Orientation": [
+                53.84361267089844,
+                -4.030500411987305,
+                3.662463426589966
+            ],
+            "Scale": 0.9984626173973084,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11156.1689453125,
+                2.6114048957824709,
+                2577.15576171875
+            ],
+            "Orientation": [
+                53.8436164855957,
+                -8.269554138183594,
+                2.754967212677002
+            ],
+            "Scale": 0.9977774620056152,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11162.0009765625,
+                2.455948829650879,
+                2569.014892578125
+            ],
+            "Orientation": [
+                53.8436164855957,
+                -8.594718933105469,
+                -0.7018250823020935
+            ],
+            "Scale": 0.9963313341140747,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11168.5390625,
+                2.5644736289978029,
+                2561.62353515625
+            ],
+            "Orientation": [
+                -144.6654815673828,
+                8.142200469970704,
+                2.0058701038360597
+            ],
+            "Scale": 0.9960581064224243,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11176.630859375,
+                2.381974935531616,
+                2555.733154296875
+            ],
+            "Orientation": [
+                -144.6654815673828,
+                1.8926753997802735,
+                -3.113093614578247
+            ],
+            "Scale": 0.9984452724456787,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11184.1962890625,
+                2.2555465698242189,
+                2549.384521484375
+            ],
+            "Orientation": [
+                -135.6891632080078,
+                2.859827995300293,
+                0.6674315929412842
+            ],
+            "Scale": 0.9997609257698059,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11191.2607421875,
+                2.2677552700042726,
+                2542.48779296875
+            ],
+            "Orientation": [
+                -135.6891632080078,
+                10.813033103942871,
+                0.5090427398681641
+            ],
+            "Scale": 0.9965387582778931,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11205.5,
+                2.371799945831299,
+                2528.7099609375
+            ],
+            "Orientation": [
+                -135.68893432617188,
+                9.993664741516114,
+                0.00903999712318182
+            ],
+            "Scale": 0.991989016532898,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11198.4150390625,
+                2.3231325149536135,
+                2535.572021484375
+            ],
+            "Orientation": [
+                -135.6891632080078,
+                10.737421989440918,
+                0.5090427398681641
+            ],
+            "Scale": 0.9965388774871826,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11210.96875,
+                2.2628631591796877,
+                2520.8984375
+            ],
+            "Orientation": [
+                71.99994659423828,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11214.021484375,
+                2.4404869079589845,
+                2511.464111328125
+            ],
+            "Orientation": [
+                71.99989318847656,
+                0.0,
+                -2.0
+            ],
+            "Scale": 0.999606192111969,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11215.599609375,
+                2.7884230613708498,
+                2501.6298828125
+            ],
+            "Orientation": [
+                89.9999008178711,
+                0.0,
+                -1.9999992847442628
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11214.80859375,
+                3.0164713859558107,
+                2491.6337890625
+            ],
+            "Orientation": [
+                98.99993133544922,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_5",
+            "DisplayName": "StaticObj_Wall_Fen5_5",
+            "Position": [
+                11213.212890625,
+                2.8011152744293215,
+                2484.285888671875
+            ],
+            "Orientation": [
+                107.99999237060547,
+                0.0,
+                5.499999046325684
+            ],
+            "Scale": 0.9999997019767761,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_5",
+            "DisplayName": "StaticObj_Wall_Fen5_5",
+            "Position": [
+                11213.005859375,
+                2.4434289932250978,
+                2479.730224609375
+            ],
+            "Orientation": [
+                78.41887664794922,
+                0.0,
+                1.9999992847442628
+            ],
+            "Scale": 0.9999986290931702,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11211.2998046875,
+                2.4610977172851564,
+                2472.639892578125
+            ],
+            "Orientation": [
+                117.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11204.900390625,
+                2.2875499725341799,
+                2465.090087890625
+            ],
+            "Orientation": [
+                144.0,
+                0.0,
+                1.9999992847442628
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11196.88671875,
+                2.1135330200195314,
+                2459.265869140625
+            ],
+            "Orientation": [
+                144.00003051757813,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11190.7001953125,
+                1.8726701736450196,
+                2452.090087890625
+            ],
+            "Orientation": [
+                117.0,
+                0.0,
+                2.999998092651367
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_wallh1",
+            "DisplayName": "bldr_rock_wallh1",
+            "Position": [
+                11210.603515625,
+                4.202000617980957,
+                2429.448486328125
+            ],
+            "Orientation": [
+                -51.22163009643555,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.999998927116394,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith1",
+            "DisplayName": "bldr_rock_monolith1",
+            "Position": [
+                11229.8056640625,
+                5.60740852355957,
+                2392.05322265625
+            ],
+            "Orientation": [
+                -179.9998779296875,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_spike1",
+            "DisplayName": "bldr_rock_spike1",
+            "Position": [
+                11224.71875,
+                1.8030662536621094,
+                2378.795654296875
+            ],
+            "Orientation": [
+                -170.99986267089845,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_spike3",
+            "DisplayName": "bldr_rock_spike3",
+            "Position": [
+                11229.599609375,
+                8.972660064697266,
+                2403.340087890625
+            ],
+            "Orientation": [
+                -18.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith4",
+            "DisplayName": "bldr_rock_monolith4",
+            "Position": [
+                11238.2880859375,
+                2.0418014526367189,
+                2398.3232421875
+            ],
+            "Orientation": [
+                27.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith2",
+            "DisplayName": "bldr_rock_monolith2",
+            "Position": [
+                11243.2490234375,
+                2.9257702827453615,
+                2403.969482421875
+            ],
+            "Orientation": [
+                27.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith3",
+            "DisplayName": "bldr_rock_monolith3",
+            "Position": [
+                11246.234375,
+                -1.417558193206787,
+                2411.177978515625
+            ],
+            "Orientation": [
+                149.17239379882813,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith4",
+            "DisplayName": "bldr_rock_monolith4",
+            "Position": [
+                11244.65234375,
+                1.9937515258789063,
+                2416.677734375
+            ],
+            "Orientation": [
+                80.99995422363281,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith4",
+            "DisplayName": "bldr_rock_monolith4",
+            "Position": [
+                11247.8701171875,
+                -0.04561901092529297,
+                2412.69091796875
+            ],
+            "Orientation": [
+                152.7191619873047,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_spike3",
+            "DisplayName": "bldr_rock_spike3",
+            "Position": [
+                11240.7822265625,
+                -5.317514419555664,
+                2410.096435546875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith4",
+            "DisplayName": "bldr_rock_monolith4",
+            "Position": [
+                11249.9990234375,
+                0.9816122055053711,
+                2412.240966796875
+            ],
+            "Orientation": [
+                152.7191619873047,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith2",
+            "DisplayName": "bldr_rock_monolith2",
+            "Position": [
+                11251.8212890625,
+                1.5668306350708008,
+                2406.992919921875
+            ],
+            "Orientation": [
+                44.99999237060547,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_spike1",
+            "DisplayName": "bldr_rock_spike1",
+            "Position": [
+                11247.970703125,
+                7.1266326904296879,
+                2427.271728515625
+            ],
+            "Orientation": [
+                -81.00003814697266,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_spike1",
+            "DisplayName": "bldr_rock_spike1",
+            "Position": [
+                11258.9921875,
+                7.126439571380615,
+                2417.611328125
+            ],
+            "Orientation": [
+                -0.1016266867518425,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999997019767761,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_wallh1",
+            "DisplayName": "bldr_rock_wallh1",
+            "Position": [
+                11248.1474609375,
+                0.4152374267578125,
+                2393.11669921875
+            ],
+            "Orientation": [
+                -125.99987030029297,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Castle_Stairs",
+            "DisplayName": "Land_Castle_Stairs",
+            "Position": [
+                11238.607421875,
+                6.201132774353027,
+                2399.140869140625
+            ],
+            "Orientation": [
+                45.000022888183597,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_apart2",
+            "DisplayName": "bldr_rock_apart2",
+            "Position": [
+                11237.634765625,
+                6.727982521057129,
+                2393.932861328125
+            ],
+            "Orientation": [
+                122.29753875732422,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999962449073792,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Boat_Small4",
+            "DisplayName": "Land_Boat_Small4",
+            "Position": [
+                11269.6728515625,
+                1.1611616611480713,
+                2391.7294921875
+            ],
+            "Orientation": [
+                48.65538787841797,
+                0.0,
+                27.499984741210939
+            ],
+            "Scale": 0.9999955892562866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_monolith3",
+            "DisplayName": "bldr_rock_bright_monolith3",
+            "Position": [
+                11270.671875,
+                -1.9629759788513184,
+                2393.357666015625
+            ],
+            "Orientation": [
+                -153.00006103515626,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_5",
+            "DisplayName": "StaticObj_Wall_Fen5_5",
+            "Position": [
+                11158.357421875,
+                2.768558979034424,
+                2417.39501953125
+            ],
+            "Orientation": [
+                53.99998474121094,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_Pole",
+            "DisplayName": "StaticObj_Wall_Fen5_Pole",
+            "Position": [
+                11159.564453125,
+                2.7029614448547365,
+                2415.15673828125
+            ],
+            "Orientation": [
+                63.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11153.9677734375,
+                3.0221266746520998,
+                2423.3388671875
+            ],
+            "Orientation": [
+                53.999996185302737,
+                0.0,
+                2.4999990463256838
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11146.400390625,
+                3.0109200477600099,
+                2429.68994140625
+            ],
+            "Orientation": [
+                26.999984741210939,
+                0.0,
+                -2.4999990463256838
+            ],
+            "Scale": 0.9999991655349731,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11138.0,
+                2.520542621612549,
+                2434.85009765625
+            ],
+            "Orientation": [
+                35.999996185302737,
+                0.0,
+                -3.4999966621398927
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11131.830078125,
+                2.2392311096191408,
+                2442.046630859375
+            ],
+            "Orientation": [
+                62.99997329711914,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11127.310546875,
+                2.2531728744506838,
+                2450.916015625
+            ],
+            "Orientation": [
+                62.99997329711914,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11123.5,
+                2.3591489791870119,
+                2460.030029296875
+            ],
+            "Orientation": [
+                72.00000762939453,
+                0.0,
+                0.9999988675117493
+            ],
+            "Scale": 0.9999992847442627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11124.9892578125,
+                2.703606128692627,
+                2468.298583984375
+            ],
+            "Orientation": [
+                127.9530029296875,
+                0.0,
+                3.0
+            ],
+            "Scale": 0.9999993443489075,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_5",
+            "DisplayName": "StaticObj_Wall_Fen5_5",
+            "Position": [
+                11127.7744140625,
+                2.976733684539795,
+                2475.0390625
+            ],
+            "Orientation": [
+                82.26971435546875,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.999996542930603,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_spike3",
+            "DisplayName": "bldr_rock_spike3",
+            "Position": [
+                11126.654296875,
+                8.811654090881348,
+                2482.028564453125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith2",
+            "DisplayName": "bldr_rock_monolith2",
+            "Position": [
+                11123.5654296875,
+                7.574263572692871,
+                2489.59716796875
+            ],
+            "Orientation": [
+                152.99990844726563,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_wallh2",
+            "DisplayName": "bldr_rock_wallh2",
+            "Position": [
+                11123.349609375,
+                4.801589012145996,
+                2522.8681640625
+            ],
+            "Orientation": [
+                18.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11126.375,
+                2.3731889724731447,
+                2562.308349609375
+            ],
+            "Orientation": [
+                -107.99993896484375,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11123.2763671875,
+                2.3725452423095705,
+                2571.8056640625
+            ],
+            "Orientation": [
+                -108.00001525878906,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_spike2",
+            "DisplayName": "bldr_rock_spike2",
+            "Position": [
+                11143.4765625,
+                4.668866157531738,
+                2603.719970703125
+            ],
+            "Orientation": [
+                -153.00006103515626,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith3",
+            "DisplayName": "bldr_rock_monolith3",
+            "Position": [
+                11133.3154296875,
+                2.212277889251709,
+                2614.821533203125
+            ],
+            "Orientation": [
+                109.296630859375,
+                -1.5858991146087647,
+                -14.314151763916016
+            ],
+            "Scale": 0.9896194934844971,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_Fen4_4_nolc",
+            "DisplayName": "bldr_Wall_Fen4_4_nolc",
+            "Position": [
+                11138.8134765625,
+                4.969923973083496,
+                2601.914794921875
+            ],
+            "Orientation": [
+                -35.999996185302737,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Wall_Fen4_4_nolc",
+            "DisplayName": "bldr_Wall_Fen4_4_nolc",
+            "Position": [
+                11132.181640625,
+                5.098735332489014,
+                2597.071533203125
+            ],
+            "Orientation": [
+                -35.999996185302737,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wall_gate_kolchoz",
+            "DisplayName": "bldr_wall_gate_kolchoz",
+            "Position": [
+                11135.4541015625,
+                6.100078582763672,
+                2599.62451171875
+            ],
+            "Orientation": [
+                144.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_spike1",
+            "DisplayName": "bldr_rock_spike1",
+            "Position": [
+                11151.47265625,
+                7.133935928344727,
+                2600.665771484375
+            ],
+            "Orientation": [
+                -125.99992370605469,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith2",
+            "DisplayName": "bldr_rock_monolith2",
+            "Position": [
+                11171.1318359375,
+                3.3008995056152345,
+                2400.43505859375
+            ],
+            "Orientation": [
+                162.00009155273438,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_spike1",
+            "DisplayName": "bldr_rock_spike1",
+            "Position": [
+                11124.265625,
+                7.424049377441406,
+                2590.5732421875
+            ],
+            "Orientation": [
+                -121.91278076171875,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999984502792358,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_5",
+            "DisplayName": "StaticObj_Wall_Fen5_5",
+            "Position": [
+                11122.0927734375,
+                2.37137508392334,
+                2579.085205078125
+            ],
+            "Orientation": [
+                -80.99995422363281,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen5_10",
+            "DisplayName": "StaticObj_Wall_Fen5_10",
+            "Position": [
+                11150.2001953125,
+                2.5157523155212404,
+                2585.169921875
+            ],
+            "Orientation": [
+                53.999996185302737,
+                0.0,
+                -3.4999966621398927
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Bridge_Wood_50_1",
+            "DisplayName": "StaticObj_Bridge_Wood_50_1",
+            "Position": [
+                11115.0126953125,
+                2.213379383087158,
+                2627.0419921875
+            ],
+            "Orientation": [
+                53.99998474121094,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_SilageWall_Pole",
+            "DisplayName": "StaticObj_Wall_SilageWall_Pole",
+            "Position": [
+                11202.9521484375,
+                1.901850700378418,
+                2533.31689453125
+            ],
+            "Orientation": [
+                35.999996185302737,
+                -13.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Slum_Roof5",
+            "DisplayName": "StaticObj_Slum_Roof5",
+            "Position": [
+                11169.7158203125,
+                5.7758893966674809,
+                2457.59521484375
+            ],
+            "Orientation": [
+                89.99995422363281,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Slum_Roof5",
+            "DisplayName": "StaticObj_Slum_Roof5",
+            "Position": [
+                11169.7265625,
+                5.908068656921387,
+                2464.72119140625
+            ],
+            "Orientation": [
+                89.99994659423828,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_Bench9",
+            "DisplayName": "StaticObj_Misc_Bench9",
+            "Position": [
+                11172.3955078125,
+                4.616756439208984,
+                2466.361572265625
+            ],
+            "Orientation": [
+                0.0,
+                3.056795597076416,
+                6.692105293273926
+            ],
+            "Scale": 0.9972497224807739,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_Bench9",
+            "DisplayName": "StaticObj_Misc_Bench9",
+            "Position": [
+                11172.4189453125,
+                4.488115310668945,
+                2464.82568359375
+            ],
+            "Orientation": [
+                0.0,
+                3.0483803749084474,
+                6.692104339599609
+            ],
+            "Scale": 0.9972497224807739,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_Bench9",
+            "DisplayName": "StaticObj_Misc_Bench9",
+            "Position": [
+                11172.455078125,
+                4.371551036834717,
+                2463.10302734375
+            ],
+            "Orientation": [
+                0.0,
+                3.0399887561798097,
+                6.692103862762451
+            ],
+            "Scale": 0.9972497224807739,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_foldingbed_matress",
+            "DisplayName": "StaticObj_Furniture_foldingbed_matress",
+            "Position": [
+                11169.2998046875,
+                4.154176235198975,
+                2462.169921875
+            ],
+            "Orientation": [
+                0.0,
+                4.092990875244141,
+                4.649819850921631
+            ],
+            "Scale": 0.9975603222846985,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_foldingbed_matress",
+            "DisplayName": "StaticObj_Furniture_foldingbed_matress",
+            "Position": [
+                11167.900390625,
+                4.153402805328369,
+                2461.2900390625
+            ],
+            "Orientation": [
+                132.27699279785157,
+                -5.156535625457764,
+                0.7071956396102905
+            ],
+            "Scale": 0.9936088919639587,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_foldingbed_matress",
+            "DisplayName": "StaticObj_Furniture_foldingbed_matress",
+            "Position": [
+                11167.9033203125,
+                4.392720699310303,
+                2463.925048828125
+            ],
+            "Orientation": [
+                62.99994659423828,
+                -1.7549471855163575,
+                6.713348388671875
+            ],
+            "Scale": 0.9975606203079224,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Mil_CamoNet_Side_east",
+            "DisplayName": "StaticObj_Mil_CamoNet_Side_east",
+            "Position": [
+                11184.166015625,
+                11.377885818481446,
+                2494.951416015625
+            ],
+            "Orientation": [
+                108.00004577636719,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Slum_Roof4",
+            "DisplayName": "StaticObj_Slum_Roof4",
+            "Position": [
+                11169.0380859375,
+                3.9904441833496095,
+                2443.31396484375
+            ],
+            "Orientation": [
+                -170.99996948242188,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_WoodTable_Outdoor",
+            "DisplayName": "StaticObj_Misc_WoodTable_Outdoor",
+            "Position": [
+                11184.2001953125,
+                10.005363464355469,
+                2497.590087890625
+            ],
+            "Orientation": [
+                -72.00001525878906,
+                1.898019552230835,
+                4.849278926849365
+            ],
+            "Scale": 0.9976184964179993,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Wood2_5_pole",
+            "DisplayName": "StaticObj_Wall_Wood2_5_pole",
+            "Position": [
+                11204.623046875,
+                2.464132070541382,
+                2521.24658203125
+            ],
+            "Orientation": [
+                -35.999996185302737,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Wood2_5_pole",
+            "DisplayName": "StaticObj_Wall_Wood2_5_pole",
+            "Position": [
+                11206.5,
+                2.4619500637054445,
+                2517.9599609375
+            ],
+            "Orientation": [
+                -35.999996185302737,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Expansion_hanged_new",
+            "DisplayName": "Expansion_hanged_new",
+            "Position": [
+                11205.0087890625,
+                0.8731789588928223,
+                2519.577880859375
+            ],
+            "Orientation": [
+                51.510231018066409,
+                0.0,
+                179.99989318847657
+            ],
+            "Scale": 0.9999933242797852,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_Fen2_Pole",
+            "DisplayName": "StaticObj_Wall_Fen2_Pole",
+            "Position": [
+                11205.48828125,
+                2.4856677055358888,
+                2519.587158203125
+            ],
+            "Orientation": [
+                55.96730041503906,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999978542327881,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "VomitBloodGround",
+            "DisplayName": "VomitBloodGround",
+            "Position": [
+                11205.5,
+                1.5182883739471436,
+                2519.570068359375
+            ],
+            "Orientation": [
+                167.97994995117188,
+                2.999988079071045,
+                -4.500000953674316
+            ],
+            "Scale": 0.9999986886978149,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Dead_MassGrave_8m",
+            "DisplayName": "StaticObj_Dead_MassGrave_8m",
+            "Position": [
+                11203.0888671875,
+                1.616779088973999,
+                2526.668701171875
+            ],
+            "Orientation": [
+                -135.0,
+                4.783044338226318,
+                -1.3502269983291627
+            ],
+            "Scale": 0.998742401599884,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Shovel",
+            "DisplayName": "bldr_prop_Shovel",
+            "Position": [
+                11200.0,
+                2.668489933013916,
+                2529.8701171875
+            ],
+            "Orientation": [
+                0.0,
+                -0.4999994933605194,
+                -173.0
+            ],
+            "Scale": 0.9999996423721314,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Slum_Roof3",
+            "DisplayName": "StaticObj_Slum_Roof3",
+            "Position": [
+                11130.2998046875,
+                2.6245570182800295,
+                2463.77001953125
+            ],
+            "Orientation": [
+                -135.0,
+                -6.906598091125488,
+                7.306694507598877
+            ],
+            "Scale": 0.9946804642677307,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_fire_barrel",
+            "DisplayName": "bldr_fire_barrel",
+            "Position": [
+                11166.46484375,
+                4.9035964012146,
+                2465.493896484375
+            ],
+            "Orientation": [
+                0.0,
+                5.1664137840271,
+                0.30557429790496828
+            ],
+            "Scale": 0.9986354112625122,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Underground_Storage_Prison",
+            "DisplayName": "Land_Underground_Storage_Prison",
+            "Position": [
+                11139.1220703125,
+                10.349225997924805,
+                2500.119140625
+            ],
+            "Orientation": [
+                -74.14850616455078,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999991655349731,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_spike1",
+            "DisplayName": "bldr_rock_spike1",
+            "Position": [
+                11139.6826171875,
+                11.157082557678223,
+                2515.31640625
+            ],
+            "Orientation": [
+                104.48326110839844,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999966621398926,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_spike3",
+            "DisplayName": "bldr_rock_spike3",
+            "Position": [
+                11148.470703125,
+                12.980937957763672,
+                2509.934326171875
+            ],
+            "Orientation": [
+                117.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_spike2",
+            "DisplayName": "bldr_rock_spike2",
+            "Position": [
+                11132.76171875,
+                11.514769554138184,
+                2489.406005859375
+            ],
+            "Orientation": [
+                -9.000018119812012,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_spike1",
+            "DisplayName": "bldr_rock_spike1",
+            "Position": [
+                11138.9541015625,
+                8.995674133300782,
+                2483.04248046875
+            ],
+            "Orientation": [
+                25.890438079833986,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999991059303284,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_apart2",
+            "DisplayName": "bldr_rock_apart2",
+            "Position": [
+                11147.744140625,
+                9.639514923095704,
+                2489.181396484375
+            ],
+            "Orientation": [
+                144.00003051757813,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith4",
+            "DisplayName": "bldr_rock_monolith4",
+            "Position": [
+                11143.5498046875,
+                10.587541580200196,
+                2488.67626953125
+            ],
+            "Orientation": [
+                81.00003814697266,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith4",
+            "DisplayName": "bldr_rock_monolith4",
+            "Position": [
+                11131.392578125,
+                19.704242706298829,
+                2504.97265625
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_spike3",
+            "DisplayName": "bldr_rock_spike3",
+            "Position": [
+                11134.4404296875,
+                16.864795684814454,
+                2512.52685546875
+            ],
+            "Orientation": [
+                -71.99992370605469,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith1",
+            "DisplayName": "bldr_rock_monolith1",
+            "Position": [
+                11120.7578125,
+                12.287261009216309,
+                2505.929443359375
+            ],
+            "Orientation": [
+                18.000022888183595,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith2",
+            "DisplayName": "bldr_rock_monolith2",
+            "Position": [
+                11127.2587890625,
+                13.191925048828125,
+                2491.068603515625
+            ],
+            "Orientation": [
+                -81.00017547607422,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith4",
+            "DisplayName": "bldr_rock_monolith4",
+            "Position": [
+                11130.1474609375,
+                19.901016235351564,
+                2497.804931640625
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith4",
+            "DisplayName": "bldr_rock_monolith4",
+            "Position": [
+                11135.0302734375,
+                19.74974822998047,
+                2504.53076171875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith4",
+            "DisplayName": "bldr_rock_monolith4",
+            "Position": [
+                11133.78515625,
+                19.946521759033204,
+                2497.363037109375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith4",
+            "DisplayName": "bldr_rock_monolith4",
+            "Position": [
+                11141.734375,
+                20.055747985839845,
+                2495.908447265625
+            ],
+            "Orientation": [
+                -174.9794464111328,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith4",
+            "DisplayName": "bldr_rock_monolith4",
+            "Position": [
+                11143.599609375,
+                20.252521514892579,
+                2502.937744140625
+            ],
+            "Orientation": [
+                -174.9794464111328,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith4",
+            "DisplayName": "bldr_rock_monolith4",
+            "Position": [
+                11138.1484375,
+                20.101253509521486,
+                2496.667724609375
+            ],
+            "Orientation": [
+                -174.9794464111328,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith4",
+            "DisplayName": "bldr_rock_monolith4",
+            "Position": [
+                11140.013671875,
+                20.297718048095704,
+                2503.6962890625
+            ],
+            "Orientation": [
+                -174.97943115234376,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997019767761,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith4",
+            "DisplayName": "bldr_rock_monolith4",
+            "Position": [
+                11145.8388671875,
+                20.194477081298829,
+                2494.51806640625
+            ],
+            "Orientation": [
+                -174.97943115234376,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith4",
+            "DisplayName": "bldr_rock_monolith4",
+            "Position": [
+                11147.7041015625,
+                20.391250610351564,
+                2501.54736328125
+            ],
+            "Orientation": [
+                -174.97943115234376,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_spike1",
+            "DisplayName": "bldr_rock_spike1",
+            "Position": [
+                11152.9736328125,
+                17.163850784301759,
+                2512.377197265625
+            ],
+            "Orientation": [
+                107.99993896484375,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_spike2",
+            "DisplayName": "bldr_rock_spike2",
+            "Position": [
+                11150.1044921875,
+                12.094341278076172,
+                2486.425537109375
+            ],
+            "Orientation": [
+                111.6021499633789,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_spike2",
+            "DisplayName": "bldr_rock_spike2",
+            "Position": [
+                11148.44140625,
+                20.54707908630371,
+                2509.988037109375
+            ],
+            "Orientation": [
+                171.00010681152345,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith2",
+            "DisplayName": "bldr_rock_monolith2",
+            "Position": [
+                11144.513671875,
+                15.791662216186524,
+                2486.47314453125
+            ],
+            "Orientation": [
+                -99.00003814697266,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith4",
+            "DisplayName": "bldr_rock_monolith4",
+            "Position": [
+                11136.6083984375,
+                22.60797882080078,
+                2503.650390625
+            ],
+            "Orientation": [
+                7.53972053527832,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999979734420776,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith4",
+            "DisplayName": "bldr_rock_monolith4",
+            "Position": [
+                11141.734375,
+                22.265857696533204,
+                2495.908447265625
+            ],
+            "Orientation": [
+                -174.97943115234376,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith4",
+            "DisplayName": "bldr_rock_monolith4",
+            "Position": [
+                11147.7041015625,
+                22.867923736572267,
+                2501.54736328125
+            ],
+            "Orientation": [
+                -174.97943115234376,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_apart2",
+            "DisplayName": "bldr_rock_apart2",
+            "Position": [
+                11147.4736328125,
+                7.963239669799805,
+                2492.648193359375
+            ],
+            "Orientation": [
+                134.99998474121095,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith4",
+            "DisplayName": "bldr_rock_monolith4",
+            "Position": [
+                11148.2685546875,
+                7.817134857177734,
+                2495.372314453125
+            ],
+            "Orientation": [
+                -170.99986267089845,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith4",
+            "DisplayName": "bldr_rock_monolith4",
+            "Position": [
+                11150.33203125,
+                8.038759231567383,
+                2498.806884765625
+            ],
+            "Orientation": [
+                -170.99986267089845,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_FlagHolder",
+            "DisplayName": "StaticObj_Furniture_FlagHolder",
+            "Position": [
+                11151.28125,
+                15.702912330627442,
+                2501.311767578125
+            ],
+            "Orientation": [
+                104.84469604492188,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999992847442627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Flag_Chedaki",
+            "DisplayName": "bldr_prop_Flag_Chedaki",
+            "Position": [
+                11152.2001953125,
+                16.437400817871095,
+                2501.159912109375
+            ],
+            "Orientation": [
+                11.725400924682618,
+                0.0,
+                51.5
+            ],
+            "Scale": 0.9999985694885254,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith2",
+            "DisplayName": "bldr_rock_monolith2",
+            "Position": [
+                11139.7626953125,
+                7.746551513671875,
+                2478.79443359375
+            ],
+            "Orientation": [
+                9.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_monolith4",
+            "DisplayName": "bldr_rock_monolith4",
+            "Position": [
+                11139.296875,
+                20.458728790283204,
+                2511.12109375
+            ],
+            "Orientation": [
+                95.59344482421875,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999980926513672,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Guts",
+            "DisplayName": "bldr_prop_Guts",
+            "Position": [
+                11205.4560546875,
+                1.508529543876648,
+                2519.60791015625
+            ],
+            "Orientation": [
+                0.0,
+                -3.635347843170166,
+                5.710593223571777
+            ],
+            "Scale": 0.9976805448532105,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Guts",
+            "DisplayName": "bldr_prop_Guts",
+            "Position": [
+                11205.5,
+                1.6170300245285035,
+                2519.590087890625
+            ],
+            "Orientation": [
+                86.3404769897461,
+                9.187413215637207,
+                5.710569381713867
+            ],
+            "Scale": 0.9976776242256165,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Guts",
+            "DisplayName": "bldr_prop_Guts",
+            "Position": [
+                11205.490234375,
+                1.5445438623428345,
+                2519.59326171875
+            ],
+            "Orientation": [
+                86.34052276611328,
+                -2.7565362453460695,
+                5.710570812225342
+            ],
+            "Scale": 0.9976778626441956,
+            "Flags": 2147483647
+        }
+    ],
+    "EditorDeletedObjects": [
+        {
+            "Type": "TreeSoft_t_BetulaPendula_2w",
+            "Position": [
+                11130.892578125,
+                5.016024112701416,
+                2609.4326171875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Static_rock_wallh1",
+            "Position": [
+                11155.263671875,
+                -10.979832649230957,
+                2580.53466796875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Static_rock_spike1",
+            "Position": [
+                11129.1416015625,
+                -9.05329704284668,
+                2579.618896484375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Static_rock_apart1",
+            "Position": [
+                11121.3583984375,
+                0.9779732823371887,
+                2563.370361328125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Static_rock_spike1",
+            "Position": [
+                11109.9521484375,
+                -5.125039100646973,
+                2673.666015625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Static_rock_spike1",
+            "Position": [
+                11098.53125,
+                -2.4839272499084474,
+                2683.63916015625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Static_rock_spike1",
+            "Position": [
+                11121.28125,
+                -6.957322597503662,
+                2622.28125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Static_rock_spike1",
+            "Position": [
+                11131.8173828125,
+                -9.44200325012207,
+                2614.455810546875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_crataegusLaevigata_2s",
+            "Position": [
+                11123.568359375,
+                5.859193325042725,
+                2618.718505859375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Land_Lighthouse",
+            "Position": [
+                11164.1982421875,
+                18.706298828125,
+                2500.3349609375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeSoft_t_BetulaPendula_2w",
+            "Position": [
+                11128.2109375,
+                10.585139274597168,
+                2490.65234375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_BetulaPendula_2s",
+            "Position": [
+                11134.501953125,
+                13.776944160461426,
+                2498.236083984375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_crataegusLaevigata_2s",
+            "Position": [
+                11133.4072265625,
+                10.635735511779786,
+                2505.005126953125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_BetulaPendula_2s",
+            "Position": [
+                11136.041015625,
+                12.751914024353028,
+                2507.527587890625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeSoft_t_BetulaPendula_2w",
+            "Position": [
+                11137.1015625,
+                11.841960906982422,
+                2488.189453125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_prunusSpinosa_2s",
+            "Position": [
+                11139.4306640625,
+                11.333701133728028,
+                2483.618896484375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_prunusSpinosa_1s",
+            "Position": [
+                11140.6845703125,
+                9.946867942810059,
+                2485.9365234375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_crataegusLaevigata_2s",
+            "Position": [
+                11143.2998046875,
+                12.256300926208496,
+                2519.586181640625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeSoft_t_BetulaPendula_2w",
+            "Position": [
+                11146.4658203125,
+                12.306379318237305,
+                2519.578125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_BetulaPendula_3s",
+            "Position": [
+                11144.0234375,
+                14.540290832519532,
+                2510.717041015625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_corylusAvellana_2s",
+            "Position": [
+                11153.9169921875,
+                11.754570960998536,
+                2506.508056640625
+            ],
+            "Flags": 0
+        }
+    ]
+}

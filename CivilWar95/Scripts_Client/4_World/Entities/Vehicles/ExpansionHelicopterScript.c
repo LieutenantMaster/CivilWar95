@@ -21,7 +21,53 @@ modded class ExpansionHelicopterScript
 
 	override bool CanFireFromSeatIndex(PlayerBase player)
 	{
-		return CrewMemberIndex( player ) == DayZPlayerConstants.VEHICLESEAT_DRIVER;
+		switch(CrewMemberIndex( player ))
+		{
+			case DayZPlayerConstants.VEHICLESEAT_DRIVER:
+				return CrewMember(DayZPlayerConstants.VEHICLESEAT_CODRIVER) == NULL;
+			break;
+			case DayZPlayerConstants.VEHICLESEAT_CODRIVER:
+				return true;
+			break;
+		}
+
+		return false;
+	}
+
+	override bool CanDecoyFromSeatIndex(PlayerBase player)
+	{
+		switch(CrewMemberIndex( player ))
+		{
+			case DayZPlayerConstants.VEHICLESEAT_DRIVER:
+				return CrewMember(DayZPlayerConstants.VEHICLESEAT_CODRIVER) == NULL;
+			break;
+			case DayZPlayerConstants.VEHICLESEAT_CODRIVER:
+				return true;
+			break;
+		}
+
+		return false;
+	}
+
+	override bool HasDecoys()
+	{
+		return true;
+	}
+};
+
+modded class ExpansionGyrocopter
+{
+	override bool HasDecoys()
+	{
+		return false;
+	}
+};
+
+modded class ExpansionMh6
+{
+	override bool HasDecoys()
+	{
+		return false;
 	}
 };
 
@@ -66,6 +112,14 @@ modded class EXT_KA60
 };
 
 modded class EXT_Mi8_Attack
+{
+	override bool HasArmement()
+	{
+		return true;
+	}
+};
+
+modded class EXT_Mi171
 {
 	override bool HasArmement()
 	{

@@ -48,8 +48,6 @@ class CW95_DynamicFire_Base: CW95_DynamicEffect_Base
 	static float PARAM_FULL_HEAT_RADIUS				= 5;
 	static float PARAM_HEAT_RADIUS					= 5;
 
-	protected float m_FireHealth = CONST_FIRE_TEMP;
-
 	protected ref AreaDamageManager 	m_AreaDamage;
 
 	void CW95_DynamicFire_Base()
@@ -91,9 +89,9 @@ class CW95_DynamicFire_Base: CW95_DynamicEffect_Base
 
 	void DealWaterDamage(float dmg)
 	{
-		m_FireHealth -= dmg;
+		CONST_FIRE_TEMP -= dmg;
 
-		if (m_FireHealth <= 0)
+		if (CONST_FIRE_TEMP <= 0)
 			Delete();
 	}
 

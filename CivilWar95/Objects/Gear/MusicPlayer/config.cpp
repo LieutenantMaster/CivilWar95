@@ -19,18 +19,225 @@ class CfgPatches
 		requiredAddons[]=
 		{
 			"DZ_Data",
-			"DZ_Vehicles_Wheeled"
+			"DZ_Vehicles_Wheeled",
+			"DayZExpansion_Vehicles_Data"
 		};
 	};
 };
 class CfgVehicles
 {
-	class Car;
+	class GUIInventoryAttachmentsProps;
+	class Body;
+
+	class CarScript;
+	/*
 	class CarScript: Car
 	{
-		attachments[]+=
+		attachments[]+= {"CW95_Radio"};
+		class GUIInventoryAttachmentsProps: GUIInventoryAttachmentsProps
 		{
-			"CW95_Radio"
+			class Body: Body
+			{
+				attachmentSlots[] += {"CW95_Radio"};
+			};
+		};
+	};
+	*/
+	class OffroadHatchback: CarScript
+	{
+		attachments[]+= {"CW95_Radio"};
+		class GUIInventoryAttachmentsProps: GUIInventoryAttachmentsProps
+		{
+			class Body: Body
+			{
+				attachmentSlots[] += {"CW95_Radio"};
+			};
+		};
+	};
+	class CivilianSedan: CarScript
+	{
+		attachments[]+= {"CW95_Radio"};
+		class GUIInventoryAttachmentsProps: GUIInventoryAttachmentsProps
+		{
+			class Body: Body
+			{
+				attachmentSlots[] += {"CW95_Radio"};
+			};
+		};
+	};
+	class Sedan_02: CarScript
+	{
+		attachments[]+= {"CW95_Radio"};
+		class GUIInventoryAttachmentsProps: GUIInventoryAttachmentsProps
+		{
+			class Body: Body
+			{
+				attachmentSlots[] += {"CW95_Radio"};
+			};
+		};
+	};
+	class Hatchback_02: CarScript
+	{
+		attachments[]+= {"CW95_Radio"};
+		class GUIInventoryAttachmentsProps: GUIInventoryAttachmentsProps
+		{
+			class Body: Body
+			{
+				attachmentSlots[] += {"CW95_Radio"};
+			};
+		};
+	};
+	class Truck_01_Base;
+	class Truck_01_Covered: Truck_01_Base
+	{
+		attachments[]+= {"CW95_Radio"};
+		class GUIInventoryAttachmentsProps: GUIInventoryAttachmentsProps
+		{
+			class Body: Body
+			{
+				attachmentSlots[] += {"CW95_Radio"};
+			};
+		};
+	};
+
+	//! ===================================================
+	//! =========== DAYZ EXPANSION MOD VEHICLES ===========
+	//! ===================================================
+
+	class Expansion_Landrover_Base: CarScript
+	{
+		attachments[]+= {"CW95_Radio"};
+		class GUIInventoryAttachmentsProps: GUIInventoryAttachmentsProps
+		{
+			class Body: Body
+			{
+				attachmentSlots[] += {"CW95_Radio"};
+			};
+		};
+	};
+	class ExpansionUAZBase: CarScript
+	{
+		attachments[]+= {"CW95_Radio"};
+		class GUIInventoryAttachmentsProps: GUIInventoryAttachmentsProps
+		{
+			class Body: Body
+			{
+				attachmentSlots[] += {"CW95_Radio"};
+			};
+		};
+	};
+	class ExpansionUAZ: ExpansionUAZBase
+	{
+		attachments[]+= {"CW95_Radio"};
+		class GUIInventoryAttachmentsProps: GUIInventoryAttachmentsProps
+		{
+			class Body: Body
+			{
+				attachmentSlots[] += {"CW95_Radio"};
+			};
+		};
+	};
+	class ExpansionUAZRoofless: ExpansionUAZ
+	{
+		attachments[]+= {"CW95_Radio"};
+		class GUIInventoryAttachmentsProps: GUIInventoryAttachmentsProps
+		{
+			class Body: Body
+			{
+				attachmentSlots[] += {"CW95_Radio"};
+			};
+		};
+	};
+	class ExpansionUAZCargoRoofless: ExpansionUAZ
+	{
+		attachments[]+= {"CW95_Radio"};
+		class GUIInventoryAttachmentsProps: GUIInventoryAttachmentsProps
+		{
+			class Body: Body
+			{
+				attachmentSlots[] += {"CW95_Radio"};
+			};
+		};
+	};
+	class ExpansionTractor: CarScript
+	{
+		attachments[]+= {"CW95_Radio"};
+		class GUIInventoryAttachmentsProps: GUIInventoryAttachmentsProps
+		{
+			class Body: Body
+			{
+				attachmentSlots[] += {"CW95_Radio"};
+			};
+		};
+	};
+
+	class ExpansionHelicopterScript;
+	class ExpansionGyrocopter: ExpansionHelicopterScript
+	{
+		attachments[]+= {"CW95_Radio"};
+		class GUIInventoryAttachmentsProps: GUIInventoryAttachmentsProps
+		{
+			class Body: Body
+			{
+				attachmentSlots[] += {"CW95_Radio"};
+			};
+		};
+	};
+	class ExpansionBigGyrocopter: ExpansionGyrocopter
+	{
+		attachments[]+= {"CW95_Radio"};
+		class GUIInventoryAttachmentsProps: GUIInventoryAttachmentsProps
+		{
+			class Body: Body
+			{
+				attachmentSlots[] += {"CW95_Radio"};
+			};
+		};
+	};
+	class ExpansionMerlin: ExpansionHelicopterScript
+	{
+		attachments[]+= {"CW95_Radio"};
+		class GUIInventoryAttachmentsProps: GUIInventoryAttachmentsProps
+		{
+			class Body: Body
+			{
+				attachmentSlots[] += {"CW95_Radio"};
+			};
+		};
+	};
+	class ExpansionMh6: ExpansionHelicopterScript
+	{
+		attachments[]+= {"CW95_Radio"};
+		class GUIInventoryAttachmentsProps: GUIInventoryAttachmentsProps
+		{
+			class Body: Body
+			{
+				attachmentSlots[] += {"CW95_Radio"};
+			};
+		};
+	};
+	class ExpansionUh1h: ExpansionHelicopterScript
+	{
+		attachments[]+= {"CW95_Radio"};
+		class GUIInventoryAttachmentsProps: GUIInventoryAttachmentsProps
+		{
+			class Body: Body
+			{
+				attachmentSlots[] += {"CW95_Radio"};
+			};
+		};
+	};
+
+	class ExpansionBoatScript;
+	class ExpansionVodnik: ExpansionBoatScript
+	{
+		attachments[]+= {"CW95_Radio"};
+		class GUIInventoryAttachmentsProps: GUIInventoryAttachmentsProps
+		{
+			class Body: Body
+			{
+				attachmentSlots[] += {"CW95_Radio"};
+			};
 		};
 	};
 	
@@ -116,11 +323,11 @@ class CfgVehicles
 					hitpoints=100;
 					healthLevels[]=
 					{
-						{1.0,{"CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer.rvmat","CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass.rvmat"}},
-						{0.69999999,{"CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer.rvmat","CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass.rvmat"}},
-						{0.5,{"CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer_damage.rvmat","CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass_damage.rvmat"}},
-						{0.30000001,{"CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer_damage.rvmat","CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass_damage.rvmat"}},
-						{0.0,{"CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer_destruct.rvmat","CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass_destruct.rvmat"}}
+						{1.0,{"CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer.rvmat","CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass.rvmat","CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass.rvmat"}},
+						{0.69999999,{"CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer.rvmat","CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass.rvmat","CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass.rvmat"}},
+						{0.5,{"CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer_damage.rvmat","CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass_damage.rvmat","CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass_damage.rvmat"}},
+						{0.30000001,{"CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer_damage.rvmat","CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass_damage.rvmat","CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass_damage.rvmat"}},
+						{0.0,{"CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayer_destruct.rvmat","CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass_destruct.rvmat","CivilWar95\CivilWar95\Objects\Gear\MusicPlayer\Rvmats\musicPlayerGlass_destruct.rvmat"}}
 					};
 				};
 			};
@@ -139,8 +346,7 @@ class CfgVehicles
 		};
 		weight=50;
 		itemSize[]={2,1};
-		// time in seconds how long the song lasts
-		trackTime = 1.0;
+		trackTime = 1.0; // time in seconds how long the song lasts
 		class DamageSystem
 		{
 			class GlobalHealth
@@ -158,6 +364,138 @@ class CfgVehicles
 					};
 				};
 			};
+		};
+	};
+	class CW95_Cassette_Avtomobili: CW95_Cassette_Base
+	{
+		scope=2;
+		trackTime = 177;
+		displayName="Avtomobili";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
+		Tracks[] = 
+		{
+			"CW95_Avtomobili_Music"
+		};
+	};
+	class CW95_Cassette_ChervonaKalyna: CW95_Cassette_Base
+	{
+		scope=2;
+		trackTime = 154;
+		displayName="ChervonaKalyna";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
+		Tracks[] = 
+		{
+			"CW95_ChervonaKalyna_Music"
+		};
+	};
+	class CW95_Cassette_DerzhisBratok: CW95_Cassette_Base
+	{
+		scope=2;
+		trackTime = 248;
+		displayName="DerzhisBratok";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
+		Tracks[] = 
+		{
+			"CW95_DerzhisBratok_Music"
+		};
+	};
+	class CW95_Cassette_MelkayetOgonok: CW95_Cassette_Base
+	{
+		scope=2;
+		trackTime = 258;
+		displayName="MelkayetOgonok";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
+		Tracks[] = 
+		{
+			"CW95_MelkayetOgonok_Music"
+		};
+	};
+	class CW95_Cassette_PoVostoku: CW95_Cassette_Base
+	{
+		scope=2;
+		trackTime = 156;
+		displayName="PoVostoku";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
+		Tracks[] = 
+		{
+			"CW95_PoVostoku_Music"
+		};
+	};
+	class CW95_Cassette_SdelanovSSSR: CW95_Cassette_Base
+	{
+		scope=2;
+		trackTime = 245;
+		displayName="SdelanovSSSR";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
+		Tracks[] = 
+		{
+			"CW95_SdelanovSSSR_Music"
+		};
+	};
+	class CW95_Cassette_VspomnimAfganistan: CW95_Cassette_Base
+	{
+		scope=2;
+		trackTime = 229;
+		displayName="VspomnimAfganistan";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
+		Tracks[] = 
+		{
+			"CW95_VspomnimAfganistan_Music"
+		};
+	};
+	class CW95_Cassette_YaUkhozhu: CW95_Cassette_Base
+	{
+		scope=2;
+		trackTime = 151;
+		displayName="YaUkhozhu";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
+		Tracks[] = 
+		{
+			"CW95_YaUkhozhu_Music"
+		};
+	};
+	class CW95_Cassette_Yesaul: CW95_Cassette_Base
+	{
+		scope=2;
+		trackTime = 276;
+		displayName="Yesaul";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
+		Tracks[] = 
+		{
+			"CW95_Yesaul_Music"
+		};
+	};
+	class CW95_Cassette_Zhuravli: CW95_Cassette_Base
+	{
+		scope=2;
+		trackTime = 252;
+		displayName="Zhuravli";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
+		Tracks[] = 
+		{
+			"CW95_Zhuravli_Music"
+		};
+	};
+	class CW95_Cassette_CompilSynthWave: CW95_Cassette_Base
+	{
+		scope=2;
+		trackTime = 1776;
+		displayName="Compil Synth Wave";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
+		Tracks[] = 
+		{
+			"CW95_CompilSynthWave_Music"
+		};
+	};
+	class CW95_Cassette_CompilPostPunk: CW95_Cassette_Base
+	{
+		scope=2;
+		trackTime = 1799;
+		displayName="Compil Post Punk";
+		descriptionShort="$STR_CW95_CASSETTEBASE_DESC";
+		Tracks[] = 
+		{
+			"CW95_CompilPostPunk_Music"
 		};
 	};
 	class CW95_Cassette_BosanskaArtiljerija: CW95_Cassette_Base

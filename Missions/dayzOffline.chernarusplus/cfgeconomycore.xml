@@ -56,6 +56,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="morecars_types.xml" type="types" />
 		<file name="bdgaz_types.xml" type="types" />
 		<file name="zil130_types.xml" type="types" />
+		<file name="zil133_types.xml" type="types" />
 
 		<file name="underground_types.xml" type="types" />
 		<file name="LaundryZ_types.xml" type="types" />

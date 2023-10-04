@@ -11,13 +11,13 @@
 
 class CW95_Cassette_Base: Inventory_Base
 {
-    private float currentPlaytime = -1;     // Current tick of the music (timestamp)
+    private float currentPlaytime = 0;     // Current tick of the music (timestamp)
     private float m_CassetteLength;         // Amount of ticks the music has (length of the music)
 
     void CW95_Cassette_Base()
     {
         m_CassetteLength = ConfigGetFloat("trackTime");
-        RegisterNetSyncVariableFloat("currentPlaytime");
+        RegisterNetSyncVariableFloat("currentPlaytime", 0, m_CassetteLength);
     }
 
     float GetCurrPlaytime()
@@ -28,6 +28,8 @@ class CW95_Cassette_Base: Inventory_Base
     void SetCurrPlaytime(float playTime)
     {
         currentPlaytime = playTime;
+        
+        SetSynchDirty();
     }
 
     void RewindCurrPlaytime(float playTime)
@@ -36,6 +38,8 @@ class CW95_Cassette_Base: Inventory_Base
 
         if(currentPlaytime < 0)
             currentPlaytime = 0;
+
+        SetSynchDirty();
     }
 
     void FastForwardCurrPlaytime(float playTime)
@@ -44,6 +48,8 @@ class CW95_Cassette_Base: Inventory_Base
 
         if(currentPlaytime > m_CassetteLength)
             currentPlaytime = m_CassetteLength;
+
+        SetSynchDirty();
     }
 
 	#ifdef EXPANSION_MODSTORAGE
@@ -86,6 +92,7 @@ class CW95_Cassette_Base: Inventory_Base
         if ( !ctx.Read( currentPlaytime ) )
             return false;
 
+        m_CassetteLength = ConfigGetFloat("trackTime");
         return true;
     }
     #endif

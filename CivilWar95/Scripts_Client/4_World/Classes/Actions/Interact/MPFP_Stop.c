@@ -58,18 +58,4 @@ class MPFP_Stop: AnimatedActionBase
 		
 		return false;
 	}
-
-	override void OnEndServer( ActionData action_data )
-	{	
-		CW95_MusicPlayer mPlayer = CW95_MusicPlayer.Cast( action_data.m_MainItem );
-		if( mPlayer )
-			mPlayer.StopAllActions();
-	}
-
-	override void OnEndClient( ActionData action_data )
-	{	
-		CW95_MusicPlayer mPlayer = CW95_MusicPlayer.Cast( action_data.m_MainItem );
-		if( mPlayer )
-			mPlayer.StopAllActions();
-	}
-}
+};

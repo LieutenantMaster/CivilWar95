@@ -14,6 +14,150 @@ class CfgPatches
 
 class CfgSoundShaders
 {
+	class CW95_CompilPostPunk_Music_SoundShader
+	{
+		samples[]=
+		{
+			{
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\CompilPostPunk",
+				1
+			}
+		};
+		volume=1.0;
+		range=30;
+	};
+	class CW95_CompilSynthWave_Music_SoundShader
+	{
+		samples[]=
+		{
+			{
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\CompilSynthWave",
+				1
+			}
+		};
+		volume=1.0;
+		range=30;
+	};
+	class CW95_Avtomobili_Music_SoundShader
+	{
+		samples[]=
+		{
+			{
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\Avtomobili",
+				1
+			}
+		};
+		volume=1.0;
+		range=30;
+	};
+	class CW95_ChervonaKalyna_Music_SoundShader
+	{
+		samples[]=
+		{
+			{
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\ChervonaKalyna",
+				1
+			}
+		};
+		volume=1.0;
+		range=30;
+	};
+	class CW95_DerzhisBratok_Music_SoundShader
+	{
+		samples[]=
+		{
+			{
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\DerzhisBratok",
+				1
+			}
+		};
+		volume=1.0;
+		range=30;
+	};
+	class CW95_MelkayetOgonok_Music_SoundShader
+	{
+		samples[]=
+		{
+			{
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\MelkayetOgonok",
+				1
+			}
+		};
+		volume=1.0;
+		range=30;
+	};
+	class CW95_PoVostoku_Music_SoundShader
+	{
+		samples[]=
+		{
+			{
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\PoVostoku",
+				1
+			}
+		};
+		volume=1.0;
+		range=30;
+	};
+	class CW95_SdelanovSSSR_Music_SoundShader
+	{
+		samples[]=
+		{
+			{
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\SdelanovSSSR",
+				1
+			}
+		};
+		volume=1.0;
+		range=30;
+	};
+	class CW95_VspomnimAfganistan_Music_SoundShader
+	{
+		samples[]=
+		{
+			{
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\VspomnimAfganistan",
+				1
+			}
+		};
+		volume=1.0;
+		range=30;
+	};
+	class CW95_YaUkhozhu_Music_SoundShader
+	{
+		samples[]=
+		{
+			{
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\YaUkhozhu",
+				1
+			}
+		};
+		volume=1.0;
+		range=30;
+	};
+	class CW95_Yesaul_Music_SoundShader
+	{
+		samples[]=
+		{
+			{
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\Yesaul",
+				1
+			}
+		};
+		volume=1.0;
+		range=30;
+	};
+	class CW95_Zhuravli_Music_SoundShader
+	{
+		samples[]=
+		{
+			{
+				"CivilWar95\CivilWar95\Sounds\MusicPlayer\Tapes\Zhuravli",
+				1
+			}
+		};
+		volume=1.0;
+		range=30;
+	};
 	class CW95_BosanskaArtiljerija_Music_SoundShader
 	{
 		samples[]=
@@ -438,6 +582,126 @@ class CfgSoundSets
 	class Rifle_Shot_Base_SoundSet;
 	class Rifle_Tail_Base_SoundSet;
 	class Rifle_InteriorTail_Base_SoundSet;
+	class CW95_CompilPostPunk_Music
+	{
+		soundShaders[]=
+		{
+			"CW95_CompilPostPunk_Music_SoundShader"
+		};
+		volumeFactor=1;
+		frequencyFactor=1;
+		spatial=1;
+	};
+	class CW95_CompilSynthWave_Music
+	{
+		soundShaders[]=
+		{
+			"CW95_CompilSynthWave_Music_SoundShader"
+		};
+		volumeFactor=1;
+		frequencyFactor=1;
+		spatial=1;
+	};
+	class CW95_Avtomobili_Music
+	{
+		soundShaders[]=
+		{
+			"CW95_Avtomobili_Music_SoundShader"
+		};
+		volumeFactor=1;
+		frequencyFactor=1;
+		spatial=1;
+	};
+	class CW95_ChervonaKalyna_Music
+	{
+		soundShaders[]=
+		{
+			"CW95_ChervonaKalyna_Music_SoundShader"
+		};
+		volumeFactor=1;
+		frequencyFactor=1;
+		spatial=1;
+	};
+	class CW95_DerzhisBratok_Music
+	{
+		soundShaders[]=
+		{
+			"CW95_DerzhisBratok_Music_SoundShader"
+		};
+		volumeFactor=1;
+		frequencyFactor=1;
+		spatial=1;
+	};
+	class CW95_MelkayetOgonok_Music
+	{
+		soundShaders[]=
+		{
+			"CW95_MelkayetOgonok_Music_SoundShader"
+		};
+		volumeFactor=1;
+		frequencyFactor=1;
+		spatial=1;
+	};
+	class CW95_PoVostoku_Music
+	{
+		soundShaders[]=
+		{
+			"CW95_PoVostoku_Music_SoundShader"
+		};
+		volumeFactor=1;
+		frequencyFactor=1;
+		spatial=1;
+	};
+	class CW95_SdelanovSSSR_Music
+	{
+		soundShaders[]=
+		{
+			"CW95_SdelanovSSSR_Music_SoundShader"
+		};
+		volumeFactor=1;
+		frequencyFactor=1;
+		spatial=1;
+	};
+	class CW95_VspomnimAfganistan_Music
+	{
+		soundShaders[]=
+		{
+			"CW95_VspomnimAfganistan_Music_SoundShader"
+		};
+		volumeFactor=1;
+		frequencyFactor=1;
+		spatial=1;
+	};
+	class CW95_YaUkhozhu_Music
+	{
+		soundShaders[]=
+		{
+			"CW95_YaUkhozhu_Music_SoundShader"
+		};
+		volumeFactor=1;
+		frequencyFactor=1;
+		spatial=1;
+	};
+	class CW95_Yesaul_Music
+	{
+		soundShaders[]=
+		{
+			"CW95_Yesaul_Music_SoundShader"
+		};
+		volumeFactor=1;
+		frequencyFactor=1;
+		spatial=1;
+	};
+	class CW95_Zhuravli_Music
+	{
+		soundShaders[]=
+		{
+			"CW95_Zhuravli_Music_SoundShader"
+		};
+		volumeFactor=1;
+		frequencyFactor=1;
+		spatial=1;
+	};
 	class CW95_TheBigHangover_Music
 	{
 		soundShaders[]=

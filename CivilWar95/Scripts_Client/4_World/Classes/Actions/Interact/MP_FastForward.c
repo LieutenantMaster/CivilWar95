@@ -53,20 +53,4 @@ class MP_FastForwardAction: AnimatedActionBase
 
         return false;
 	}
-    override void OnEndServer(ActionData action_data)
-	{
-        CW95_MusicPlayer ntarget = CW95_MusicPlayer.Cast( action_data.m_Target.GetObject() );
-		if( ntarget )
-			ntarget.SetFastForwarding(true);
-        
-        Inventory_Base m_Cassette = ItemBase.Cast(ntarget.FindAttachmentBySlotName("CW95_Cassette"));
-		m_Cassette.DecreaseHealth("", "", -0.1);
-    }
-	
-	override void OnEndClient(ActionData action_data)
-	{
-		CW95_MusicPlayer ntarget = CW95_MusicPlayer.Cast( action_data.m_Target.GetObject() );
-		if( ntarget )
-			ntarget.SetFastForwarding(true);
-	}
-}
+};

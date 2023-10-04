@@ -9,5 +9,5 @@
     "PushStrength": 1.5,
     "PushDepleteStamina": 1,
     "PushSafezoneVehicle": 0,
-    "PushLockedVehicle": 0
+    "PushLockedVehicle": 1
 }

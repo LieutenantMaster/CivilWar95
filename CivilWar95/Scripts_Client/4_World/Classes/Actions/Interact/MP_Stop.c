@@ -52,19 +52,4 @@ class MP_StopAction: AnimatedActionBase
 
 		return false;
 	}
-
-    override void OnStartServer( ActionData action_data )
-	{
-        CW95_MusicPlayer ntarget = CW95_MusicPlayer.Cast( action_data.m_Target.GetObject() );
-		if( ntarget )
-			ntarget.StopAllActions();
-	}
-
-	override void OnStartClient( ActionData action_data )
-	{
-        CW95_MusicPlayer ntarget = CW95_MusicPlayer.Cast( action_data.m_Target.GetObject() );
-		if( ntarget )
-			ntarget.StopAllActions();
-
-	}
 };

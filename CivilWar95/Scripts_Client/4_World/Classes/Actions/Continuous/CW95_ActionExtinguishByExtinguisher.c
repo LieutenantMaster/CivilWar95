@@ -1,7 +1,7 @@
 class CW95_ActionExtinguishByExtinguisherCB : ActionContinuousBaseCB
 {
-	private const float TIME_TO_REPEAT				= 1.25;
-	private const float WETNESS_GAIN_MULTIPLIER 	= 125.0;
+	private const float TIME_TO_REPEAT				= 0.5;
+	private const float WETNESS_GAIN_MULTIPLIER 	= 200.0;
 	
 	override void CreateActionComponent()
 	{

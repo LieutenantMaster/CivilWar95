@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
-	<type name="ZIL133_flatbed_wheel">
+	<type name="Zil130Wheel">
 		<nominal>0</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
@@ -10,7 +10,17 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-	<type name="ZIL133_flatbed_wheel_destroyed">
+	<type name="Zil130Wheel_Ruined">
+		<nominal>0</nominal>
+		<lifetime>3600</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Zil130WheelRear">
 		<nominal>0</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
@@ -20,7 +30,17 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-	<type name="ZIL133_flatbed_WheelDouble">
+	<type name="Zil130WheelRear_Ruined">
+		<nominal>0</nominal>
+		<lifetime>3600</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Zil130Doors_Driver">
 		<nominal>0</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
@@ -30,7 +50,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-	<type name="ZIL133_flatbed_WheelDouble_destroyed">
+	<type name="Zil130Doors_CoDriver">
 		<nominal>0</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
@@ -40,7 +60,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-	<type name="ZIL133_flatbed_tent">
+	<type name="Zil130_Hood">
 		<nominal>0</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
@@ -50,7 +70,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-	<type name="ZIL133_flatbed_doors_driver">
+	<type name="Zil130_Tailgate">
 		<nominal>0</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
@@ -60,7 +80,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-	<type name="ZIL133_flatbed_doors_codriver">
+	<type name="Zil130Doors_Driver_Green">
 		<nominal>0</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
@@ -70,7 +90,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-	<type name="ZIL133_flatbed_doors_hood">
+	<type name="Zil130Doors_CoDriver_Green">
 		<nominal>0</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
@@ -80,7 +100,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-	<type name="ZIL133_flatbed_doors_trunk">
+	<type name="Zil130_Hood_Green">
 		<nominal>0</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
@@ -90,7 +110,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-	<type name="ZIL133_flatbed_doors_driver_green">
+	<type name="Gerph_Zil130">
 		<nominal>0</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
@@ -100,7 +120,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-	<type name="ZIL133_flatbed_doors_codriver_green">
+	<type name="Gerph_Zil130_Green">
 		<nominal>0</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
@@ -110,17 +130,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-	<type name="ZIL133_flatbed_doors_hood_green">
-		<nominal>0</nominal>
-		<lifetime>7200</lifetime>
-		<restock>0</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	</type>
-	<type name="ZIL133_flatbed">
+	<type name="Gerph_Zil130_legacy">
 		<nominal>0</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
@@ -130,7 +140,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-	<type name="ZIL133_flatbed_green">
+	<type name="Gerph_Zil130_Green_legacy">
 		<nominal>0</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>

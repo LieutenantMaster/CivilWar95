@@ -17,7 +17,7 @@ class MPFP_VolumeDOWNActionCB: ActionContinuousBaseCB
 	{
 		m_ActionData.m_ActionComponent = new CAContinuousRepeat(REPEAT_AFTER_SEC);
 	}
-}
+};
 
 class MPFP_VolumeDOWNAction: ActionContinuousBase
 {
@@ -65,18 +65,4 @@ class MPFP_VolumeDOWNAction: ActionContinuousBase
 		
 		return false;
 	}
-
-	override void OnFinishProgressServer( ActionData action_data )
-	{	
-		CW95_MusicPlayer mPlayer = CW95_MusicPlayer.Cast( action_data.m_MainItem );
-		if( mPlayer )
-			mPlayer.DecrementVolume();
-	}
-
-	override void OnFinishProgressClient( ActionData action_data )
-	{	
-		CW95_MusicPlayer mPlayer = CW95_MusicPlayer.Cast( action_data.m_MainItem );
-		if( mPlayer )
-			mPlayer.DecrementVolume();
-	}
-}
+};

@@ -52,17 +52,4 @@ class MP_OpenDoorAction: AnimatedActionBase
 
 		return false;
 	}
-
-    override protected void OnEndServer( ActionData action_data )
-	{
-		CW95_MusicPlayer ntarget = CW95_MusicPlayer.Cast( action_data.m_Target.GetObject() );
-		if( ntarget )
-			ntarget.SetDoor(true);
-	}
-	override protected void OnEndClient( ActionData action_data )
-	{
-		CW95_MusicPlayer ntarget = CW95_MusicPlayer.Cast( action_data.m_Target.GetObject() );
-		if( ntarget )
-			ntarget.SetDoor(true);
-	}
 };

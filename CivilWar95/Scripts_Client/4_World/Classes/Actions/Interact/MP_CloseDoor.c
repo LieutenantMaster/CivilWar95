@@ -52,17 +52,4 @@ class MP_CloseDoorAction: AnimatedActionBase
 
 		return false;
 	}
-
-	override protected void OnEndServer( ActionData action_data )
-	{
-		CW95_MusicPlayer ntarget = CW95_MusicPlayer.Cast( action_data.m_Target.GetObject() );
-		if( ntarget )
-			ntarget.SetDoor(false);
-	}
-	override protected void OnEndClient( ActionData action_data )
-	{
-		CW95_MusicPlayer ntarget = CW95_MusicPlayer.Cast( action_data.m_Target.GetObject() );
-		if( ntarget )
-			ntarget.SetDoor(false);
-	}
 };

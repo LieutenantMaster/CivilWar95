@@ -22,6 +22,7 @@ modded class ActionConstructor
 		actions.Insert(CW95_ActionExtinguishByLiquid);
 		
 		actions.Insert(CW95_ActionRaiseWhistleSelf);
+		
 #ifdef CW95_ENABLE_KNOCK
 		actions.Insert(CW95_ActionKnockAtDoor);
 #endif
@@ -40,7 +41,5 @@ modded class ActionConstructor
 
 		actions.Insert(MPFP_Play);
 		actions.Insert(MPFP_Stop);
-
-		actions.Insert(MP_ResetPlayerAction);
 	}
 };

@@ -30,7 +30,7 @@ class CW95_ActionExtinguishByLiquid: ActionContinuousBase
 	override bool ActionCondition( PlayerBase player, ActionTarget target, ItemBase item )
 	{
         CW95_DynamicFire_Base fireplace_target = CW95_DynamicFire_Base.Cast( target.GetObject() );
-		if ( fireplace_target )
+		if ( fireplace_target && item )
         {
 			if ( !item.IsDamageDestroyed() && (item.GetLiquidType() & (GROUP_LIQUID_BLOOD | LIQUID_WATER | LIQUID_RIVERWATER | LIQUID_BEER)) )
 			{

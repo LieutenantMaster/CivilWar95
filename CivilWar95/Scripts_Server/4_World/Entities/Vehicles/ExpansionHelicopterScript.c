@@ -27,11 +27,6 @@ modded class ExpansionHelicopterScript
 
 modded class EXT_AH1Z
 {
-	override bool HasArmement()
-	{
-		return true;
-	}
-
 	override int GetRocketAmount()
 	{
 		return 2;
@@ -40,11 +35,6 @@ modded class EXT_AH1Z
 
 modded class EXT_AH64D
 {
-	override bool HasArmement()
-	{
-		return true;
-	}
-
 	override int GetRocketAmount()
 	{
 		return 2;
@@ -53,11 +43,6 @@ modded class EXT_AH64D
 
 modded class EXT_MI24
 {
-	override bool HasArmement()
-	{
-		return true;
-	}
-
 	override float GetRocketPosOffset(int id)
 	{
 		if (id % 4 == 0)
@@ -78,11 +63,6 @@ modded class EXT_MI24
 
 modded class EXT_KA52
 {
-	override bool HasArmement()
-	{
-		return true;
-	}
-
 	override int GetRocketAmount()
 	{
 		return 2;
@@ -91,11 +71,6 @@ modded class EXT_KA52
 
 modded class EXT_KA60
 {
-	override bool HasArmement()
-	{
-		return true;
-	}
-
 	override int GetRocketAmount()
 	{
 		return 2;
@@ -104,11 +79,6 @@ modded class EXT_KA60
 
 modded class EXT_Mi8_Attack
 {
-	override bool HasArmement()
-	{
-		return true;
-	}
-
 	override float GetRocketPosOffset(int id)
 	{
 		if (id % 4 == 0)
@@ -129,11 +99,6 @@ modded class EXT_Mi8_Attack
 
 modded class EXT_Mi171
 {
-	override bool HasArmement()
-	{
-		return true;
-	}
-
 	override float GetRocketPosOffset(int id)
 	{
 		if (id % 6 == 0)

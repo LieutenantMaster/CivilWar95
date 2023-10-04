@@ -26,7 +26,17 @@ modded class CarScript
 		return false;
 	}
 
+	bool HasDecoys()
+	{
+		return false;
+	}
+
 	bool CanFireFromSeatIndex(PlayerBase player)
+	{
+		return false;
+	}
+
+	bool CanDecoyFromSeatIndex(PlayerBase player)
 	{
 		return false;
 	}

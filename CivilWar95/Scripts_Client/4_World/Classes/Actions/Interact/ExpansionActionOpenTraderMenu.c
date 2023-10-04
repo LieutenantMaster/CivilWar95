@@ -17,5 +17,14 @@ modded class ExpansionActionOpenTraderMenu
 		m_ConditionItem = new CCINone;
 		m_ConditionTarget = new CCTCursor(UAMaxDistances.LARGE);
 	}
+	
+	override void OnStartClient(ActionData action_data)
+	{
+		super.OnStartClient(action_data);
+
+		PlayerBase player = action_data.m_Player;
+		if ( player )
+			player.SetPlayerAtZeleno(vector.Distance(player.GetPosition(), Vector(2640, 200, 5170)) <= 500);
+	}
 };
 #endif

@@ -21,7 +21,9 @@ modded class PlayerBase
 #ifndef SERVER
 	void PlayerBase()
 	{
-		if (!IsAI())
+		if ( IsAI() )
+			SetHeightData(Math.RandomFloatInclusive(0.9, 1.1));
+		else
 			GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).CallLater( CW95_DelayedInit, 1000, false );
 	}
 	
@@ -39,6 +41,16 @@ modded class PlayerBase
 		{
 			m_UpdateTimer.Stop();
 			delete m_UpdateTimer;
+		}
+	}
+
+	void SetHeightData(float newScale)
+	{
+		if ( newScale > 0.7 && newScale < 1.2 )
+		{
+			m_PScale = newScale;
+		} else {
+			m_PScale = DEFAULT_SCALE;
 		}
 	}
 	
@@ -76,6 +88,7 @@ modded class PlayerBase
 		if (!ctx) return;
 
 		ctx.Write(eAI_GetFactionTypeID());
+		ctx.Write(m_PScale);
 	}
 	
 	override bool CF_OnStoreLoad(CF_ModStorageMap storage)
@@ -105,6 +118,12 @@ modded class PlayerBase
 					eAIGroup group = eAIGroup.GetGroupByLeader(this, true, faction);
 				}
 			}
+		}
+
+		if (!ctx.Read(m_PScale))
+		{
+			m_PScale = DEFAULT_SCALE;
+			return false;
 		}
 
 		return true;
@@ -144,7 +163,7 @@ modded class PlayerBase
 
 					factionName	= tokens.Get( 0 );
 					loadoutType = tokens.Get( 1 );
-					spawnPos 	= tokens.Get( 3 ).ToVector();
+					spawnPos 	= tokens.Get( 2 ).ToVector();
 				}
 			}
 			CloseFile(file);
@@ -156,13 +175,10 @@ modded class PlayerBase
 				factionName = GetGroup().GetFaction().GetName();
 		}
 
-		if ( factionName == "" )
-			factionName = "Civilian";
+		if ( factionName == "" || factionName == "Civilian" )
+			factionName = "Civil";
 
-		if ( m_PHeight < 0.2 )
-			m_PHeight = 1.8;
-
-		string primaryData 		= factionName + 			"|" + loadoutType + 		  "|" + spawnPos.ToString() + "|" + m_PHeight;
+		string primaryData 		= factionName + 			"|" + loadoutType + 		  "|" + spawnPos.ToString() + "|" + m_PScale;
 		string secondaryData 	= GetIdentity().GetName() + "|" + GetIdentity().GetId() + "|" + steamID;
 
 		file = OpenFile(filename, FileMode.WRITE);

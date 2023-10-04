@@ -96,7 +96,7 @@ class CW95_ActionVehicleFlare: ActionInteractBase
 		m_Flares += 1;
 
 		#ifndef SERVER
-			vector ori = m_Vehicle.GetPosition()
+			vector ori = m_Vehicle.GetPosition();
 			//if ( m_Vehicle.MemoryPointExists( "flare_launcher1_dir" ) )
 			{
 				Particle p1 = Particle.PlayInWorld( ParticleList.EXPANSION_EXPLOSION_FLARE, m_Vehicle.GetPosition());//.ModelToWorld( m_Vehicle.GetMemoryPointPos( "flare_launcher1_dir" ) ) );

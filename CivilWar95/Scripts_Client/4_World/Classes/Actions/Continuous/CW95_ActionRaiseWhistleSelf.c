@@ -45,13 +45,11 @@ class CW95_ActionRaiseWhistleSelf: ActionContinuousBase
 	
 	override bool ActionCondition ( PlayerBase player, ActionTarget target, ItemBase item )
 	{
-		if ( player )
+		if ( player && !player.IsRestrained() )
 		{
 			CW95_Whistle_Base whistle = CW95_Whistle_Base.Cast( item );
 			if ( whistle )
-			{
-				return !player.IsRestrained() && whistle.CanWhistle();
-			}
+				return whistle.CanWhistle();
 		}
 
 		return false;
