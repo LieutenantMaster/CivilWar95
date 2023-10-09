@@ -4222,7 +4222,7 @@
     </type>
 	<!-- EXPLOSIVES -->
 	<type name="ExpansionSatchel">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4252,7 +4252,7 @@
     </type>
 	<!-- LAUNCHERS -->
 	<type name="ExpansionRPG7">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>604800</restock>
         <min>0</min>
@@ -4587,7 +4587,7 @@
 		<value user="Tier234"/>
     </type>
 	<type name="ExpansionAmmoRPG">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>

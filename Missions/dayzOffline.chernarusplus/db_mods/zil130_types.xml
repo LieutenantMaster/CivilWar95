@@ -112,7 +112,7 @@
 	</type>
 	<type name="Gerph_Zil130">
 		<nominal>0</nominal>
-		<lifetime>7200</lifetime>
+		<lifetime>3888000</lifetime>
 		<restock>0</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>
@@ -122,7 +122,7 @@
 	</type>
 	<type name="Gerph_Zil130_Green">
 		<nominal>0</nominal>
-		<lifetime>7200</lifetime>
+		<lifetime>3888000</lifetime>
 		<restock>0</restock>
 		<min>0</min>
 		<quantmin>-1</quantmin>

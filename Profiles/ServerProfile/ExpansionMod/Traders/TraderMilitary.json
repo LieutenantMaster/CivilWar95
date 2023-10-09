@@ -67,9 +67,7 @@
         "TF_6sh112_EMR": 0,
         "TF_RifleSling_Black": 0,
         "TF_RifleSling_Brown": 0,
-        "TF_RifleSling_OD": 0,     
-
-
+        "TF_RifleSling_OD": 0,
 
         "ttskojacket_camo": 0,
         "TTSKOPants" : 0,
@@ -81,7 +79,6 @@
         "FOG_Crye_G3_Shirt_M81": 0,
         "FOG_Shirt_ISOF_Jacket_M81": 0,
         "FOG_MTF_Shirt_ERDL": 0,
-      
 
         "FOGR_Smersh_Green_Vest": 0,
         "FOGR_Smersh_Green": 0,
@@ -90,11 +87,9 @@
         "FOG_Operator_Boots_Black": 0,
         "FOG_MTF_Pants_ERDL": 0,
 
-
         "tlrlight":0,
         "universallight": 3,
         "flashlight": 0,
-
 
         "CombatBoots_Black": 0,
         "omnogloves_gray": 0,
@@ -143,9 +138,6 @@
         "ammobox_expansion_46x30_25rnd": 0,
         "ammobox_expansion_338_15rnd": 3,
         "expansion_ammobox_8mm_15rnd": 0,
-
-
-
 
         "sks": 0,
         "mag_akm_30rnd": 0,
