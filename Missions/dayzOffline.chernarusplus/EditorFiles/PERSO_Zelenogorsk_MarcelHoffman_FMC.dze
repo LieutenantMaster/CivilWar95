@@ -1,0 +1,4208 @@
+{
+    "MapName": "ChernarusPlus",
+    "CameraPosition": [
+        2264.922607421875,
+        205.58653259277345,
+        5223.37890625
+    ],
+    "EditorObjects": [
+        {
+            "Type": "StaticObj_Misc_BoardsPack2",
+            "DisplayName": "StaticObj_Misc_BoardsPack2",
+            "Position": [
+                2298.925537109375,
+                186.95372009277345,
+                5252.873046875
+            ],
+            "Orientation": [
+                149.99188232421876,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_through_static",
+            "DisplayName": "bldr_misc_through_static",
+            "Position": [
+                2219.969970703125,
+                185.55673217773438,
+                5229.22021484375
+            ],
+            "Orientation": [
+                35.99988555908203,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_pipe_big_18m",
+            "DisplayName": "bldr_pipe_big_18m",
+            "Position": [
+                2226.677001953125,
+                190.00128173828126,
+                5250.947265625
+            ],
+            "Orientation": [
+                -55.06871795654297,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999951124191284,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Pipe_Big_Ground1",
+            "DisplayName": "Land_Pipe_Big_Ground1",
+            "Position": [
+                2236.349853515625,
+                189.80152893066407,
+                5244.4814453125
+            ],
+            "Orientation": [
+                -55.57773208618164,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999961853027344,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Water_Station",
+            "DisplayName": "Land_Water_Station",
+            "Position": [
+                2218.680419921875,
+                186.86215209960938,
+                5257.43505859375
+            ],
+            "Orientation": [
+                -144.14816284179688,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.999998152256012,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Pipe_Big_Ground1",
+            "DisplayName": "Land_Pipe_Big_Ground1",
+            "Position": [
+                2217.5556640625,
+                189.76315307617188,
+                5257.14208984375
+            ],
+            "Orientation": [
+                126.53054809570313,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999960660934448,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Water_Station",
+            "DisplayName": "Land_Water_Station",
+            "Position": [
+                2215.9326171875,
+                186.85426330566407,
+                5259.44873046875
+            ],
+            "Orientation": [
+                -144.14816284179688,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.999998152256012,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Garage_Big",
+            "DisplayName": "Land_Garage_Big",
+            "Position": [
+                2201.562255859375,
+                189.2530517578125,
+                5248.54443359375
+            ],
+            "Orientation": [
+                -53.36353302001953,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999954700469971,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Smokestack_Brick",
+            "DisplayName": "Land_Smokestack_Brick",
+            "Position": [
+                2206.83642578125,
+                198.73841857910157,
+                5268.087890625
+            ],
+            "Orientation": [
+                -147.55435180664063,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Sawmill_Building",
+            "DisplayName": "Land_Sawmill_Building",
+            "Position": [
+                2218.958251953125,
+                191.11907958984376,
+                5215.19384765625
+            ],
+            "Orientation": [
+                -142.7859649658203,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999861717224121,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndFnc2_9",
+            "DisplayName": "StaticObj_Wall_IndFnc2_9",
+            "Position": [
+                2335.410400390625,
+                190.2404022216797,
+                5235.3095703125
+            ],
+            "Orientation": [
+                -107.99993896484375,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndFnc2_9",
+            "DisplayName": "StaticObj_Wall_IndFnc2_9",
+            "Position": [
+                2276.808349609375,
+                187.299072265625,
+                5204.0625
+            ],
+            "Orientation": [
+                -11.079412460327149,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.999996542930603,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndFnc2_9",
+            "DisplayName": "StaticObj_Wall_IndFnc2_9",
+            "Position": [
+                2268.10107421875,
+                187.3173828125,
+                5202.39794921875
+            ],
+            "Orientation": [
+                -11.079412460327149,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.999996542930603,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndFnc2_9",
+            "DisplayName": "StaticObj_Wall_IndFnc2_9",
+            "Position": [
+                2259.37939453125,
+                187.3209228515625,
+                5200.65087890625
+            ],
+            "Orientation": [
+                -11.079412460327149,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.999996542930603,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndFnc2_9",
+            "DisplayName": "StaticObj_Wall_IndFnc2_9",
+            "Position": [
+                2250.72314453125,
+                187.4237518310547,
+                5198.85400390625
+            ],
+            "Orientation": [
+                -11.079412460327149,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.999996542930603,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndFnc2_9",
+            "DisplayName": "StaticObj_Wall_IndFnc2_9",
+            "Position": [
+                2242.203125,
+                186.0013427734375,
+                5197.56298828125
+            ],
+            "Orientation": [
+                -7.738933563232422,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999957084655762,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndFnc2_9",
+            "DisplayName": "StaticObj_Wall_IndFnc2_9",
+            "Position": [
+                2231.446533203125,
+                185.94894409179688,
+                5195.90673828125
+            ],
+            "Orientation": [
+                173.36618041992188,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999947547912598,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2321.27490234375,
+                190.97840881347657,
+                5270.96923828125
+            ],
+            "Orientation": [
+                -56.726722717285159,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999934434890747,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2320.864501953125,
+                191.06527709960938,
+                5265.76025390625
+            ],
+            "Orientation": [
+                -112.5434341430664,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999979734420776,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2310.986572265625,
+                189.7592315673828,
+                5281.9931640625
+            ],
+            "Orientation": [
+                -147.4162139892578,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2295.793701171875,
+                189.39755249023438,
+                5290.7890625
+            ],
+            "Orientation": [
+                -156.91481018066407,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999991059303284,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2278.78955078125,
+                189.69439697265626,
+                5295.1474609375
+            ],
+            "Orientation": [
+                -172.40379333496095,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999991059303284,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2185.984375,
+                186.46734619140626,
+                5215.87255859375
+            ],
+            "Orientation": [
+                85.85908508300781,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999973177909851,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2186.601806640625,
+                186.4370880126953,
+                5210.19384765625
+            ],
+            "Orientation": [
+                82.4612045288086,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999964833259583,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2183.87353515625,
+                186.31398010253907,
+                5181.1416015625
+            ],
+            "Orientation": [
+                103.22940063476563,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999991655349731,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2185.433349609375,
+                186.33834838867188,
+                5176.484375
+            ],
+            "Orientation": [
+                37.508575439453128,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2190.26416015625,
+                186.52980041503907,
+                5176.1767578125
+            ],
+            "Orientation": [
+                -33.781036376953128,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999964833259583,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2195.505859375,
+                186.5068359375,
+                5178.69384765625
+            ],
+            "Orientation": [
+                -16.928403854370118,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.999996542930603,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2201.02880859375,
+                186.51336669921876,
+                5180.5078125
+            ],
+            "Orientation": [
+                -18.175235748291017,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999955296516419,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2206.40234375,
+                186.60293579101563,
+                5182.64599609375
+            ],
+            "Orientation": [
+                -24.810665130615236,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999942779541016,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2211.663818359375,
+                186.6334686279297,
+                5185.17529296875
+            ],
+            "Orientation": [
+                -26.154556274414064,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999939203262329,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2217.100830078125,
+                186.597412109375,
+                5187.2470703125
+            ],
+            "Orientation": [
+                -14.42447280883789,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999918341636658,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2308.460693359375,
+                186.9136962890625,
+                5210.55419921875
+            ],
+            "Orientation": [
+                -15.656097412109375,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999924898147583,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2317.159912109375,
+                186.9894561767578,
+                5217.74951171875
+            ],
+            "Orientation": [
+                -51.638038635253909,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999887943267822,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2320.422119140625,
+                187.0139923095703,
+                5222.623046875
+            ],
+            "Orientation": [
+                -59.66012191772461,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999901652336121,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2323.303955078125,
+                187.4859619140625,
+                5227.68408203125
+            ],
+            "Orientation": [
+                -60.02493667602539,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999929070472717,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2326.591552734375,
+                188.1171875,
+                5232.4345703125
+            ],
+            "Orientation": [
+                -50.32530212402344,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999910593032837,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2330.7568359375,
+                189.3498992919922,
+                5236.48681640625
+            ],
+            "Orientation": [
+                -36.46253204345703,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999940395355225,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2334.848876953125,
+                190.00962829589845,
+                5240.6435546875
+            ],
+            "Orientation": [
+                -54.32119369506836,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999934434890747,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2334.5546875,
+                190.58203125,
+                5245.08154296875
+            ],
+            "Orientation": [
+                -133.09059143066407,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999936819076538,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Mil_Guardhouse2",
+            "DisplayName": "Land_Mil_Guardhouse2",
+            "Position": [
+                2327.857666015625,
+                190.85723876953126,
+                5252.51708984375
+            ],
+            "Orientation": [
+                -131.47723388671876,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999988675117493,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2202.764404296875,
+                186.7683868408203,
+                5270.08056640625
+            ],
+            "Orientation": [
+                127.02642059326172,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999948740005493,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2206.19580078125,
+                186.92214965820313,
+                5274.8662109375
+            ],
+            "Orientation": [
+                125.21072387695313,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999929666519165,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2209.69873046875,
+                187.36016845703126,
+                5279.5556640625
+            ],
+            "Orientation": [
+                128.2609100341797,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999955296516419,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2213.12255859375,
+                188.18380737304688,
+                5284.28515625
+            ],
+            "Orientation": [
+                124.51734924316406,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999944567680359,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2215.18896484375,
+                188.5242919921875,
+                5289.65087890625
+            ],
+            "Orientation": [
+                96.73747253417969,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999923706054688,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2182.960693359375,
+                186.89720153808595,
+                5233.16064453125
+            ],
+            "Orientation": [
+                77.15152740478516,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999952912330627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Smokestack_Brick",
+            "DisplayName": "Land_Smokestack_Brick",
+            "Position": [
+                2184.155029296875,
+                200.77456665039063,
+                5237.86865234375
+            ],
+            "Orientation": [
+                -14.032039642333985,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999964237213135,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2324.177490234375,
+                191.08087158203126,
+                5261.24853515625
+            ],
+            "Orientation": [
+                39.30036544799805,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999940395355225,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2326.577880859375,
+                189.28944396972657,
+                5232.4404296875
+            ],
+            "Orientation": [
+                -50.32530212402344,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999910593032837,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2323.27783203125,
+                188.7370147705078,
+                5227.68017578125
+            ],
+            "Orientation": [
+                -60.02493667602539,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999929070472717,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2320.44140625,
+                187.83522033691407,
+                5222.6123046875
+            ],
+            "Orientation": [
+                -59.66012191772461,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999901652336121,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2313.293701171875,
+                186.97061157226563,
+                5213.39501953125
+            ],
+            "Orientation": [
+                -45.00094985961914,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999833106994629,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2302.657470703125,
+                186.80274963378907,
+                5209.4169921875
+            ],
+            "Orientation": [
+                -6.704566478729248,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999931454658508,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Shed_Closed2",
+            "DisplayName": "Land_Shed_Closed2",
+            "Position": [
+                2292.0322265625,
+                187.67942810058595,
+                5260.55712890625
+            ],
+            "Orientation": [
+                5.280767440795898,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.999998152256012,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Shed_Open_Small_Complete",
+            "DisplayName": "StaticObj_Shed_Open_Small_Complete",
+            "Position": [
+                2240.04443359375,
+                188.57044982910157,
+                5280.23974609375
+            ],
+            "Orientation": [
+                87.6455078125,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999990463256836,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Rail_ConcreteRamp",
+            "DisplayName": "StaticObj_Rail_ConcreteRamp",
+            "Position": [
+                2216.049072265625,
+                185.24037170410157,
+                5236.5849609375
+            ],
+            "Orientation": [
+                36.94267272949219,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999916553497315,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Shed_Open_Small_Complete",
+            "DisplayName": "StaticObj_Shed_Open_Small_Complete",
+            "Position": [
+                2264.286865234375,
+                188.6516876220703,
+                5281.33447265625
+            ],
+            "Orientation": [
+                87.6455078125,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999990463256836,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2282.703857421875,
+                187.00559997558595,
+                5272.77783203125
+            ],
+            "Orientation": [
+                72.2470932006836,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999880790710449,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2280.918701171875,
+                187.07229614257813,
+                5278.38134765625
+            ],
+            "Orientation": [
+                72.2470932006836,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999880790710449,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2278.1474609375,
+                187.05349731445313,
+                5283.5048828125
+            ],
+            "Orientation": [
+                51.25947952270508,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999871253967285,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2224.816162109375,
+                187.95742797851563,
+                5284.0283203125
+            ],
+            "Orientation": [
+                -173.6901092529297,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999881982803345,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2219.009521484375,
+                187.96546936035157,
+                5285.05029296875
+            ],
+            "Orientation": [
+                -165.64646911621095,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999868869781494,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_BRDM",
+            "DisplayName": "StaticObj_Wreck_BRDM",
+            "Position": [
+                2216.829833984375,
+                188.24978637695313,
+                5288.74951171875
+            ],
+            "Orientation": [
+                23.022403717041017,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999993443489075,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_Uaz_DE",
+            "DisplayName": "StaticObj_Wreck_Uaz_DE",
+            "Position": [
+                2218.24560546875,
+                188.9979248046875,
+                5293.50927734375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_Range_Pistol",
+            "DisplayName": "StaticObj_Misc_Range_Pistol",
+            "Position": [
+                2219.016845703125,
+                188.249267578125,
+                5288.79052734375
+            ],
+            "Orientation": [
+                -82.15914916992188,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999991059303284,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_Range_Pistol",
+            "DisplayName": "StaticObj_Misc_Range_Pistol",
+            "Position": [
+                2220.261962890625,
+                189.2550506591797,
+                5294.96044921875
+            ],
+            "Orientation": [
+                -87.48614501953125,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999983906745911,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Platform1_Block",
+            "DisplayName": "StaticObj_Platform1_Block",
+            "Position": [
+                2271.08935546875,
+                185.09658813476563,
+                5290.9609375
+            ],
+            "Orientation": [
+                -0.6697016358375549,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999945759773254,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_Range_Roof",
+            "DisplayName": "StaticObj_Misc_Range_Roof",
+            "Position": [
+                2269.044677734375,
+                189.9399871826172,
+                5289.654296875
+            ],
+            "Orientation": [
+                89.34898376464844,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999988079071045,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Mil_GuardBox_Brown",
+            "DisplayName": "Land_Mil_GuardBox_Brown",
+            "Position": [
+                2309.113525390625,
+                187.72146606445313,
+                5258.30908203125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wall_IndCnc_4",
+            "DisplayName": "StaticObj_Wall_IndCnc_4",
+            "Position": [
+                2318.1455078125,
+                189.2646942138672,
+                5255.2822265625
+            ],
+            "Orientation": [
+                6.571933746337891,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999908208847046,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Mil_CamoNet_Roof_east",
+            "DisplayName": "Land_Mil_CamoNet_Roof_east",
+            "Position": [
+                2291.0634765625,
+                187.3396759033203,
+                5278.51611328125
+            ],
+            "Orientation": [
+                2.2430546283721926,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999974370002747,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Shed_W5",
+            "DisplayName": "Land_Shed_W5",
+            "Position": [
+                2301.50537109375,
+                186.6511688232422,
+                5271.48095703125
+            ],
+            "Orientation": [
+                93.75341796875,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_Table_Camp",
+            "DisplayName": "bldr_Misc_Table_Camp",
+            "Position": [
+                2291.4677734375,
+                185.76510620117188,
+                5278.3505859375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_Table_Camp",
+            "DisplayName": "bldr_Misc_Table_Camp",
+            "Position": [
+                2289.470458984375,
+                185.76528930664063,
+                5278.34716796875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_Chair_Camp2",
+            "DisplayName": "StaticObj_Misc_Chair_Camp2",
+            "Position": [
+                2289.8154296875,
+                185.87759399414063,
+                5276.81298828125
+            ],
+            "Orientation": [
+                -179.0372314453125,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997019767761,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_Chair_Camp2",
+            "DisplayName": "StaticObj_Misc_Chair_Camp2",
+            "Position": [
+                2291.560791015625,
+                185.81198120117188,
+                5277.0517578125
+            ],
+            "Orientation": [
+                -179.0372314453125,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997019767761,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Monument_T34",
+            "DisplayName": "Land_Monument_T34",
+            "Position": [
+                2261.036376953125,
+                188.09274291992188,
+                5250.30126953125
+            ],
+            "Orientation": [
+                23.357154846191408,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999988079071045,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ExpansionPropFlagBase",
+            "DisplayName": "ExpansionPropFlagBase",
+            "Position": [
+                2267.18701171875,
+                186.1505584716797,
+                5251.29736328125
+            ],
+            "Orientation": [
+                -18.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ExpansionPropFlagBase",
+            "DisplayName": "ExpansionPropFlagBase",
+            "Position": [
+                2264.4287109375,
+                186.03648376464845,
+                5245.02978515625
+            ],
+            "Orientation": [
+                -18.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_plnt_t_populusNigra_3s",
+            "DisplayName": "bldr_plnt_t_populusNigra_3s",
+            "Position": [
+                2257.18994140625,
+                200.7110595703125,
+                5258.00927734375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_plnt_t_populusNigra_3s",
+            "DisplayName": "bldr_plnt_t_populusNigra_3s",
+            "Position": [
+                2253.214599609375,
+                200.6260223388672,
+                5248.62158203125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_offroad02_aban2",
+            "DisplayName": "Land_Wreck_offroad02_aban2",
+            "Position": [
+                2191.6103515625,
+                186.49339294433595,
+                5193.4267578125
+            ],
+            "Orientation": [
+                -98.99984741210938,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_sed01_aban2_police",
+            "DisplayName": "Land_Wreck_sed01_aban2_police",
+            "Position": [
+                2189.41015625,
+                186.05886840820313,
+                5187.21728515625
+            ],
+            "Orientation": [
+                -62.99994659423828,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_wreck_truck01_aban1_orange",
+            "DisplayName": "Land_wreck_truck01_aban1_orange",
+            "Position": [
+                2188.79736328125,
+                185.2279815673828,
+                5180.34619140625
+            ],
+            "Orientation": [
+                -18.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_Mi8_Crashed",
+            "DisplayName": "StaticObj_Wreck_Mi8_Crashed",
+            "Position": [
+                2189.630859375,
+                187.4995574951172,
+                5226.04736328125
+            ],
+            "Orientation": [
+                9.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_BMP2",
+            "DisplayName": "StaticObj_Wreck_BMP2",
+            "Position": [
+                2210.66357421875,
+                186.07015991210938,
+                5188.26416015625
+            ],
+            "Orientation": [
+                71.99994659423828,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_T72_Chassis_DE",
+            "DisplayName": "StaticObj_Wreck_T72_Chassis_DE",
+            "Position": [
+                2195.076416015625,
+                186.12733459472657,
+                5182.1083984375
+            ],
+            "Orientation": [
+                71.99994659423828,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_T72_Turret_DE",
+            "DisplayName": "StaticObj_Wreck_T72_Turret_DE",
+            "Position": [
+                2194.514404296875,
+                187.3455810546875,
+                5183.32470703125
+            ],
+            "Orientation": [
+                0.000050544731493573639,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_V3S_DE",
+            "DisplayName": "Land_Wreck_V3S_DE",
+            "Position": [
+                2203.077392578125,
+                186.71710205078126,
+                5184.58251953125
+            ],
+            "Orientation": [
+                53.99995803833008,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ExpansionWreckBrdm",
+            "DisplayName": "ExpansionWreckBrdm",
+            "Position": [
+                2196.491455078125,
+                186.19857788085938,
+                5190.37841796875
+            ],
+            "Orientation": [
+                26.999950408935548,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_ammoboxes_stacked",
+            "DisplayName": "StaticObj_ammoboxes_stacked",
+            "Position": [
+                2202.92578125,
+                185.71775817871095,
+                5206.96142578125
+            ],
+            "Orientation": [
+                134.9998779296875,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_ammoboxes_stacked",
+            "DisplayName": "StaticObj_ammoboxes_stacked",
+            "Position": [
+                2185.5625,
+                185.7203369140625,
+                5178.474609375
+            ],
+            "Orientation": [
+                134.99986267089845,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_ammoboxes_stacked",
+            "DisplayName": "StaticObj_ammoboxes_stacked",
+            "Position": [
+                2187.7978515625,
+                185.70147705078126,
+                5177.32470703125
+            ],
+            "Orientation": [
+                134.99986267089845,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_ammoboxes_big",
+            "DisplayName": "StaticObj_ammoboxes_big",
+            "Position": [
+                2189.703857421875,
+                185.84397888183595,
+                5198.60986328125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ExpansionIndustrialProp_RackComplete",
+            "DisplayName": "ExpansionIndustrialProp_RackComplete",
+            "Position": [
+                2216.277587890625,
+                189.0507049560547,
+                5255.2275390625
+            ],
+            "Orientation": [
+                -55.32353973388672,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_bilboard_vstup_do_cdf",
+            "DisplayName": "bldr_bilboard_vstup_do_cdf",
+            "Position": [
+                2326.24560546875,
+                190.91319274902345,
+                5266.68359375
+            ],
+            "Orientation": [
+                -94.6205825805664,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Slum_Roof5",
+            "DisplayName": "bldr_Slum_Roof5",
+            "Position": [
+                2217.85302734375,
+                187.68885803222657,
+                5267.32177734375
+            ],
+            "Orientation": [
+                -55.40517807006836,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999992847442627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ExpansionIndustrialProp_RackComplete",
+            "DisplayName": "ExpansionIndustrialProp_RackComplete",
+            "Position": [
+                2212.974609375,
+                189.03123474121095,
+                5257.59423828125
+            ],
+            "Orientation": [
+                -55.32353973388672,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ExpansionIndustrialProp_RackComplete",
+            "DisplayName": "ExpansionIndustrialProp_RackComplete",
+            "Position": [
+                2209.60498046875,
+                189.07278442382813,
+                5259.93994140625
+            ],
+            "Orientation": [
+                -55.32353973388672,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ExpansionIndustrialProp_RackComplete",
+            "DisplayName": "ExpansionIndustrialProp_RackComplete",
+            "Position": [
+                2206.178955078125,
+                189.0646209716797,
+                5262.2978515625
+            ],
+            "Orientation": [
+                -55.32353973388672,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ExpansionIndustrialProp_RackComplete",
+            "DisplayName": "ExpansionIndustrialProp_RackComplete",
+            "Position": [
+                2202.767333984375,
+                189.0687255859375,
+                5264.82666015625
+            ],
+            "Orientation": [
+                -55.32353973388672,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_soustruh_proxy",
+            "DisplayName": "StaticObj_Furniture_soustruh_proxy",
+            "Position": [
+                2189.483154296875,
+                187.33261108398438,
+                5245.74609375
+            ],
+            "Orientation": [
+                126.00253295898438,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999988079071045,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_soustruh_proxy",
+            "DisplayName": "StaticObj_Furniture_soustruh_proxy",
+            "Position": [
+                2195.961181640625,
+                187.37095642089845,
+                5240.7275390625
+            ],
+            "Orientation": [
+                126.00253295898438,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999988079071045,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_soustruh_proxy",
+            "DisplayName": "StaticObj_Furniture_soustruh_proxy",
+            "Position": [
+                2192.6533203125,
+                187.33851623535157,
+                5250.10986328125
+            ],
+            "Orientation": [
+                126.00253295898438,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999988079071045,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_soustruh_proxy",
+            "DisplayName": "StaticObj_Furniture_soustruh_proxy",
+            "Position": [
+                2199.446044921875,
+                187.3461151123047,
+                5244.97705078125
+            ],
+            "Orientation": [
+                126.00253295898438,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999988079071045,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ExpansionPropShelf2",
+            "DisplayName": "ExpansionPropShelf2",
+            "Position": [
+                2199.896484375,
+                187.34983825683595,
+                5231.52490234375
+            ],
+            "Orientation": [
+                -143.0591583251953,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_lab_bench",
+            "DisplayName": "StaticObj_Furniture_lab_bench",
+            "Position": [
+                2206.3935546875,
+                186.77450561523438,
+                5243.18115234375
+            ],
+            "Orientation": [
+                -139.6832275390625,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999990463256836,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_lab_bench",
+            "DisplayName": "StaticObj_Furniture_lab_bench",
+            "Position": [
+                2204.526123046875,
+                186.7704620361328,
+                5244.72705078125
+            ],
+            "Orientation": [
+                -139.6832275390625,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999990463256836,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_Drill",
+            "DisplayName": "StaticObj_Furniture_Drill",
+            "Position": [
+                2204.1337890625,
+                188.0152130126953,
+                5245.23876953125
+            ],
+            "Orientation": [
+                -50.82114791870117,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999992847442627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ExpansionPropTableSaw",
+            "DisplayName": "ExpansionPropTableSaw",
+            "Position": [
+                2206.8046875,
+                187.24679565429688,
+                5239.8935546875
+            ],
+            "Orientation": [
+                -143.72409057617188,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999992847442627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_Metal_cutting_saw",
+            "DisplayName": "StaticObj_Furniture_Metal_cutting_saw",
+            "Position": [
+                2206.02099609375,
+                187.960205078125,
+                5243.49658203125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_radar_panel_flat",
+            "DisplayName": "StaticObj_Furniture_radar_panel_flat",
+            "Position": [
+                2198.4912109375,
+                186.681396484375,
+                5232.55322265625
+            ],
+            "Orientation": [
+                -143.667236328125,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_case_sink_a",
+            "DisplayName": "StaticObj_Furniture_case_sink_a",
+            "Position": [
+                2183.987548828125,
+                186.74533081054688,
+                5244.21240234375
+            ],
+            "Orientation": [
+                -144.41299438476563,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999982118606567,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_pult",
+            "DisplayName": "StaticObj_Furniture_pult",
+            "Position": [
+                2198.089111328125,
+                187.184326171875,
+                5238.94091796875
+            ],
+            "Orientation": [
+                36.62784194946289,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999983310699463,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_pult",
+            "DisplayName": "StaticObj_Furniture_pult",
+            "Position": [
+                2191.64892578125,
+                187.2363739013672,
+                5244.00537109375
+            ],
+            "Orientation": [
+                36.62784194946289,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999983310699463,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_pult",
+            "DisplayName": "StaticObj_Furniture_pult",
+            "Position": [
+                2194.793701171875,
+                187.18511962890626,
+                5248.33349609375
+            ],
+            "Orientation": [
+                36.62784194946289,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999983310699463,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_pult",
+            "DisplayName": "StaticObj_Furniture_pult",
+            "Position": [
+                2201.57275390625,
+                187.19647216796876,
+                5243.1962890625
+            ],
+            "Orientation": [
+                36.62784194946289,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999983310699463,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_scale",
+            "DisplayName": "StaticObj_Furniture_scale",
+            "Position": [
+                2198.31787109375,
+                188.16448974609376,
+                5238.71044921875
+            ],
+            "Orientation": [
+                123.65695190429688,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999979138374329,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ExpansionIndustrialProp_Hose",
+            "DisplayName": "ExpansionIndustrialProp_Hose",
+            "Position": [
+                2194.9296875,
+                187.8481903076172,
+                5248.27490234375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ExpansionIndustrialProp_Barrel1",
+            "DisplayName": "ExpansionIndustrialProp_Barrel1",
+            "Position": [
+                2187.501708984375,
+                187.12559509277345,
+                5246.93359375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_Anvil",
+            "DisplayName": "StaticObj_Furniture_Anvil",
+            "Position": [
+                2201.56103515625,
+                187.81048583984376,
+                5243.169921875
+            ],
+            "Orientation": [
+                37.091007232666019,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999985694885254,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_flag_chernarus_pole",
+            "DisplayName": "StaticObj_Furniture_flag_chernarus_pole",
+            "Position": [
+                2330.213623046875,
+                192.96412658691407,
+                5254.52001953125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_flag_chernarus_pole",
+            "DisplayName": "StaticObj_Furniture_flag_chernarus_pole",
+            "Position": [
+                2282.745361328125,
+                188.6204833984375,
+                5258.90234375
+            ],
+            "Orientation": [
+                92.80436706542969,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999954104423523,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_flag_chernarus_wall",
+            "DisplayName": "StaticObj_Furniture_flag_chernarus_wall",
+            "Position": [
+                2209.909912109375,
+                192.5570068359375,
+                5242.2001953125
+            ],
+            "Orientation": [
+                -54.046199798583987,
+                0.0,
+                0.0
+            ],
+            "Scale": 3.9999992847442629,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Garbage_Container_Plastic",
+            "DisplayName": "bldr_Garbage_Container_Plastic",
+            "Position": [
+                2227.525390625,
+                186.07643127441407,
+                5220.580078125
+            ],
+            "Orientation": [
+                37.89442825317383,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999983310699463,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Garbage_Container_Paper",
+            "DisplayName": "bldr_Garbage_Container_Paper",
+            "Position": [
+                2226.638427734375,
+                186.1143798828125,
+                5219.25390625
+            ],
+            "Orientation": [
+                32.619354248046878,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999994039535523,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_wheel_cart_DZ",
+            "DisplayName": "StaticObj_Furniture_wheel_cart_DZ",
+            "Position": [
+                2210.521728515625,
+                186.66722106933595,
+                5245.45947265625
+            ],
+            "Orientation": [
+                164.09230041503907,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999994039535523,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_sofa_leather_new",
+            "DisplayName": "StaticObj_Furniture_sofa_leather_new",
+            "Position": [
+                2220.134765625,
+                185.5791015625,
+                5265.1435546875
+            ],
+            "Orientation": [
+                -53.999996185302737,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_sofa_leather_new",
+            "DisplayName": "StaticObj_Furniture_sofa_leather_new",
+            "Position": [
+                2217.46484375,
+                185.5205841064453,
+                5267.234375
+            ],
+            "Orientation": [
+                128.57102966308595,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_sofa_leather_new",
+            "DisplayName": "StaticObj_Furniture_sofa_leather_new",
+            "Position": [
+                2217.572265625,
+                185.5533905029297,
+                5264.587890625
+            ],
+            "Orientation": [
+                34.38931655883789,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999979734420776,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_lobby_table",
+            "DisplayName": "StaticObj_Furniture_lobby_table",
+            "Position": [
+                2218.75244140625,
+                185.0699462890625,
+                5266.28369140625
+            ],
+            "Orientation": [
+                -53.999969482421878,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ExpansionKoz",
+            "DisplayName": "ExpansionKoz",
+            "Position": [
+                2223.149169921875,
+                185.3761749267578,
+                5211.7861328125
+            ],
+            "Orientation": [
+                -71.99994659423828,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ExpansionPipe_small",
+            "DisplayName": "ExpansionPipe_small",
+            "Position": [
+                2230.379150390625,
+                186.4281005859375,
+                5282.2353515625
+            ],
+            "Orientation": [
+                -8.999985694885254,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ExpansionContainer2b",
+            "DisplayName": "ExpansionContainer2b",
+            "Position": [
+                2293.900390625,
+                187.8085174560547,
+                5251.47705078125
+            ],
+            "Orientation": [
+                20.918638229370118,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999991655349731,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ExpansionContainer2c",
+            "DisplayName": "ExpansionContainer2c",
+            "Position": [
+                2289.763916015625,
+                187.8405303955078,
+                5252.8408203125
+            ],
+            "Orientation": [
+                11.918595314025879,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999985694885254,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ExpansionContainer1b",
+            "DisplayName": "ExpansionContainer1b",
+            "Position": [
+                2219.78466796875,
+                187.9062042236328,
+                5234.07568359375
+            ],
+            "Orientation": [
+                35.999969482421878,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_Pipes",
+            "DisplayName": "StaticObj_Misc_Pipes",
+            "Position": [
+                2224.733642578125,
+                186.03919982910157,
+                5234.8505859375
+            ],
+            "Orientation": [
+                -44.99999237060547,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_EngineCrane_01_F",
+            "DisplayName": "StaticObj_EngineCrane_01_F",
+            "Position": [
+                2209.94384765625,
+                187.65049743652345,
+                5239.45458984375
+            ],
+            "Orientation": [
+                -52.86872863769531,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.999998927116394,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_EngineCrane_01_F",
+            "DisplayName": "StaticObj_EngineCrane_01_F",
+            "Position": [
+                2211.7216796875,
+                187.6419219970703,
+                5241.755859375
+            ],
+            "Orientation": [
+                -52.86872863769531,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.999998927116394,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_EngineCrane_01_F",
+            "DisplayName": "StaticObj_EngineCrane_01_F",
+            "Position": [
+                2219.76611328125,
+                187.6393585205078,
+                5252.96044921875
+            ],
+            "Orientation": [
+                -95.76769256591797,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999992251396179,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_PalletTrolley_01_yellow_F",
+            "DisplayName": "StaticObj_PalletTrolley_01_yellow_F",
+            "Position": [
+                2213.567138671875,
+                187.31700134277345,
+                5243.81689453125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_PalletTrolley_01_yellow_F",
+            "DisplayName": "StaticObj_PalletTrolley_01_yellow_F",
+            "Position": [
+                2199.884033203125,
+                187.36822509765626,
+                5261.0634765625
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_Pallets3",
+            "DisplayName": "StaticObj_Misc_Pallets3",
+            "Position": [
+                2216.931640625,
+                187.7480926513672,
+                5254.498046875
+            ],
+            "Orientation": [
+                131.7666015625,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_Coil",
+            "DisplayName": "StaticObj_Misc_Coil",
+            "Position": [
+                2228.30908203125,
+                186.33897399902345,
+                5211.03271484375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_GContainer_Big",
+            "DisplayName": "StaticObj_Misc_GContainer_Big",
+            "Position": [
+                2307.282470703125,
+                186.0035400390625,
+                5212.74658203125
+            ],
+            "Orientation": [
+                166.94712829589845,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_GContainer_Big",
+            "DisplayName": "StaticObj_Misc_GContainer_Big",
+            "Position": [
+                2300.3203125,
+                186.04159545898438,
+                5211.4052734375
+            ],
+            "Orientation": [
+                166.94712829589845,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_BoardsPack2",
+            "DisplayName": "StaticObj_Misc_BoardsPack2",
+            "Position": [
+                2281.869384765625,
+                186.20030212402345,
+                5222.45556640625
+            ],
+            "Orientation": [
+                170.17543029785157,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_BoardsPack2",
+            "DisplayName": "StaticObj_Misc_BoardsPack2",
+            "Position": [
+                2279.12353515625,
+                186.17294311523438,
+                5222.11474609375
+            ],
+            "Orientation": [
+                170.17543029785157,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_BoardsPack2",
+            "DisplayName": "StaticObj_Misc_BoardsPack2",
+            "Position": [
+                2276.366943359375,
+                186.1728973388672,
+                5221.55908203125
+            ],
+            "Orientation": [
+                170.17543029785157,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_BoardsPack2",
+            "DisplayName": "StaticObj_Misc_BoardsPack2",
+            "Position": [
+                2273.70751953125,
+                186.17286682128907,
+                5221.03466796875
+            ],
+            "Orientation": [
+                170.17543029785157,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_Timbers4",
+            "DisplayName": "StaticObj_Misc_Timbers4",
+            "Position": [
+                2270.38720703125,
+                185.73355102539063,
+                5218.24853515625
+            ],
+            "Orientation": [
+                -100.85684204101563,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_TirePile",
+            "DisplayName": "StaticObj_Misc_TirePile",
+            "Position": [
+                2214.22021484375,
+                189.47909545898438,
+                5191.43798828125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ExpansionContainer1b",
+            "DisplayName": "ExpansionContainer1b",
+            "Position": [
+                2260.970703125,
+                186.65513610839845,
+                5218.71337890625
+            ],
+            "Orientation": [
+                167.4906463623047,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ExpansionContainer1b",
+            "DisplayName": "ExpansionContainer1b",
+            "Position": [
+                2255.123291015625,
+                186.65512084960938,
+                5217.39990234375
+            ],
+            "Orientation": [
+                167.4906463623047,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ExpansionContainer1b",
+            "DisplayName": "ExpansionContainer1b",
+            "Position": [
+                2248.892822265625,
+                186.6219482421875,
+                5216.12109375
+            ],
+            "Orientation": [
+                167.4906463623047,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ExpansionContainer2c",
+            "DisplayName": "ExpansionContainer2c",
+            "Position": [
+                2251.820556640625,
+                187.9361572265625,
+                5217.05517578125
+            ],
+            "Orientation": [
+                165.2283935546875,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999992847442627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "ExpansionContainer2b",
+            "DisplayName": "ExpansionContainer2b",
+            "Position": [
+                2257.953857421875,
+                187.837646484375,
+                5217.95751953125
+            ],
+            "Orientation": [
+                168.29486083984376,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999991655349731,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_Trailer_Flat",
+            "DisplayName": "StaticObj_Wreck_Trailer_Flat",
+            "Position": [
+                2299.856689453125,
+                186.6149139404297,
+                5250.72314453125
+            ],
+            "Orientation": [
+                -31.851133346557618,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999988675117493,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_BoardsPack2",
+            "DisplayName": "StaticObj_Misc_BoardsPack2",
+            "Position": [
+                2300.439208984375,
+                186.95375061035157,
+                5250.2392578125
+            ],
+            "Orientation": [
+                149.99188232421876,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Roads_Partasf2_6konec",
+            "DisplayName": "StaticObj_Roads_Partasf2_6konec",
+            "Position": [
+                2229.390869140625,
+                185.44105529785157,
+                5202.80322265625
+            ],
+            "Orientation": [
+                78.48390197753906,
+                -0.999998152256012,
+                0.0
+            ],
+            "Scale": 0.999998152256012,
+            "Flags": 2147483647
+        }
+    ],
+    "EditorDeletedObjects": [
+        {
+            "Type": "",
+            "Position": [
+                2209.68603515625,
+                188.71275329589845,
+                5221.8154296875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2218.087158203125,
+                186.18341064453126,
+                5234.314453125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2213.02734375,
+                186.2489013671875,
+                5222.77880859375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Land_Container_1Bo",
+            "Position": [
+                2216.585693359375,
+                186.66261291503907,
+                5221.9560546875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2208.814453125,
+                192.1397247314453,
+                5219.92236328125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2207.926513671875,
+                188.71217346191407,
+                5217.98974609375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2211.44580078125,
+                188.71414184570313,
+                5225.64111328125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2210.573974609375,
+                192.14024353027345,
+                5223.74853515625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Land_Train_742_Blue",
+            "Position": [
+                2211.8671875,
+                187.7196502685547,
+                5232.49365234375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2212.333740234375,
+                192.14157104492188,
+                5227.57421875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2214.09326171875,
+                192.14187622070313,
+                5231.39990234375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2213.205322265625,
+                188.7144317626953,
+                5229.46728515625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2214.96484375,
+                188.71363830566407,
+                5233.29296875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2216.724365234375,
+                188.71209716796876,
+                5237.11865234375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2217.6123046875,
+                192.13941955566407,
+                5239.05126953125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2226.989990234375,
+                186.6446533203125,
+                5243.8876953125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2222.003173828125,
+                188.71426391601563,
+                5248.595703125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Land_Workshop1",
+            "Position": [
+                2227.468017578125,
+                186.63742065429688,
+                5254.89501953125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2215.852783203125,
+                192.14100646972657,
+                5235.2255859375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2218.48388671875,
+                188.70980834960938,
+                5240.9443359375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2220.243408203125,
+                188.71322631835938,
+                5244.77001953125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2223.1484375,
+                186.15711975097657,
+                5245.828125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2223.7626953125,
+                188.71456909179688,
+                5252.421875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2225.522216796875,
+                188.71560668945313,
+                5256.24755859375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2224.650634765625,
+                192.14208984375,
+                5254.3544921875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2222.89111328125,
+                192.1416778564453,
+                5250.52880859375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2221.131591796875,
+                192.140869140625,
+                5246.70263671875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2219.371826171875,
+                192.13694763183595,
+                5242.876953125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Land_Train_742_Blue",
+            "Position": [
+                2217.224609375,
+                187.6999053955078,
+                5244.67626953125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Land_Sawmill_Illuminanttower",
+            "Position": [
+                2232.111328125,
+                195.30035400390626,
+                5228.20947265625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2221.345947265625,
+                186.57476806640626,
+                5217.58935546875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2221.6123046875,
+                186.61753845214845,
+                5213.5966796875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2219.308837890625,
+                186.61378479003907,
+                5215.357421875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2219.250732421875,
+                186.16908264160157,
+                5211.25
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Land_Farm_WaterTower_Small",
+            "Position": [
+                2206.086669921875,
+                190.83030700683595,
+                5202.07177734375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Land_Container_1Aoh",
+            "Position": [
+                2239.970458984375,
+                186.5392303466797,
+                5222.10888671875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2248.876708984375,
+                186.07237243652345,
+                5223.43017578125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2264.02734375,
+                188.4143829345703,
+                5220.79541015625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2261.9296875,
+                188.39955139160157,
+                5231.24462890625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2259.858154296875,
+                188.38438415527345,
+                5241.67626953125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Land_Container_1Bo",
+            "Position": [
+                2248.91650390625,
+                186.5390625,
+                5245.8125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Land_Workshop3",
+            "Position": [
+                2264.2578125,
+                186.58506774902345,
+                5250.7080078125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2240.005615234375,
+                186.65277099609376,
+                5262.61669921875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2244.642578125,
+                186.63870239257813,
+                5262.78955078125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2256.770263671875,
+                186.39756774902345,
+                5226.37255859375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2257.672119140625,
+                186.39756774902345,
+                5223.32666015625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2257.985107421875,
+                186.39756774902345,
+                5221.71240234375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2255.975830078125,
+                185.8932342529297,
+                5221.40478515625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2259.009765625,
+                186.06423950195313,
+                5215.87353515625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2257.7529296875,
+                185.8932342529297,
+                5216.9853515625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2261.817626953125,
+                186.39756774902345,
+                5217.93896484375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2258.01318359375,
+                186.14247131347657,
+                5224.98974609375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2262.060791015625,
+                186.39756774902345,
+                5216.40283203125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2268.280517578125,
+                186.07736206054688,
+                5218.65087890625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2269.802978515625,
+                186.41677856445313,
+                5218.9091796875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2276.9755859375,
+                186.09425354003907,
+                5219.353515625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2271.42626953125,
+                186.08993530273438,
+                5219.0859375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2266.231689453125,
+                186.06919860839845,
+                5225.00537109375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2265.625244140625,
+                185.89573669433595,
+                5223.513671875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2269.217529296875,
+                186.41445922851563,
+                5225.626953125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2268.782958984375,
+                186.40536499023438,
+                5229.32568359375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2270.47412109375,
+                186.4072265625,
+                5230.044921875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2269.286865234375,
+                186.05657958984376,
+                5232.2080078125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2253.49951171875,
+                186.14247131347657,
+                5214.8134765625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2271.248779296875,
+                185.91819763183595,
+                5225.8271484375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2239.994384765625,
+                186.17141723632813,
+                5223.6318359375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2246.044921875,
+                186.18087768554688,
+                5224.8525390625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2255.3193359375,
+                186.19236755371095,
+                5228.3359375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2267.4169921875,
+                186.19107055664063,
+                5230.75390625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2267.315185546875,
+                186.1614227294922,
+                5235.517578125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2261.226806640625,
+                186.1641082763672,
+                5234.33056640625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2255.040283203125,
+                186.17059326171876,
+                5233.08447265625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2248.95068359375,
+                186.17982482910157,
+                5231.84619140625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2246.3857421875,
+                186.2047576904297,
+                5228.0966796875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2251.316162109375,
+                186.17257690429688,
+                5238.3369140625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2252.079833984375,
+                186.16688537597657,
+                5243.3251953125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2245.989990234375,
+                186.17141723632813,
+                5242.0869140625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2258.266357421875,
+                186.16143798828126,
+                5244.5712890625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2264.5322265625,
+                186.1614227294922,
+                5245.81298828125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2270.6044921875,
+                186.1614227294922,
+                5247.01220703125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2275.714599609375,
+                186.1642303466797,
+                5243.13037109375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2263.492431640625,
+                186.1642303466797,
+                5240.744140625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2273.387451171875,
+                186.1614227294922,
+                5236.71728515625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2279.505859375,
+                186.17779541015626,
+                5233.12890625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2276.70751953125,
+                186.18443298339845,
+                5248.22998046875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2279.490478515625,
+                186.18443298339845,
+                5237.93505859375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2272.004638671875,
+                185.96107482910157,
+                5250.533203125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Land_Container_1Aoh",
+            "Position": [
+                2296.587890625,
+                186.52029418945313,
+                5258.61962890625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2298.60107421875,
+                186.00083923339845,
+                5268.6640625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2297.494384765625,
+                185.76632690429688,
+                5270.1025390625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2294.955078125,
+                185.22459411621095,
+                5264.8330078125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2298.8291015625,
+                185.18289184570313,
+                5267.419921875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2291.30908203125,
+                185.45167541503907,
+                5267.61328125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2289.4619140625,
+                185.39688110351563,
+                5258.990234375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2290.97900390625,
+                185.3792266845703,
+                5258.34765625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2283.0498046875,
+                185.4634552001953,
+                5268.98681640625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2271.384765625,
+                186.48719787597657,
+                5265.80615234375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2248.37158203125,
+                186.00425720214845,
+                5263.6064453125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2246.406982421875,
+                186.00936889648438,
+                5268.5029296875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2248.760986328125,
+                185.99867248535157,
+                5259.6005859375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2240.980224609375,
+                186.0078887939453,
+                5268.1796875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2236.212158203125,
+                186.00747680664063,
+                5263.81396484375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushSoft_b_betulaHumilis_1s",
+            "Position": [
+                2271.7900390625,
+                186.14950561523438,
+                5268.3291015625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushSoft_b_betulaHumilis_1s",
+            "Position": [
+                2229.349609375,
+                186.10787963867188,
+                5244.7666015625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushSoft_b_betulaHumilis_1s",
+            "Position": [
+                2222.642578125,
+                186.17735290527345,
+                5216.42919921875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Land_Workshop1",
+            "Position": [
+                2717.7119140625,
+                201.24600219726563,
+                5234.5732421875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Land_City_Stand_FastFood",
+            "Position": [
+                2709.007080078125,
+                201.524169921875,
+                5239.05322265625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2344.33203125,
+                190.41067504882813,
+                5250.47412109375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2342.3466796875,
+                190.48468017578126,
+                5252.75
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2347.724609375,
+                190.2740020751953,
+                5246.48486328125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2243.50927734375,
+                186.14788818359376,
+                5197.9609375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2241.679443359375,
+                185.49554443359376,
+                5198.84423828125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2242.22021484375,
+                185.81259155273438,
+                5196.59375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2329.587890625,
+                190.40625,
+                5267.50341796875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2333.34521484375,
+                190.498046875,
+                5264.30029296875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Land_Guardhouse",
+            "Position": [
+                2332.987060546875,
+                190.69970703125,
+                5260.3076171875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2311.02001953125,
+                189.69033813476563,
+                5282.0478515625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2295.7724609375,
+                189.34132385253907,
+                5290.8603515625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushSoft_b_betulaHumilis_1s",
+            "Position": [
+                2297.666015625,
+                189.3425750732422,
+                5289.58349609375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2297.561279296875,
+                189.38568115234376,
+                5290.181640625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2278.7900390625,
+                189.687744140625,
+                5295.22119140625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2221.24267578125,
+                186.02552795410157,
+                5254.17041015625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2212.1552734375,
+                184.63385009765626,
+                5233.27978515625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2196.286376953125,
+                184.7256317138672,
+                5196.62841796875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2183.81201171875,
+                184.8174591064453,
+                5169.46435546875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Land_Wall_Gate_Ind2Rail_R",
+            "Position": [
+                2186.455322265625,
+                186.62982177734376,
+                5178.50341796875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2184.34521484375,
+                186.16770935058595,
+                5179.9853515625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2189.936767578125,
+                186.09085083007813,
+                5175.75732421875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2173.150634765625,
+                184.8124237060547,
+                5152.91796875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2214.714599609375,
+                188.12542724609376,
+                5289.646484375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2207.974365234375,
+                186.1747283935547,
+                5273.42724609375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2193.3251953125,
+                186.01092529296876,
+                5255.0078125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2182.654296875,
+                186.75308227539063,
+                5243.45068359375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2185.3837890625,
+                186.47174072265626,
+                5246.3369140625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2186.1953125,
+                186.46963500976563,
+                5215.8447265625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2185.876708984375,
+                186.52883911132813,
+                5217.7734375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2186.627197265625,
+                186.3544158935547,
+                5210.4150390625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2183.72412109375,
+                186.18264770507813,
+                5181.11328125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_t_PinusSylvestris_1f",
+            "Position": [
+                2182.10986328125,
+                186.413330078125,
+                5177.84716796875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2182.633544921875,
+                186.1219482421875,
+                5177.3427734375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2182.080078125,
+                186.08766174316407,
+                5175.1533203125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2191.09814453125,
+                186.08726501464845,
+                5171.041015625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2188.705810546875,
+                186.0878143310547,
+                5172.81640625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_FagusSylvatica_2s",
+            "Position": [
+                2193.256591796875,
+                192.50418090820313,
+                5216.8076171875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_FagusSylvatica_2s",
+            "Position": [
+                2191.576416015625,
+                195.23521423339845,
+                5224.91552734375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_FagusSylvatica_2s",
+            "Position": [
+                2195.15380859375,
+                191.88571166992188,
+                5239.66748046875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeSoft_t_FagusSylvatica_1s",
+            "Position": [
+                2198.725341796875,
+                188.48666381835938,
+                5240.724609375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_crataegusLaevigata_2s",
+            "Position": [
+                2203.18505859375,
+                187.78346252441407,
+                5247.451171875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_corylusAvellana_2s",
+            "Position": [
+                2189.15869140625,
+                187.70970153808595,
+                5245.03125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushSoft_b_betulaHumilis_1s",
+            "Position": [
+                2190.10791015625,
+                186.3258819580078,
+                5232.671875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_prunusSpinosa_1s",
+            "Position": [
+                2201.8271484375,
+                186.61041259765626,
+                5193.9873046875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2202.108154296875,
+                184.65438842773438,
+                5194.1162109375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_corylusAvellana_2s",
+            "Position": [
+                2190.68115234375,
+                187.3267364501953,
+                5197.3857421875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeSoft_t_FagusSylvatica_2sb",
+            "Position": [
+                2189.779052734375,
+                191.2108612060547,
+                5198.39599609375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeSoft_t_FagusSylvatica_1s",
+            "Position": [
+                2188.819580078125,
+                188.14544677734376,
+                5190.8388671875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushSoft_b_betulaHumilis_1s",
+            "Position": [
+                2201.9384765625,
+                186.07693481445313,
+                5199.66650390625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2189.348876953125,
+                186.13941955566407,
+                5250.70556640625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2197.477294921875,
+                186.00869750976563,
+                5259.28369140625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2201.609375,
+                186.00656127929688,
+                5263.57080078125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2205.10791015625,
+                186.0050811767578,
+                5268.31298828125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2210.9443359375,
+                186.67823791503907,
+                5278.53662109375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2213.177978515625,
+                187.34031677246095,
+                5283.9921875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2182.896240234375,
+                186.9584197998047,
+                5233.20361328125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2325.11474609375,
+                190.30674743652345,
+                5271.39892578125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_populusNigra_3s",
+            "Position": [
+                2324.546875,
+                201.258544921875,
+                5255.58935546875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushSoft_b_betulaHumilis_1s",
+            "Position": [
+                2294.29443359375,
+                186.2277069091797,
+                5261.63330078125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushSoft_b_betulaHumilis_1s",
+            "Position": [
+                2301.2841796875,
+                185.7685546875,
+                5266.1044921875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Land_wreck_truck01_aban1_green",
+            "Position": [
+                2297.184814453125,
+                185.5160675048828,
+                5215.017578125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushSoft_b_betulaHumilis_1s",
+            "Position": [
+                2300.942626953125,
+                186.5131378173828,
+                5247.69140625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2206.524169921875,
+                186.3702850341797,
+                5186.87255859375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2212.280517578125,
+                186.08775329589845,
+                5190.9091796875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2208.9541015625,
+                186.09474182128907,
+                5191.30029296875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2205.295166015625,
+                186.08428955078126,
+                5189.68701171875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2199.3466796875,
+                186.0653533935547,
+                5187.18212890625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2198.491455078125,
+                186.06085205078126,
+                5185.123046875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2213.038818359375,
+                186.08401489257813,
+                5188.1044921875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2213.4638671875,
+                186.0825653076172,
+                5186.69970703125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                2199.4052734375,
+                186.06350708007813,
+                5182.38818359375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_t_PiceaAbies_1sb",
+            "Position": [
+                2234.546875,
+                186.10931396484376,
+                5269.26513671875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Land_HouseBlock_2F5",
+            "Position": [
+                2737.3798828125,
+                211.21054077148438,
+                5262.5537109375
+            ],
+            "Flags": 0
+        }
+    ]
+}
