@@ -111,7 +111,7 @@ modded class AirRaid
 				formationSize = Math.RandomIntInclusive(35,50);
 				formationType = Math.RandomIntInclusive(1,3);
 				altitude = Math.RandomIntInclusive(55,80);
-				speed = 78;
+				speed = 60;
 
 				multiplier = Math.RandomFloatInclusive(1.0,1.1);
 				pos[0] = ( pos[0] / Orispeed ) * ( speed * multiplier );
@@ -162,7 +162,7 @@ modded class AirRaid
 				formationSize = Math.RandomIntInclusive(35,50);
 				formationType = Math.RandomIntInclusive(1,3);
 				altitude = Math.RandomIntInclusive(55,80);
-				speed = 78;
+				speed = 60;
 
 				multiplier = Math.RandomFloatInclusive(1.0,1.1);
 				pos[0] = ( pos[0] / Orispeed ) * ( speed * multiplier );
@@ -196,7 +196,7 @@ modded class AirRaid
 		int formationSize = Math.RandomIntInclusive(35,50);
 		int formationType = Math.RandomIntInclusive(1,3);
 		float altitude = Math.RandomIntInclusive(55,80);
-		float speed = 78;
+		float speed = 60;
 
 		vector pos;
 		SpawnAirBase(locationCfg, "CW95_Mi24", amount, formationSize, formationType, altitude, speed, pos);
@@ -213,7 +213,7 @@ modded class AirRaid
 				formationSize = Math.RandomIntInclusive(35,50);
 				formationType = Math.RandomIntInclusive(1,3);
 				altitude = Math.RandomIntInclusive(55,80);
-				speed = 78;
+				speed = 60;
 
 				multiplier = Math.RandomFloatInclusive(1.0,1.1);
 				pos[0] = ( pos[0] / Orispeed ) * ( speed * multiplier );
@@ -247,7 +247,7 @@ modded class AirRaid
 		int formationSize = Math.RandomIntInclusive(35,50);
 		int formationType = Math.RandomIntInclusive(1,3);
 		float altitude = Math.RandomIntInclusive(55,80);
-		float speed = 78;
+		float speed = 60;
 
 		vector pos;
 		SpawnAirBase(locationCfg, "CW95_Mi6", amount, formationSize, formationType, altitude, speed, pos);
@@ -264,7 +264,7 @@ modded class AirRaid
 				formationSize = Math.RandomIntInclusive(35,50);
 				formationType = Math.RandomIntInclusive(1,3);
 				altitude = Math.RandomIntInclusive(55,80);
-				speed = 78;
+				speed = 60;
 
 				multiplier = Math.RandomFloatInclusive(1.0,1.1);
 				pos[0] = ( pos[0] / Orispeed ) * ( speed * multiplier );

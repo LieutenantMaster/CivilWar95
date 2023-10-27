@@ -15,18 +15,22 @@ modded class ActionConstructor
 	{
 		super.RegisterActions(actions);
 
+		//! ARMED VEHICLES
 		actions.Insert(CW95_ActionVehicleFlare);
 		actions.Insert(CW95_ActionVehicleRocket);
 
+		//! FIREFIGHTING
 		actions.Insert(CW95_ActionExtinguishByExtinguisher);
 		actions.Insert(CW95_ActionExtinguishByLiquid);
 		
+		//! MISC
 		actions.Insert(CW95_ActionRaiseWhistleSelf);
 		
 #ifdef CW95_ENABLE_KNOCK
 		actions.Insert(CW95_ActionKnockAtDoor);
 #endif
 
+		//! MUSIC PLAYER
 		actions.Insert(MP_PlayMusicAction);
 		actions.Insert(MP_StopAction);
 

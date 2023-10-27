@@ -17,4 +17,9 @@ modded class CraftWoodenPlank
 
 		m_ResultSetQuantity[0] = 5;
 	}
+	
+	override string GetSoundCategory(int ingredientIndex, ItemBase item)
+	{
+		return "Zen_SawWood";
+	}
 };

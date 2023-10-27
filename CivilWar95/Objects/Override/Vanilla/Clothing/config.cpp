@@ -56,7 +56,7 @@ class CfgVehicles
 	};
 	class HighCapacityVest_ColorBase: Clothing
 	{
-		itemSize[]={6,5};
+		itemSize[]={4,3};
 		itemsCargoSize[]={7,5};
 	};
 	class LeatherStorageVest_ColorBase: Clothing
@@ -97,8 +97,8 @@ class CfgVehicles
 	};
 	class TacticalShirt_ColorBase: Clothing
 	{
-		itemSize[]={6,5};
-		itemsCargoSize[]={5,4};
+		itemSize[]={3,2};
+		itemsCargoSize[]={3,3};
 	};
 	class HikingJacket_ColorBase: Clothing
 	{
@@ -117,18 +117,18 @@ class CfgVehicles
 	};
 	class M65Jacket_ColorBase: Clothing
 	{
-		itemSize[]={7,6};
-		itemsCargoSize[]={6,5};
+		itemSize[]={3,2};
+		itemsCargoSize[]={3,3};
 	};
 	class TTsKOJacket_ColorBase: Clothing
 	{
-		itemSize[]={7,6};
-		itemsCargoSize[]={6,5};
+		itemSize[]={3,2};
+		itemsCargoSize[]={3,3};
 	};
 	class GorkaEJacket_ColorBase: Clothing
 	{
-		itemSize[]={7,6};
-		itemsCargoSize[]={6,5};
+		itemSize[]={3,2};
+		itemsCargoSize[]={3,3};
 	};
 	class RidersJacket_ColorBase: Clothing
 	{
@@ -212,8 +212,8 @@ class CfgVehicles
 	};
 	class USMCJacket_ColorBase: Clothing
 	{
-		itemSize[]={7,6};
-		itemsCargoSize[]={6,5};
+		itemSize[]={3,2};
+		itemsCargoSize[]={3,3};
 	};
 	class Blouse_ColorBase: Clothing
 	{
@@ -247,8 +247,8 @@ class CfgVehicles
 	};
 	class BDUJacket: Clothing
 	{
-		itemSize[]={7,6};
-		itemsCargoSize[]={6,5};
+		itemSize[]={3,2};
+		itemsCargoSize[]={3,3};
 	};
 	class ManSuit_ColorBase: Clothing
 	{
@@ -283,8 +283,8 @@ class CfgVehicles
 	};
 	class TTSKOPants: Clothing
 	{
-		itemSize[]={6,5};
-		itemsCargoSize[]={5,4};
+		itemSize[]={3,2};
+		itemsCargoSize[]={3,3};
 	};
 	class HunterPants_ColorBase: Clothing
 	{
@@ -308,8 +308,8 @@ class CfgVehicles
 	};
 	class GorkaPants_ColorBase: Clothing
 	{
-		itemSize[]={6,5};
-		itemsCargoSize[]={5,4};
+		itemSize[]={3,2};
+		itemsCargoSize[]={3,3};
 	};
 	class PolicePants: Clothing
 	{
@@ -348,8 +348,8 @@ class CfgVehicles
 	};
 	class USMCPants_ColorBase: Clothing
 	{
-		itemSize[]={6,5};
-		itemsCargoSize[]={5,4};
+		itemSize[]={3,2};
+		itemsCargoSize[]={3,3};
 	};
 	class SlacksPants_ColorBase: Clothing
 	{
@@ -358,13 +358,13 @@ class CfgVehicles
 	};
 	class BDUPants: Clothing
 	{
-		itemSize[]={6,5};
-		itemsCargoSize[]={5,4};
+		itemSize[]={3,2};
+		itemsCargoSize[]={3,2};
 	};
 	class NBCPantsBase: Clothing
 	{
 		itemSize[]={3,2};
-		itemsCargoSize[]={5,4};
+		itemsCargoSize[]={3,2};
 	};
 	class Breeches_ColorBase: Clothing
 	{

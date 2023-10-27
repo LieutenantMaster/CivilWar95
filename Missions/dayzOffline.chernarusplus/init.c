@@ -78,42 +78,7 @@ class CustomMission: MissionServer
 		}
 		CloseFile(file);
 
-		GetFactionData(factionName, m_player.IsMale(), loadoutType, spawnPos);
-
-		if ( factionName == "" || factionName == "Civilian" )
-			factionName = "Civil";
-		
-		typename factionType = eAIFaction.GetType(factionName);
-		if (factionType)
-		{
-			eAIFaction faction = eAIFaction.Cast(factionType.Spawn());
-			if (faction)
-			{
-				factionName = faction.GetName();
-				if (m_player.GetGroup())
-				{
-					m_player.GetGroup().SetFaction(faction);
-				} else {
-					eAIGroup group = eAIGroup.GetGroupByLeader(m_player, true, faction);
-				}
-			}
-		}
-
-		TStringArray gear = new TStringArray;
-		loadoutType.Split( ",", gear );
-		if ( gear.Count() > 1 )
-		{
-			ExpansionObjectSpawnTools.ProcessGear(m_player, loadoutType);
-		} else {
-			ExpansionHumanLoadout.Apply(m_player, loadoutType, false);
-		}
-
-		m_player.SetPosition(spawnPos);
-		m_player.SetHeightData(height);
-	}
-
-	void GetFactionData(out string factionName, bool isMale, out string loadoutType, out vector spawnPos)
-	{
+		bool isMale = m_player.IsMale()
 		string factionLoadout;
 		vector SelectedPos;
 
@@ -123,7 +88,7 @@ class CustomMission: MissionServer
 		switch(factionName)
 		{
 			case "": // New Player !
-				factionName = "Civilian";
+				factionName = "Civil";
 				SelectedPos = "2474.515869 190.759171 5221.121582";
 				if ( isMale )
 					factionLoadout = "PlayerSurvivorLoadout";
@@ -131,7 +96,9 @@ class CustomMission: MissionServer
 					factionLoadout = "PlayerSurvivorLoadout";
 			break;
 			default:
+			case "Civil":
 			case "Civilian":
+				m_player.SetHealth( "GlobalHealth", "Health", 20 );
 				SelectedPos = "2760.51 206.098 5175.6";
 				if ( isMale )
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
@@ -139,6 +106,7 @@ class CustomMission: MissionServer
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 			break;
 			case "Pompier":
+				m_player.SetHealth( "GlobalHealth", "Health", 20 );
 				SelectedPos = "2760.51 206.098 5175.6";
 				if ( isMale )
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
@@ -188,6 +156,37 @@ class CustomMission: MissionServer
 
 		if ( !skipLoadoutSelection )
 			loadoutType = factionLoadout;
+
+		if ( factionName == "" || factionName == "Civilian" )
+			factionName = "Civil";
+		
+		typename factionType = eAIFaction.GetType(factionName);
+		if (factionType)
+		{
+			eAIFaction faction = eAIFaction.Cast(factionType.Spawn());
+			if (faction)
+			{
+				factionName = faction.GetName();
+				if (m_player.GetGroup())
+				{
+					m_player.GetGroup().SetFaction(faction);
+				} else {
+					eAIGroup group = eAIGroup.GetGroupByLeader(m_player, true, faction);
+				}
+			}
+		}
+
+		TStringArray gear = new TStringArray;
+		loadoutType.Split( ",", gear );
+		if ( gear.Count() > 1 )
+		{
+			ExpansionObjectSpawnTools.ProcessGear(m_player, loadoutType);
+		} else {
+			ExpansionHumanLoadout.Apply(m_player, loadoutType, false);
+		}
+
+		m_player.SetPosition(spawnPos);
+		m_player.SetHeightData(height);
 	}
 
 	override bool IsScheaduledRestart()

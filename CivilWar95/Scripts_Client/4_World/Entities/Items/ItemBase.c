@@ -10,8 +10,11 @@
 */
 
 modded class ItemBase
-{
-	static const float MAX_SOUND_RANGE = 25; // Mainly in place to stop bleed at long range
+{	
+	static const float MAX_SOUND_RANGE = 5; // Mainly in place to stop bleed at long range
+	static const float MIN_SOUND_VOLUME = 0.8;
+	static const float MAX_SOUND_VOLUME = 1.2;
+	static const int MAX_ITEM_AREA = 6;
 
 	bool IsPlayBackDevice()
 	{
@@ -22,7 +25,7 @@ modded class ItemBase
 	{
 		//! TODO: Add in config.cpp a entry about item replacement to then scan here and return
 		GetGame().ConfigGetText("cfgVehicles" + " " + GetType() + " "+ "EmptyReplaceWith", typeName);
-		return (typeName != "");
+		return typeName != "";
 	}
 
 	bool ReplaceWithEmpty()
@@ -40,25 +43,93 @@ modded class ItemBase
 
 		return false;
 	}
-
-/*
-#ifdef EXPANSIONMODBASEBUILDING
-	string CW95_GetOriginalCodeOwner()
-	{
-		if (!IsInherited(ExpansionCodeLock) && !IsInherited(ExpansionSafeBase))
-		{
-			ExpansionCodeLock codelock = ExpansionGetCodeLock();
-			if (codelock)
-				return codelock.CW95_GetOriginalCodeOwner();
-		}
-
-		return "";
-	}
 	
-	ExpansionCodeLock ExpansionGetCodeLock()
+#ifndef SERVER
+	override void EEItemLocationChanged(notnull InventoryLocation oldLoc, notnull InventoryLocation newLoc)
 	{
-		return ExpansionCodeLock.Cast(GetAttachmentByConfigTypeName("ExpansionCodeLock"));
+		super.EEItemLocationChanged(oldLoc, newLoc);
+		
+		if (!oldLoc || !newLoc)
+			return;
+
+		if (oldLoc.GetType() == InventoryLocationType.UNKNOWN || newLoc.GetType() == InventoryLocationType.UNKNOWN)
+			return;
+
+		if (oldLoc.GetType() == InventoryLocationType.HANDS && newLoc.GetType() == InventoryLocationType.ATTACHMENT)
+			return;
+
+		if (oldLoc.GetType() == InventoryLocationType.ATTACHMENT && newLoc.GetType() == InventoryLocationType.HANDS)
+			return;
+
+		if (!GetGame().GetPlayer())
+			return;
+
+		float distance = vector.Distance(GetPosition(), GetGame().GetPlayer().GetPosition());
+		
+		if (distance > MAX_SOUND_RANGE)
+			return;
+
+		array<string> sounds = {};
+		ConfigGetTextArray("ItemMoveSounds", sounds);
+
+		array<string> pathNames = {"CfgVehicles","CfgWeapons","CfgMagazines","CfgAmmo"};
+		array<string> soundSets = {"pickUpItem","pickUpItem_Light","pickup","drop"};
+		
+		for(int i=0; i < pathNames.Count(); i++)
+		{
+			if ( GetGame().ConfigIsExisting(pathNames[i] + " " + GetName()) )
+				continue;
+
+			string path = pathNames[i] + " " + GetName() + "AnimEvents SoundWeapon";
+
+			for(int j=0; j < soundSets.Count(); j++)
+			{
+				if (GetGame().ConfigIsExisting(path +" "+ soundSets[j] +" soundSet"))
+				{
+					string soundName = "";
+					GetGame().ConfigGetText(path +" "+ soundSets[j] +" soundSet", soundName);
+
+					string debug_path = path +" "+ soundSets[j] +" soundSet";
+
+					if ( soundName != "" )
+						sounds.Insert(soundName);
+				}
+			}
+		}
+		distance = distance / MAX_SOUND_RANGE;
+		if ( distance < 1 )
+			distance = 1;
+		
+		float volume = Math.Clamp(GetItemArea() / MAX_ITEM_AREA, MIN_SOUND_VOLUME, MAX_SOUND_VOLUME);
+		volume = volume / distance;
+		EffectSound sound = SEffectManager.CreateSound(sounds.GetRandomElement(), GetPosition());
+		if (sound)
+		{
+			sound.SetSoundAutodestroy(true);
+			sound.SoundPlay();
+			if (sound.CW95_GetWave())
+				sound.CW95_GetWave().SetVolume(volume);
+		}
 	}
 #endif
-*/
+	
+	int GetItemArea()
+	{
+		int area = 1;
+		TIntArray item_size = {};
+		ConfigGetIntArray("itemSize", item_size);
+		foreach (int item_s: item_size)
+		{
+			area *= item_s;
+		}
+		
+		return area;
+	}
+
+	override void UnlockAndOpen( string selection ) 
+	{
+		super.UnlockAndOpen(selection);
+
+		ExpansionLock();
+	}
 };

@@ -34,7 +34,7 @@ modded class ExpansionMarketMenu
         CW95_BuyTaxPrice = 0;
         CW95_SellTaxPrice = 0;
 		int color;
-		PlayerBase player = GetGame().GetPlayer();
+		PlayerBase player = PlayerBase.Cast(GetGame().GetPlayer());
 
 		if ( m_SellPrice > -1 )
 		{

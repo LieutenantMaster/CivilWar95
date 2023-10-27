@@ -14,6 +14,15 @@ class CfgPatches
 
 class CfgVehicles
 {
+	class Inventory_Base;
+	class CW95_StaticBarbedWire: Inventory_Base
+	{
+		scope = 1;
+		model = "\dz\gear\consumables\Stone.p3d";
+		hiddenSelections[] = { "zbytek" };
+		hiddenSelectionsTextures[] = { "#(argb,8,8,3)color(1,1,1,0,CA)" };
+	};
+
 	class TripwireTrap;
 	class CW95_ArmedTripwireTrap: TripwireTrap {};
 

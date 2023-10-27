@@ -1,10 +1,5 @@
 {
-    "m_Version": 8,
-    "ReputationOnKillInfected": 5,
-    "ReputationOnKillPlayer": 10,
-    "ReputationOnKillAnimal": 5,
-    "ReputationOnKillAI": 10,
-    "ReputationLossOnDeath": 100,
+    "m_Version": 10,
     "PoorItemRequirement": 0,
     "CommonItemRequirement": 0,
     "UncommonItemRequirement": 1000,
@@ -18,8 +13,23 @@
     "UseFactionReputation": 0,
     "EnableFactionPersistence": 0,
     "EnableItemRarity": 0,
+    "UseItemRarityOnInventoryIcons": 1,
     "UseItemRarityForMarketPurchase": 0,
     "UseItemRarityForMarketSell": 0,
     "MaxReputation": 0,
+    "ReputationLossOnDeath": 100,
+    "DefaultItemRarity": 2,
+    "EntityReputation": {
+        "Animal_GallusGallusDomesticus": 1,
+        "eAIBase": 10,
+        "AnimalBase": 5,
+        "ZmbM_SoldierNormal_Base": 20,
+        "Animal_UrsusArctos": 50,
+        "ZmbM_NBC_Grey": 20,
+        "ZombieBase": 5,
+        "PlayerBase": 10,
+        "Animal_UrsusMaritimus": 50,
+        "ZmbM_NBC_Yellow": 20
+    },
     "ItemRarity": {}
 }

@@ -17,16 +17,20 @@ modded class PlayerBase
 
 	protected bool m_WasSurrender;
 
-#ifdef DIAG
-#ifndef SERVER
 	void PlayerBase()
 	{
 		if ( IsAI() )
-			SetHeightData(Math.RandomFloatInclusive(0.9, 1.1));
+			SetHeightData(Math.RandomFloatInclusive(0.89, 1.11));
+#ifdef DIAG
+#ifndef SERVER
 		else
 			GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).CallLater( CW95_DelayedInit, 1000, false );
+#endif
+#endif
 	}
 	
+#ifdef DIAG
+#ifndef SERVER
 	void CW95_DelayedInit()
 	{
 		m_FrontLineManager = new FrontLineManager();
@@ -46,7 +50,7 @@ modded class PlayerBase
 
 	void SetHeightData(float newScale)
 	{
-		if ( newScale > 0.7 && newScale < 1.2 )
+		if ( newScale > 0.7 && newScale < 1.3 )
 		{
 			m_PScale = newScale;
 		} else {
@@ -112,9 +116,7 @@ modded class PlayerBase
 				if (GetGroup())
 				{
 					GetGroup().SetFaction(faction);
-				}
-				else
-				{
+				} else {
 					eAIGroup group = eAIGroup.GetGroupByLeader(this, true, faction);
 				}
 			}
@@ -146,6 +148,7 @@ modded class PlayerBase
 		string factionName;
 		string loadoutType = "DEFAULT";
 		vector spawnPos = "0 0 0";
+		float height = -1;
 
 		string filename = CW95_PATH_MISSION_PLAYERDATA + steamID + ".map";
 
@@ -164,6 +167,8 @@ modded class PlayerBase
 					factionName	= tokens.Get( 0 );
 					loadoutType = tokens.Get( 1 );
 					spawnPos 	= tokens.Get( 2 ).ToVector();
+					if ( tokens.Count() > 3 )
+						height 	= tokens.Get( 3 ).ToFloat();
 				}
 			}
 			CloseFile(file);
@@ -178,7 +183,10 @@ modded class PlayerBase
 		if ( factionName == "" || factionName == "Civilian" )
 			factionName = "Civil";
 
-		string primaryData 		= factionName + 			"|" + loadoutType + 		  "|" + spawnPos.ToString() + "|" + m_PScale;
+		if ( height == -1 )
+			height = m_PScale;
+
+		string primaryData 		= factionName + 			"|" + loadoutType + 		  "|" + spawnPos.ToString() + "|" + height;
 		string secondaryData 	= GetIdentity().GetName() + "|" + GetIdentity().GetId() + "|" + steamID;
 
 		file = OpenFile(filename, FileMode.WRITE);

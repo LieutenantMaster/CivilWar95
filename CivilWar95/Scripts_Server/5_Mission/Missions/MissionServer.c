@@ -96,9 +96,11 @@ modded class MissionServer
 			}
 		}
 
+		return;
+		
 		foreach (Man juan: m_Players)
 		{
-			if ( !juan.GetIdentity() )
+			if ( !juan || !juan.GetIdentity() )
 				continue;
 
 			// Dont check dead players just in case

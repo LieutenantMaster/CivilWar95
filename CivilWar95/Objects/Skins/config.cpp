@@ -16,6 +16,28 @@ class CfgPatches
 
 class CfgVehicles
 {
+	class ExpansionSign_Color;
+	class ExpansionSignBig_Color;
+	class ExpansionSign_Baravkas: ExpansionSign_Color
+	{
+		hiddenSelections[] = {"camo"};
+		hiddenSelectionsTextures[] = {"\CivilWar95\CivilWar95\Objects\Skins\Data\Publicité\Baranovkas_co.paa"};
+	};
+	class ExpansionSignBig_Baravkas: ExpansionSignBig_Color
+	{
+		hiddenSelections[] = {"camo"};
+		hiddenSelectionsTextures[] = {"\CivilWar95\CivilWar95\Objects\Skins\Data\Publicité\Baranovkas_co.paa"};
+	};
+	class ExpansionSign_MDF: ExpansionSign_Color
+	{
+		hiddenSelections[] = {"camo"};
+		hiddenSelectionsTextures[] = {"\CivilWar95\CivilWar95\Objects\Skins\Data\Publicité\MDF_co.paa"};
+	};
+	class ExpansionSignBig_MDF: ExpansionSignBig_Color
+	{
+		hiddenSelections[] = {"camo"};
+		hiddenSelectionsTextures[] = {"\CivilWar95\CivilWar95\Objects\Skins\Data\Publicité\MDF_co.paa"};
+	};
 	class ExpansionSignDanger; 	// Big 	 square
 	class ExpansionSignDanger2; // Small triangle
 	class ExpansionSignDanger3; // Small square

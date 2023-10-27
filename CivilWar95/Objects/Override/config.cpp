@@ -16,6 +16,7 @@ class CfgPatches
 
 			"DayZExpansion_Core_Objects_CircuitBoard",
 			"DayZExpansion_Core_Objects_Currencies",
+			"DayZExpansion_Objects_Firearms_RPG7",
 			"DayZExpansion_Objects_Gear_Guitar",
 			"DayZExpansion_Market_Objects",
 			"DayZExpansion_Objects_Misc",
@@ -41,6 +42,12 @@ class CfgSlots
 
 class cfgWeapons
 {
+	class ExpansionRPG7Base;
+	class ExpansionRPG7: ExpansionRPG7Base
+	{
+		weight=5200;
+		itemSize[] = {9,6};
+	};
 	class Rifle_Base;
 	class AK74_Base: Rifle_Base
 	{
@@ -55,6 +62,128 @@ class cfgWeapons
 
 class CfgVehicles
 {
+	// Add backpack slot to Large Tent (LargeTent.c converts it into backpack version)
+	class TentBase;
+	class LargeTent : TentBase
+	{
+		inventorySlot[] +=
+		{
+			"Back"
+		};
+		itemInfo[] +=
+		{
+			"Clothing",
+			"Back"
+		};
+	};
+
+	// Define large tent backpack object
+	class Clothing;
+	class LargeTentBackpack : Clothing
+	{
+		scope = 2;
+		displayName = "$STR_ZEN_LARGETENT0";
+		descriptionShort = "$STR_ZEN_LARGETENT1";
+		model = "\dz\gear\camping\large_tent_backpack.p3d";
+		inventorySlot[] +=
+		{
+			"Back"
+		};
+		itemInfo[] +=
+		{
+			"Clothing",
+			"Back"
+		};
+		rotationFlags = 16;
+		itemSize[] = { 10,4 };
+		itemsCargoSize[] = { 0,0 };
+		weight = 90000;
+		varWetMax = 0.49000001;
+		heatIsolation = 0.69999999;
+		visibilityModifier = 0.80000001;
+		soundAttType = "Military";
+		randomQuantity = 4;
+		class ClothingTypes
+		{
+			male = "dz\gear\camping\large_tent_backpack.p3d";
+			female = "dz\gear\camping\large_tent_backpack.p3d";
+		};
+		class DamageSystem
+		{
+			class GlobalHealth
+			{
+				class Health
+				{
+					hitpoints = 2000;
+					transferToAttachmentsCoef = 0.5;
+					healthLevels[] =
+					{
+
+						{
+							1,
+
+							{
+								"DZ\gear\camping\data\bagpack.rvmat"
+							}
+						},
+
+						{
+							0.69999999,
+
+							{
+								"DZ\gear\camping\data\bagpack.rvmat"
+							}
+						},
+
+						{
+							0.5,
+
+							{
+								"DZ\gear\camping\data\bagpack_damage.rvmat"
+							}
+						},
+
+						{
+							0.30000001,
+
+							{
+								"DZ\gear\camping\data\bagpack_damage.rvmat"
+							}
+						},
+
+						{
+							0,
+
+							{
+								"DZ\gear\camping\data\bagpack_destruct.rvmat"
+							}
+						}
+					};
+				};
+			};
+		};
+		class AnimEvents
+		{
+			class SoundWeapon
+			{
+				class pickUpItem_Light
+				{
+					soundSet = "pickUpBackPack_Metal_Light_SoundSet";
+					id = 796;
+				};
+				class pickUpItem
+				{
+					soundSet = "pickUpBackPack_Metal_SoundSet";
+					id = 797;
+				};
+				class drop
+				{
+					soundset = "taloonbag_drop_SoundSet";
+					id = 898;
+				};
+			};
+		};
+	};
 	class PoliceVest;
 	class PoliceVest_Black: PoliceVest
 	{
@@ -98,7 +227,6 @@ class CfgVehicles
 		};
 	};
 
-	class Clothing;
 	class cigarette_mung: Clothing
 	{
 		inventorySlot[]+=
@@ -252,7 +380,7 @@ class CfgVehicles
 	};
 	class Raz_GoatSteakMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "L'Imigrovitch";
+		displayName = "La Krasnovitch";
 	};
 	class Raz_BearSteakMeat_Pizza: Raz_Pizza_Base
 	{
@@ -284,199 +412,199 @@ class CfgVehicles
 	};
 	class Raz_CarpFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_MackerelFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_PikeFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_CodFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_SalmonFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_apokot_big_silver_crucian_fillet_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_apokot_pike_fillet_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_CrayfishFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_NorthanpikeFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_LargemouthbassFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_WhitebassFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_BlackbassFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_TroutFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_BrownTroutFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_BrookTroutFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_LakeTroutFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_CutthroatTroutFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_PerchFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_CatfishFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_MinnowFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_BluegillFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_SaugerFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_BowfinFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_SlimysculpinFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_AngelfishFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_AsianseabassFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_BluemarlinFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_BonitaFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_CherrysalmonFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_FlatheadmulletFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_LeopardsharkFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_PacificcodFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_RedheadcichlidFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_RoughneckrockFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_SeverumFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_ShrimpFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_BluetangFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_HairtailfishFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_HumpheadwrasseFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_SiamesetigerfishFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_ClamFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_MusselFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_Blackdevilsnail_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_KingcrabFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_JellyfishFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_LobsterFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_GreatwhitesharkFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_AngelsharkFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 	class Raz_geb_YellowfintunaFilletMeat_Pizza: Raz_Pizza_Base
 	{
-		displayName = "La Babouchka";
+		displayName = "La Berez";
 	};
 };
 

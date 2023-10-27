@@ -10,6 +10,7 @@
  *
 */
 
+[eAIRegisterFaction(eAIFactionCivil)]
 class eAIFactionCivil: eAIFaction
 {
 	void eAIFactionCivil()

@@ -1,5 +1,5 @@
 /**
- * Wildfire.c
+ * CW95_DynamicEffect_Base.c
  *
  * © 2023 CivilWar95
  * By LieutenantMaster

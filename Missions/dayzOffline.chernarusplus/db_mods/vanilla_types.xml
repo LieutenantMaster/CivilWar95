@@ -3668,8 +3668,8 @@
         <value user="Tier1234"/>
     </type>
     <type name="Blowtorch">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
         <restock>14400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
