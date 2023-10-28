@@ -78,7 +78,42 @@ class CustomMission: MissionServer
 		}
 		CloseFile(file);
 
-		bool isMale = m_player.IsMale()
+		GetFactionData(factionName, m_player.IsMale(), loadoutType, spawnPos);
+
+		if ( factionName == "" || factionName == "Civilian" )
+			factionName = "Civilian";
+		
+		typename factionType = eAIFaction.GetType(factionName);
+		if (factionType)
+		{
+			eAIFaction faction = eAIFaction.Cast(factionType.Spawn());
+			if (faction)
+			{
+				factionName = faction.GetName();
+				if (m_player.GetGroup())
+				{
+					m_player.GetGroup().SetFaction(faction);
+				} else {
+					eAIGroup group = eAIGroup.GetGroupByLeader(m_player, true, faction);
+				}
+			}
+		}
+
+		TStringArray gear = new TStringArray;
+		loadoutType.Split( ",", gear );
+		if ( gear.Count() > 1 )
+		{
+			ExpansionObjectSpawnTools.ProcessGear(m_player, loadoutType);
+		} else {
+			ExpansionHumanLoadout.Apply(m_player, loadoutType, false);
+		}
+
+		m_player.SetPosition(spawnPos);
+		m_player.SetHeightData(height);
+	}
+
+	void GetFactionData(out string factionName, bool isMale, out string loadoutType, out vector spawnPos)
+	{
 		string factionLoadout;
 		vector SelectedPos;
 
@@ -94,7 +129,7 @@ class CustomMission: MissionServer
 					factionLoadout = "PlayerSurvivorLoadout";
 				else
 					factionLoadout = "PlayerSurvivorLoadout";
-			break;
+				break;
 			default:
 			case "Civil":
 			case "Civilian":
@@ -104,7 +139,14 @@ class CustomMission: MissionServer
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 				else
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
-			break;
+				break;
+			case "Partizan": // add for chedaki partizan respawn 
+				SelectedPos = "10283 16.583 2287.63";
+				if ( isMale )
+					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
+				else
+					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
+				break;
 			case "Pompier":
 				m_player.SetHealth( "GlobalHealth", "Health", 20 );
 				SelectedPos = "2760.51 206.098 5175.6";
@@ -112,14 +154,14 @@ class CustomMission: MissionServer
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 				else
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
-			break;
+				break;
 			case "Police":
 				SelectedPos = "2730.015625 200.684601 5186.806641";
 				if ( isMale )
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 				else
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
-			break;
+				break;
 			case "Medecin":
 			case "Medic":
 				SelectedPos = "2729.891846 200.718246 5186.811035";
@@ -127,28 +169,28 @@ class CustomMission: MissionServer
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 				else
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
-			break;
+				break;
 			case "Militaire":
 				SelectedPos = "2729.811035 200.711975 5186.775879";
 				if ( isMale )
 					factionLoadout = "TTSKOBoots,Armband_CDF,TTSKOPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Beige";
 				else
 					factionLoadout = "TTSKOBoots,Armband_CDF,TTSKOPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Beige";
-			break;
+				break;
 			case "Napa":
 				SelectedPos = "5752.89 117.377 4591.47";
 				if ( isMale )
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
 				else
 					factionLoadout = "AthleticShoes_Brown,Jeans_Wounded,TShirt_White,Ragged_Eyepatch,HeadCover_Improvised";
-			break;
+				break;
 			case "Chedaki":
 				SelectedPos = "10283 16.583 2287.63";
 				if ( isMale )
 					factionLoadout = "TTSKOBoots,Armband_Chedaki,BDUPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Green";
 				else
 					factionLoadout = "TTSKOBoots,Armband_Chedaki,BDUPants,Ragged_Eyepatch,HeadCover_Improvised,TShirt_Green";
-			break;
+				break;
 		}
 
 		if ( !skipPosSelection )
@@ -189,29 +231,7 @@ class CustomMission: MissionServer
 		m_player.SetHeightData(height);
 	}
 
-	override bool IsScheaduledRestart()
-	{
-		CF_Date now = CF_Date.Now();
-		
-		int hour = now.GetHours();
-		int minute = now.GetMinutes();
-
-		if ( (hour > 6 && hour < 9) || (hour > 14 && hour < 17) || (hour > -1 || hour < 24) )
-		{
-			if ( minute < 10 || minute > 50 )
-			{
-				Print("[CivilWar95]:: TRADERZONE:: IsScheaduledRestart:: TRUE");
-				Print("[CivilWar95]:: Time: "+ hour + "H "+ minute + "m");
-				return true;
-			}
-		}
-
-		Print("[CivilWar95]:: TRADERZONE:: IsScheaduledRestart:: FALSE");
-		Print("[CivilWar95]:: Time: "+ hour + "H "+ minute + "m");
-		
-		return false;
-	}
-
+	//! ============================== TRADERZONE RESTOCK SYSTEM ==============================	
 	override void UpdateTraderZones()
 	{
 		int CityRestockPercent = 10;
