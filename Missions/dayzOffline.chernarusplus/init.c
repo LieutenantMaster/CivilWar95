@@ -198,37 +198,6 @@ class CustomMission: MissionServer
 
 		if ( !skipLoadoutSelection )
 			loadoutType = factionLoadout;
-
-		if ( factionName == "" || factionName == "Civilian" )
-			factionName = "Civil";
-		
-		typename factionType = eAIFaction.GetType(factionName);
-		if (factionType)
-		{
-			eAIFaction faction = eAIFaction.Cast(factionType.Spawn());
-			if (faction)
-			{
-				factionName = faction.GetName();
-				if (m_player.GetGroup())
-				{
-					m_player.GetGroup().SetFaction(faction);
-				} else {
-					eAIGroup group = eAIGroup.GetGroupByLeader(m_player, true, faction);
-				}
-			}
-		}
-
-		TStringArray gear = new TStringArray;
-		loadoutType.Split( ",", gear );
-		if ( gear.Count() > 1 )
-		{
-			ExpansionObjectSpawnTools.ProcessGear(m_player, loadoutType);
-		} else {
-			ExpansionHumanLoadout.Apply(m_player, loadoutType, false);
-		}
-
-		m_player.SetPosition(spawnPos);
-		m_player.SetHeightData(height);
 	}
 
 	//! ============================== TRADERZONE RESTOCK SYSTEM ==============================	

@@ -233,19 +233,11 @@ modded class DayZPlayerImplement
 			return;
 		}
 
-		// Check for Lock 1PP mode
-		if (HasRestrictedItemInHands())
+		// No weapon item found in hands and player is not in restricted area - Unlock view key input immediately if timer is not set.
+		if (GetZen3ppConfig().RestrictionTime <= 0 || !m_UnlockViewTimer || !m_UnlockViewTimer.IsRunning())
 		{
-			RestrictView();
-		}
-		else
-		{
-			// No weapon item found in hands and player is not in restricted area - Unlock view key input immediately if timer is not set.
-			if (GetZen3ppConfig().RestrictionTime <= 0 || !m_UnlockViewTimer || !m_UnlockViewTimer.IsRunning())
-			{
-				GetUApi().GetInputByName("UAPersonView").Unlock();
-				m_RestrictedView = false;
-			}
+			GetUApi().GetInputByName("UAPersonView").Unlock();
+			m_RestrictedView = false;
 		}
 
 		// Finished checking for view lock - pass to super.
@@ -281,7 +273,7 @@ modded class DayZPlayerImplement
 	private void ZenUnlockViewKey()
 	{
 		// If player still has a restricted item or is in a restricted area, stop here and reset timer.
-		if (HasRestrictedItemInHands() || IsInRestrictedArea())
+		if (IsInRestrictedArea())
 		{
 			ResetViewLockTimer();
 			return;
@@ -289,32 +281,6 @@ modded class DayZPlayerImplement
 
 		GetUApi().GetInputByName("UAPersonView").Unlock();
 		m_RestrictedView = false;
-	}
-
-	// Check for restricted item
-	private bool HasRestrictedItemInHands()
-	{
-		EntityAI ent = GetHumanInventory().GetEntityInHands();
-
-		if (!ent)
-			return false;
-
-		// Check for config items
-		foreach(string s : GetZen3ppConfig().ViewRestrictedItems)
-		{
-			s.ToLower();
-
-			if (s == "weapon" && ent.IsInherited(Weapon))
-				return true;
-
-			if (s == "grenade" && ent.IsInherited(Grenade_Base))
-				return true;
-
-			if (ent.IsKindOf(s) || ent.GetType().Contains(s))
-				return true;
-		}
-
-		return false;
 	}
 
 	// Check for restricted areas

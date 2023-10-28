@@ -20,8 +20,8 @@ static const string CW95_PATH_MISSION_FACTIONDATA = CW95_PATH_MISSION_BASE + "fa
 static const string CW95_PATH_PROFILE_BASE = "$profile:CW95\\";
 static const string CW95_PATH_PROFILE_DATA = CW95_PATH_PROFILE_BASE + "Data\\";
 static const string CW95_PATH_PROFILE_SETTINGS = CW95_PATH_PROFILE_BASE + "Settings\\";
-static const string CW95_PATH_SETTINGS_FRONTLINE = CW95_PATH_PROFILE_SETTINGS + "FrontLineSettings.json";
-static const string CW95_PATH_SETTINGS_AIRTRAFFIC = CW95_PATH_PROFILE_SETTINGS + "AirTrafficSettings.json";
+static const string CW95_PATH_SETTINGS_SHARED = CW95_PATH_PROFILE_SETTINGS + "SharedSettings.json";
+static const string CW95_PATH_SETTINGS_SERVER = CW95_PATH_PROFILE_SETTINGS + "ServerSettings.json";
 
 static const string CW95_AS_SOUNDSET_IN = "_aim_in_SoundSet";
 static const string CW95_AS_SOUNDSET_OUT = "_aim_out_SoundSet";

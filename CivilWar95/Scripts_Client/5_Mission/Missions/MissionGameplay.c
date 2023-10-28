@@ -11,20 +11,19 @@ modded class MissionGameplay
     {
         if (type == CallType.Client)
         {
-            Param3<ref TStringArray, int, ref array<ref ZenViewRestrictionZone>> data;
+            Param2<int, ref array<ref ZenViewRestrictionZone>> data;
 
             // If data fails to read, stop here.
             if (!ctx.Read(data))
                 return;
 
             // Data received - sync to client config
-            GetZen3ppConfig().ViewRestrictedItems = data.param1;
-            GetZen3ppConfig().RestrictionTime = data.param2;
+            GetZen3ppConfig().RestrictionTime = data.param1;
 
             // Populate restricted zones
-            for (int i = 0; i < data.param3.Count(); i++)
+            for (int i = 0; i < data.param2.Count(); i++)
             {
-                GetZen3ppConfig().FirstPersonZones.Insert(data.param3.Get(i));
+                GetZen3ppConfig().FirstPersonZones.Insert(data.param2.Get(i));
             }
         }
     }

@@ -4,7 +4,6 @@ modded class MissionServer
 	override void OnInit()
 	{
 		super.OnInit();
-		Print("[Zen3PP] OnInit");
 
 		// Load config
 		GetZen3ppConfig();
@@ -29,7 +28,7 @@ modded class MissionServer
 			return;
 
 		// Send client config
-		Param3<ref TStringArray, int, ref array<ref ZenViewRestrictionZone>> configParams = new Param3<ref TStringArray, int, ref array<ref ZenViewRestrictionZone>>(GetZen3ppConfig().ViewRestrictedItems, GetZen3ppConfig().RestrictionTime, GetZen3ppConfig().FirstPersonZones);
+		Param2<int, ref array<ref ZenViewRestrictionZone>> configParams = new Param2<int, ref array<ref ZenViewRestrictionZone>>(GetZen3ppConfig().RestrictionTime, GetZen3ppConfig().FirstPersonZones);
 		GetRPCManager().SendRPC("RPC_Z3PP", "RPC_ReceiveZen3ppConfigOnClient", configParams, true, player.GetIdentity());
 	}
 };

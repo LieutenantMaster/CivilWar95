@@ -5,6 +5,7 @@ EMUServer.ini
 
 .vscode/
 .vs/
+.TMP/
 
 Missions/dayzOffline.chernarusplus/storage_*
 Missions/dayzOffline.chernarusplus/cv95/playerdata/

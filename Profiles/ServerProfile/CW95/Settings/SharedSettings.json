@@ -1,0 +1,17 @@
+{
+    "RestrictionTime": 10,
+    "FirstPersonZones": [
+        {
+            "Name": "Bunker",
+            "X": 682.0,
+            "Z": 1162.0,
+            "Radius": 250
+        },
+        {
+            "Name": "Bunker",
+            "X": 682.0,
+            "Z": 1162.0,
+            "Radius": 250
+        }
+    ]
+}
