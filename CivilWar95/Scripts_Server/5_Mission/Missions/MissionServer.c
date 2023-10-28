@@ -2,7 +2,7 @@ modded class MissionServer
 {
 	ref array<string> m_SteamIDs;
 	
-	void CustomMission()
+	void MissionServer()
 	{
 		m_SteamIDs = new array<string>;
 	}
