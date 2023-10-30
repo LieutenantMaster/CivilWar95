@@ -213,6 +213,29 @@ class CustomMission: MissionServer
 		IncrementStockForTraderzonePos("6078 158 4914", LocalRestockPercent); 	// Nadez
 		IncrementStockForTraderzonePos("6930 18 1694", LocalRestockPercent); 	// ONU
 	}
+
+	override bool IsScheaduledRestart()
+	{
+		CF_Date now = CF_Date.Now();
+		
+		int hour = now.GetHours();
+		int minute = now.GetMinutes();
+
+		if ( (hour > 6 && hour < 9) || (hour > 14 && hour < 17) || (hour > -1 || hour < 24) )
+		{
+			if ( minute < 10 || minute > 50 )
+			{
+				Print("[CivilWar95]:: TRADERZONE:: IsScheaduledRestart:: TRUE");
+				Print("[CivilWar95]:: Time: "+ hour + "H "+ minute + "m");
+				return true;
+			}
+		}
+
+		Print("[CivilWar95]:: TRADERZONE:: IsScheaduledRestart:: FALSE");
+		Print("[CivilWar95]:: Time: "+ hour + "H "+ minute + "m");
+		
+		return false;
+	}
 };
 
 Mission CreateCustomMission(string path)

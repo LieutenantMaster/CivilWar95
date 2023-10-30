@@ -4621,7 +4621,7 @@
     </type>
     <type name="CarBattery">
         <nominal>10</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>43200</lifetime>
         <restock>14400</restock>
         <min>0</min>
         <quantmin>20</quantmin>
@@ -20995,7 +20995,7 @@
     </type>
     <type name="TruckBattery">
         <nominal>10</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>43200</lifetime>
         <restock>14400</restock>
         <min>0</min>
         <quantmin>20</quantmin>
