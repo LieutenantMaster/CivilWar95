@@ -4521,7 +4521,7 @@
         <value/>
     </type>
 	<type name="Expansion_Kar98">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>

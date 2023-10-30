@@ -96,7 +96,7 @@
         <value user="Tier4"/>
     </type>
     <type name="AK74">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -110,7 +110,7 @@
         <value user="Tier34"/>
     </type>
     <type name="AK74_Black">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -194,7 +194,7 @@
         <value user="Tier34"/>
     </type>
     <type name="AKS74U_Black">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -222,7 +222,7 @@
         <value/>
     </type>
     <type name="AKS74U_Green">
-        <nominal>4</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -13886,7 +13886,7 @@
         <value user="Tier34"/>
     </type>
     <type name="MakarovIJ70">
-        <nominal>6</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -14631,7 +14631,7 @@
         <value user="Tier1234"/>
     </type>
     <type name="Mosin9130">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -14659,7 +14659,7 @@
         <value user="Tier234"/>
     </type>
     <type name="Mosin9130_Camo">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -17579,7 +17579,7 @@
         <value/>
     </type>
     <type name="SKS">
-        <nominal>20</nominal>
+        <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
