@@ -3400,7 +3400,7 @@
         <value user="Tier34"/>
     </type>
     <type name="TF_VPO136">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
