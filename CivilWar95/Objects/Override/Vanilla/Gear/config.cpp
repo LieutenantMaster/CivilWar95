@@ -10,9 +10,10 @@ class CfgPatches
 			"DZ_Gear_Consumables",
 			"DZ_Gear_Containers",
 
+			"DZ_Weapons_Archery_Crossbow",
 			"DZ_Weapons_Magazines",
+			"DZ_Weapons_Projectiles",
 			"DZ_Weapons_Melee",
-			"DZ_Weapons_Archery_Crossbow"
 		};
 	};
 };
@@ -93,6 +94,7 @@ class CfgAmmo
 		class DamageApplied
 		{
 			type="Melee";
+			bleedThreshold=0;
 			class Health
 			{
 				damage=5;
@@ -112,7 +114,7 @@ class CfgAmmo
 		class DamageApplied
 		{
 			type="Melee";
-			bleedThreshold=0.1;
+			bleedThreshold=0;
 			class Health
 			{
 				damage=2;
@@ -132,7 +134,7 @@ class CfgAmmo
 		class DamageApplied
 		{
 			type="Melee";
-			bleedThreshold=0.1;
+			bleedThreshold=0;
 			class Health
 			{
 				damage=7;

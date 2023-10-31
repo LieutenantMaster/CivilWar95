@@ -126,3 +126,32 @@ modded class EXT_Mi171
 		return true;
 	}
 };
+
+class ExpansionHatchBirdBloody: ExpansionHatchBird
+{
+	
+	override void OnDebugSpawn()
+	{
+		GetInventory().CreateInInventory( "HatchbackWheel" );
+		GetInventory().CreateInInventory( "HatchbackWheel" );
+		GetInventory().CreateInInventory( "HatchbackWheel" );
+		GetInventory().CreateInInventory( "HatchbackWheel" );
+		GetInventory().CreateInInventory( "HatchbackWheel" );
+
+		GetInventory().CreateInInventory( "ExpansionHelicopterBattery" );
+		GetInventory().CreateInInventory( "ExpansionIgniterPlug" );
+		GetInventory().CreateInInventory( "ExpansionHydraulicHoses" );
+
+		GetInventory().CreateInInventory( "ExpansionHatchBirdBloodyDoors_Driver" );
+		GetInventory().CreateInInventory( "ExpansionHatchBirdBloodyDoors_CoDriver" );
+		GetInventory().CreateInInventory( "ExpansionHatchBirdBloodyHood" );
+		GetInventory().CreateInInventory( "ExpansionHatchBirdBloodyTrunk" );
+
+		GetInventory().CreateInInventory( "HeadlightH7" );
+		GetInventory().CreateInInventory( "HeadlightH7" );
+
+		Fill( CarFluid.FUEL, 50 );
+		Fill( CarFluid.COOLANT, 6.0 );
+		Fill( CarFluid.OIL, 4.0 );
+	}
+};

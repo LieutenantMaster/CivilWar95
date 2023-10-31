@@ -9,7 +9,8 @@ class CfgPatches
 		{
 			"DZ_Data",
 			"DZ_Gear_Navigation",
-			"DayZExpansion_Market_Objects"
+			"DayZExpansion_Market_Objects",
+			"DayZExpansion_Vehicles_Air_HatchBird"
 		};
 	};
 };
@@ -184,7 +185,7 @@ class CfgVehicles
 	class ExpansionATM_1: ExpansionATM_Base
 	{
 		scope=1;
-		hiddenSelectionsTextures[] = {"\CivilWar95\CivilWar95\Objects\Skins\Data\expansion_atm_01_co.paa"};
+		hiddenSelectionsTextures[] = {"\CivilWar95\CivilWar95\Objects\Skins\Data\ATM\expansion_atm_01_co.paa"};
 	};
 	
 	class ItemMap;
@@ -200,8 +201,8 @@ class CfgVehicles
 		hiddenSelectionsTextures[] =
 		{
 			"dz\gear\navigation\data\map_chernarus_co.paa",
-			"CivilWar95\CivilWar95\Objects\Skins\Data\Carte_Chernarus.paa",
-			"CivilWar95\CivilWar95\Objects\Skins\Data\Carte_Chernarus.paa"
+			"CivilWar95\CivilWar95\Objects\Skins\Data\Maps\Carte_Chernarus.paa",
+			"CivilWar95\CivilWar95\Objects\Skins\Data\Maps\Carte_Chernarus.paa"
 		};
 	};
 	class CW95_ZelenoMap: ChernarusMap
@@ -211,7 +212,7 @@ class CfgVehicles
 		hiddenSelectionsTextures[] =
 		{
 			"dz\gear\navigation\data\map_chernarus_co.paa",
-			"CivilWar95\CivilWar95\Objects\Skins\Data\Carte_Zeleno.paa",
+			"CivilWar95\CivilWar95\Objects\Skins\Data\Maps\Carte_Zeleno.paa",
 		};
 	};
 	class CW95_ZelenoMap_Open: CW95_ZelenoMap {};
@@ -223,7 +224,7 @@ class CfgVehicles
 		hiddenSelectionsTextures[] =
 		{
 			"dz\gear\navigation\data\map_chernarus_co.paa",
-			"CivilWar95\CivilWar95\Objects\Skins\Data\Carte_Cherno.paa"
+			"CivilWar95\CivilWar95\Objects\Skins\Data\Maps\Carte_Cherno.paa"
 		};
 	};
 	class CW95_ChernoMap_Open: CW95_ChernoMap {};
@@ -235,8 +236,403 @@ class CfgVehicles
 		hiddenSelectionsTextures[] =
 		{
 			"dz\gear\navigation\data\map_chernarus_co.paa",
-			"CivilWar95\CivilWar95\Objects\Skins\Data\Carte_ChernoMetro.paa"
+			"CivilWar95\CivilWar95\Objects\Skins\Data\Maps\Carte_ChernoMetro.paa"
 		};
 	};
 	class CW95_ChernoMap_Open: CW95_ChernoMetroMap {};
+
+	class ExpansionHatchBird;
+	class ExpansionHatchBirdDoors_Driver;
+	class ExpansionHatchBirdHood;
+	class ExpansionHatchBirdTrunk;
+
+	class DamageSystem;
+	class DamageZones;
+	class GlobalHealth;
+	class Health;
+
+	class Front;
+	class Window;
+	class Doors;
+
+	class ExpansionHatchBirdBloody: ExpansionHatchBird
+	{
+		hiddenSelectionsMaterials[]=
+		{
+			"dz\vehicles\wheeled\offroadhatchback\data\offroadhatchback_lights.rvmat",
+			"dz\vehicles\wheeled\offroadhatchback\data\offroadhatchback_lights.rvmat",
+			"dz\vehicles\wheeled\offroadhatchback\data\offroadhatchback_lights.rvmat",
+			"dz\vehicles\wheeled\offroadhatchback\data\offroadhatchback_lights.rvmat",
+			"dz\vehicles\wheeled\offroadhatchback\data\offroadhatchback_lights.rvmat",
+			"dz\vehicles\wheeled\offroadhatchback\data\offroadhatchback_lights.rvmat",
+			"dz\vehicles\wheeled\offroadhatchback\data\offroadhatchback_lights.rvmat",
+			"dz\vehicles\wheeled\offroadhatchback\data\offroadhatchback_lights.rvmat",
+			"dz\vehicles\wheeled\offroadhatchback\data\offroadhatchback_lights.rvmat",
+			"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_body.rvmat",
+			"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_body.rvmat",
+			"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_body.rvmat",
+			"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_body.rvmat",
+			"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_body.rvmat",
+			"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_body.rvmat",
+			"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_body.rvmat",
+			"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_body.rvmat",
+			"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_body.rvmat",
+			"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_body.rvmat"
+		};
+		defaultSkin = "HatchBirdBloody";
+		class DamageSystem: DamageSystem
+		{
+			class DamageZones: DamageZones
+			{
+				class Front: Front
+				{
+					class Health: Health
+					{
+						healthLevels[]=
+						{
+							
+							{
+								1,
+								
+								{
+									"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_body.rvmat"
+								}
+							},
+							
+							{
+								0.69999999,
+								
+								{
+									"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_body.rvmat"
+								}
+							},
+							
+							{
+								0.5,
+								
+								{
+									"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_body_damage.rvmat"
+								}
+							},
+							
+							{
+								0.30000001,
+								
+								{
+									"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_body_damage.rvmat"
+								}
+							},
+							
+							{
+								0,
+								
+								{
+									"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_body_destruct.rvmat"
+								}
+							}
+						};
+					};
+				};
+			};
+		};
+	};
+	class ExpansionHatchBirdBloodyDoors_Driver: ExpansionHatchBirdDoors_Driver
+	{
+		hiddenSelectionsMaterials[]=
+		{
+			"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_door.rvmat"
+		};
+		defaultSkin = "HatchBirdBloody";
+		class DamageSystem: DamageSystem
+		{
+			class GlobalHealth: GlobalHealth
+			{
+			};
+			class DamageZones: DamageZones
+			{
+				class Window: Window
+				{
+					class Health: Health
+					{
+						healthLevels[]=
+						{
+							
+							{
+								1,
+								
+								{
+									"dz\vehicles\wheeled\offroadhatchback\data\niva_glass.rvmat"
+								}
+							},
+							
+							{
+								0.69999999,
+								{}
+							},
+							
+							{
+								0.5,
+								
+								{
+									"dz\vehicles\wheeled\offroadhatchback\data\niva_glass_damage.rvmat"
+								}
+							},
+							
+							{
+								0.30000001,
+								
+								{
+									"dz\vehicles\wheeled\offroadhatchback\data\niva_glass_destruct.rvmat"
+								}
+							},
+							
+							{
+								0,
+								"hidden"
+							}
+						};
+					};
+				};
+				class Doors: Doors
+				{
+					class Health: Health
+					{
+						RefTexsMats[]=
+						{
+							"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_door.rvmat"
+						};
+						healthLevels[]=
+						{
+							
+							{
+								1,
+								
+								{
+									"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_door.rvmat"
+								}
+							},
+							
+							{
+								0.69999999,
+								
+								{
+									"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_door.rvmat"
+								}
+							},
+							
+							{
+								0.5,
+								
+								{
+									"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_door_damage.rvmat"
+								}
+							},
+							
+							{
+								0.30000001,
+								
+								{
+									"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_door_damage.rvmat"
+								}
+							},
+							
+							{
+								0,
+								
+								{
+									"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_door_destruct.rvmat"
+								}
+							}
+						};
+					};
+				};
+			};
+		};
+	};
+	class ExpansionHatchBirdBloodyDoors_CoDriver: ExpansionHatchBirdBloodyDoors_Driver
+	{
+		displayName="$STR_HatchbackDoors_CoDriver0";
+		descriptionShort="$STR_HatchbackDoors_CoDriver1";
+		model="\DZ\vehicles\wheeled\OffroadHatchback\proxy\nivaDoors_coDriver.p3d";
+		inventorySlot[]=
+		{
+			"NivaCoDriverDoors"
+		};
+		rotationFlags=4;
+	};	
+	class ExpansionHatchBirdBloodyHood: ExpansionHatchBirdHood
+	{
+		hiddenSelectionsMaterials[]=
+		{
+			"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_hood.rvmat"
+		};
+		defaultSkin = "HatchBirdBloody";
+		class DamageSystem
+		{
+			class GlobalHealth
+			{
+				class Health
+				{
+					hitpoints=500;
+					RefTexsMats[]=
+					{
+						"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_hood.rvmat"
+					};
+					healthLevels[]=
+					{
+						
+						{
+							1,
+							
+							{
+								"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_hood.rvmat"
+							}
+						},
+						
+						{
+							0.69999999,
+							
+							{
+								"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_hood.rvmat"
+							}
+						},
+						
+						{
+							0.5,
+							
+							{
+								"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_hood_damage.rvmat"
+							}
+						},
+						
+						{
+							0.30000001,
+							
+							{
+								"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_hood_damage.rvmat"
+							}
+						},
+						
+						{
+							0,
+							
+							{
+								"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_hood_destruct.rvmat"
+							}
+						}
+					};
+				};
+			};
+		};
+	};
+	class ExpansionHatchBirdBloodyTrunk: ExpansionHatchBirdTrunk
+	{
+		hiddenSelectionsMaterials[]=
+		{
+			"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_trunk.rvmat"
+		};
+		defaultSkin = "HatchBirdBloody";
+		class DamageSystem: DamageSystem
+		{
+			class DamageZones: DamageZones
+			{
+				class Window: Window
+				{
+					class Health: Health
+					{
+						healthLevels[]=
+						{
+							
+							{
+								1,
+								
+								{
+									"dz\vehicles\wheeled\offroadhatchback\data\niva_glass.rvmat"
+								}
+							},
+							
+							{
+								0.69999999,
+								{}
+							},
+							
+							{
+								0.5,
+								
+								{
+									"dz\vehicles\wheeled\offroadhatchback\data\niva_glass_damage.rvmat"
+								}
+							},
+							
+							{
+								0.30000001,
+								
+								{
+									"dz\vehicles\wheeled\offroadhatchback\data\niva_glass_destruct.rvmat"
+								}
+							},
+							
+							{
+								0,
+								"hidden"
+							}
+						};
+					};
+				};
+				class Doors: Doors
+				{
+					class Health: Health
+					{
+						RefTexsMats[]=
+						{
+							"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_trunk.rvmat"
+						};
+						healthLevels[]=
+						{
+							
+							{
+								1,
+								
+								{
+									"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_trunk.rvmat"
+								}
+							},
+							
+							{
+								0.69999999,
+								
+								{
+									"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_trunk.rvmat"
+								}
+							},
+							
+							{
+								0.5,
+								
+								{
+									"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_trunk_damage.rvmat"
+								}
+							},
+							
+							{
+								0.30000001,
+								
+								{
+									"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_trunk_damage.rvmat"
+								}
+							},
+							
+							{
+								0,
+								
+								{
+									"CivilWar95\CivilWar95\Objects\Skins\Data\Vehicles\HatchbirdBloody\niva_trunk_destruct.rvmat"
+								}
+							}
+						};
+					};
+				};
+			};
+		};
+	};
 };

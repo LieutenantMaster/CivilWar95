@@ -99,11 +99,16 @@ modded class DayZPlayerImplement
 		SetSynchDirty();
 	}
 
+	static const float MIN_SOUND_VOLUME = 0.5;
+	static const float MAX_SOUND_VOLUME = 1.1;
+	static const int MAX_ITEM_AREA = 6;
+
 	protected void PlayAimSound(Weapon_Base weapon, bool exit)
 	{
 		float distance = vector.Distance(GetPosition(), GetGame().GetPlayer().GetPosition());
 		if ( distance < 10 )
 		{
+			
 			string sound_set = GetAimSoundSet(weapon, exit);
 
 			EffectSound sound;
@@ -111,7 +116,11 @@ modded class DayZPlayerImplement
 			sound.SetSoundAutodestroy(true);
 
 			distance = 1 - (0.1 * distance);
-			sound.SetSoundVolume(distance);
+		
+			float volume = Math.Clamp(weapon.GetWeightEx() / MAX_ITEM_AREA, MIN_SOUND_VOLUME, MAX_SOUND_VOLUME);
+			volume = volume / distance;
+
+			sound.SetSoundVolume(volume);
 		}
 	}
 
@@ -222,7 +231,7 @@ modded class DayZPlayerImplement
 		if (!GetHumanInventory().GetEntityInHands())
 		{
 			// Unlock view key input immediately if timer is not set
-			if (GetZen3ppConfig().RestrictionTime <= 0 || !m_UnlockViewTimer || !m_UnlockViewTimer.IsRunning())
+			if (GetSharedSettings().RestrictionTime <= 0 || !m_UnlockViewTimer || !m_UnlockViewTimer.IsRunning())
 			{
 				GetUApi().GetInputByName("UAPersonView").Unlock();
 				m_RestrictedView = false;
@@ -234,7 +243,7 @@ modded class DayZPlayerImplement
 		}
 
 		// No weapon item found in hands and player is not in restricted area - Unlock view key input immediately if timer is not set.
-		if (GetZen3ppConfig().RestrictionTime <= 0 || !m_UnlockViewTimer || !m_UnlockViewTimer.IsRunning())
+		if (GetSharedSettings().RestrictionTime <= 0 || !m_UnlockViewTimer || !m_UnlockViewTimer.IsRunning())
 		{
 			GetUApi().GetInputByName("UAPersonView").Unlock();
 			m_RestrictedView = false;
@@ -253,7 +262,7 @@ modded class DayZPlayerImplement
 		m_RestrictedView = true;
 
 		// Only called if there is a delay on 3PP view restrictions, otherwise view is instantly unlocked
-		if (GetZen3ppConfig().RestrictionTime > 0)
+		if (GetSharedSettings().RestrictionTime > 0)
 			ResetViewLockTimer();
 	}
 
@@ -266,7 +275,7 @@ modded class DayZPlayerImplement
 		if (m_UnlockViewTimer.IsRunning())
 			m_UnlockViewTimer.Stop();
 
-		m_UnlockViewTimer.Run(GetZen3ppConfig().RestrictionTime, this, "ZenUnlockViewKey");
+		m_UnlockViewTimer.Run(GetSharedSettings().RestrictionTime, this, "ZenUnlockViewKey");
 	}
 
 	// Unlock 3pp view key
@@ -287,15 +296,15 @@ modded class DayZPlayerImplement
 	private bool IsInRestrictedArea()
 	{
 		// If there are no zones just stop here to save time
-		if (GetZen3ppConfig().FirstPersonZones.Count() == 0)
+		if (GetSharedSettings().ConflictZones.Count() == 0)
 			return false;
 
 		// Get our position and check it against all zones
 		vector myPos = GetPosition();
 
-		for (int i = 0; i < GetZen3ppConfig().FirstPersonZones.Count(); i++)
+		for (int i = 0; i < GetSharedSettings().ConflictZones.Count(); i++)
 		{
-			ZenViewRestrictionZone area = GetZen3ppConfig().FirstPersonZones.Get(i);
+			CW95ConflictZone area = GetSharedSettings().ConflictZones.Get(i);
 
 			if (area.CheckZone(myPos))
 				return true;

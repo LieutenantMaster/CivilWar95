@@ -14,6 +14,7 @@ modded class CarScript
 	float m_OdometerMeters = 0.0;
 	static int m_MaxDistanceUntilRuined = 80; // KM
 	
+	#ifdef SERVER
 	override void OnUpdate( float dt )
     {
 		//if is moving back or forward
@@ -56,6 +57,7 @@ modded class CarScript
 		
 		super.OnUpdate( dt );
 	}
+	#endif
 
     override void OnContact( string zoneName, vector localPos, IEntity other, Contact data )
 	{

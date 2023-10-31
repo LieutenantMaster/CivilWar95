@@ -17,7 +17,7 @@ class CW95VehicleInputRocket : DefaultActionInput
 	{
 		SetInput( "UACW95VehicleRocket" );
 		
-		m_InputType = ActionInputType.AIT_SINGLE;
+		m_InputType = ActionInputType.AIT_CONTINUOUS;
 		//m_DetectFromTarget = true;
 	}
 	

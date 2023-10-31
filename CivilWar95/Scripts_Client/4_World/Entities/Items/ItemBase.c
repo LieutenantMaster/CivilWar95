@@ -12,8 +12,8 @@
 modded class ItemBase
 {	
 	static const float MAX_SOUND_RANGE = 5; // Mainly in place to stop bleed at long range
-	static const float MIN_SOUND_VOLUME = 0.8;
-	static const float MAX_SOUND_VOLUME = 1.2;
+	static const float MIN_SOUND_VOLUME = 0.6;
+	static const float MAX_SOUND_VOLUME = 1.0;
 	static const int MAX_ITEM_AREA = 6;
 
 	bool IsPlayBackDevice()
@@ -72,6 +72,15 @@ modded class ItemBase
 		array<string> sounds = {};
 		ConfigGetTextArray("ItemMoveSounds", sounds);
 
+		float volumeMin = MIN_SOUND_VOLUME;
+		float volumeMax = MAX_SOUND_VOLUME;
+
+		if ( ConfigIsExisting("ItemMoveMinVolume") )
+			volumeMin = ConfigGetFloat("ItemMoveMinVolume");
+
+		if ( ConfigIsExisting("ItemMoveMaxVolume") )
+			volumeMax = ConfigGetFloat("ItemMoveMaxVolume");
+
 		array<string> pathNames = {"CfgVehicles","CfgWeapons","CfgMagazines","CfgAmmo"};
 		array<string> soundSets = {"pickUpItem","pickUpItem_Light","pickup","drop"};
 		
@@ -100,7 +109,7 @@ modded class ItemBase
 		if ( distance < 1 )
 			distance = 1;
 		
-		float volume = Math.Clamp(GetItemArea() / MAX_ITEM_AREA, MIN_SOUND_VOLUME, MAX_SOUND_VOLUME);
+		float volume = Math.Clamp(GetItemArea() / MAX_ITEM_AREA, volumeMin, volumeMax);
 		volume = volume / distance;
 		EffectSound sound = SEffectManager.CreateSound(sounds.GetRandomElement(), GetPosition());
 		if (sound)
