@@ -81,7 +81,7 @@ class CustomMission: MissionServer
 		GetFactionData(factionName, m_player.IsMale(), loadoutType, spawnPos);
 
 		if ( factionName == "" || factionName == "Civilian" )
-			factionName = "Civilian";
+			factionName = "Civil";
 		
 		typename factionType = eAIFaction.GetType(factionName);
 		if (factionType)

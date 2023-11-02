@@ -1,0 +1,11 @@
+{
+    "RestrictionTime": 10,
+    "ConflictZones": [
+        {
+            "Name": "Bunker",
+            "X": 682.0,
+            "Z": 1162.0,
+            "Radius": 250
+        }
+    ]
+}
