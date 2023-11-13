@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "mp133shotgun",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 1000,
+            "MaxPriceThreshold": 750,
+            "MinPriceThreshold": 750,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "izh43shotgun",
-            "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 2000,
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
             "SellPricePercent": 100.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "saiga",
-            "MaxPriceThreshold": 8500,
-            "MinPriceThreshold": 8500,
+            "MaxPriceThreshold": 1900,
+            "MinPriceThreshold": 1800,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

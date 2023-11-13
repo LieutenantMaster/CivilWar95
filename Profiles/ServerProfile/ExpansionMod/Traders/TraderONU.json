@@ -30,9 +30,9 @@
         "Expansion_M9": 1,
         "mag_expansion_m9_15rnd": 1,
 
-        "expansion_awm": 1,
-        "mag_expansion_awm_5rnd": 1,
-        "ammobox_expansion_338_15rnd": 1,
+        "M14": 1,
+        "Mag_M14_10Rnd": 1,
+        "ammobox_308win_20rnd": 0,
 
         "TF_LVMBAVVest_KH": 1,
 

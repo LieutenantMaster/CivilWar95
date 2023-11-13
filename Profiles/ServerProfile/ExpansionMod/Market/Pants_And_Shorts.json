@@ -204,6 +204,21 @@
             ]
         },
         {
+            "ClassName": "FOG_G99_Pants_Black",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 120,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_G99_Pants_CB",
+                "FOG_G99_Pants_M81",
+                "FOG_G99_Pants_RG"
+            ]
+        },
+        {
             "ClassName": "FOG_Gorka_Pants_Black",
             "MaxPriceThreshold": 202,
             "MinPriceThreshold": 150,

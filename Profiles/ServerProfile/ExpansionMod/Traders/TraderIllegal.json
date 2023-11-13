@@ -48,6 +48,11 @@
         "FOG_Gorka_Jacket_Khaki": 0,
         "FOG_Gorka_Jacket_Black": 0,
         "FOG_Hooded_Cloak_Grey": 0,
+        "FOG_G99_Pants_Black": 0,
+                "FOG_G99_Pants_CB": 0,
+                "FOG_G99_Pants_M81": 0,
+                "FOG_G99_Pants_RG": 0,
+
 
         "Ssh68Helmet": 0,
         "TF_Maska1Helmet": 0,
@@ -73,16 +78,16 @@
         "combatknife" : 0,
 
 
-        "magnum": 0,
+        "magnum": 1,
         
-        "mosin9130": 0,
-        "sks": 0,
+        "mosin9130": 1,
+        "sks": 1,
 
-        "Crossbow_Wood": 0,
-        "Crossbow_Black": 0,
+        "Crossbow_Wood": 1,
+        "Crossbow_Black": 1,
         
-        "repeater": 0,
-        "mp133shotgun": 0,
+        "repeater": 1,
+        "mp133shotgun": 1,
 
         "tf_an94": 0,
         "aks74u": 0,
@@ -91,17 +96,17 @@
 
         "izh43shotgun": 0,
         
-        "makarovij70": 0,
+        "makarovij70": 1,
             "mag_ij70_8rnd": 0,
         
-        "cz61": 0,
+        "cz61": 1,
             "mag_cz61_20rnd": 0,
 
         "Expansion_mp5": 0,
             "mag_mp5_30rnd": 0,
             "Expansion_MP5_RailAtt": 0,
             "MP5_Compensator" : 0,
-
+        
         "m16a2": 3,
             "mag_stanag_30rnd": 0,
 
@@ -119,6 +124,10 @@
         "TF_OTs_14_Groza": 0,
             "TF_Mag_OTs_14_Groza_20Rnd": 0,
             "TF_OTs_14_Groza_Barrel_Grip": 0,
+            
+        "vss": 0,
+        "mag_val_20rnd": 0,
+        "mag_vss_10rnd": 0,    
         
         "Expansion_Guitar": 2,
         "Expansion_Guitar_old": 2,
@@ -128,7 +137,7 @@
         "TF_OKP7Optic": 0,
         "kobraoptic": 0,
         "PSO1optic": 0,
-        "HuntingOptic": 3,
+        "HuntingOptic": 0,
         "puscopeoptic": 0,
         "fnp45_mrdsoptic": 0,
 

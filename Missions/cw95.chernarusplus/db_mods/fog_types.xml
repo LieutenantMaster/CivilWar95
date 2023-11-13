@@ -7837,7 +7837,7 @@
         <value user="Tier12"/>
     </type>
     <type name="FOGR_ISOF_Jacket_Veteran">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7890,7 +7890,7 @@
         <value user="Tier123"/>
     </type>
     <type name="FOGR_ISOF_Jacket_Flannel_M81">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7917,7 +7917,7 @@
         <value user="Tier123"/>
     </type>
     <type name="FOGR_ISOF_Jacket_Flannel_Warlord">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -7931,7 +7931,7 @@
         <value user="Tier12"/>
     </type>
     <type name="FOGR_ISOF_Jacket_Flannel_M81_Burgandy">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
