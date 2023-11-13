@@ -7,23 +7,6 @@
     "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "RFFSHeli_LittleBird",
-            "MaxPriceThreshold": 1000000,
-            "MinPriceThreshold": 500000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "RFFSHeli_wiring_harness",
-                "RFFSHeli_igniter_plug",
-                "RFFSHeli_hydraulic_hoses",
-                "RFFSHeli_aviation_battery",
-                "HeadlightH7"
-            ],
-            "Variants": []
-        },
-        {
             "ClassName": "expansiongyrocopter",
             "MaxPriceThreshold": 1000000,
             "MinPriceThreshold": 500000,

@@ -1,82 +1,15 @@
 {
     "m_Version": 12,
-    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_HATS & #STR_EXPANSION_MARKET_CATEGORY_HOODS",
+    "DisplayName": "DECHETS",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
-    "InitStockPercent": 75.0,
+    "InitStockPercent": 10.0,
     "Items": [
         {
-            "ClassName": "WinterCoif_Black",
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 150,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "WinterCoif_Blue",
-                "WinterCoif_Green",
-                "WinterCoif_Skull"
-            ]
-        },
-        {
-            "ClassName": "PetushokHat_Green",
-            "MaxPriceThreshold": 250,
-            "MinPriceThreshold": 250,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "PetushokHat_Yellow",
-                "PetushokHat_Black"
-            ]
-        },
-        {
-            "ClassName": "medicalscrubshat_blue",
-            "MaxPriceThreshold": 50,
-            "MinPriceThreshold": 50,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "medicalscrubshat_white",
-                "medicalscrubshat_green"
-            ]
-        },
-        {
-            "ClassName": "cowboyhat_brown",
-            "MaxPriceThreshold": 145,
-            "MinPriceThreshold": 145,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "cowboyhat_black",
-                "cowboyhat_darkbrown",
-                "cowboyhat_green",
-                "expansioncowboyhatgator",
-                "expansioncowboyhatsnake",
-                "expansioncowboyhatrattlesnake",
-                "cowboyhat_blackbrown",
-                "cowboyhat_white",
-                "cowboyhat_grey",
-                "cowboyhat_darkgreen",
-                "cowboyhat_blue"
-
-            ]
-        },
-        {
-            "ClassName": "militaryberet_chdkz",
-            "MaxPriceThreshold": 50,
-            "MinPriceThreshold": 50,
+            "ClassName": "Empty_SodaCan_Pipsi",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -85,22 +18,9 @@
             "Variants": []
         },
         {
-            "ClassName": "militaryberet_nz",
-            "MaxPriceThreshold": 50,
-            "MinPriceThreshold": 50,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "militaryberet_cdf"
-            ]
-        },
-        {
-            "ClassName": "militaryberet_cdf",
-            "MaxPriceThreshold": 50,
-            "MinPriceThreshold": 50,
+            "ClassName": "Empty_SodaCan_Cola",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -109,9 +29,9 @@
             "Variants": []
         },
         {
-            "ClassName": "slouch_hat_brown",
-            "MaxPriceThreshold": 175,
-            "MinPriceThreshold": 175,
+            "ClassName": "Empty_SodaCan_Spite",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -120,9 +40,9 @@
             "Variants": []
         },
         {
-            "ClassName": "strawhat_mung",
-            "MaxPriceThreshold": 75,
-            "MinPriceThreshold": 75,
+            "ClassName": "Empty_SodaCan_Kvass",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -131,9 +51,9 @@
             "Variants": []
         },
         {
-            "ClassName": "militaryberet_un",
-            "MaxPriceThreshold": 54,
-            "MinPriceThreshold": 27,
+            "ClassName": "Empty_SodaCan_Fronta",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -142,33 +62,9 @@
             "Variants": []
         },
         {
-            "ClassName": "beaniehat_pink",
-            "MaxPriceThreshold": 75,
-            "MinPriceThreshold": 75,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "beaniehat_beige",
-                "beaniehat_blue",
-                "beaniehat_brown",
-                "beaniehat_grey",
-                "beaniehat_red",
-                "beaniehat_black",
-                "beaniehat_green",
-                "beanie_blackred",
-                "beanie_purple",
-                "beanie_white",
-                "beanie_blackwhite",
-                "beanie_green"                
-            ]
-        },
-        {
-            "ClassName": "beaniehat_black",
-            "MaxPriceThreshold": 75,
-            "MinPriceThreshold": 75,
+            "ClassName": "Empty_Box_CerealCruchin",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -177,9 +73,9 @@
             "Variants": []
         },
         {
-            "ClassName": "beaniehat_green",
-            "MaxPriceThreshold": 75,
-            "MinPriceThreshold": 75,
+            "ClassName": "Empty_Rice",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -188,26 +84,9 @@
             "Variants": []
         },
         {
-            "ClassName": "ushanka_black",
-            "MaxPriceThreshold": 95,
-            "MinPriceThreshold": 95,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "ushanka_blue",
-                "ushanka_green",
-                "ushanka_blackfurw",
-                "ushanka_greenlight",
-                "ushanka_whiteblackfur"
-            ]
-        },
-        {
-            "ClassName": "ushanka_green",
-            "MaxPriceThreshold": 95,
-            "MinPriceThreshold": 95,
+            "ClassName": "Empty_PowderedMilk",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 5,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -216,30 +95,9 @@
             "Variants": []
         },
         {
-            "ClassName": "booniehat_blue",
-            "MaxPriceThreshold": 85,
-            "MinPriceThreshold": 85,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "booniehat_navyblue",
-                "booniehat_orange",
-                "booniehat_red",
-                "booniehat_black",
-                "booniehat_tan",
-                "booniehat_olive",
-                "booniehat_dpm",
-                "booniehat_dubok",
-                "booniehat_flecktran"
-            ]
-        },
-        {
-            "ClassName": "booniehat_black",
-            "MaxPriceThreshold": 85,
-            "MinPriceThreshold": 85,
+            "ClassName": "Empty_Honey_NoLiquid",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -248,9 +106,9 @@
             "Variants": []
         },
         {
-            "ClassName": "booniehat_tan",
-            "MaxPriceThreshold": 85,
-            "MinPriceThreshold": 85,
+            "ClassName": "Empty_Marmalade_NoLiquid",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -259,9 +117,9 @@
             "Variants": []
         },
         {
-            "ClassName": "booniehat_olive",
-            "MaxPriceThreshold": 85,
-            "MinPriceThreshold": 85,
+            "ClassName": "Empty_Marmalade_NoLiquid",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -270,9 +128,9 @@
             "Variants": []
         },
         {
-            "ClassName": "booniehat_dpm",
-            "MaxPriceThreshold": 85,
-            "MinPriceThreshold": 85,
+            "ClassName": "Empty_Zagorky",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 5,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -281,9 +139,9 @@
             "Variants": []
         },
         {
-            "ClassName": "booniehat_dubok",
-            "MaxPriceThreshold": 85,
-            "MinPriceThreshold": 85,
+            "ClassName": "Empty_ZagorkyChocolate",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 5,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -292,9 +150,9 @@
             "Variants": []
         },
         {
-            "ClassName": "booniehat_flecktran",
-            "MaxPriceThreshold": 85,
-            "MinPriceThreshold": 85,
+            "ClassName": "Empty_ZagorkyPeanuts",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 5,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -303,8 +161,41 @@
             "Variants": []
         },
         {
-            "ClassName": "officerhat",
-            "MaxPriceThreshold": 50,
+            "ClassName": "Empty_SaltySticks",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Empty_Crackers",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Empty_Chips",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Empty_Can_Opened",
+            "MaxPriceThreshold": 25,
             "MinPriceThreshold": 25,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -314,9 +205,9 @@
             "Variants": []
         },
         {
-            "ClassName": "nbchoodgray",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 100,
+            "ClassName": "Empty_BakedBeansCan_Opened",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 25,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -325,10 +216,10 @@
             "Variants": []
         },
         {
-            "ClassName": "nbchoodyellow",
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 150,
-            "SellPricePercent": 50,
+            "ClassName": "Empty_PeachesCan_Opened",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 25,
+            "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -336,27 +227,131 @@
             "Variants": []
         },
         {
-            "ClassName": "shawl_floral_mung",
-            "MaxPriceThreshold": 65,
-            "MinPriceThreshold": 65,
-            "SellPricePercent": 50,
+            "ClassName": "Empty_TacticalBaconCan_Opened",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 25,
+            "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "shawl_yellow_mung",
-                "shawl_red_mung",
-                "shawl_templar_mung",
-                "shawl_palestini_mung",
-                "shawl_black_mung"
-            ]
+            "Variants": []
         },
         {
-            "ClassName": "bandana_mung",
-            "MaxPriceThreshold": 75,
-            "MinPriceThreshold": 75,
-            "SellPricePercent": 50,
+            "ClassName": "Empty_SpaghettiCan_Opened",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 25,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Empty_UnknownFoodCan_Opened",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Empty_SardinesCan_Opened",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Empty_TunaCan_Opened",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Empty_BrisketSpread_Opened",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Empty_Pate_Opened",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Empty_Pajka_Opened",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Empty_Lunchmeat_Opened",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Empty_PorkCan_Opened",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Empty_CatFoodCan_Opened",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Empty_DogFoodCan_Opened",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,

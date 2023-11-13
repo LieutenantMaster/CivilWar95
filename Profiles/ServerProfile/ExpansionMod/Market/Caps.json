@@ -7,6 +7,19 @@
     "InitStockPercent": 75.0,
     "Items": [
         {
+            "ClassName": "OKZKCap_Beige",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "OKZKCap_Green"
+            ]
+        },
+        {
             "ClassName": "baseballcap_cmmg_pink",
             "MaxPriceThreshold": 60,
             "MinPriceThreshold": 60,

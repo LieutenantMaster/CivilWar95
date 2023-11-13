@@ -452,7 +452,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage name="Farm" />
-    <usage name="Hunting" />
+    <usage name="Hunter" />
   </type>
 
   <type name="bl_pallet_table_s_Kit">
@@ -660,7 +660,7 @@
     <tag name="floor" />
     <usage name="Village" />
     <usage name="Town" />
-    <usage name="Lunapark" />
+    <usage name="AmusementPark" />
   </type>
 
   <type name="bl_greenhouse_Kit">
