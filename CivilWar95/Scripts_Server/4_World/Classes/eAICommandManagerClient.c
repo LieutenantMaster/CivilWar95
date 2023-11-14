@@ -10,8 +10,8 @@
 */
 
 #ifdef EXPANSIONMODAI
-modded class DayZExpansion
-{	
+modded class eAICommandManagerClient
+{
 	override eAIBase SpawnAI_Helper(PlayerBase owner, string loadout = "HumanLoadout.json")
 	{
 		eAIGroup group = eAIGroup.GetGroupByLeader(owner);

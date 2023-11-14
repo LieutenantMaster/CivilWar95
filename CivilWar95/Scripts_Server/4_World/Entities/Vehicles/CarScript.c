@@ -12,7 +12,7 @@
 modded class CarScript
 {
 	float m_OdometerMeters = 0.0;
-	static int m_MaxDistanceUntilRuined = 80; // KM
+	static int m_MaxDistanceUntilRuined = 100; // KM
 	
 	#ifdef SERVER
 	override void OnUpdate( float dt )

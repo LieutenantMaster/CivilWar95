@@ -37,7 +37,7 @@ modded class MissionServer
 	void InitArty()
 	{
 		m_PlayArty 				 = true;
-		m_ArtyDelay 			 = Math.RandomFloatInclusive(1000, 4000);
+		m_ArtyDelay 			 = Math.RandomFloatInclusive(2000, 4000);
 		m_MinSimultaneousStrikes = Math.RandomIntInclusive(2, 6);
 		m_MaxSimultaneousStrikes = Math.RandomIntInclusive(m_MinSimultaneousStrikes, 10);
 
@@ -76,27 +76,50 @@ modded class MissionServer
 		
 		super.OnEvent(eventTypeId, params);
 	}
+	
+	override void InvokeOnConnect(PlayerBase player, PlayerIdentity identity)
+	{
+		if ( identity )
+		{
+			m_SteamIDs.Insert(identity.GetPlainId());
+
+			WriteFile( "$profile:CW95\\Data\\online.txt", m_SteamIDs );
+		}			
+
+		super.InvokeOnConnect(player, identity);
+	}
+
+	override void PlayerDisconnected(PlayerBase player, PlayerIdentity identity, string uid)
+	{
+		if ( identity )
+		{
+			int id = m_SteamIDs.Find(identity.GetPlainId());
+			if ( id != -1 )
+				m_SteamIDs.Remove(id);
+
+			WriteFile( "$profile:CW95\\Data\\online.txt", m_SteamIDs );
+		}
+		
+		super.PlayerDisconnected(player, identity, uid);
+	}
 
 	void OnCheckOnlinePlayers()
-	{
-		WriteFile( "$profile:CW95\\Data\\online.txt", m_SteamIDs );
-		
+	{		
+#ifndef DIAG
 		array<string> discordUsers = new array<string>;
 		array<string> steamids = new array<string>;
 		array<string> username = new array<string>;
-		if ( ReadFile( "$profile:CW95\\Data\\discord_online.txt", discordUsers ) )
+		if ( !ReadFile( "$profile:CW95\\Data\\discord_online.txt", discordUsers ) )
+			return;
+
+		foreach(string discordUser: discordUsers)
 		{
-			foreach(string discordUser: discordUsers)
-			{
-				array<string> tokens = new array<string>;
-				discordUser.Split( "|", tokens );
+			array<string> tokens = new array<string>;
+			discordUser.Split( "|", tokens );
 
-				steamids.Insert(tokens.Get( 0 ));
-				username.Insert(tokens.Get( 1 ));
-			}
+			steamids.Insert(tokens.Get( 0 ));
+			username.Insert(tokens.Get( 1 ));
 		}
-
-		return;
 		
 		foreach (Man juan: m_Players)
 		{
@@ -125,20 +148,25 @@ modded class MissionServer
 
 			if ( userStatus != 0 )
 			{
+				string msg;
 				switch(userStatus)
 				{
 					case 1:
+						msg = "Veuillez vous connecter sur discord (canal vocal)";
 						Print("[CivilWar95]:: AUTO-KICK:: Player "+ juan.GetIdentity().GetName() + " (steamid:" + playerSteamId+") is not on discord");
 					break;
 					case 2:
+						msg = "Vous avez un nom de survivant ("+ juan.GetIdentity().GetName() + ") différent de votre nom discord ("+ username[i] +")";
 						Print("[CivilWar95]:: AUTO-KICK:: Player "+ juan.GetIdentity().GetName() + " (steamid:" + playerSteamId+") has a different name on discord ("+ username[i] +")");
 					break;
 				}
 
+				ExpansionNotification("CivilWar95 BOT", msg, EXPANSION_NOTIFICATION_ICON_T_Walkie_Talkie, COLOR_EXPANSION_NOTIFICATION_ERROR, 8).Info(juan.GetIdentity());
 				//GetGame().SendLogoutTime(juan, 0);
 				//PlayerDisconnected(juan, juan.GetIdentity(), juan.GetIdentity().GetId());
 			}
 		}
+#endif
 	}
 
 	static bool WriteFile( string filePath, array<string> lines )
