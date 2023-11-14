@@ -1,0 +1,19 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Recyclage",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Scrap Metal",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Dechets:2"
+    ],
+    "Items": {
+        "DeFormedRifleCasing": 1,
+        "DeFormedRifleTips": 1
+    }
+}

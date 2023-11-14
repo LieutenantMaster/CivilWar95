@@ -1,0 +1,20 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Imaginer",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Car",
+    "Currencies": [],
+    "Categories": [
+        "Entreprise_Natasha_Backpacks:1",
+        "Entreprise_Natasha_Boots:1",
+        "Entreprise_Natasha_Gloves:1",
+        "Entreprise_Natasha_Hat:1",
+        "Entreprise_Natasha_Misc:1",
+        "Entreprise_Natasha_Pants:1",
+        "Entreprise_Natasha_Shirts:1"
+    ],
+    "Items": {}
+}

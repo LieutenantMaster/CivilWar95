@@ -538,6 +538,28 @@
             "Variants": []
         },
         {
+            "ClassName": "Mag_M14_10Rnd",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Mag_M14_20Rnd",
+            "MaxPriceThreshold": 520,
+            "MinPriceThreshold": 260,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "mag_expansion_m14_10rnd",
             "MaxPriceThreshold": 400,
             "MinPriceThreshold": 200,

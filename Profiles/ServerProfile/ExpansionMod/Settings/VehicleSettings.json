@@ -19,11 +19,11 @@
     "Towing": 1,
     "EnableHelicopterExplosions": 1,
     "DisableVehicleDamage": 0,
-    "VehicleCrewDamageMultiplier": 0.0,
+    "VehicleCrewDamageMultiplier": 1.0,
     "VehicleSpeedDamageMultiplier": 1.0,
     "VehicleRoadKillDamageMultiplier": 1.0,
     "CollisionDamageIfEngineOff": 1,
-    "CollisionDamageMinSpeedKmh": 230.0,
+    "CollisionDamageMinSpeedKmh": 30.0,
     "CanChangeLock": 1,
     "ChangeLockTools": [
         "FOG_SOCOM_Slammer_Black"

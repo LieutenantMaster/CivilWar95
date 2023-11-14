@@ -35,7 +35,7 @@
         "SmallFishTrap",
         "TripwireTrap"
     ],
-    "CanCraftVanillaBasebuilding": 1,
+    "CanCraftVanillaBasebuilding": 0,
     "CanCraftExpansionBasebuilding": 0,
     "DestroyFlagOnDismantle": 1,
     "DismantleOutsideTerritory": 0,

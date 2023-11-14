@@ -10,7 +10,7 @@
     "EnableUFO": 0,
     "EnableMi24": 1,
     "EnableMi6": 1,
-    "Interval": 20.0,
+    "Interval": 30.0,
     "SubmarineInterval": 60.0,
     "BoatInterval": 60.0,
     "AndulaInterval": 60.0,
@@ -77,12 +77,6 @@
             "name": "ChernoLigneDeFront2",
             "sirenpos": "6605 47 2421",
             "target": "6511 9 2968",
-            "type": "heavy"
-        },
-        {
-            "name": "ZelenoGreenMountain",
-            "sirenpos": "6511 9 2968",
-            "target": "3699 403 5982",
             "type": "heavy"
         }
     ],

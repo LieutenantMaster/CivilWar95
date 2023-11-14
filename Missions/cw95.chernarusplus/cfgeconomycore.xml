@@ -78,5 +78,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="dingo_types.xml" type="types" />
 		<file name="book_types.xml" type="types" />
 		<file name="ams_types.xml" type="types" />
+		<file name="ammomaking_types.xml" type="types" />
 	</ce>
 </economycore>

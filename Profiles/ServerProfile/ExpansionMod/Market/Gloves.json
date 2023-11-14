@@ -7,6 +7,20 @@
     "InitStockPercent": 75.0,
     "Items": [
         {
+            "ClassName": "PaddedGloves_Beige",
+            "MaxPriceThreshold": 85,
+            "MinPriceThreshold": 85,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "PaddedGloves_Brown",
+                "PaddedGloves_Threat"
+            ]
+        },
+        {
             "ClassName": "surgicalgloves_blue",
             "MaxPriceThreshold": 25,
             "MinPriceThreshold": 25,
