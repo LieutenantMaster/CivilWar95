@@ -29,6 +29,7 @@ modded class ActionConstructor
 #ifdef CW95_ENABLE_KNOCK
 		actions.Insert(CW95_ActionKnockAtDoor);
 #endif
+		actions.Insert(CW95_DigUpGrave);
 
 		//! MUSIC PLAYER
 		actions.Insert(MP_PlayMusicAction);

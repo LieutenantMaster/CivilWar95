@@ -134,7 +134,64 @@ modded class ItemBase
 		
 		return area;
 	}
+	
+	override void UnlockAndOpen( string selection ) 
+	{
+		super.UnlockAndOpen(selection);
 
+		ExpansionLock();
+	}
+
+	override bool CanReceiveAttachment(EntityAI attachment, int slotId)
+	{
+		if ( !m_Initialized )
+			return true;
+
+		if (ExpansionIsLocked() && m_Expansion_IsOpenable)
+			return ExpansionIsOpened();
+
+		return super.CanReceiveAttachment(attachment, slotId);
+	}
+
+	override bool CanReceiveItemIntoCargo(EntityAI item)
+	{
+		if ( !m_Initialized )
+			return true;
+
+		if (ExpansionIsLocked() && m_Expansion_IsOpenable)
+			return ExpansionIsOpened();
+
+		return super.CanReceiveItemIntoCargo(item);
+	}
+
+	override bool CanReleaseAttachment(EntityAI attachment)
+	{
+		if ( !m_Initialized )
+			return true;
+
+		if ( attachment.IsInherited(ExpansionCodeLock) )
+			return !ExpansionIsLocked();
+
+		if (ExpansionIsLocked() && m_Expansion_IsOpenable)
+			return ExpansionIsOpened();
+
+		return super.CanReleaseAttachment(attachment);
+	}
+
+    override bool CanReleaseCargo(EntityAI cargo)
+	{
+		if ( !m_Initialized )
+			return true;
+
+		if (ExpansionIsLocked() && m_Expansion_IsOpenable)
+			return ExpansionIsOpened();
+
+		return super.CanReleaseCargo(cargo);
+	}
+};
+
+modded class ExpansionWallBase
+{
 	override void UnlockAndOpen( string selection ) 
 	{
 		super.UnlockAndOpen(selection);

@@ -2868,6 +2868,8 @@ class CfgVehicles
 	};
 	class PowderedMilk: Edible_Base
 	{
+		ItemMoveMinVolume = 0.4;
+		ItemMoveMaxVolume = 0.8;
 		ItemMoveSounds[] = 
 		{
 			"pickUpBloodBag_SoundSet"
@@ -3296,6 +3298,8 @@ class CfgVehicles
 	};
 	class Epinephrine: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.4;
+		ItemMoveMaxVolume = 0.8;
 		ItemMoveSounds[] = 
 		{
 			"pickUpBackPack_Plastic_Light_SoundSet"
@@ -3303,6 +3307,8 @@ class CfgVehicles
 	};
 	class Morphine: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.4;
+		ItemMoveMaxVolume = 0.8;
 		ItemMoveSounds[] = 
 		{
 			"pickUpBackPack_Plastic_Light_SoundSet"
@@ -3310,6 +3316,8 @@ class CfgVehicles
 	};
 	class Syringe: Epinephrine
 	{
+		ItemMoveMinVolume = 0.4;
+		ItemMoveMaxVolume = 0.8;
 		ItemMoveSounds[] = 
 		{
 			"Syringe_splash_SoundSet"
@@ -3317,6 +3325,8 @@ class CfgVehicles
 	};
 	class ClearSyringe: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.4;
+		ItemMoveMaxVolume = 0.8;
 		ItemMoveSounds[] = 
 		{
 			"Syringe_splash_SoundSet"
@@ -3324,6 +3334,8 @@ class CfgVehicles
 	};
 	class BloodSyringe: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.4;
+		ItemMoveMaxVolume = 0.8;
 		ItemMoveSounds[] = 
 		{
 			"Syringe_splash_SoundSet"
@@ -3331,6 +3343,8 @@ class CfgVehicles
 	};
 	class InjectionVial: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.4;
+		ItemMoveMaxVolume = 0.8;
 		ItemMoveSounds[] = 
 		{
 			"injectionvial_pickup_SoundSet"
@@ -3338,6 +3352,8 @@ class CfgVehicles
 	};
 	class SalineBag: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.4;
+		ItemMoveMaxVolume = 0.8;
 		ItemMoveSounds[] = 
 		{
 			"pickUpBloodBag_SoundSet"
@@ -3345,6 +3361,8 @@ class CfgVehicles
 	};
 	class StartKitIV: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.4;
+		ItemMoveMaxVolume = 0.8;
 		ItemMoveSounds[] = 
 		{
 			"pickUpBloodBag_SoundSet"
@@ -3352,6 +3370,8 @@ class CfgVehicles
 	};
 	class SalineBagIV: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.4;
+		ItemMoveMaxVolume = 0.8;
 		ItemMoveSounds[] = 
 		{
 			"pickUpBloodBag_SoundSet"
@@ -3359,6 +3379,8 @@ class CfgVehicles
 	};
 	class BloodBagEmpty: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.4;
+		ItemMoveMaxVolume = 0.8;
 		ItemMoveSounds[] = 
 		{
 			"pickUpBloodBag_SoundSet"
@@ -3366,6 +3388,8 @@ class CfgVehicles
 	};
 	class BloodBagFull: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.4;
+		ItemMoveMaxVolume = 0.8;
 		ItemMoveSounds[] = 
 		{
 			"pickUpBloodBag_SoundSet"
@@ -3373,6 +3397,8 @@ class CfgVehicles
 	};
 	class BloodBagIV: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.4;
+		ItemMoveMaxVolume = 0.8;
 		ItemMoveSounds[] = 
 		{
 			"pickUpBloodBag_SoundSet"
@@ -3380,6 +3406,8 @@ class CfgVehicles
 	};
 	class BloodTestKit: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.4;
+		ItemMoveMaxVolume = 0.8;
 		ItemMoveSounds[] = 
 		{
 			"pickUpBloodBag_SoundSet"
@@ -3423,6 +3451,8 @@ class CfgVehicles
 	};
 	class ChernarusMap: ItemMap
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.5;
 		ItemMoveSounds[] = 
 		{
 			"pickUpPaper_SoundSet"
@@ -3517,6 +3547,8 @@ class CfgVehicles
 	};
 	class Pliers: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.5;
 		ItemMoveSounds[] = 
 		{
 			"pickUpPliers_SoundSet"

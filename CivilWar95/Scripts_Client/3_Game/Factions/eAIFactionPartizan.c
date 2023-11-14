@@ -10,6 +10,7 @@
  *
 */
 
+[eAIRegisterFaction(eAIFactionPartizan)]
 class eAIFactionPartizan: eAIFaction
 {
 	void eAIFactionPartizan()

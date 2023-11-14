@@ -1,0 +1,1 @@
+class CW95_TraderMirrorStand: ExpansionTraderNPCBase{};

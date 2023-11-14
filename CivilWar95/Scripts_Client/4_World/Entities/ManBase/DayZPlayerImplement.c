@@ -24,6 +24,10 @@ modded class DayZPlayerImplement
 	protected bool m_ZS_IsSoundSynchClient;
 	protected bool m_ZS_IsZooming;
 
+	static const float MIN_SOUND_VOLUME = 0.5;
+	static const float MAX_SOUND_VOLUME = 1.1;
+	static const int MAX_ITEM_AREA = 6;
+
 	void DayZPlayerImplement()
 	{
 		RegisterNetSyncVariableBool("m_AS_IsSoundSynchServer");
@@ -99,16 +103,11 @@ modded class DayZPlayerImplement
 		SetSynchDirty();
 	}
 
-	static const float MIN_SOUND_VOLUME = 0.5;
-	static const float MAX_SOUND_VOLUME = 1.1;
-	static const int MAX_ITEM_AREA = 6;
-
 	protected void PlayAimSound(Weapon_Base weapon, bool exit)
 	{
 		float distance = vector.Distance(GetPosition(), GetGame().GetPlayer().GetPosition());
 		if ( distance < 10 )
-		{
-			
+		{			
 			string sound_set = GetAimSoundSet(weapon, exit);
 
 			EffectSound sound;

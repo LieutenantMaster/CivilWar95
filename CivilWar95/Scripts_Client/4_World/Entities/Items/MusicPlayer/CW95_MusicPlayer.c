@@ -97,6 +97,13 @@ class CW95_MusicPlayer: Inventory_Base
 		UpdateVisual();
 	}
 
+	override void DeferredInit()
+	{
+		super.DeferredInit();
+
+		UpdateVisual();
+	}
+
 	override void OnVariablesSynchronized()
 	{
 		super.OnVariablesSynchronized();
@@ -207,23 +214,6 @@ class CW95_MusicPlayer: Inventory_Base
 
 	void UpdateVisual()
 	{
-		ItemBase cassette = GetCassette();
-		ItemBase battery = GetBattery();
-
-		if(m_DoorState)
-		{
-			if(cassette)
-				cassette.UnlockFromParent();
-
-			if(battery)
-				battery.UnlockFromParent();
-		} else {
-			if(cassette)
-				cassette.LockToParent();
-
-			if(battery)
-				battery.LockToParent();
-		}
 #ifndef SERVER
 		SetAnimationPhase( "Slider_Volume", 		Math.Clamp(m_Volume, 0.0, m_VolumeMax) );
 		
@@ -249,7 +239,7 @@ class CW95_MusicPlayer: Inventory_Base
 			if ( IsBusy() )
 			{
 				if ( !m_AnimateTimer.IsRunning() )
-					m_AnimateTimer.Run(0.1, this,"AnimateTapePlayer", NULL, true);
+					m_AnimateTimer.Run(0.1, this, "AnimateTapePlayer", NULL, true);
 			}
 			else if ( m_AnimateTimer.IsRunning() )
 			{
@@ -536,16 +526,26 @@ class CW95_MusicPlayer: Inventory_Base
 		return m_IsFastForwarding;
 	}
 
+	override bool CanReleaseAttachment(EntityAI attachment)
+	{
+		if (!super.CanReleaseAttachment(attachment))
+			return false;
+
+		//! Check for m_Initialized set by vanilla DeferredInit() to make sure already attached items can be loaded from storage even if this is opened
+		if (m_Initialized && !m_DoorState)
+			return false;
+
+		return true; // Only allow access if the door is opened
+	}
+
 	override bool CanReceiveAttachment (EntityAI attachment, int slotId)
 	{
 		if( !super.CanReceiveAttachment(attachment, slotId) )
 			return false;
 
-		PlayerBase player = PlayerBase.Cast( GetHierarchyRootPlayer() );
+		if ( m_Initialized && !m_DoorState)
+			return false;
 
-		if ( player && !player.IsPlayerLoaded() )
-			return true;
-
-		return m_DoorState; // Only allow access if the door is opened
+		return true; // Only allow access if the door is opened
 	}
 };

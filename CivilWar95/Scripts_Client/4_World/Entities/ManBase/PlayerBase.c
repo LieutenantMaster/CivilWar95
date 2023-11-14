@@ -26,37 +26,17 @@ modded class PlayerBase
 	private float m_IL_m_SpawnDarkeningCurrentTime;
 	private ref PPERequester_CW95SpawnEffects m_IL_ppeEffect;
 
-	// Login sync variables
-	private bool m_ZenLoginHasFinishedClient;
-	private bool m_ZenLoginHasFinishedServer;
-	private bool m_ZenLoginForceCancel;
+	autoptr TVectorArray m_InteractedPositions;
+	autoptr TIntArray m_TimeStampPositions;
 
 	void PlayerBase()
 	{
+		m_InteractedPositions = new TVectorArray;
+		m_TimeStampPositions = new TIntArray;
 		if ( !IsAI() )
 		{
-			RegisterNetSyncVariableBool("m_ZenLoginHasFinishedServer");
 			RegisterNetSyncVariableBool("m_IsSurrender");
 			RegisterNetSyncVariableFloat("m_PScale", 0.7, 1.2);
-		}
-	}
-
-	override void OnVariablesSynchronized()
-	{
-		super.OnVariablesSynchronized();
-
-		if (m_ZenLoginHasFinishedClient == m_ZenLoginHasFinishedServer)
-			return;
-
-		m_ZenLoginHasFinishedClient = m_ZenLoginHasFinishedServer;
-		if (m_ZenLoginHasFinishedClient && !IsFlagSet(EntityFlags.VISIBLE))
-		{
-			// Player who is not us has sync'd as logged in, set them visible
-			if (!IsControlledPlayer())
-			{
-				SetFlags(EntityFlags.VISIBLE, true);
-				Update();
-			}
 		}
 	}
 
@@ -65,11 +45,7 @@ modded class PlayerBase
 		super.OnPlayerLoaded();
 
 #ifndef SERVER
-		m_ZenLoginHasFinishedClient = false;
-		m_ZenLoginForceCancel = false;
 		GetGame().GetCallQueue(CALL_CATEGORY_SYSTEM).CallLater(ZenLoginBegin);
-#else
-		m_ZenLoginHasFinishedServer = false;
 #endif
 	}
 
@@ -80,17 +56,6 @@ modded class PlayerBase
 
 		if ( m_PScale > 0.7 && m_PScale < 1.2 )
 			SetScale(m_PScale);
-
-		// Don't apply to client player or if this player has sync'd as logged in
-		if (m_ZenLoginHasFinishedClient || IsControlledPlayer())
-			return;
-
-		// Check that this isn't a loading screen character before setting it invisible
-		if (GetDayZGame().GetMissionState() == DayZGame.MISSION_STATE_MAINMENU)
-			return;
-
-		// Set invisible by clearing Visible entity flag
-		ClearFlags(EntityFlags.VISIBLE, true);
 	}
 
 	bool IsPlayerAtZeleno()
@@ -166,7 +131,7 @@ modded class PlayerBase
 
 	protected bool ZenImmersiveLoginCancelFX()
 	{
-		return m_ZenLoginForceCancel || IsRestrained() || IsUnconscious() || IsFalling() || !IsAlive() || IsSwimming();
+		return IsRestrained() || IsUnconscious() || IsFalling() || !IsAlive() || IsSwimming();
 	}
 
 	protected void ZenImmersiveLogin()
@@ -178,9 +143,7 @@ modded class PlayerBase
 		if (GetEmoteManager().CanPlayEmote(EmoteConstants.ID_EMOTE_LYINGDOWN))
 		{
 			GetEmoteManager().CreateEmoteCBFromMenu(EmoteConstants.ID_EMOTE_LYINGDOWN);
-		}
-		else
-		{
+		} else {
 			GetEmoteManager().CreateEmoteCBFromMenu(EmoteConstants.ID_EMOTE_SITA);
 			GetEmoteManager().GetEmoteLauncher().SetForced(EmoteLauncher.FORCE_DIFFERENT);
 		}
@@ -242,24 +205,4 @@ modded class PlayerBase
 		// Re-schedule update loop
 		GetGame().GetCallQueue(CALL_CATEGORY_SYSTEM).CallLater(ZenLoginUpdateSpawnDarknessLevel, 1, false);
 	}
-
-	void ZenImmersiveLoginFinished()
-	{
-		m_ZenLoginHasFinishedClient = true;
-#ifdef SERVER
-		m_ZenLoginHasFinishedServer = true;
-		SetSynchDirty();
-#endif
-	}
-
-	bool ZenLoginHasFinished()
-	{
-		return m_ZenLoginHasFinishedClient || m_ZenLoginHasFinishedServer;
-	}
-
-	override void EEHitBy(TotalDamageResult damageResult, int damageType, EntityAI source, int component, string dmgZone, string ammo, vector modelPos, float speedCoef)
-	{
-		super.EEHitBy(damageResult, damageType, source, component, dmgZone, ammo, modelPos, speedCoef);
-		m_ZenLoginForceCancel = true;
-	};
 };

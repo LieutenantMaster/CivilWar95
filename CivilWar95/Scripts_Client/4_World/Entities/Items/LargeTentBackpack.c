@@ -28,7 +28,7 @@ modded class LargeTentBackPack
 	// Convert this tent backpack back into a packed tent
 	private void ZenPackTent()
 	{
-		this.GetInventory().ReplaceItemWithNew(InventoryMode.SERVER, new ReplaceZenTentLambda(this, "LargeTent"));
+		GetInventory().ReplaceItemWithNew(InventoryMode.SERVER, new ReplaceZenTentLambda(this, "LargeTent"));
 	}
 
 	// Only allow attaching tent to player
