@@ -3,8 +3,8 @@
     "ConflictZones": [
         {
             "Name": "Bunker",
-            "X": 682.0,
-            "Z": 1162.0,
+            "X": 682,
+            "Z": 1162,
             "Radius": 250
         }
     ]

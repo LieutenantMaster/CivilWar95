@@ -391,6 +391,48 @@
                     "RuleText": "La constitution prévoit la possibilité de mettre en place des référendums. Seul les citoyens naturalisés chernares disposent du droit de vote."
                 }
             ]
+        },
+        {
+            "CategoryName": "MANIFESTE DE L'ETOILE ROUGE",
+            "Rules":
+            [
+                {
+                    "RuleParagraph": "1.1.",
+                    "RuleText": "Il est interdit en dehors du personnel assermenté, de se promener dans l’enceinte sécurisée de la capitale avec son arme chargée et portée en main."
+                },
+                {
+                    "RuleParagraph": "1.2.",
+                    "RuleText": "Chaque début de journée vous devez saluer la statuE édifiée en l’honneur de notre glorieux camarade Gregory LOPOTEV."
+                },
+                {
+                    "RuleParagraph": "1.3.",
+                    "RuleText": "Il est strictement interdit aux citoyens de pénétrer dans le quartier général CHDKZ sans y avoir été autorisé par un officier ou sans avoir pris rendez-vous au préalable."
+                },
+                {
+                    "RuleParagraph": "1.4.",
+                    "RuleText": "Toute personne qui engage ou termine une conversation doit la débuter et la terminer par la salutation «slavà LOPOTEV» en l’honneur et à la gloire de notre chef suprême."
+                },
+                {
+                    "RuleParagraph": "1.5.",
+                    "RuleText": "Le mardi est considéré comme « le jour du poisson », vous devez impérativement en consommer ce jour là."
+                },
+                {
+                    "RuleParagraph": "1.6.",
+                    "RuleText": "Il est strictement interdit de porter des chaussures de pointure différente."
+                },
+                {
+                    "RuleParagraph": "1.7.",
+                    "RuleText": "Le vendredi est le jour du «partisan» toute personne résidant à ELEKTROZAVODSK se doit de fumer toute la journée et se deplacer avec une cigarette à la bouche."
+                },
+                {
+                    "RuleParagraph": "1.8.",
+                    "RuleText": "Il est impératif de féliciter le Commandant pour sa très belle moustache"
+                },
+                {
+                    "RuleParagraph": "1.9.",
+                    "RuleText": "Dans le cas où ses lois ne seraient pas strictement suivies, le Commissar de la brigade pourra appliquer des peines qui seront purgées au GOULAG."
+                }
+            ]
         }
     ],
     "DisplayServerSettingsInServerInfoTab": 1,
