@@ -56,8 +56,8 @@
         },
         {
             "ClassName": "mosin9130",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
