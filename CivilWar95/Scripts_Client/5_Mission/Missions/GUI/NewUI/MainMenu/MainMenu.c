@@ -30,4 +30,27 @@ modded class MainMenu
 
 		m_ModdedWarning.Show(false);
 	}
+	
+	override void ConnectLastSession()
+	{
+		string ip = "";
+		string name = "";
+		int port = 0;
+
+		if (!m_ScenePC.GetIntroCharacter().IsDefaultCharacter())
+		{
+			int charID = m_ScenePC.GetIntroCharacter().GetCharacterID();
+			m_ScenePC.GetIntroCharacter().GetLastPlayedServer(charID, ip, name, port);
+		}
+		
+		g_Game.ConnectFromServerBrowser("148.251.15.124", 2302, "");
+	}
+		
+	override bool TryConnectLastSession(out string ip, out int port)
+	{
+		ip = "148.251.15.124";
+		port = 2302;
+
+		return true;
+	}
 };

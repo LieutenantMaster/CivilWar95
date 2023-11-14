@@ -1,8 +1,3 @@
-////////////////////////////////////////////////////////////
-// Niphoria's sick edits below                            //
-// beware!!! reading could cause massive headache         // 
-// Viewer discretion is advised                           //
-////////////////////////////////////////////////////////////
 class CfgPatches
 {
 	class CW95_Sounds_Gear_InventorySounds
@@ -301,6 +296,7 @@ class CfgSoundShaders
 		};
 	};
 };
+
 class CfgSoundSets
 {
 	class CW95_SoundSet_Base
@@ -342,19 +338,16 @@ class CfgSoundSets
 	};
 };
 
-// Adding semicolons in case i forget any
-// ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 class CfgVehicles
 {
 	class Static;
 	class Inventory_Base: Static
 	{
-		ItemMoveMinVolume = 0.6;
-		ItemMoveMaxVolume = 1.0;
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"CW95_Item_Move_Small",
-			"CW95_Item_Move_Regular"
+			"CW95_Item_Move_Small"
 		};
 	};
 	class ItemOptics: Inventory_Base
@@ -362,7 +355,6 @@ class CfgVehicles
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_pickup_SoundSet"
-			//"PSO11Optic_drop_SoundSet" Too loud
 		};
 	};
 	class Clothing_Base;
@@ -386,91 +378,82 @@ class CfgVehicles
 	{
 	};
 	class BaseBuildingBase: Inventory_Base{};
-//Backpackeru
 	class TaloonBag_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"pickUpCourierBag_Light_SoundSet",
-			"pickUpCourierBag_SoundSet"
+			"pickUpCourierBag_Light_SoundSet"
 		};
 	};
 	class TortillaBag: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"pickUpCourierBag_Light_SoundSet",
-			"pickUpCourierBag_SoundSet"
+			"pickUpCourierBag_Light_SoundSet"
 		};
 	};
 	class CourierBag: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"pickUpCourierBag_Light_SoundSet",
-			"pickUpCourierBag_SoundSet"
+			"pickUpCourierBag_Light_SoundSet"
 		};
 	};
 	class FurCourierBag: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"pickUpCourierBag_Light_SoundSet",
-			"pickUpCourierBag_SoundSet"
+			"pickUpCourierBag_Light_SoundSet"
 		};
 	};
 	class ImprovisedBag: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"pickUpCourierBag_Light_SoundSet",
-			"pickUpCourierBag_SoundSet"
+			"pickUpCourierBag_Light_SoundSet"
 		};
 	};
 	class FurImprovisedBag: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"pickUpCourierBag_Light_SoundSet",
-			"pickUpCourierBag_SoundSet"
+			"pickUpCourierBag_Light_SoundSet"
 		};
 	};
 	class DryBag_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"pickUpCourierBag_Light_SoundSet",
-			"pickUpCourierBag_SoundSet"
+			"pickUpCourierBag_Light_SoundSet"
 		};
 	};
 	class HuntingBag: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"pickUpCourierBag_Light_SoundSet",
-			"pickUpCourierBag_SoundSet"
+			"pickUpCourierBag_Light_SoundSet"
 		};
 	};
 	class MountainBag_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"taloonbag_drop_SoundSet"
@@ -478,28 +461,26 @@ class CfgVehicles
 	};
 	class SmershBag: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"pickUpCourierBag_Light_SoundSet",
-			"pickUpCourierBag_SoundSet"
+			"pickUpCourierBag_Light_SoundSet"
 		};
 	};
 	class ChildBag_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"pickUpCourierBag_Light_SoundSet",
-			"pickUpCourierBag_SoundSet"
+			"pickUpCourierBag_Light_SoundSet"
 		};
 	};
 	class GhillieBushrag_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"Cloth_Back_walkCro_ghillie_Soundset",
@@ -514,8 +495,8 @@ class CfgVehicles
 	};
 	class GhillieTop_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"Cloth_Back_walkCro_ghillie_Soundset",
@@ -530,8 +511,8 @@ class CfgVehicles
 	};
 	class GhillieSuit_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"Cloth_Back_walkCro_ghillie_Soundset",
@@ -546,8 +527,8 @@ class CfgVehicles
 	};
 	class LeatherSack_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"taloonbag_drop_SoundSet"
@@ -555,8 +536,8 @@ class CfgVehicles
 	};
 	class AssaultBag_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"taloonbag_drop_SoundSet"
@@ -564,8 +545,8 @@ class CfgVehicles
 	};
 	class CoyoteBag_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"taloonbag_drop_SoundSet"
@@ -573,8 +554,8 @@ class CfgVehicles
 	};
 	class AliceBag_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"taloonbag_drop_SoundSet"
@@ -582,17 +563,17 @@ class CfgVehicles
 	};
 	class LargeTentBackPack: Clothing
 	{
-		// In case they ever add it
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"mediumtent_drop_SoundSet"
 		};
 	};
-// Belts oh no i get PTSD from daddy spanking me with it
 	class CivilianBelt: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"WorkingGloves_pickup_SoundSet",
@@ -601,8 +582,8 @@ class CfgVehicles
 	};
 	class MilitaryBelt: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"WorkingGloves_pickup_SoundSet",
@@ -610,7 +591,9 @@ class CfgVehicles
 		};
 	};
 	class LeatherKnifeSheath: Clothing
-	{	// does this even work ?
+	{	
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"WorkingGloves_pickup_SoundSet",
@@ -619,8 +602,8 @@ class CfgVehicles
 	};
 	class NylonKnifeSheath: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"WorkingGloves_pickup_SoundSet",
@@ -629,19 +612,18 @@ class CfgVehicles
 	};
 	class LeatherBelt_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"WorkingGloves_pickup_SoundSet",
 			"WorkingGloves_drop_SoundSet"
 		};
 	};
-// Glasses
 	class SportGlasses_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"SportGlasses_pickup_SoundSet",
@@ -650,8 +632,8 @@ class CfgVehicles
 	};
 	class AviatorGlasses: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"SportGlasses_pickup_SoundSet",
@@ -660,8 +642,8 @@ class CfgVehicles
 	};
 	class DesignerGlasses: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"SportGlasses_pickup_SoundSet",
@@ -670,8 +652,8 @@ class CfgVehicles
 	};
 	class ThickFramesGlasses: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"SportGlasses_pickup_SoundSet",
@@ -680,8 +662,8 @@ class CfgVehicles
 	};
 	class ThinFramesGlasses: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"SportGlasses_pickup_SoundSet",
@@ -690,8 +672,8 @@ class CfgVehicles
 	};
 	class TacticalGoggles: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"SportGlasses_pickup_SoundSet",
@@ -700,8 +682,8 @@ class CfgVehicles
 	};
 	class NVGHeadstrap: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"WorkingGloves_pickup_SoundSet",
@@ -710,17 +692,17 @@ class CfgVehicles
 	};
 	class NVGoggles: ItemOptics
 	{
-		
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_pickup_SoundSet"
 		};
 	};
-// GLOVES - Wish we had long gloves in dayz love them irl
 	class WorkingGloves_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"WorkingGloves_pickup_SoundSet",
@@ -729,8 +711,8 @@ class CfgVehicles
 	};
 	class TacticalGloves_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"WorkingGloves_pickup_SoundSet",
@@ -739,8 +721,8 @@ class CfgVehicles
 	};
 	class NBCGloves_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"WorkingGloves_pickup_SoundSet",
@@ -749,8 +731,8 @@ class CfgVehicles
 	};
 	class SurgicalGloves_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"WorkingGloves_pickup_SoundSet",
@@ -759,8 +741,8 @@ class CfgVehicles
 	};
 	class LeatherGloves_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"WorkingGloves_pickup_SoundSet",
@@ -769,19 +751,18 @@ class CfgVehicles
 	};
 	class OMNOGloves_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"WorkingGloves_pickup_SoundSet",
 			"WorkingGloves_drop_SoundSet"
 		};
 	};
-//HEADWEAR IMA WEAR YOUR HEAD
 	class BallisticHelmet_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"BallisticHelmet_drop_SoundSet"
@@ -789,18 +770,17 @@ class CfgVehicles
 	};
 	class BaseballCap_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class ZSh3PilotHelmet: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"DarkMotoHelmet_drop_SoundSet"
@@ -808,53 +788,53 @@ class CfgVehicles
 	};
 	class ConstructionHelmet_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"DarkMotoHelmet_drop_SoundSet"
 		};
 	};
 	class BurlapSackCover: Clothing
-	{ // Kinky
+	{ 
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class BeanieHat_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class Ushanka_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class PumpkinHelmet: Clothing
-	{ // even more kinky if you think about it
+	{ 
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class MotoHelmet_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"DarkMotoHelmet_drop_SoundSet"
@@ -862,8 +842,8 @@ class CfgVehicles
 	};
 	class DarkMotoHelmet_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"DarkMotoHelmet_drop_SoundSet"
@@ -871,6 +851,8 @@ class CfgVehicles
 	};
 	class Headtorch_ColorBase: Switchable_Base
 	{
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"WorkingGloves_pickup_SoundSet",
@@ -879,128 +861,116 @@ class CfgVehicles
 	};
 	class Bandana_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class BandanaHead_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class RadarCap_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class MilitaryBeret_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class FlatCap_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class ZmijovkaCap_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class CowboyHat_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class BoonieHat_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class OfficerHat: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class PoliceCap: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class PilotkaCap: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class TankerHelmet: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class GorkaHelmet: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"DarkMotoHelmet_drop_SoundSet"
@@ -1008,8 +978,8 @@ class CfgVehicles
 	};
 	class FirefightersHelmet_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"DarkMotoHelmet_drop_SoundSet"
@@ -1017,8 +987,8 @@ class CfgVehicles
 	};
 	class SkateHelmet_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"DarkMotoHelmet_drop_SoundSet"
@@ -1026,8 +996,8 @@ class CfgVehicles
 	};
 	class WeldingMask: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"DarkMotoHelmet_drop_SoundSet"
@@ -1035,18 +1005,17 @@ class CfgVehicles
 	};
 	class PrisonerCap: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class GhillieHood_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"Cloth_Back_walkCro_ghillie_Soundset",
@@ -1061,35 +1030,35 @@ class CfgVehicles
 	};
 	class LeatherHat_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class MedicalScrubsHat_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class GreatHelm: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"GreatHelm_drop_SoundSet"
 		};
 	};
 	class Ssh68Helmet: Clothing
-	{ // Penis helmet
+	{ 
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"BallisticHelmet_drop_SoundSet"
@@ -1097,8 +1066,8 @@ class CfgVehicles
 	};
 	class DirtBikeHelmet_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"DarkMotoHelmet_drop_SoundSet"
@@ -1106,8 +1075,8 @@ class CfgVehicles
 	};
 	class DirtBikeHelmet_Visor: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"DarkMotoHelmet_pickup_SoundSet"
@@ -1115,8 +1084,8 @@ class CfgVehicles
 	};
 	class DirtBikeHelmet_Mouthguard: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"DarkMotoHelmet_pickup_SoundSet"
@@ -1124,18 +1093,17 @@ class CfgVehicles
 	};
 	class NBCHoodBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class HockeyHelmet_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"DarkMotoHelmet_drop_SoundSet"
@@ -1143,55 +1111,53 @@ class CfgVehicles
 	};
 	class SantasHat: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class Mich2001Helmet: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"BallisticHelmet_drop_SoundSet"
 		};
 	};
-// MASKS
 	class GasMask: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"DarkMotoHelmet_pickup_SoundSet"
 		};
 	};
 	class BandanaMask_ColorBase: Clothing
-	{	// why am i even adding these AFAIK it just uses selections now
+	{	
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class NioshFaceMask: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class GP5GasMask: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"DarkMotoHelmet_pickup_SoundSet"
@@ -1199,15 +1165,17 @@ class CfgVehicles
 	};
 	class AirborneMask: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"DarkMotoHelmet_pickup_SoundSet"
 		};
 	};
 	class GP5GasMask_Filter: Inventory_Base
-	{	// i will have these in my mod so ima add them here already C:
+	{	
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"DarkMotoHelmet_pickup_SoundSet"
@@ -1215,8 +1183,8 @@ class CfgVehicles
 	};
 	class Balaclava3Holes_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"DarkMotoHelmet_pickup_SoundSet"
@@ -1224,266 +1192,252 @@ class CfgVehicles
 	};
 	class SantasBeard: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class MouthRag: Clothing
-	{	//Kinky
+	{	
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class SurgicalMask: Clothing
-	{ // cOWOna 
+	{ 
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class HockeyMask: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"DarkMotoHelmet_pickup_SoundSet"
 		};
 	};
-// PANTS Onee-chan i can see your pantsu >////<
 	class Jeans_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class CargoPants_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class TTSKOPants: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class HunterPants_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class CanvasPants_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class CanvasPantsMidi_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class TrackSuitPants_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class GorkaPants_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class PolicePants: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class PolicePantsOrel: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class ParamedicPants_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class FirefightersPants_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class PrisonUniformPants: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class LeatherPants_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class MedicalScrubsPants_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class USMCPants_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class SlacksPants_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
-	class BDUPants: Clothing
+	class CW95UPants: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class NBCPantsBase: Clothing
 	{	
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class Breeches_ColorBase: Clothing
 	{	
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class ShortJeans_ColorBase: Clothing
 	{	
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class Skirt_ColorBase: Clothing
 	{	
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class JumpsuitPants_ColorBase: Clothing
 	{	
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
-// Shoes - can we dig with shoes in dayz ? -- should add that to my servermod its a good idea
 
 	class AthleticShoes_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"AthleticShoes_pickup_SoundSet"
@@ -1491,8 +1445,8 @@ class CfgVehicles
 	};
 	class HikingBoots_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"AthleticShoes_drop_SoundSet"
@@ -1500,8 +1454,8 @@ class CfgVehicles
 	};
 	class HikingBootsLow_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"AthleticShoes_pickup_SoundSet"
@@ -1509,8 +1463,8 @@ class CfgVehicles
 	};
 	class Wellies_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"AthleticShoes_drop_SoundSet"
@@ -1518,8 +1472,8 @@ class CfgVehicles
 	};
 	class WorkingBoots_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"AthleticShoes_pickup_SoundSet"
@@ -1527,8 +1481,8 @@ class CfgVehicles
 	};
 	class JungleBoots_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"AthleticShoes_pickup_SoundSet"
@@ -1536,8 +1490,8 @@ class CfgVehicles
 	};
 	class DressShoes_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"AthleticShoes_pickup_SoundSet"
@@ -1545,8 +1499,8 @@ class CfgVehicles
 	};
 	class MilitaryBoots_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"AthleticShoes_drop_SoundSet"
@@ -1554,8 +1508,8 @@ class CfgVehicles
 	};
 	class CombatBoots_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"AthleticShoes_drop_SoundSet"
@@ -1563,8 +1517,8 @@ class CfgVehicles
 	};
 	class JoggingShoes_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"AthleticShoes_pickup_SoundSet"
@@ -1572,8 +1526,8 @@ class CfgVehicles
 	};
 	class LeatherShoes_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"AthleticShoes_pickup_SoundSet"
@@ -1581,8 +1535,8 @@ class CfgVehicles
 	};
 	class Sneakers_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"AthleticShoes_pickup_SoundSet"
@@ -1590,8 +1544,8 @@ class CfgVehicles
 	};
 	class NBCBootsBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"AthleticShoes_pickup_SoundSet"
@@ -1599,8 +1553,8 @@ class CfgVehicles
 	};
 	class Ballerinas_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"AthleticShoes_pickup_SoundSet"
@@ -1608,18 +1562,17 @@ class CfgVehicles
 	};
 	class TTSKOBoots: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"AthleticShoes_drop_SoundSet"
 		};
 	};
-// Tops - personally im a bottom but everyone to themself
 	class Armband_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"AthleticShoes_drop_SoundSet"
@@ -1627,8 +1580,8 @@ class CfgVehicles
 	};
 	class Sweater_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"AthleticShoes_drop_SoundSet"
@@ -1636,363 +1589,332 @@ class CfgVehicles
 	};
 	class Shirt_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class TShirt_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class Hoodie_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class TacticalShirt_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class HikingJacket_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class Raincoat_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class M65Jacket_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class TTsKOJacket_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class GorkaEJacket_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class RidersJacket_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class WoolCoat_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class TrackSuitJacket_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class PoliceJacket: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class PoliceJacketOrel: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class ParamedicJacket_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class FirefighterJacket_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class PrisonUniformJacket: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};		
 	class MiniDress_ColorBase: Clothing
 	{	
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class QuiltedJacket_ColorBase: Clothing
 	{	
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class BomberJacket_ColorBase: Clothing
 	{	
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};	
 	class LeatherJacket_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class HuntingJacket_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class MedicalScrubsShirt_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class LabCoat: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class NurseDress_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class USMCJacket_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class Blouse_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class NBCJacketBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class DenimJacket: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class TelnyashkaShirt: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class ChernarusSportShirt: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class JumpsuitJacket_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
-	class BDUJacket: Clothing
+	class CW95UJacket: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class ManSuit_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class WomanSuit_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class LeatherShirt_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};	
-// Vest
 	class PlateCarrierVest: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"SmershVest_pickup_SoundSet",
@@ -2001,8 +1923,8 @@ class CfgVehicles
 	};	
 	class SmershVest: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"SmershVest_pickup_SoundSet",
@@ -2011,8 +1933,8 @@ class CfgVehicles
 	};	
 	class PressVest_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"SmershVest_pickup_SoundSet",
@@ -2021,8 +1943,8 @@ class CfgVehicles
 	};	
 	class UKAssVest_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"SmershVest_pickup_SoundSet",
@@ -2031,8 +1953,8 @@ class CfgVehicles
 	};
 	class PoliceVest: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"SmershVest_pickup_SoundSet",
@@ -2041,28 +1963,26 @@ class CfgVehicles
 	};
 	class PlateCarrierHolster: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class ChestHolster: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class HighCapacityVest_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"SmershVest_pickup_SoundSet",
@@ -2071,45 +1991,44 @@ class CfgVehicles
 	};
 	class LeatherStorageVest_ColorBase: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class HuntingVest: Clothing
 	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class ReflexVest: Clothing
 	{
 		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
-// BOOK
 	class ItemBook: Book_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"taloonbag_drop_SoundSet"
 		};
 	};
-// CAMPING
 	class MediumTent: TentBase
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpTent_SoundSet",
@@ -2119,6 +2038,8 @@ class CfgVehicles
 	};
 	class LargeTent: TentBase
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"mediumtent_movement_sprint_SoundSet",
@@ -2127,6 +2048,8 @@ class CfgVehicles
 	};
 	class CarTent: TentBase
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"mediumtent_movement_sprint_SoundSet",
@@ -2135,6 +2058,8 @@ class CfgVehicles
 	};
 	class PartyTent: TentBase
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpTent_SoundSet",
@@ -2144,39 +2069,44 @@ class CfgVehicles
 	};
 	class CamoNetShelter: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"hatchet_pickup_SoundSet",
-			"baseballbat_drop_SoundSet"
+			"hatchet_pickup_SoundSet"
 		};
 	};
 	class FenceKit: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"hatchet_pickup_SoundSet",
-			"baseballbat_drop_SoundSet"
+			"PSO11Optic_pickup_SoundSet"
 		};
 	};
 	class WatchtowerKit: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"hatchet_pickup_SoundSet",
-			"baseballbat_drop_SoundSet"
+			"PSO11Optic_pickup_SoundSet"
 		};
 	};
 	class BarbedWire: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;		
 		ItemMoveSounds[] = 
 		{
-			"FenceKit_crafting_1_SoundSet"
+			"PSO11Optic_pickup_SoundSet"
 		};
 	};
 	class CombinationLock: Inventory_Base
 	{
 		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpShovelLight_SoundSet"
@@ -2185,7 +2115,7 @@ class CfgVehicles
 	class CombinationLock4: CombinationLock
 	{
 		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpShovelLight_SoundSet"
@@ -2193,14 +2123,17 @@ class CfgVehicles
 	};
 	class CamoNet: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"pickUpCourierBag_Light_SoundSet",
-			"pickUpCourierBag_SoundSet"
+			"pickUpCourierBag_Light_SoundSet"
 		};
 	};
 	class SeaChest: Container_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpSeaChest_SoundSet",
@@ -2209,6 +2142,8 @@ class CfgVehicles
 	};
 	class WoodenCrate: Container_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpSeaChest_SoundSet",
@@ -2217,6 +2152,8 @@ class CfgVehicles
 	};
 	class Spotlight: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"powergenerator_movement_walk_SoundSet"
@@ -2224,6 +2161,8 @@ class CfgVehicles
 	};
 	class XmasLights: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -2231,24 +2170,28 @@ class CfgVehicles
 	};
 	class Refridgerator: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"powergenerator_movement_walk_SoundSet",
-			"pickUpPowerGenerator_SoundSet",
-			"powergenerator_drop_SoundSet"
+			"pickUpPowerGenerator_SoundSet"
 		};
 	};
 	class PowerGenerator: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"powergenerator_movement_walk_SoundSet",
-			"pickUpPowerGenerator_SoundSet",
-			"powergenerator_drop_SoundSet"
+			"pickUpPowerGenerator_SoundSet"
 		};
 	};
 	class CableReel: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"cablereel_drop_SoundSet"
@@ -2256,6 +2199,8 @@ class CfgVehicles
 	};
 	class BatteryCharger: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"batterycharger_drop_SoundSet"
@@ -2263,22 +2208,26 @@ class CfgVehicles
 	};
 	class HescoBox: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class Fabric: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
 	class ShelterBase: TentBase
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"mediumtent_movement_walk_SoundSet"
@@ -2286,22 +2235,26 @@ class CfgVehicles
 	};
 	class TerritoryFlagKit: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"FenceKit_crafting_1_SoundSet"
+			"PSO11Optic_pickup_SoundSet"
 		};
 	};
 	class Flag_Base: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"Shirt_pickup_SoundSet",
-			"Shirt_drop_SoundSet"
+			"Shirt_pickup_SoundSet"
 		};
 	};
-// Consumeables
 	class Paper: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpPaper_SoundSet"
@@ -2309,6 +2262,8 @@ class CfgVehicles
 	};
 	class DuctTape: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"rope_tieup_back_SoundSet"
@@ -2316,6 +2271,8 @@ class CfgVehicles
 	};
 	class Rag: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Bandage_loop_SoundSet"
@@ -2323,6 +2280,8 @@ class CfgVehicles
 	};
 	class BurlapStrip: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCourierBag_Light_SoundSet"
@@ -2330,7 +2289,7 @@ class CfgVehicles
 	};
 	class Stone: Inventory_Base
 	{
-		// there are no stone sounds in the game
+
 		
 	};
 	class SmallStone: Inventory_Base
@@ -2338,6 +2297,8 @@ class CfgVehicles
 	};
 	class Firewood: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"woodenlog_drop_SoundSet"
@@ -2345,6 +2306,8 @@ class CfgVehicles
 	};
 	class Battery9V: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -2353,7 +2316,7 @@ class CfgVehicles
 	class LargeGasCanister: Inventory_Base
 	{
 		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpShovelLight_SoundSet"
@@ -2362,7 +2325,7 @@ class CfgVehicles
 	class MediumGasCanister: Inventory_Base
 	{
 		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpShovelLight_SoundSet"
@@ -2371,7 +2334,7 @@ class CfgVehicles
 	class SmallGasCanister: Inventory_Base
 	{
 		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpShovelLight_SoundSet"
@@ -2380,7 +2343,7 @@ class CfgVehicles
 	class ButaneCanister: Inventory_Base
 	{
 		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpShovelLight_SoundSet"
@@ -2389,7 +2352,7 @@ class CfgVehicles
 	class Spraycan_ColorBase: Inventory_Base
 	{
 		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpShovelLight_SoundSet"
@@ -2397,6 +2360,8 @@ class CfgVehicles
 	};
 	class Matchbox: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"MatchOut_SoundSet"
@@ -2404,6 +2369,8 @@ class CfgVehicles
 	};
 	class NailBox: Box_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"ammoboxUnpack_SoundSet"
@@ -2411,6 +2378,8 @@ class CfgVehicles
 	};
 	class Roadflare: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"hatchet_pickup_SoundSet"
@@ -2418,6 +2387,8 @@ class CfgVehicles
 	};
 	class Chemlight_ColorBase: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"hatchet_pickup_SoundSet"
@@ -2425,6 +2396,8 @@ class CfgVehicles
 	};
 	class Pelt_Base: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCourierBag_Light_SoundSet"
@@ -2432,6 +2405,8 @@ class CfgVehicles
 	};
 	class TannedLeather: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCourierBag_Light_SoundSet"
@@ -2439,6 +2414,8 @@ class CfgVehicles
 	};
 	class Hook: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"hatchet_pickup_SoundSet"
@@ -2448,7 +2425,9 @@ class CfgVehicles
 	{
 	};
 	class Bark_ColorBase: Inventory_Base
-	{	// woof
+	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"bark_pickup_SoundSet",
@@ -2457,6 +2436,8 @@ class CfgVehicles
 	};
 	class Nail: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"CW95_Bullet_Move_Smoll"
@@ -2464,21 +2445,25 @@ class CfgVehicles
 	};
 	class Bone: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"baseballbat_drop_SoundSet"
+			"hatchet_pickup_SoundSet"
 		};
 	};
 	class Bait: Inventory_Base
 	{
-		// Empty on purpose
+
 	};
 	class BoneBait: Inventory_Base
 	{
-		// Empty on purpose
+
 	};
 	class GardenLime: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpGardenLimeLight_SoundSet",
@@ -2487,6 +2472,8 @@ class CfgVehicles
 	};
 	class Netting: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpPlantMaterial_SoundSet"
@@ -2520,9 +2507,10 @@ class CfgVehicles
 			"woodenlog_pickup_SoundSet"
 		};
 	};
-//Containers to contain your contaigous containus
 	class Barrel_ColorBase: Container_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"barrel_drop_SoundSet"
@@ -2530,6 +2518,8 @@ class CfgVehicles
 	};
 	class Refrigerator: WorldContainer_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpBarrelLight_SoundSet"
@@ -2538,13 +2528,17 @@ class CfgVehicles
 		
 	class RefrigeratorMinsk: WorldContainer_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"barrel_drop_SoundSet"
 		};
 	};
 	class TrashCan: WorldContainer_Base
-	{ // didnt knew they added my home to dayz
+	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpBarrelLight_SoundSet"
@@ -2552,6 +2546,8 @@ class CfgVehicles
 	};
 	class FirstAidKit: Container_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCourierBag_Light_SoundSet"
@@ -2559,6 +2555,8 @@ class CfgVehicles
 	};
 	class SmallProtectorCase: Container_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"smallprotectorcase_pickup_SoundSet"
@@ -2566,6 +2564,8 @@ class CfgVehicles
 	};
 	class PlateCarrierPouches: Container_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCourierBag_SoundSet"
@@ -2582,6 +2582,8 @@ class CfgVehicles
 	};
 	class Bear_ColorBase: Container_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCourierBag_SoundSet"
@@ -2589,6 +2591,8 @@ class CfgVehicles
 	};
 	class WaterproofBag_ColorBase: Container_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpGardenLimeLight_SoundSet"
@@ -2596,14 +2600,17 @@ class CfgVehicles
 	};
 	class GiftBox_Base: Container_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCourierBag_SoundSet"
 		};
 	};
-// Cooking
 	class FireplaceBase: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpFireplaceLight_SoundSet",
@@ -2612,6 +2619,8 @@ class CfgVehicles
 	};
 	class BarrelHoles_ColorBase: FireplaceBase
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"barrel_drop_SoundSet"
@@ -2619,6 +2628,8 @@ class CfgVehicles
 	};
 	class Pot: Bottle_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpPot_SoundSet",
@@ -2627,6 +2638,8 @@ class CfgVehicles
 	};
 	class FryingPan: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpPot_SoundSet",
@@ -2636,7 +2649,7 @@ class CfgVehicles
 	class PortableGasStove: Inventory_Base
 	{
 		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpShovelLight_SoundSet"
@@ -2645,14 +2658,16 @@ class CfgVehicles
 	class PortableGasLamp: Inventory_Base
 	{
 		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpShovelLight_SoundSet"
 		};
 	};
 	class Candle: Inventory_Base
-	{	// i want to get this to work one day lol
+	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -2660,6 +2675,8 @@ class CfgVehicles
 	};
 	class PetrolLighter: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -2671,12 +2688,13 @@ class CfgVehicles
 		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"crowbar_drop_SoundSet"
+			"PSO11Optic_pickup_SoundSet"
 		};
 	};
-// Crafting
 	class BurlapSack: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCourierBag_Light_SoundSet"
@@ -2684,6 +2702,8 @@ class CfgVehicles
 	};
 	class Rope: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"rope_struggle_SoundSet"
@@ -2691,29 +2711,35 @@ class CfgVehicles
 	};
 	class MetalWire: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;	
 		ItemMoveSounds[] = 
 		{
-			"FenceKit_crafting_1_SoundSet"
+			"PSO11Optic_pickup_SoundSet"
 		};
 	};
 	class WoodenStick: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"hatchet_pickup_SoundSet",
-			"baseballbat_drop_SoundSet"
+			"hatchet_pickup_SoundSet"
 		};
 	};
 	class Torch: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"hatchet_pickup_SoundSet",
-			"baseballbat_drop_SoundSet"
+			"hatchet_pickup_SoundSet"
 		};
 	};
 	class ChickenFeather: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpPlantMaterial_SoundSet"
@@ -2721,22 +2747,26 @@ class CfgVehicles
 	};
 	class LongWoodenStick: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"hatchet_pickup_SoundSet",
-			"baseballbat_drop_SoundSet"
+			"hatchet_pickup_SoundSet"
 		};
 	};
 	class SharpWoodenStick: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;	
 		ItemMoveSounds[] = 
-		{
-			"hatchet_pickup_SoundSet",
-			"baseballbat_drop_SoundSet"
+		{		
+			"hatchet_pickup_SoundSet"
 		};
 	};
 	class GorkaHelmetVisor: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"DarkMotoHelmet_pickup_SoundSet"
@@ -2744,6 +2774,8 @@ class CfgVehicles
 	};
 	class HandDrillKit: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;	
 		ItemMoveSounds[] = 
 		{
 			"bark_drop_SoundSet"
@@ -2751,15 +2783,17 @@ class CfgVehicles
 	};
 	class Spear: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"hatchet_pickup_SoundSet",
-			"baseballbat_drop_SoundSet"
+			"hatchet_pickup_SoundSet"
 		};
 	};
-// Cultivation
 	class SeedBase: Inventory_Base
-	{	// gimme your seed onii-chan
+	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"seeds_pickup_SoundSet"
@@ -2767,6 +2801,8 @@ class CfgVehicles
 	};
 	class TomatoSeedsPack: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"seedpack_pickup_SoundSet"
@@ -2774,6 +2810,8 @@ class CfgVehicles
 	};
 	class PepperSeedsPack: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"seedpack_pickup_SoundSet"
@@ -2781,6 +2819,8 @@ class CfgVehicles
 	};
 	class PumpkinSeedsPack: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"seedpack_pickup_SoundSet"
@@ -2788,6 +2828,8 @@ class CfgVehicles
 	};
 	class ZucchiniSeedsPack: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"seedpack_pickup_SoundSet"
@@ -2795,6 +2837,8 @@ class CfgVehicles
 	};
 	class CannabisSeedsPack: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"seedpack_pickup_SoundSet"
@@ -2802,6 +2846,8 @@ class CfgVehicles
 	};
 	class PlantMaterial: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpPlantMaterial_SoundSet"
@@ -2809,14 +2855,17 @@ class CfgVehicles
 	};
 	class AntiPestsSpray: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpBackPack_Plastic_Light_SoundSet"
 		};
 	};
-// Drink - MY BLADE BE THIRSTY - Hearthstone joke in dayz code ?
 	class Canteen: Bottle_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;	
 		ItemMoveSounds[] = 
 		{
 			"WaterBottle_pickup_SoundSet"
@@ -2824,6 +2873,8 @@ class CfgVehicles
 	};
 	class WaterBottle: Bottle_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;	
 		ItemMoveSounds[] = 
 		{
 			"WaterBottle_pickup_SoundSet"
@@ -2831,6 +2882,8 @@ class CfgVehicles
 	};
 	class Vodka: Bottle_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"SodaCan_drop_SoundSet"
@@ -2838,6 +2891,8 @@ class CfgVehicles
 	};
 	class WaterPouch_ColorBase: Bottle_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCourierBag_Light_SoundSet"
@@ -2845,31 +2900,35 @@ class CfgVehicles
 	};
 	class SodaCan_ColorBase: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"SodaCan_pickup_SoundSet"
 		};
 	};
 	class SodaCan_Empty: Inventory_Base
-	{	// OwO ?
+	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"SodaCan_pickup_SoundSet"
 		};
 	};
-//FUUUUD
 	class BoxCerealCrunchin: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			//"BoxCerealCrunchin_pickup_SoundSet"
 			"Eating_BoxShake_Soundset"
 		};
 	};
 	class PowderedMilk: Edible_Base
 	{
-		ItemMoveMinVolume = 0.4;
-		ItemMoveMaxVolume = 0.8;
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpBloodBag_SoundSet"
@@ -2877,6 +2936,8 @@ class CfgVehicles
 	};
 	class SmallGuts: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Eating_TakeFood_Soundset"
@@ -2884,6 +2945,8 @@ class CfgVehicles
 	};
 	class Guts: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Eating_TakeFood_Soundset"
@@ -2891,6 +2954,8 @@ class CfgVehicles
 	};
 	class Rice: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Eating_TakeFood_Soundset"
@@ -2898,6 +2963,8 @@ class CfgVehicles
 	};
 	class Marmalade: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Marmalade_pickup_SoundSet"
@@ -2905,6 +2972,8 @@ class CfgVehicles
 	};
 	class BakedBeansCan: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"BakedBeansCan_pickup_SoundSet"
@@ -2912,6 +2981,8 @@ class CfgVehicles
 	};
 	class BakedBeansCan_Opened: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"BakedBeansCan_pickup_SoundSet"
@@ -2919,6 +2990,8 @@ class CfgVehicles
 	};
 	class PeachesCan: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"BakedBeansCan_pickup_SoundSet"
@@ -2926,6 +2999,8 @@ class CfgVehicles
 	};
 	class PeachesCan_Opened: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"BakedBeansCan_pickup_SoundSet"
@@ -2933,6 +3008,8 @@ class CfgVehicles
 	};
 	class TacticalBaconCan: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"BakedBeansCan_pickup_SoundSet"
@@ -2940,6 +3017,8 @@ class CfgVehicles
 	};
 	class TacticalBaconCan_Opened: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"BakedBeansCan_pickup_SoundSet"
@@ -2947,6 +3026,8 @@ class CfgVehicles
 	};
 	class SpaghettiCan: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"BakedBeansCan_pickup_SoundSet"
@@ -2954,6 +3035,8 @@ class CfgVehicles
 	};
 	class SpaghettiCan_Opened: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"BakedBeansCan_pickup_SoundSet"
@@ -2961,6 +3044,8 @@ class CfgVehicles
 	};
 	class SardinesCan: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"BakedBeansCan_pickup_SoundSet"
@@ -2968,6 +3053,8 @@ class CfgVehicles
 	};
 	class SardinesCan_Opened: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"BakedBeansCan_pickup_SoundSet"
@@ -2975,6 +3062,8 @@ class CfgVehicles
 	};
 	class TunaCan: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"BakedBeansCan_pickup_SoundSet"
@@ -2982,6 +3071,8 @@ class CfgVehicles
 	};
 	class TunaCan_Opened: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"BakedBeansCan_pickup_SoundSet"
@@ -2989,6 +3080,8 @@ class CfgVehicles
 	};
 	class Apple: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Apple_pickup_SoundSet"
@@ -2996,6 +3089,8 @@ class CfgVehicles
 	};
 	class Plum: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Zucchini_pickup_SoundSet"
@@ -3003,13 +3098,17 @@ class CfgVehicles
 	};
 	class Pear: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Zucchini_pickup_SoundSet"
 		};
 	};
 	class Banana: Edible_Base
-	{ // I love bananya C:
+	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Zucchini_pickup_SoundSet"
@@ -3017,6 +3116,8 @@ class CfgVehicles
 	};
 	class Orange: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Zucchini_pickup_SoundSet"
@@ -3024,6 +3125,8 @@ class CfgVehicles
 	};
 	class Tomato: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Zucchini_pickup_SoundSet"
@@ -3031,6 +3134,8 @@ class CfgVehicles
 	};
 	class GreenBellPepper: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Zucchini_pickup_SoundSet"
@@ -3038,6 +3143,8 @@ class CfgVehicles
 	};
 	class Zucchini: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Zucchini_pickup_SoundSet"
@@ -3045,6 +3152,8 @@ class CfgVehicles
 	};
 	class Pumpkin: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Zucchini_pickup_SoundSet"
@@ -3052,6 +3161,8 @@ class CfgVehicles
 	};
 	class SlicedPumpkin: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Zucchini_pickup_SoundSet"
@@ -3059,13 +3170,17 @@ class CfgVehicles
 	};
 	class Potato: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Zucchini_pickup_SoundSet"
 		};
 	};
 	class Kiwi: Edible_Base
-	{	// Rotten Kiwi
+	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Zucchini_pickup_SoundSet"
@@ -3073,6 +3188,8 @@ class CfgVehicles
 	};
 	class SambucusBerry: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Zucchini_pickup_SoundSet"
@@ -3080,6 +3197,8 @@ class CfgVehicles
 	};
 	class CaninaBerry: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Zucchini_pickup_SoundSet"
@@ -3087,6 +3206,8 @@ class CfgVehicles
 	};
 	class Cannabis: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Zucchini_pickup_SoundSet"
@@ -3094,6 +3215,8 @@ class CfgVehicles
 	};
 	class HumanSteakMeat: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Eating_TakeFood_Soundset"
@@ -3101,6 +3224,8 @@ class CfgVehicles
 	};
 	class GoatSteakMeat: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Eating_TakeFood_Soundset"
@@ -3108,6 +3233,8 @@ class CfgVehicles
 	};
 	class MouflonSteakMeat: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Eating_TakeFood_Soundset"
@@ -3115,6 +3242,8 @@ class CfgVehicles
 	};
 	class BoarSteakMeat: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Eating_TakeFood_Soundset"
@@ -3122,6 +3251,8 @@ class CfgVehicles
 	};
 	class PigSteakMeat: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Eating_TakeFood_Soundset"
@@ -3129,6 +3260,8 @@ class CfgVehicles
 	};
 	class DeerSteakMeat: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Eating_TakeFood_Soundset"
@@ -3136,6 +3269,8 @@ class CfgVehicles
 	};
 	class WolfSteakMeat: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Eating_TakeFood_Soundset"
@@ -3143,6 +3278,8 @@ class CfgVehicles
 	};
 	class BearSteakMeat: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Eating_TakeFood_Soundset"
@@ -3150,6 +3287,8 @@ class CfgVehicles
 	};
 	class CowSteakMeat: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Eating_TakeFood_Soundset"
@@ -3157,13 +3296,17 @@ class CfgVehicles
 	};
 	class SheepSteakMeat: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Eating_TakeFood_Soundset"
 		};
 	};
 	class FoxSteakMeat: Edible_Base
-	{	// i miss foxes ...
+	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Eating_TakeFood_Soundset"
@@ -3171,13 +3314,17 @@ class CfgVehicles
 	};
 	class ChickenBreastMeat: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Eating_TakeFood_Soundset"
 		};
 	};
 	class RabbitLegMeat: Edible_Base
-	{	// i miss rabbits
+	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Eating_TakeFood_Soundset"
@@ -3185,6 +3332,8 @@ class CfgVehicles
 	};
 	class CarpFilletMeat: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Eating_TakeFood_Soundset"
@@ -3192,6 +3341,8 @@ class CfgVehicles
 	};
 	class MackerelFilletMeat: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Eating_TakeFood_Soundset"
@@ -3199,13 +3350,17 @@ class CfgVehicles
 	};
 	class Lard: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Eating_TakeFood_Soundset"
 		};
 	};
 	class Carp: Edible_Base
-	{	// FISH
+	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Eating_TakeFood_Soundset"
@@ -3213,6 +3368,8 @@ class CfgVehicles
 	};
 	class Sardines: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Eating_TakeFood_Soundset"
@@ -3220,6 +3377,8 @@ class CfgVehicles
 	};
 	class Mackerel: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Eating_TakeFood_Soundset"
@@ -3227,6 +3386,8 @@ class CfgVehicles
 	};
 	class Worm: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Eating_TakeFood_Soundset"
@@ -3234,14 +3395,17 @@ class CfgVehicles
 	};
 	class MushroomBase: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Eating_TakeFood_Soundset"
 		};
 	};
-// Medical
 	class BandageDressing: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Bandage_loop_SoundSet"
@@ -3249,6 +3413,8 @@ class CfgVehicles
 	};
 	class DisinfectantSpray: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpBackPack_Plastic_Light_SoundSet"
@@ -3256,6 +3422,8 @@ class CfgVehicles
 	};
 	class DisinfectantAlcohol: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"SodaCan_drop_SoundSet"
@@ -3263,6 +3431,8 @@ class CfgVehicles
 	};
 	class PurificationTablets: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"purificationtablets_pickup_SoundSet"
@@ -3270,6 +3440,8 @@ class CfgVehicles
 	};
 	class CharcoalTablets: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"purificationtablets_pickup_SoundSet"
@@ -3277,6 +3449,8 @@ class CfgVehicles
 	};
 	class PainkillerTablets: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"purificationtablets_pickup_SoundSet"
@@ -3284,6 +3458,8 @@ class CfgVehicles
 	};
 	class VitaminBottle: Edible_Base
 	{
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"vitaminbottle_pickup_SoundSet"
@@ -3291,6 +3467,8 @@ class CfgVehicles
 	};
 	class TetracyclineAntibiotics: Edible_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"purificationtablets_pickup_SoundSet"
@@ -3298,8 +3476,8 @@ class CfgVehicles
 	};
 	class Epinephrine: Inventory_Base
 	{
-		ItemMoveMinVolume = 0.4;
-		ItemMoveMaxVolume = 0.8;
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpBackPack_Plastic_Light_SoundSet"
@@ -3307,8 +3485,8 @@ class CfgVehicles
 	};
 	class Morphine: Inventory_Base
 	{
-		ItemMoveMinVolume = 0.4;
-		ItemMoveMaxVolume = 0.8;
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpBackPack_Plastic_Light_SoundSet"
@@ -3316,8 +3494,8 @@ class CfgVehicles
 	};
 	class Syringe: Epinephrine
 	{
-		ItemMoveMinVolume = 0.4;
-		ItemMoveMaxVolume = 0.8;
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Syringe_splash_SoundSet"
@@ -3325,8 +3503,8 @@ class CfgVehicles
 	};
 	class ClearSyringe: Inventory_Base
 	{
-		ItemMoveMinVolume = 0.4;
-		ItemMoveMaxVolume = 0.8;
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Syringe_splash_SoundSet"
@@ -3334,8 +3512,8 @@ class CfgVehicles
 	};
 	class BloodSyringe: Inventory_Base
 	{
-		ItemMoveMinVolume = 0.4;
-		ItemMoveMaxVolume = 0.8;
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Syringe_splash_SoundSet"
@@ -3343,8 +3521,8 @@ class CfgVehicles
 	};
 	class InjectionVial: Inventory_Base
 	{
-		ItemMoveMinVolume = 0.4;
-		ItemMoveMaxVolume = 0.8;
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"injectionvial_pickup_SoundSet"
@@ -3352,8 +3530,8 @@ class CfgVehicles
 	};
 	class SalineBag: Inventory_Base
 	{
-		ItemMoveMinVolume = 0.4;
-		ItemMoveMaxVolume = 0.8;
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpBloodBag_SoundSet"
@@ -3361,8 +3539,8 @@ class CfgVehicles
 	};
 	class StartKitIV: Inventory_Base
 	{
-		ItemMoveMinVolume = 0.4;
-		ItemMoveMaxVolume = 0.8;
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpBloodBag_SoundSet"
@@ -3370,8 +3548,8 @@ class CfgVehicles
 	};
 	class SalineBagIV: Inventory_Base
 	{
-		ItemMoveMinVolume = 0.4;
-		ItemMoveMaxVolume = 0.8;
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpBloodBag_SoundSet"
@@ -3379,8 +3557,8 @@ class CfgVehicles
 	};
 	class BloodBagEmpty: Inventory_Base
 	{
-		ItemMoveMinVolume = 0.4;
-		ItemMoveMaxVolume = 0.8;
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpBloodBag_SoundSet"
@@ -3388,8 +3566,8 @@ class CfgVehicles
 	};
 	class BloodBagFull: Inventory_Base
 	{
-		ItemMoveMinVolume = 0.4;
-		ItemMoveMaxVolume = 0.8;
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpBloodBag_SoundSet"
@@ -3397,8 +3575,8 @@ class CfgVehicles
 	};
 	class BloodBagIV: Inventory_Base
 	{
-		ItemMoveMinVolume = 0.4;
-		ItemMoveMaxVolume = 0.8;
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpBloodBag_SoundSet"
@@ -3406,8 +3584,8 @@ class CfgVehicles
 	};
 	class BloodTestKit: Inventory_Base
 	{
-		ItemMoveMinVolume = 0.4;
-		ItemMoveMaxVolume = 0.8;
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpBloodBag_SoundSet"
@@ -3415,14 +3593,17 @@ class CfgVehicles
 	};
 	class Splint: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"hatchet_pickup_SoundSet",
-			"baseballbat_drop_SoundSet"
+			"hatchet_pickup_SoundSet"
 		};
 	};
 	class Thermometer: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -3430,19 +3611,22 @@ class CfgVehicles
 	};
 	class Defibrillator: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"sewingkit_pickup_SoundSet"
 		};
 	};
 	class CigarettePack_ColorBase: Inventory_Base
-	{	// actually not used ingame
+	{	
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"sewingkit_pickup_SoundSet"
 		};
 	};
-// Navigation
 	class ItemMap: Inventory_Base
 	{
 	};
@@ -3452,7 +3636,7 @@ class CfgVehicles
 	class ChernarusMap: ItemMap
 	{
 		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpPaper_SoundSet"
@@ -3460,15 +3644,18 @@ class CfgVehicles
 	};
 	class Compass: ItemCompass
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"compass_open_SoundSet", // does not work for some reason soundset broken ?
-			"compass_close_SoundSet" // does not work for some reason soundset broken ?
+			"compass_open_SoundSet", 
+			"compass_close_SoundSet" 
 		};	
 	};
-// Optics
 	class Rangefinder: ItemOptics
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_pickup_SoundSet"
@@ -3476,6 +3663,8 @@ class CfgVehicles
 	};
 	class Binoculars: ItemOptics
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_pickup_SoundSet"
@@ -3483,6 +3672,8 @@ class CfgVehicles
 	};
 	class PersonalRadio: Transmitter_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_pickup_SoundSet"
@@ -3490,6 +3681,8 @@ class CfgVehicles
 	};
 	class BaseRadio: Transmitter_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_pickup_SoundSet"
@@ -3497,21 +3690,26 @@ class CfgVehicles
 	};
 	class Megaphone: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_drop_SoundSet"
 		};	
 	};
 	class Radio: Inventory_Base
-	{	// wish this would work
+	{	
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_drop_SoundSet"
 		};	
 	};
-// Tools
 	class Flashlight: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_pickup_SoundSet"
@@ -3519,6 +3717,8 @@ class CfgVehicles
 	};
 	class Pen_ColorBase: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_pickup_SoundSet"
@@ -3526,6 +3726,8 @@ class CfgVehicles
 	};
 	class CanOpener: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_pickup_SoundSet"
@@ -3533,13 +3735,17 @@ class CfgVehicles
 	};
 	class Heatpack: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_pickup_SoundSet"
 		};	
 	};
 	class MessTin: Inventory_Base
-	{ // Isnt in anyway
+	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_drop_SoundSet"
@@ -3548,7 +3754,7 @@ class CfgVehicles
 	class Pliers: Inventory_Base
 	{
 		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpPliers_SoundSet"
@@ -3556,6 +3762,8 @@ class CfgVehicles
 	};
 	class Lockpick: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"lockpicker_move_in_SoundSet",
@@ -3564,6 +3772,8 @@ class CfgVehicles
 	};
 	class WeaponCleaningKit: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_drop_SoundSet"
@@ -3571,6 +3781,8 @@ class CfgVehicles
 	};
 	class SewingKit: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"sewingkit_pickup_SoundSet"
@@ -3578,6 +3790,8 @@ class CfgVehicles
 	};
 	class LeatherSewingKit: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"sewingkit_pickup_SoundSet"
@@ -3585,6 +3799,8 @@ class CfgVehicles
 	};
 	class Handcuffs: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"sewingkit_pickup_SoundSet"
@@ -3592,6 +3808,8 @@ class CfgVehicles
 	};
 	class HandcuffKeys: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_pickup_SoundSet"
@@ -3599,6 +3817,8 @@ class CfgVehicles
 	};
 	class Cassette: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_pickup_SoundSet"
@@ -3606,25 +3826,29 @@ class CfgVehicles
 	};
 	class Shovel: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.05;
+		ItemMoveMaxVolume = 0.3;	
 		ItemMoveSounds[] = 
 		{
-			"shovel_drop_SoundSet"
+			"pickUpShovel_SoundSet"
 		};	
 	};
 	class FieldShovel: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.05;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"shovel_drop_SoundSet"
+			"hatchet_pickup_light_SoundSet"
 		};	
 	};
 	class Crowbar: Inventory_Base
 	{
 		ItemMoveMinVolume = 0.05;
-		ItemMoveMaxVolume = 0.2;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"crowbar_drop_SoundSet"
+			"pickUpShovel_SoundSet"
 		};	
 	};
 	class FireExtinguisher: Inventory_Base
@@ -3633,11 +3857,13 @@ class CfgVehicles
 		ItemMoveMaxVolume = 0.2;
 		ItemMoveSounds[] = 
 		{
-			"crowbar_drop_SoundSet"
+			"PSO11Optic_pickup_SoundSet"
 		};	
 	};
 	class Hammer: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"hatchet_pickup_SoundSet"
@@ -3649,7 +3875,7 @@ class CfgVehicles
 		ItemMoveMaxVolume = 0.2;
 		ItemMoveSounds[] = 
 		{
-			"crowbar_drop_SoundSet"
+			"PSO11Optic_pickup_SoundSet"
 		};	
 	};
 	class Wrench: Inventory_Base
@@ -3658,7 +3884,7 @@ class CfgVehicles
 		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"wrench_drop_SoundSet"
+			"PSO11Optic_pickup_SoundSet"
 		};	
 	};
 	class LugWrench: Inventory_Base
@@ -3667,7 +3893,7 @@ class CfgVehicles
 		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"wrench_drop_SoundSet"
+			"hatchet_pickup_light_SoundSet"
 		};	
 	};
 	class Pipe: Inventory_Base
@@ -3676,7 +3902,7 @@ class CfgVehicles
 		ItemMoveMaxVolume = 0.2;
 		ItemMoveSounds[] = 
 		{
-			"crowbar_drop_SoundSet"
+			"PSO11Optic_pickup_SoundSet"
 		};	
 	};
 	class Screwdriver: Inventory_Base
@@ -3685,16 +3911,16 @@ class CfgVehicles
 		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"wrench_drop_SoundSet"
+			"PSO11Optic_pickup_SoundSet"
 		};	
 	};
 	class Sickle: Inventory_Base
 	{
 		ItemMoveMinVolume = 0.1;
-		ItemMoveMaxVolume = 0.3;
+		ItemMoveMaxVolume = 0.15;
 		ItemMoveSounds[] = 
 		{
-			"wrench_drop_SoundSet"
+			"PSO11Optic_pickup_SoundSet"
 		};	
 	};
 	class Hacksaw: Inventory_Base
@@ -3703,7 +3929,7 @@ class CfgVehicles
 		ItemMoveMaxVolume = 0.2;
 		ItemMoveSounds[] = 
 		{
-			"crowbar_drop_SoundSet"
+			"PSO11Optic_pickup_SoundSet"
 		};	
 	};
 	class KitchenKnife: Inventory_Base
@@ -3712,7 +3938,7 @@ class CfgVehicles
 		ItemMoveMaxVolume = 0.2;
 		ItemMoveSounds[] = 
 		{
-			"crowbar_drop_SoundSet"
+			"PSO11Optic_pickup_SoundSet"
 		};	
 	};
 	class SteakKnife: Inventory_Base
@@ -3721,7 +3947,7 @@ class CfgVehicles
 		ItemMoveMaxVolume = 0.2;
 		ItemMoveSounds[] = 
 		{
-			"crowbar_drop_SoundSet"
+			"PSO11Optic_pickup_SoundSet"
 		};	
 	};
 	class HayHook: Inventory_Base
@@ -3730,15 +3956,17 @@ class CfgVehicles
 		ItemMoveMaxVolume = 0.2;
 		ItemMoveSounds[] = 
 		{
-			"crowbar_drop_SoundSet"
+			"PSO11Optic_pickup_SoundSet"
 		};	
 	};
 	class StoneKnife: Inventory_Base
 	{
-		/*ItemMoveSounds[] = 
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
+		ItemMoveSounds[] = 
 		{
-			"crowbar_drop_SoundSet"
-		};*/	
+			"PSO11Optic_pickup_SoundSet"
+		};
 	};
 	class Mace: Inventory_Base
 	{
@@ -3746,13 +3974,13 @@ class CfgVehicles
 		ItemMoveMaxVolume = 0.2;
 		ItemMoveSounds[] = 
 		{
-			"crowbar_drop_SoundSet"
+			"pickUpShovel_SoundSet"
 		};	
 	};
 	class FarmingHoe: Inventory_Base
 	{
-		ItemMoveMinVolume = 0.3;
-		ItemMoveMaxVolume = 0.6;
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpShovel_SoundSet"
@@ -3760,14 +3988,17 @@ class CfgVehicles
 	};
 	class ImprovisedFishingRod: FishingRod_Base_New
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"hatchet_pickup_SoundSet",
-			"baseballbat_drop_SoundSet"
+			"hatchet_pickup_SoundSet"
 		};	
 	};
 	class ObsoleteFishingRod: FishingRod_Base_New
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_pickup_SoundSet"
@@ -3775,6 +4006,8 @@ class CfgVehicles
 	};
 	class FishingRod: FishingRod_Base_New
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_pickup_SoundSet"
@@ -3782,34 +4015,44 @@ class CfgVehicles
 	};
 	class SledgeHammer: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"woodaxe_drop_SoundSet"
+			"pickUpShovel_SoundSet"
 		};	
 	};
 	class Iceaxe: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"woodaxe_drop_SoundSet"
+			"pickUpShovel_SoundSet"
 		};	
 	};
 	class Broom: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"woodaxe_drop_SoundSet"
+			"pickUpShovel_SoundSet"
 		};	
 	};
 	class Paddle: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"woodaxe_drop_SoundSet"
+			"pickUpShovel_SoundSet"
 		};	
 	};
 	class ElectronicRepairKit: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"sewingkit_drop_SoundSet"
@@ -3817,6 +4060,8 @@ class CfgVehicles
 	};
 	class EpoxyPutty: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;	
 		ItemMoveSounds[] = 
 		{
 			"pickUpBackPack_Plastic_Light_SoundSet"
@@ -3824,21 +4069,26 @@ class CfgVehicles
 	};
 	class Whetstone: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"" // There are no useable stone sounds in the game
+			"PSO11Optic_pickup_SoundSet" 
 		};	
 	};
 	class HandSaw: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpBackPack_Plastic_Light_SoundSet"
 		};	
 	};
-// Traps no not the ones where you ask if its gay or not to jack off to them - the ones that hurt you if step over them
 	class BearTrap: Trap_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"beartrap_movement_walk_SoundSet"
@@ -3846,15 +4096,17 @@ class CfgVehicles
 	};
 	class LandMineTrap: Trap_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_pickup_SoundSet"
 		};	
 	};
 	class SmallFishTrap: Trap_Base
-	{	// This .. is actually not used
-		// why am i still adding it ?
-		// because im clinically insane
+	{	
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;	
 		ItemMoveSounds[] = 
 		{
 			"WaterBottle_pickup_SoundSet"
@@ -3862,6 +4114,8 @@ class CfgVehicles
 	};
 	class FishNetTrap: Trap_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCourierBag_Light_SoundSet"
@@ -3869,25 +4123,26 @@ class CfgVehicles
 	};
 	class TripwireTrap: Trap_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"hatchet_pickup_SoundSet",
-			"baseballbat_drop_SoundSet"
+			"hatchet_pickup_SoundSet"
 		};	
 	};
 	class RabbitSnareTrap: Trap_Base
-	{	// I miss those - need to bring them back
+	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"hatchet_pickup_SoundSet",
-			"baseballbat_drop_SoundSet"
+			"hatchet_pickup_SoundSet"
 		};	
-	};	// Talking about it - i already did and turned them into chicken traps lol
-// Vehicle Parts
+	};
 	class TruckBattery: Inventory_Base
 	{
-		ItemMoveMinVolume = 0.4;
-		ItemMoveMaxVolume = 0.8;
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"carbattery_drop_SoundSet"
@@ -3895,8 +4150,8 @@ class CfgVehicles
 	};
 	class CarBattery: Inventory_Base
 	{
-		ItemMoveMinVolume = 0.4;
-		ItemMoveMaxVolume = 0.8;
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"carbattery_drop_SoundSet"
@@ -3904,6 +4159,8 @@ class CfgVehicles
 	};
 	class BrakeFluid: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"engineoil_pickup_SoundSet"
@@ -3911,6 +4168,8 @@ class CfgVehicles
 	};
 	class EngineOil: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"engineoil_pickup_SoundSet"
@@ -3919,14 +4178,17 @@ class CfgVehicles
 	class CarRadiator: Inventory_Base
 	{
 		ItemMoveMinVolume = 0.1;
-		ItemMoveMaxVolume = 0.4;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"carradiator_drop_SoundSet"
+			"pickUpBackPack_Metal_SoundSet",
+			"pickUpBackPack_Metal_Light_SoundSet"
 		};	
 	};
 	class HeadlightH7: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_pickup_SoundSet"
@@ -3934,13 +4196,17 @@ class CfgVehicles
 	};
 	class HeadlightH7_Box: Box_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"ammoboxUnpack_SoundSet"
 		};	
 	};
 	class SparkPlug: Inventory_Base
-	{	// Buttplug - need to ask mass to add a "attachmentslot" onto the character for this for easier transportation
+	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_pickup_SoundSet"	
@@ -3948,6 +4214,8 @@ class CfgVehicles
 	};
 	class TireRepairKit: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"smallprotectorcase_pickup_SoundSet"	
@@ -3955,15 +4223,18 @@ class CfgVehicles
 	};
 	class CanisterGasoline: Bottle_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCanisterGasolineLight_SoundSet",
 			"pickUpCanisterGasoline_SoundSet"
 		};	
 	};
-// DZ_Vehicles_Wheeled - Merkava MKII when ?
 	class CarWheel: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"hatchbackwheel_drop_SoundSet"
@@ -3971,14 +4242,17 @@ class CfgVehicles
 	};
 	class CarDoor: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"hatchbackdoors_driver_pickup_SoundSet"
 		};	
 	};
-// Ammoboxes - need to add each one manually ... OOF
 	class AmmoBox_556x45_20Rnd: Box_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"ammoboxUnpack_SoundSet"
@@ -3986,6 +4260,8 @@ class CfgVehicles
 	};
 	class AmmoBox_556x45Tracer_20Rnd: Box_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"ammoboxUnpack_SoundSet"
@@ -3993,6 +4269,8 @@ class CfgVehicles
 	};
 	class AmmoBox_308Win_20Rnd: Box_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"ammoboxUnpack_SoundSet"
@@ -4000,6 +4278,8 @@ class CfgVehicles
 	};
 	class AmmoBox_308WinTracer_20Rnd: Box_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"ammoboxUnpack_SoundSet"
@@ -4007,6 +4287,8 @@ class CfgVehicles
 	};
 	class AmmoBox_762x54_20Rnd: Box_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"ammoboxUnpack_SoundSet"
@@ -4014,6 +4296,8 @@ class CfgVehicles
 	};
 	class AmmoBox_762x54Tracer_20Rnd: Box_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"ammoboxUnpack_SoundSet"
@@ -4021,6 +4305,8 @@ class CfgVehicles
 	};
 	class AmmoBox_762x39_20Rnd: Box_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"ammoboxUnpack_SoundSet"
@@ -4028,6 +4314,8 @@ class CfgVehicles
 	};
 	class AmmoBox_762x39Tracer_20Rnd: Box_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"ammoboxUnpack_SoundSet"
@@ -4035,6 +4323,8 @@ class CfgVehicles
 	};
 	class AmmoBox_22_50Rnd: Box_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"ammoboxUnpack_SoundSet"
@@ -4042,6 +4332,8 @@ class CfgVehicles
 	};
 	class AmmoBox_357_20Rnd: Box_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"ammoboxUnpack_SoundSet"
@@ -4049,6 +4341,8 @@ class CfgVehicles
 	};
 	class AmmoBox_45ACP_25rnd: Box_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"ammoboxUnpack_SoundSet"
@@ -4056,6 +4350,8 @@ class CfgVehicles
 	};
 	class AmmoBox_9x19_25rnd: Box_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"ammoboxUnpack_SoundSet"
@@ -4063,6 +4359,8 @@ class CfgVehicles
 	};
 	class AmmoBox_380_35rnd: Box_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"ammoboxUnpack_SoundSet"
@@ -4070,6 +4368,8 @@ class CfgVehicles
 	};
 	class AmmoBox_00buck_10rnd: Box_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"ammoboxUnpack_SoundSet"
@@ -4077,6 +4377,8 @@ class CfgVehicles
 	};
 	class AmmoBox_12gaSlug_10Rnd: Box_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"ammoboxUnpack_SoundSet"
@@ -4084,6 +4386,8 @@ class CfgVehicles
 	};
 	class AmmoBox_12gaRubberSlug_10Rnd: Box_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"ammoboxUnpack_SoundSet"
@@ -4091,6 +4395,8 @@ class CfgVehicles
 	};
 	class AmmoBox_12gaBeanbag_10Rnd: Box_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"ammoboxUnpack_SoundSet"
@@ -4098,6 +4404,8 @@ class CfgVehicles
 	};
 	class AmmoBox_545x39_20Rnd: Box_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"ammoboxUnpack_SoundSet"
@@ -4105,6 +4413,8 @@ class CfgVehicles
 	};
 	class AmmoBox_545x39Tracer_20Rnd: Box_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"ammoboxUnpack_SoundSet"
@@ -4112,6 +4422,8 @@ class CfgVehicles
 	};
 	class AmmoBox_9x39AP_20Rnd: Box_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"ammoboxUnpack_SoundSet"
@@ -4119,14 +4431,17 @@ class CfgVehicles
 	};
 	class AmmoBox_9x39_20Rnd: Box_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"ammoboxUnpack_SoundSet"
 		};	
 	};
-// Weapon Lights
 	class UniversalLight: Switchable_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_pickup_SoundSet"
@@ -4134,21 +4449,26 @@ class CfgVehicles
 	};
 	class TLRLight: Switchable_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_pickup_SoundSet"
 		};	
 	};
-// Muzzle Devices
 	class AK_Bayonet: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"CombatKnife_drop_SoundSet"
 		};	
 	};
 	class M9A1_Bayonet: Inventory_Base
-	{	// I actually own this in reallife
+	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"CombatKnife_drop_SoundSet"
@@ -4156,6 +4476,8 @@ class CfgVehicles
 	};
 	class Mosin_Bayonet: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"CombatKnife_drop_SoundSet"
@@ -4163,13 +4485,17 @@ class CfgVehicles
 	};
 	class SKS_Bayonet: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"CombatKnife_drop_SoundSet"
 		};	
 	};
-	class Mosin_Compensator: ItemSuppressor	// why are they classed as a supressor ?
+	class Mosin_Compensator: ItemSuppressor
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_pickup_SoundSet"
@@ -4177,6 +4503,8 @@ class CfgVehicles
 	};
 	class MP5_Compensator: ItemSuppressor
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_pickup_SoundSet"
@@ -4184,6 +4512,8 @@ class CfgVehicles
 	};
 	class ImprovisedSuppressor: ItemSuppressor
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;	
 		ItemMoveSounds[] = 
 		{
 			"WaterBottle_pickup_SoundSet"
@@ -4191,6 +4521,8 @@ class CfgVehicles
 	};
 	class M4_Suppressor: ItemSuppressor
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_pickup_SoundSet"
@@ -4198,6 +4530,8 @@ class CfgVehicles
 	};
 	class AK_Suppressor: ItemSuppressor
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_pickup_SoundSet"
@@ -4205,6 +4539,8 @@ class CfgVehicles
 	};
 	class PistolSuppressor: ItemSuppressor
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_pickup_SoundSet"
@@ -4212,18 +4548,17 @@ class CfgVehicles
 	};
 	class MakarovPBSuppressor: ItemSuppressor
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"PSO11Optic_pickup_SoundSet"
 		};	
 	};
-//Optics
-	// lol all included with ItemOptics 
-	
-// Attachment Support
-	// god ... none of these have dropsounds ... WHO NEEDS DROPSOUNDS IF YOU CAN JUST HAVE NONE
 	class M4_OEBttstck: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -4231,6 +4566,8 @@ class CfgVehicles
 	};
 	class M4_MPBttstck: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -4238,6 +4575,8 @@ class CfgVehicles
 	};
 	class M4_CQBBttstck: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -4245,13 +4584,17 @@ class CfgVehicles
 	};
 	class AK_WoodBttstck: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
 		};	
 	};
 	class AK74_WoodBttstck: Inventory_Base
-	{	// why is this a different classname ?
+	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -4259,6 +4602,8 @@ class CfgVehicles
 	};
 	class AK_FoldingBttstck: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -4266,6 +4611,8 @@ class CfgVehicles
 	};
 	class AK_PlasticBttstck: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -4273,6 +4620,8 @@ class CfgVehicles
 	};
 	class AKS74U_Bttstck: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -4280,6 +4629,8 @@ class CfgVehicles
 	};
 	class MP5k_StockBttstck: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -4287,6 +4638,8 @@ class CfgVehicles
 	};
 	class Red9Bttstck: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -4294,6 +4647,8 @@ class CfgVehicles
 	};
 	class Fal_OeBttstck: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -4301,6 +4656,8 @@ class CfgVehicles
 	};
 	class Fal_FoldingBttstck: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -4308,6 +4665,8 @@ class CfgVehicles
 	};
 	class Saiga_Bttstck: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -4315,6 +4674,8 @@ class CfgVehicles
 	};
 	class M4_PlasticHndgrd: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -4322,6 +4683,8 @@ class CfgVehicles
 	};
 	class M4_RISHndgrd: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -4329,6 +4692,8 @@ class CfgVehicles
 	};
 	class M4_MPHndgrd: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -4336,6 +4701,8 @@ class CfgVehicles
 	};
 	class AK_WoodHndgrd: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -4343,6 +4710,8 @@ class CfgVehicles
 	};
 	class AK74_Hndgrd: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -4350,6 +4719,8 @@ class CfgVehicles
 	};
 	class AK_RailHndgrd: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -4357,6 +4728,8 @@ class CfgVehicles
 	};
 	class AK_PlasticHndgrd: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -4364,6 +4737,8 @@ class CfgVehicles
 	};
 	class MP5_PlasticHndgrd: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -4371,6 +4746,8 @@ class CfgVehicles
 	};
 	class MP5_RailHndgrd: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -4378,6 +4755,8 @@ class CfgVehicles
 	};
 	class M249_Hndgrd: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -4385,13 +4764,17 @@ class CfgVehicles
 	};
 	class M249_RisHndgrd: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
 		};	
 	};
 	class AtlasBipod: Inventory_Base
-	{	// I miss it ..
+	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -4399,6 +4782,8 @@ class CfgVehicles
 	};
 	class M249_Bipod: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpCableReelLight_SoundSet"
@@ -4406,6 +4791,8 @@ class CfgVehicles
 	};
 	class GhillieAtt_ColorBase: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Cloth_Back_walkCro_ghillie_Soundset",
@@ -4418,24 +4805,28 @@ class CfgVehicles
 			"Cloth_Back_shortmove_ghillie_Soundset"
 		};	
 	};
-// Explosives
 	class Grenade_Base: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"Grenade_pin_SoundSet"
+			"PSO11Optic_pickup_SoundSet"
 		};	
 	};
-// Blade 
 	class WoodAxe: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"woodaxe_drop_SoundSet"
+			"pickUpShovel_SoundSet"
 		};	
 	};
 	class Hatchet: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"hatchet_pickup_light_SoundSet"
@@ -4443,13 +4834,17 @@ class CfgVehicles
 	};
 	class FirefighterAxe: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"woodaxe_drop_SoundSet"
+			"pickUpShovel_SoundSet"
 		};	
 	};
 	class Cleaver: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"hatchet_pickup_SoundSet"
@@ -4457,27 +4852,35 @@ class CfgVehicles
 	};
 	class CombatKnife: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"combatknife_drop_SoundSet"
+			"CombatKnife_drop_SoundSet"
 		};	
 	};
 	class HuntingKnife: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"combatknife_drop_SoundSet"
+			"CombatKnife_drop_SoundSet"
 		};	
 	};
 	class Machete: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
-			"combatknife_drop_SoundSet"
+			"CombatKnife_drop_SoundSet"
 		};	
 	};
 	class Pitchfork: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"hatchet_pickup_SoundSet"
@@ -4485,8 +4888,8 @@ class CfgVehicles
 	};
 	class Pickaxe: Inventory_Base
 	{
-		ItemMoveMinVolume = 0.3;
-		ItemMoveMaxVolume = 0.6;
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpShovel_SoundSet"
@@ -4494,16 +4897,17 @@ class CfgVehicles
 	};
 	class Sword: Inventory_Base
 	{
-		ItemMoveMinVolume = 0.3;
-		ItemMoveMaxVolume = 0.6;
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpShovel_SoundSet"
 		};	
 	};
-// Blunt
 	class BaseballBat: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"hatchet_pickup_SoundSet",
@@ -4512,6 +4916,8 @@ class CfgVehicles
 	};
 	class NailedBaseballBat: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"hatchet_pickup_SoundSet",
@@ -4521,10 +4927,10 @@ class CfgVehicles
 	class PipeWrench: Inventory_Base
 	{
 		ItemMoveMinVolume = 0.05;
-		ItemMoveMaxVolume = 0.2;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
-			"crowbar_drop_SoundSet"
+			"PSO11Optic_pickup_SoundSet"
 		};	
 	};
 	class BrassKnuckles_ColorBase: Inventory_Base
@@ -4533,11 +4939,13 @@ class CfgVehicles
 		ItemMoveMaxVolume = 0.2;
 		ItemMoveSounds[] = 
 		{
-			"crowbar_drop_SoundSet"
+			"PSO11Optic_pickup_SoundSet"
 		};	
 	};
 	class TelescopicBaton: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"Baton_deploy_SoundSet"
@@ -4545,6 +4953,8 @@ class CfgVehicles
 	};
 	class HockeyStick: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"hatchet_pickup_SoundSet",
@@ -4553,6 +4963,8 @@ class CfgVehicles
 	};
 	class NewHockeyStick: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"hatchet_pickup_SoundSet",
@@ -4561,6 +4973,8 @@ class CfgVehicles
 	};
 	class PoliceBaton: Inventory_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"hatchet_pickup_SoundSet",
@@ -4569,6 +4983,8 @@ class CfgVehicles
 	};
 	class Chainsaw: Switchable_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"pickUpPowerGenerator_SoundSet"
@@ -4576,6 +4992,8 @@ class CfgVehicles
 	};
 	class CattleProd: Powered_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"hatchet_pickup_SoundSet",
@@ -4584,6 +5002,8 @@ class CfgVehicles
 	};
 	class StunBaton: Powered_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"hatchet_pickup_SoundSet",
@@ -4592,12 +5012,13 @@ class CfgVehicles
 	};
 };
 
-
 class CfgMagazines
 {
 	class DefaultMagazine;
 	class Magazine_Base: DefaultMagazine
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"MagRifle_empty_in_SoundSet"
@@ -4605,6 +5026,8 @@ class CfgMagazines
 	};
 	class Ammunition_Base: Magazine_Base
 	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"CW95_Bullet_Move_Smoll"
@@ -4612,6 +5035,8 @@ class CfgMagazines
 	};
 	class Ammo_12gaPellets: Ammunition_Base
 	{
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"CW95_ShotgunShell_Move_Smoll"
@@ -4619,6 +5044,8 @@ class CfgMagazines
 	};
 	class Ammo_12gaSlug: Ammunition_Base
 	{
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"CW95_ShotgunShell_Move_Smoll"
@@ -4626,6 +5053,8 @@ class CfgMagazines
 	};
 	class Ammo_12gaRubberSlug: Ammunition_Base
 	{
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"CW95_ShotgunShell_Move_Smoll"
@@ -4633,21 +5062,22 @@ class CfgMagazines
 	};
 	class Ammo_12gaBeanbag: Ammunition_Base
 	{
+		ItemMoveMinVolume = 0.1;
+		ItemMoveMaxVolume = 0.3;
 		ItemMoveSounds[] = 
 		{
 			"CW95_ShotgunShell_Move_Smoll"
 		};	
 	};
 	class Ammo_Flare: Ammunition_Base
-	{	// Basically a 12 gauge round
+	{
+		ItemMoveMinVolume = 0.2;
+		ItemMoveMaxVolume = 0.4;
 		ItemMoveSounds[] = 
 		{
 			"CW95_ShotgunShell_Move_Smoll"
 		};	
 	};
-	// The year is 2033 we are in dayz version 1.99.999994
-	// Bows and crossbows still havent been added 
-	// But they finally fixed cars by removing them and giving us rollerskates (1 in 5 chance to die when putting them on)
 	class Ammo_ArrowComposite: Ammunition_Base
 	{
 		ItemMoveSounds[] = 
@@ -4690,7 +5120,6 @@ class CfgMagazines
 			"CW95_Item_Move_Small"
 		};	
 	};
-// Magazine
 	class Mag_357Speedloader_6Rnd: Magazine_Base
 	{
 		ItemMoveSounds[] = 
@@ -4738,56 +5167,6 @@ class CfgMagazines
 		ItemMoveSounds[] = 
 		{
 			"CW95_ShotgunShell_Move_Smoll"
-		};	
-	};
-};
-
-
-class cfgWeapons
-{
-	class RifleCore;
-	class PistolCore;
-	class Rifle_Base: RifleCore
-	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
-		ItemMoveSounds[] = 
-		{
-			"pickUpRifle_SoundSet"
-		};	
-	};
-	class BoltActionRifle_Base: Rifle_Base
-	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
-		ItemMoveSounds[] = 
-		{
-			"pickUpRifleLight_SoundSet"
-		};	
-	};
-	class BoltActionRifle_InnerMagazine_Base: BoltActionRifle_Base
-	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
-		ItemMoveSounds[] = 
-		{
-			"pickUpRifleLight_SoundSet"
-		};	
-	};
-	class Shotgun_Base: Rifle_Base
-	{
-		ItemMoveMinVolume = 0.2;
-		ItemMoveMaxVolume = 0.5;
-		ItemMoveSounds[] = 
-		{
-			"pickUpRifle_SoundSet"
-		};	
-	};
-	class Pistol_Base: PistolCore
-	{
-		ItemMoveSounds[] = 
-		{
-			"pickUpPistol_SoundSet"
 		};	
 	};
 };
