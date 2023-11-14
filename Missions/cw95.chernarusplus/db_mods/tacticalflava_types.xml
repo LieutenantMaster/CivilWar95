@@ -3274,7 +3274,7 @@
         <value user="Tier4"/>
     </type>
     <type name="TF_AK101">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -4171,7 +4171,7 @@
         <value user="Tier4"/>
     </type>
     <type name="TF_Mag_AK101_Plastic30Rnd">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>

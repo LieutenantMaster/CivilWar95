@@ -121,8 +121,8 @@
         },
         {
             "ClassName": "bl_coffee_bag",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

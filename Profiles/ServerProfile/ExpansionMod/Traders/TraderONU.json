@@ -19,13 +19,13 @@
     "Items": {
 
         "TF_SR25": 1,
-        "TF_Mag_SR25_20Rnd": 1,
+        "TF_Mag_SR25_20Rnd": 0,
 
         "TF_M4A1": 1,
-        "TF_Mag_M4_STANAG_30Rnd": 1,
+        "TF_Mag_M4_STANAG_30Rnd": 0,
 
         "TF_M16A4": 1,
-        "mag_stanag_30rnd": 1,
+        "mag_stanag_30rnd": 0,
 
         "Expansion_M9": 1,
         "mag_expansion_m9_15rnd": 1,

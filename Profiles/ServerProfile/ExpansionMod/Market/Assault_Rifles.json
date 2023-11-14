@@ -51,6 +51,22 @@
             "Variants": []
         },
         {
+            "ClassName": "TF_AK101",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 4100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "ak_plasticbttstck",
+                "ak_plastichndgrd",
+                "mag_ak101_30rnd",
+                "TF_Mag_AK101_Plastic30Rnd"
+            ],
+            "Variants": []            
+        },
+        {
             "ClassName": "ak74",
             "MaxPriceThreshold": 3200,
             "MinPriceThreshold": 1600,
@@ -102,6 +118,17 @@
             "Variants": []
         },
         {
+            "ClassName": "TF_AKMN",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "tf_an94",
             "MaxPriceThreshold": 3500,
             "MinPriceThreshold": 3500,
@@ -134,7 +161,7 @@
         {
             "ClassName": "m16a2",
             "MaxPriceThreshold": 4250,
-            "MinPriceThreshold": 3250,
+            "MinPriceThreshold": 3800,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

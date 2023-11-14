@@ -90,11 +90,24 @@
         "mp133shotgun": 1,
 
         "tf_an94": 0,
-        "aks74u": 0,
+        "aks74u": 1,
             "aks74u_bttstck": 0,
             "mag_ak74_30rnd": 0,
+        
+        "TF_AK101": 1,
+                 "ak_plasticbttstck": 3,
+                "ak_plastichndgrd": 3,
+                "mag_ak101_30rnd": 1,
+                "TF_Mag_AK101_Plastic30Rnd": 1,
+        "AK74": 2,
+        "TF_AK74M": 2,
+        "TF_AKMN": 0,
+        "AKM": 3,        
 
-        "izh43shotgun": 0,
+
+        
+
+        "izh43shotgun": 1,
         
         "makarovij70": 1,
             "mag_ij70_8rnd": 0,
@@ -107,7 +120,7 @@
             "Expansion_MP5_RailAtt": 0,
             "MP5_Compensator" : 0,
         
-        "m16a2": 3,
+        "m16a2": 2,
             "mag_stanag_30rnd": 0,
 
         "Expansion_Kedr": 0,
