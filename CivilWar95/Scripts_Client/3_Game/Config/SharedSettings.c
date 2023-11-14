@@ -56,11 +56,11 @@ class SharedSettings
 class CW95ConflictZone
 {
 	string Name = "";
-	float X;
-	float Z;
+	int X;
+	int Z;
 	int Radius;
 
-	void CW95ConflictZone(string name, float x, float z, int r)
+	void CW95ConflictZone(string name, int x, int z, int r)
 	{
 		Name = name;
 		X = x;

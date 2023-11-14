@@ -70,21 +70,84 @@ modded class CarScript
 		else if ( DamageHit <= 500 )
 		{
 			data.Impulse = 0.15 * m_Impulse; 
-		}	
+		}
 		else if ( DamageHit <= 750 )
 		{
 			data.Impulse = 0.3 * m_Impulse; 
-		}	
+		}
 		else if ( DamageHit <= 1000 )
 		{
 			data.Impulse = 0.4 * m_Impulse; 
-		}	
+		}
 		else if ( DamageHit <= 1350 )
 		{
 			data.Impulse = 0.5 * m_Impulse; 
-		}	
+		}
 
 		//On Car crashed, if invoked with out a super, it removes the car crash hit
 		super.OnContact( zoneName, localPos, other, data );
+	}
+
+	override void DamageCrew(float dmg)
+	{
+		for ( int c = 0; c < CrewSize(); ++c )
+		{
+			Human crew = CrewMember( c );
+			if ( !crew )
+				continue;
+
+			PlayerBase player;
+			if ( Class.CastTo(player, crew ) )
+			{
+				float shockTemp = Math.InverseLerp(GameConstants.CARS_CONTACT_DMG_THRESHOLD, GameConstants.CARS_CONTACT_DMG_KILLCREW, dmg);
+				shockTemp = Math.Clamp(shockTemp,0,1);
+				float shock = Math.Lerp( 50, 150, shockTemp );
+				float hp = Math.Lerp( 1, 20, shockTemp );
+				
+				player.AddHealth("", "Shock", -shock );
+				player.AddHealth("", "Health", -hp );
+			}
+		}
+	}
+	
+	override void CheckContactCache()
+	{
+		int contactZonesCount = m_ContactCache.Count();
+		
+		if (contactZonesCount == 0)
+			return;		
+		
+		for (int i = 0; i < contactZonesCount; ++i)
+		{
+			string zoneName = m_ContactCache.GetKey(i);
+			array<ref CarContactData> data = m_ContactCache[zoneName];
+
+			float dmg = Math.AbsInt(data[0].impulse * m_dmgContactCoef * 0.6);
+			float crewDmgBase = Math.AbsInt((data[0].impulse / dBodyGetMass(this)) * 1000 * m_dmgContactCoef);// calculates damage as if the object's weight was 1000kg instead of its actual weight
+
+			if ( dmg < GameConstants.CARS_CONTACT_DMG_MIN )
+				continue;
+
+			int pddfFlags;
+			if (dmg < GameConstants.CARS_CONTACT_DMG_THRESHOLD)
+			{
+				SynchCrashLightSound(true);
+				pddfFlags = ProcessDirectDamageFlags.NO_TRANSFER;
+			}
+			else
+			{
+				DamageCrew(crewDmgBase);
+				SynchCrashHeavySound(true);
+				pddfFlags = 0;
+			}
+			
+			ProcessDirectDamage(DT_CUSTOM, null, zoneName, "EnviroDmg", "0 0 0", dmg * 0.6, pddfFlags);
+		}
+		
+		UpdateHeadlightState();
+		UpdateLights();
+		
+		m_ContactCache.Clear();
+		
 	}
 };
