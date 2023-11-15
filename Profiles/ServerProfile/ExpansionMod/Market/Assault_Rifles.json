@@ -68,7 +68,7 @@
         },
         {
             "ClassName": "ak74",
-            "MaxPriceThreshold": 3200,
+            "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 1600,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -108,8 +108,8 @@
         },
         {
             "ClassName": "TF_AK74M",
-            "MaxPriceThreshold": 2500,
-            "MinPriceThreshold": 2500,
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -161,7 +161,7 @@
         {
             "ClassName": "m16a2",
             "MaxPriceThreshold": 4250,
-            "MinPriceThreshold": 3800,
+            "MinPriceThreshold": 4000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -174,7 +174,7 @@
         {
             "ClassName": "famas",
             "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 4000,
+            "MinPriceThreshold": 4250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

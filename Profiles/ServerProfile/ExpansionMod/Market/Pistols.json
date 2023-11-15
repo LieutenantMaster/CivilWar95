@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "makarovij70",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

@@ -92,7 +92,7 @@
         "tf_an94": 0,
         "aks74u": 1,
             "aks74u_bttstck": 0,
-            "mag_ak74_30rnd": 0,
+            "mag_ak74_30rnd": 1,
         
         "TF_AK101": 1,
                  "ak_plasticbttstck": 3,
@@ -110,37 +110,37 @@
         "izh43shotgun": 1,
         
         "makarovij70": 1,
-            "mag_ij70_8rnd": 0,
+            "mag_ij70_8rnd": 1,
         
         "cz61": 1,
-            "mag_cz61_20rnd": 0,
+            "mag_cz61_20rnd": 1,
 
         "Expansion_mp5": 0,
-            "mag_mp5_30rnd": 0,
+            "mag_mp5_30rnd": 1,
             "Expansion_MP5_RailAtt": 0,
             "MP5_Compensator" : 0,
         
-        "m16a2": 2,
-            "mag_stanag_30rnd": 0,
+        "m16a2": 0,
+            "mag_stanag_30rnd": 1,
 
         "Expansion_Kedr": 0,
-            "mag_expansion_kedr_20rnd": 0,
+            "mag_expansion_kedr_20rnd": 1,
 
         "Saiga": 0,
-            "Saiga_Bttstck": 0,
-            "Mag_Saiga_8Rnd": 0,
-            "Mag_Saiga_Drum20Rnd": 0,
+            "Saiga_Bttstck": 1,
+            "Mag_Saiga_8Rnd": 1,
+            "Mag_Saiga_Drum20Rnd": 1,
 
         "Famas": 0,
-            "Mag_FAMAS_25Rnd": 0,
+            "Mag_FAMAS_25Rnd": 1,
 
         "TF_OTs_14_Groza": 0,
             "TF_Mag_OTs_14_Groza_20Rnd": 0,
             "TF_OTs_14_Groza_Barrel_Grip": 0,
             
         "vss": 0,
-        "mag_val_20rnd": 0,
-        "mag_vss_10rnd": 0,    
+        "mag_val_20rnd": 1,
+        "mag_vss_10rnd": 1,    
         
         "Expansion_Guitar": 2,
         "Expansion_Guitar_old": 2,
