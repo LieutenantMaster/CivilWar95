@@ -175,8 +175,9 @@ class FrontLineManager: CF_ModuleWorld
 
 	private void RPC_FrontLineTrigger( ParamsReadContext ctx, PlayerIdentity senderRPC, Object target )
 	{
-		if (!ExpansionScriptRPC.CheckMagicNumber(ctx))
-			return;
+		//if (!ExpansionScriptRPC.CheckMagicNumber(ctx))
+			//return;
+        // problem with this line
 
         vector position;
 		if ( !ctx.Read( position ) )
