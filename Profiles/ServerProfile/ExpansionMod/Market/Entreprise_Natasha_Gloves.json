@@ -1,6 +1,6 @@
 {
     "m_Version": 12,
-    "DisplayName": "NATASHA",
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_GLOVES",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "Loftd_leathergloves",
-            "MaxPriceThreshold": 10,
-            "MinPriceThreshold": 10,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
             "SellPricePercent": 50,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "Loftd_militarygloves",
-            "MaxPriceThreshold": 10,
-            "MinPriceThreshold": 10,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
             "SellPricePercent": 50,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "Loftd_militarygloves",
-            "MaxPriceThreshold": 10,
-            "MinPriceThreshold": 10,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
             "SellPricePercent": 50,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
