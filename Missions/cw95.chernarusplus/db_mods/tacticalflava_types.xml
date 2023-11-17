@@ -3276,7 +3276,7 @@
     <type name="TF_AK101">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>14400</restock>
+        <restock>86400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
