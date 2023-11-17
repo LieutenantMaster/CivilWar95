@@ -1,0 +1,30 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Peau",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Can Of Beans Big",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [],
+    "Items": {
+        "WildboarPelt": 2,
+        "RabbitPelt": 2,
+        "CowPelt": 2,
+        "PigPelt": 2,
+        "DeerPelt": 2,
+        "GoatPelt": 2,
+        "BearPelt": 2,
+        "WolfPelt": 2,
+        "SheepPelt": 2,
+        "Lard": 2,
+        "Guts": 2,
+        "SmallGuts": 2,
+        "b95": 0,
+        "longhorn": 0
+
+        }
+}

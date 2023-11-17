@@ -34,8 +34,8 @@
         },
         {
             "ClassName": "b95",
-            "MaxPriceThreshold": 3400,
-            "MinPriceThreshold": 1700,
+            "MaxPriceThreshold": 9500,
+            "MinPriceThreshold": 9000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

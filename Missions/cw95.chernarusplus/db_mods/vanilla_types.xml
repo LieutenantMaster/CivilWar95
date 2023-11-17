@@ -262,8 +262,8 @@
     </type>
     <type name="AK101">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
+        <lifetime>28400</lifetime>
+        <restock>86400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
