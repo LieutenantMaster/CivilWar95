@@ -33,17 +33,6 @@
             "Variants": []
         },
         {
-            "ClassName": "b95",
-            "MaxPriceThreshold": 9500,
-            "MinPriceThreshold": 9000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "svd",
             "MaxPriceThreshold": 4000,
             "MinPriceThreshold": 2000,
