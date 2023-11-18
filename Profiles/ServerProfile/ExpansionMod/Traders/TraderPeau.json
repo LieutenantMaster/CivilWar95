@@ -23,60 +23,33 @@
         "Lard": 2,
         "Guts": 2,
         "SmallGuts": 2,
-        "b95": 0,
-        "longhorn": 0,
+            
+            "b95": 0,
+            "longhorn": 0,
         "nylonknifesheath": 0,
         "leatherknifesheath": 3,
-
-        "kitchenknife": 0,
+        
         "SAK_Mung": 0,
-        "steakknife": 0,
         "kukriknife": 0,
         "fangeknife": 0,
         "huntingknife": 0,
         "machete": 0,
         "crudemachete": 0,
         "orientalmachete": 0,
-        "cleaver": 0,
-
         "whetstone": 0,
-
-        "battery9v": 0,
-        "rangefinder": 0, 
-        "binoculars": 0,
-        "thermos_mung": 0,
+        
+        
 
         "TF_RifleSling_Black": 0,
         "TF_RifleSling_Brown": 0,
         "TF_RifleSling_OD": 0,
-
-        "huntingjacket_autumn": 0,
-            "huntingjacket_brown": 0,
-            "huntingjacket_spring": 0,
-            "huntingjacket_summer": 0,
-            "huntingjacket_winter": 0,
-            "huntingjacket_white": 0,
-            "huntingjacket_woodland": 0,
-            "huntingjacket_beige": 0,
-
-        "huntingvest": 0,
-            "huntingvest_green": 0,
-
         
-        "hunterpants_winter": 0,
-            "hunterpants_autumn": 0,
-            "hunterpants_brown": 0,
-            "hunterpants_spring": 0,
-            "hunterpants_summer": 0,
-            "hunterpants_beige": 0,
-            "hunterpants_woodland": 0,
-
-        "huntingbag": 0,
-            "HuntingBag_Hannah": 0,
 
         "rifleholster_leatherengraved_mung": 0,
 
-        "HuntingOptic": 3,
+        "HuntingOptic": 0,
+        "pistolOptic": 0,
+        
 
         "CZ527": 0,
             "Mag_CZ527_5Rnd": 0,

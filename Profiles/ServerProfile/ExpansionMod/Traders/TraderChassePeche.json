@@ -24,7 +24,13 @@
 
         "carpfilletmeat": 2,
         "mackerelfilletmeat": 2,
-        "sardines": 2,        
+        "sardines": 2,
+        "kitchenknife": 0,
+        "steakknife": 0,
+        "cleaver": 0,
+        "whetstone": 0,
+
+
 
         "fishnettrap": 0,
         "Msp_FishingRodsRack_Kit": 0,

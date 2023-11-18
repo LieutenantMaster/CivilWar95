@@ -80,6 +80,30 @@
                 "hikingjacket_blackpink": 0,
                 "hikingjacket_blackblue": 0,
 
+    "huntingjacket_autumn": 0,
+                "huntingjacket_brown": 0,
+                "huntingjacket_spring": 0,
+                "huntingjacket_summer": 0,
+                "huntingjacket_winter": 0,
+                "huntingjacket_white": 0,
+                "huntingjacket_woodland": 0,
+                "huntingjacket_beige": 0,
+    
+            "huntingvest": 0,
+                "huntingvest_green": 0,
+    
+            
+            "hunterpants_winter": 0,
+                "hunterpants_autumn": 0,
+                "hunterpants_brown": 0,
+                "hunterpants_spring": 0,
+                "hunterpants_summer": 0,
+                "hunterpants_beige": 0,
+                "hunterpants_woodland": 0,
+    
+            "huntingbag": 0,
+                "HuntingBag_Hannah": 0,
+
     "raincoat_pink": 0,
                 "raincoat_orange": 0,
                 "raincoat_yellow": 0,
@@ -159,13 +183,27 @@
     
        
     
+    "rangefinder": 0, 
     "binoculars": 0,
     "chernarusmap": 0,
     "orienteeringcompass": 0,
     "compass": 0,
     "portablegaslamp": 0,
+    
+    "nylonknifesheath": 0,
+    "leatherknifesheath": 3,
+    "SAK_Mung": 0,
+        "kukriknife": 0,
+        "fangeknife": 0,
+        "huntingknife": 0,
+        "machete": 0,
+        "crudemachete": 0,
+        "orientalmachete": 0,
+        "whetstone": 0,
 
     "reflexvest": 0,
+    
+    "battery9v": 0,
 
     "rope": 0,
     "canopener": 0,
