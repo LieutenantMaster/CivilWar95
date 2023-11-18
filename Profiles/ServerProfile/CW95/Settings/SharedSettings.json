@@ -2,10 +2,10 @@
     "RestrictionTime": 10,
     "ConflictZones": [
         {
-            "Name": "Bunker",
-            "X": 682,
-            "Z": 1162,
-            "Radius": 250
+            "Name": "Vysotovo",
+            "X": 5710,
+            "Z": 2558,
+            "Radius": 550
         }
     ]
 }
