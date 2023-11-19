@@ -1,4 +1,3 @@
-[CF_RegisterModule(FrontLineManager)]
 /**
  * FrontLineManager.c
  *
@@ -10,6 +9,7 @@
  *
 */
 
+[CF_RegisterModule(FrontLineManager)]
 class FrontLineManager: CF_ModuleWorld
 {
     // ==================== SHARED ====================
@@ -175,7 +175,7 @@ class FrontLineManager: CF_ModuleWorld
 
 	private void RPC_FrontLineTrigger( ParamsReadContext ctx, PlayerIdentity senderRPC, Object target )
 	{
-		if (!ExpansionScriptRPC.CheckMagicNumber(ctx))
+		//if (!ExpansionScriptRPC.CheckMagicNumber(ctx))
 			return;
 
         vector position;
@@ -223,9 +223,9 @@ class FrontLineManager: CF_ModuleWorld
 				ExpansionNotification("Warning", "You entered a War Zone !", "DayZExpansion\\Core\\GUI\\icons\\misc\\T_HumanSkull_256x256.edds", COLOR_EXPANSION_NOTIFICATION_EXPANSION, 10).Create(player.GetIdentity());
                 
                 // RPC Server !
-                auto rpc = ExpansionScriptRPC.Create();
-                rpc.Write( player.GetPosition() );
-                rpc.Send( null, CW95RPC.FrontLineTrigger, true, player.GetIdentity() );
+                //auto rpc = ExpansionScriptRPC.Create();
+                //rpc.Write( player.GetPosition() );
+                //rpc.Send( null, CW95RPC.FrontLineTrigger, true, player.GetIdentity() );
             }
         }
     }

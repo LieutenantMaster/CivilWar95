@@ -1,17 +1,11 @@
 {
     "RestrictionTime": 10,
-    "FirstPersonZones": [
+    "ConflictZones": [
         {
-            "Name": "Bunker",
-            "X": 682.0,
-            "Z": 1162.0,
-            "Radius": 250
-        },
-        {
-            "Name": "Bunker",
-            "X": 682.0,
-            "Z": 1162.0,
-            "Radius": 250
+            "Name": "Vysotovo",
+            "X": 5710,
+            "Z": 2558,
+            "Radius": 550
         }
     ]
 }

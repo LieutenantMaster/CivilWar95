@@ -1329,7 +1329,7 @@
     </type>
     <type name="MD_Cashier">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1343,7 +1343,7 @@
     </type>
     <type name="MD_Clock">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>

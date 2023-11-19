@@ -8,9 +8,9 @@
     "Items": [
         {
             "ClassName": "makarovij70",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1,
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 90,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -124,7 +124,7 @@
             "ClassName": "magnum",
             "MaxPriceThreshold": 600,
             "MinPriceThreshold": 300,
-            "SellPricePercent": -1.0,
+            "SellPricePercent": 90,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -183,8 +183,8 @@
         },
         {
             "ClassName": "longhorn",
-            "MaxPriceThreshold": 400,
-            "MinPriceThreshold": 200,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 900,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

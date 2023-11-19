@@ -348,6 +348,12 @@ class CfgVehicles
 		model="AirRaid\model\Mi6.p3d";
 		forceFarBubble="true";
 	};
+	class Expansion_RPG_Explosion: HouseNoDestruct
+	{
+		scope=2;
+		model="\DZ\data\lightpoint.p3d";
+		ammoType="CW95_ProjectileRPG_Ammo";
+	};
 	class CW95_Rocket_Explosion: HouseNoDestruct
 	{
 		scope=2;
@@ -659,6 +665,71 @@ class CfgAmmo
 		{
 			strength=100;
 			type="shot";
+		};
+	};
+	class CW95_ProjectileRPG_Ammo: DefaultAmmo
+	{
+		indirectHit=1;
+		indirectHitRange=3;
+		explosive=1;
+		typicalSpeed=3;
+		initSpeed=3;
+		simulation="shotShell";
+		simulationStep=0.050000001;
+		soundSetExplosion[]=
+		{
+			"Grenade_explosion_SoundSet",
+			"Grenade_Tail_SoundSet"
+		};
+		class DamageApplied
+		{
+			type="FragGrenade";
+			bleedThreshold=0.40000001;
+			class Health
+			{
+				damage=60;
+			};
+			class Blood
+			{
+				damage=0;
+			};
+			class Shock
+			{
+				damage=70;
+			};
+		};
+		class NoiseExplosion
+		{
+			strength=100;
+			type="shot";
+		};
+	};
+};
+
+class CfgMagazines
+{
+	class Ammunition_Base;
+	class ExpansionAmmoRPG: Ammunition_Base
+	{
+		scope = 2;
+		displayName = "$STR_EXPANSION_RPG7_WARHEAD";
+		descriptionShort = "$STR_EXPANSION_RPG7_WARHEAD_DESC";
+		model="DayZExpansion\Objects\Weapons\Firearms\RPG7\fx\rpg7_ammoheat_round.p3d";
+		rotationFlags = 34;
+		itemSize[] = {4,2};
+		weight = 2400;
+		count = 1;
+		ammo = "ExpansionRocketRPG";
+		class DamageSystem
+		{
+			class GlobalHealth
+			{
+				class Health
+				{
+					hitpoints = 100;
+					healthLevels[] = {{1.0,{"DZ\weapons\launchers\law\data\law_rocket.rvmat"}},{0.7,{"DZ\weapons\launchers\law\data\law_rocket.rvmat"}},{0.5,{"DZ\weapons\launchers\law\data\law_rocket_damage.rvmat"}},{0.3,{"DZ\weapons\launchers\law\data\law_rocket_damage.rvmat"}},{0.0,{"DZ\weapons\launchers\law\data\law_rocket_destruct.rvmat"}}};
+				};
+			};
 		};
 	};
 };

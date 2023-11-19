@@ -148,6 +148,54 @@ modded class CarScript
 		UpdateLights();
 		
 		m_ContactCache.Clear();
-		
+	}
+	
+	override void EEHitBy(TotalDamageResult damageResult, int damageType, EntityAI source, int component, string dmgZone, string ammo, vector modelPos, float speedCoef)
+	{
+		super.EEHitBy(damageResult, damageType, source, component, dmgZone, ammo, modelPos, speedCoef);
+
+		bool isGlobal;
+		if (!dmgZone || dmgZone == "GlobalHealth")
+			isGlobal = true;
+
+		float dmg = damageResult.GetDamage(dmgZone, "");
+
+		//! Apply additional dmg if ammo type is grenade or rocket
+		//! One direct hit with a rocket blows up a MH6, two direct hits blow up a Merlin
+		//! Grenades take several more
+		float additionalDmg;
+		bool explode;
+		switch (ammo)
+		{
+			case "CW95_ProjectileRPG_Ammo":  //! Base dmg = 300
+				additionalDmg = dmg * 20 - dmg;
+			break;
+			default:
+				//! Explode if base dmg exceeded heli max health, or 1 in 50 chance if it exceeded current heli health
+				if (isGlobal && (dmg > GetMaxHealth(dmgZone, "") || (Math.RandomInt(0, 50) < 1 && IsDamageDestroyed())))
+					explode = true;
+			break;
+		}
+
+		if (additionalDmg)
+		{
+			//! Explode if additional dmg exceeds current health
+			if (isGlobal && additionalDmg > GetHealth(dmgZone, ""))
+				explode = true;
+
+			DecreaseHealth(dmgZone, "", additionalDmg);
+		}
+
+		if (isGlobal)
+		{
+			//! Always damage engine proportionally when taking global damage
+			float engineMaxHealth = GetMaxHealth("Engine", "");
+			float engineHealth = GetHealth("Engine", "");
+			float engineHealthNew = engineMaxHealth * GetHealth01(dmgZone, "");
+			if (engineHealthNew < engineHealth)
+			{
+				SetHealth("Engine", "", engineHealthNew);
+			}
+		}
 	}
 };

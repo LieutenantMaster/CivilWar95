@@ -1,0 +1,15 @@
+{
+    "m_Version": 11,
+    "DisplayName": "FMC",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Gun Bullets",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [],
+    "Items": {
+    }
+}

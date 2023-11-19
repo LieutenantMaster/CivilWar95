@@ -15,6 +15,9 @@
     "Items": {
         "tirerepairkit": 0,
         
+        "carbattery": 0,
+        "truckbattery": 0,
+
         "expansionvodnikdoordriver": 3,
         "expansionvodnikdoorcodriver": 3,
         "expansionvodnikwheel": 3,

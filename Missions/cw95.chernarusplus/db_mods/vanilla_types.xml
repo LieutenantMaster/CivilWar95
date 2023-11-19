@@ -262,8 +262,8 @@
     </type>
     <type name="AK101">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
+        <lifetime>28400</lifetime>
+        <restock>86400</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -303,7 +303,7 @@
         <value user="Tier4"/>
     </type>
     <type name="AK74">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>14400</restock>
         <min>0</min>
@@ -13498,7 +13498,7 @@
         <value user="Tier4"/>
     </type>
     <type name="Mag_AK101_30Rnd">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>14400</restock>
         <min>0</min>

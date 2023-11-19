@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class CW95_Objects_Props
+	class CW95_Objects_Props_Mirroir
 	{
 		units[]={};
 		weapons[]={};
@@ -22,5 +22,12 @@ class CfgVehicles
 		displayName="Mirroir sur Pied";
 		descriptionShort="Mirroir mirroir, mon beau mirroir, dit moi qui est le plus beau.";
 		model="\CivilWar95\CivilWar95\Objects\Props\Mirroir\Mirroir.p3d";
+	};
+	class CW95_TraderMachineACoudre: ExpansionTraderStaticBase
+	{
+		scope=1;
+		displayName="Machine à coudre";
+		descriptionShort="";
+		model = "DayZExpansion\Objects\Structures\Props\jigsaw.p3d";
 	};
 };

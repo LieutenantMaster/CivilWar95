@@ -121,7 +121,7 @@ class CfgAmmo
 			};
 			class Blood
 			{
-				damage=30;
+				damage=0;
 			};
 			class Shock
 			{
@@ -141,7 +141,7 @@ class CfgAmmo
 			};
 			class Blood
 			{
-				damage=50;
+				damage=0;
 			};
 			class Shock
 			{

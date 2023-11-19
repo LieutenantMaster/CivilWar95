@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "vss",
-            "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 1500,
+            "MaxPriceThreshold": 3200,
+            "MinPriceThreshold": 3200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,17 +30,6 @@
             "SpawnAttachments": [
                 "mag_val_20rnd"
             ],
-            "Variants": []
-        },
-        {
-            "ClassName": "b95",
-            "MaxPriceThreshold": 3400,
-            "MinPriceThreshold": 1700,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -71,8 +60,8 @@
         },
         {
             "ClassName": "TF_SR25",
-            "MaxPriceThreshold": 1750,
-            "MinPriceThreshold": 1750,
+            "MaxPriceThreshold": 2100,
+            "MinPriceThreshold": 2100,
             "SellPricePercent": 50,
             "MaxStockThreshold": 4,
             "MinStockThreshold": 0,

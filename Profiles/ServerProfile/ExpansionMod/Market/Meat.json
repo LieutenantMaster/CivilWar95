@@ -18,6 +18,17 @@
             "Variants": []
         },
         {
+            "ClassName": "Lard",
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 65,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "goatsteakmeat",
             "MaxPriceThreshold": 35,
             "MinPriceThreshold": 35,
@@ -87,6 +98,28 @@
             "ClassName": "sheepsteakmeat",
             "MaxPriceThreshold": 35,
             "MinPriceThreshold": 35,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Guts",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SmallGuts",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 15,
             "SellPricePercent": 100,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
