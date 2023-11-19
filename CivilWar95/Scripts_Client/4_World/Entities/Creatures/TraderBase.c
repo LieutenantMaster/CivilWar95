@@ -1,4 +1,4 @@
-modded class ExpansionTraderNPCBase
+modded class ExpansionTraderStaticBase
 {
     bool HasWhitlist()
     {
@@ -11,8 +11,8 @@ modded class ExpansionTraderNPCBase
     }
 };
 
-class CW95_TraderMirrorStand: ExpansionTraderNPCBase{};
-class CW95_TraderMachineACoudre: ExpansionTraderNPCBase
+class CW95_TraderMirrorStand: ExpansionTraderStaticBase{};
+class CW95_TraderMachineACoudre: ExpansionTraderStaticBase
 {
     override bool HasWhitlist()
     {
@@ -23,11 +23,12 @@ class CW95_TraderMachineACoudre: ExpansionTraderNPCBase
     {
         switch(uid)
         {
+            case "diq2SOAMNu6AHBClAK5UKWeGBpcO_FAWeXPELaY6avs=":
             case "pZmEb-J3KuvGDsxzUWTlJVL7Ntg2T5LFezpKN33q8E=":
                 return true;
             break;
         }
-        
+
         return false;
     }
 };

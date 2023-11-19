@@ -24,7 +24,12 @@ modded class ExpansionActionOpenTraderMenu
 		if ( !super.ActionCondition(player, target, item) )
 			return false;
 
-		ExpansionTraderNPCBase trader = ExpansionTraderNPCBase.Cast(target.GetObject());
+		ExpansionTraderStaticBase trader = ExpansionTraderStaticBase.Cast(target.GetObject());
+
+		Print("DEBUG TEST:: target.GetObject() is "+ target.GetObject());
+		Print("DEBUG TEST:: trader is "+ trader);
+		Print("DEBUG TEST:: trader.HasWhitlist() is "+ trader.HasWhitlist());
+		Print("DEBUG TEST:: trader.IsWhistelisted(player.GetIdentity().GetId() is "+ trader.IsWhistelisted(player.GetIdentity().GetId()));
 
 		if ( trader && trader.HasWhitlist() )
 			return trader.IsWhistelisted(player.GetIdentity().GetId());
