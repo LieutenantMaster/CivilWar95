@@ -10,5 +10,5 @@
 3) open `steam cmd` and enter the following commands
 ```
 login <username> <password>
-workshop_build_item @CivilWar95.vdf
+workshop_build_item CivilWar95.vdf
 ```
