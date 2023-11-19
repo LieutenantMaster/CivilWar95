@@ -17,6 +17,21 @@ modded class ExpansionActionOpenTraderMenu
 		m_ConditionItem = new CCINone;
 		m_ConditionTarget = new CCTCursor(UAMaxDistances.LARGE);
 	}
+
+#ifndef SERVER
+	override bool ActionCondition( PlayerBase player, ActionTarget target, ItemBase item )
+	{
+		if ( !super.ActionCondition(player, target, item) )
+			return false;
+
+		ExpansionTraderNPCBase trader = ExpansionTraderNPCBase.Cast(target.GetObject());
+
+		if ( trader && trader.HasWhitlist() )
+			return trader.IsWhistelisted(player.GetIdentity().GetId());
+
+		return true;
+	}
+#endif
 	
 	override void OnStartClient(ActionData action_data)
 	{
