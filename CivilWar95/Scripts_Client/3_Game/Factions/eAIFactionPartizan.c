@@ -15,7 +15,7 @@ class eAIFactionPartizan: eAIFaction
 {
 	void eAIFactionPartizan()
 	{
-		m_Loadout = "CivilLoadout";
+		m_Loadout = "PartizanLoadout";
 	}
 
 	override bool IsFriendly(notnull eAIFaction other)

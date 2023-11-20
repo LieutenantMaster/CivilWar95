@@ -1,0 +1,16 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Karim",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "Mafia",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Rat",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [],
+    "Items": {
+        "DP_CocaSeedsPack": 0
+    }
+}
