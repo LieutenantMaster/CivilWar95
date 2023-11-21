@@ -8,7 +8,8 @@ class CfgPatches
 		requiredAddons[]=
 		{
 			"DZ_Data",
-			"DayZExpansion_Market_Objects"
+			"DayZExpansion_Market_Objects",
+			"DayZExpansion_Quests_Teleporter"
 		};
 	};
 };
@@ -29,5 +30,11 @@ class CfgVehicles
 		displayName="Machine à coudre";
 		descriptionShort="";
 		model = "DayZExpansion\Objects\Structures\Props\jigsaw.p3d";
+	};
+	class Expansion_Teleporter_Base;
+	class CW95_Teleporter: Expansion_Teleporter_Base
+	{
+		scope=1;
+		model="\CivilWar95\CivilWar95\Objects\Props\Mirroir\Invis.p3d";
 	};
 };

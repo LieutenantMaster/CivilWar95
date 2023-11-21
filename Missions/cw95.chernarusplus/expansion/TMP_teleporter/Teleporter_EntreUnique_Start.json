@@ -1,9 +1,9 @@
 {
     "ConfigVersion": 3,
-    "m_ID": 8,
-    "m_DisplayName": "ENTRE SORTIE",
+    "m_ID": 1,
+    "m_DisplayName": "ENTRE UNIQUE",
     "m_ObjectPosition": [
-        7814.32, 1963.01, 25.5256
+        5682.49, 89.9086, 2938.94
     ],
     "m_ObjectOrientation": [
         0.0,
@@ -12,11 +12,11 @@
     ],
     "m_TeleportPositions": [
         {
-            "m_DisplayName": "ENTRE SORTIE",
+            "m_DisplayName": "ENTRE UNIQUE",
             "m_Positions": [
                 {
                     "m_Position": [
-                        5786.58, 82.3936, 2764.47
+                        7796.08, 2003.02, 169.512
                     ],
                     "m_Orientation": [
                         0.0,
@@ -30,7 +30,7 @@
             "m_Reputation": 0
         }
     ],
-    "m_Faction": "Mafia",
+    "m_Faction": "",
     "m_Reputation": 0,
     "m_QuestID": -1,
     "m_IsExit": 0,

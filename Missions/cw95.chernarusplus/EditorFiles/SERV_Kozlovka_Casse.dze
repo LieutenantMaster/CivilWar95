@@ -1,0 +1,4378 @@
+{
+    "MapName": "ChernarusPlus",
+    "CameraPosition": [
+        4560.900390625,
+        238.1464385986328,
+        4494.0263671875
+    ],
+    "EditorObjects": [
+        {
+            "Type": "Land_Wreck_Volha_Grey",
+            "DisplayName": "Land_Wreck_Volha_Grey",
+            "Position": [
+                4538.8740234375,
+                233.78309631347657,
+                4533.12939453125
+            ],
+            "Orientation": [
+                -40.70182418823242,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999952912330627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_Lada_Red",
+            "DisplayName": "Land_Wreck_Lada_Red",
+            "Position": [
+                4537.00244140625,
+                233.76687622070313,
+                4531.8837890625
+            ],
+            "Orientation": [
+                -40.70182418823242,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999952912330627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_Volha_Blue",
+            "DisplayName": "Land_Wreck_Volha_Blue",
+            "Position": [
+                4540.24755859375,
+                233.7659149169922,
+                4528.0361328125
+            ],
+            "Orientation": [
+                -40.70182418823242,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999945163726807,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_hb02_aban1_red",
+            "DisplayName": "Land_Wreck_hb02_aban1_red",
+            "Position": [
+                4543.6298828125,
+                236.66600036621095,
+                4537.759765625
+            ],
+            "Orientation": [
+                -41.20179748535156,
+                0.0,
+                4.500000476837158
+            ],
+            "Scale": 0.9999919533729553,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_sed01_aban2_white",
+            "DisplayName": "Land_Wreck_sed01_aban2_white",
+            "Position": [
+                4546.81982421875,
+                236.63900756835938,
+                4533.89013671875
+            ],
+            "Orientation": [
+                -35.701805114746097,
+                0.49998965859413149,
+                4.999998092651367
+            ],
+            "Scale": 0.9999897480010986,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_Volha_Blue",
+            "DisplayName": "Land_Wreck_Volha_Blue",
+            "Position": [
+                4550.56982421875,
+                233.60128784179688,
+                4528.47021484375
+            ],
+            "Orientation": [
+                170.38995361328126,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999845027923584,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_hb01_aban2_blue_DE",
+            "DisplayName": "Land_Wreck_hb01_aban2_blue_DE",
+            "Position": [
+                4543.578125,
+                233.85911560058595,
+                4524.365234375
+            ],
+            "Orientation": [
+                -40.70182418823242,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999945163726807,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_sed01_aban2_white_DE",
+            "DisplayName": "Land_Wreck_sed01_aban2_white_DE",
+            "Position": [
+                4535.37841796875,
+                233.8059844970703,
+                4534.81005859375
+            ],
+            "Orientation": [
+                44.99999237060547,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_hb01_aban2_police_DE",
+            "DisplayName": "Land_Wreck_hb01_aban2_police_DE",
+            "Position": [
+                4585.611328125,
+                234.3970489501953,
+                4491.412109375
+            ],
+            "Orientation": [
+                136.32595825195313,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999866485595703,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_sed01_aban2_white_DE",
+            "DisplayName": "Land_Wreck_sed01_aban2_white_DE",
+            "Position": [
+                4583.83935546875,
+                234.18780517578126,
+                4490.17919921875
+            ],
+            "Orientation": [
+                -43.6732177734375,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999893307685852,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_hb02_aban2_black_DE",
+            "DisplayName": "Land_Wreck_hb02_aban2_black_DE",
+            "Position": [
+                4570.25732421875,
+                233.7494354248047,
+                4504.03369140625
+            ],
+            "Orientation": [
+                -39.100547790527347,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999964237213135,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_sed02_aban1_yellow_DE",
+            "DisplayName": "Land_Wreck_sed02_aban1_yellow_DE",
+            "Position": [
+                4568.66552734375,
+                233.86009216308595,
+                4503.12841796875
+            ],
+            "Orientation": [
+                -39.10059356689453,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999968409538269,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_hb02_aban2_black_DE",
+            "DisplayName": "Land_Wreck_hb02_aban2_black_DE",
+            "Position": [
+                4565.0908203125,
+                233.66024780273438,
+                4512.76025390625
+            ],
+            "Orientation": [
+                -39.100547790527347,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999964237213135,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wreck_s120_red",
+            "DisplayName": "bldr_wreck_s120_red",
+            "Position": [
+                4568.357421875,
+                233.5451202392578,
+                4509.291015625
+            ],
+            "Orientation": [
+                -39.100547790527347,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999964237213135,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_hb01_aban2_green_DE",
+            "DisplayName": "Land_Wreck_hb01_aban2_green_DE",
+            "Position": [
+                4561.408203125,
+                233.912109375,
+                4517.154296875
+            ],
+            "Orientation": [
+                -39.100547790527347,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999964237213135,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_hb01_aban2_blue_DE",
+            "DisplayName": "Land_Wreck_hb01_aban2_blue_DE",
+            "Position": [
+                4566.22509765625,
+                233.95730590820313,
+                4507.62255859375
+            ],
+            "Orientation": [
+                -39.100547790527347,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999964237213135,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_hb02_aban1_blue_DE",
+            "DisplayName": "Land_Wreck_hb02_aban1_blue_DE",
+            "Position": [
+                4559.11181640625,
+                233.7764434814453,
+                4515.52197265625
+            ],
+            "Orientation": [
+                -39.100547790527347,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999964237213135,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_sed02_aban1_yellow_DE",
+            "DisplayName": "Land_Wreck_sed02_aban1_yellow_DE",
+            "Position": [
+                4562.52685546875,
+                233.8364715576172,
+                4511.759765625
+            ],
+            "Orientation": [
+                -39.10059356689453,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999968409538269,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_sed01_aban2_white",
+            "DisplayName": "Land_Wreck_sed01_aban2_white",
+            "Position": [
+                4571.8876953125,
+                233.47251892089845,
+                4505.57861328125
+            ],
+            "Orientation": [
+                -39.100582122802737,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999979734420776,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_wreck_truck01_aban2_green_DE",
+            "DisplayName": "Land_wreck_truck01_aban2_green_DE",
+            "Position": [
+                4587.70556640625,
+                233.02503967285157,
+                4510.8359375
+            ],
+            "Orientation": [
+                44.99999237060547,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_T72_Chassis_DE",
+            "DisplayName": "StaticObj_Wreck_T72_Chassis_DE",
+            "Position": [
+                4590.52001953125,
+                233.96539306640626,
+                4509.9091796875
+            ],
+            "Orientation": [
+                53.999996185302737,
+                2.999933958053589,
+                -2.9999988079071047
+            ],
+            "Scale": 0.9999966621398926,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_T72_Turret_DE",
+            "DisplayName": "StaticObj_Wreck_T72_Turret_DE",
+            "Position": [
+                4589.080078125,
+                234.86439514160157,
+                4507.72900390625
+            ],
+            "Orientation": [
+                -125.04999542236328,
+                -11.899236679077149,
+                8.999994277954102
+            ],
+            "Scale": 0.9999790191650391,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_Uaz_DE",
+            "DisplayName": "StaticObj_Wreck_Uaz_DE",
+            "Position": [
+                4592.74609375,
+                234.46612548828126,
+                4502.638671875
+            ],
+            "Orientation": [
+                53.999969482421878,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999994039535523,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_Uaz",
+            "DisplayName": "Land_Wreck_Uaz",
+            "Position": [
+                4595.8232421875,
+                234.71083068847657,
+                4505.8056640625
+            ],
+            "Orientation": [
+                174.4999237060547,
+                -7.498828411102295,
+                3.499997615814209
+            ],
+            "Scale": 0.9999793171882629,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wreck_bmp2",
+            "DisplayName": "bldr_wreck_bmp2",
+            "Position": [
+                4595.9033203125,
+                235.10731506347657,
+                4500.89794921875
+            ],
+            "Orientation": [
+                -131.75929260253907,
+                -2.498276710510254,
+                8.999933242797852
+            ],
+            "Scale": 0.9999959468841553,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Construction_Crane",
+            "DisplayName": "Land_Construction_Crane",
+            "Position": [
+                4578.5244140625,
+                244.3482208251953,
+                4496.50634765625
+            ],
+            "Orientation": [
+                98.64798736572266,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999955296516419,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_Uaz_DE",
+            "DisplayName": "StaticObj_Wreck_Uaz_DE",
+            "Position": [
+                4577.6669921875,
+                245.30203247070313,
+                4487.59423828125
+            ],
+            "Orientation": [
+                128.5719451904297,
+                -77.82672882080078,
+                79.99998474121094
+            ],
+            "Scale": 0.9999868869781494,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Target_Concrete_Block",
+            "DisplayName": "StaticObj_Target_Concrete_Block",
+            "Position": [
+                4579.85986328125,
+                232.12600708007813,
+                4504.64990234375
+            ],
+            "Orientation": [
+                -37.999996185302737,
+                1.499897837638855,
+                0.0
+            ],
+            "Scale": 0.9999942779541016,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_Obstacle_Bridge",
+            "DisplayName": "StaticObj_Misc_Obstacle_Bridge",
+            "Position": [
+                4558.0,
+                233.11691284179688,
+                4546.60595703125
+            ],
+            "Orientation": [
+                140.20654296875,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999934434890747,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_Obstacle_Bridge",
+            "DisplayName": "StaticObj_Misc_Obstacle_Bridge",
+            "Position": [
+                4558.76611328125,
+                233.1154327392578,
+                4547.24365234375
+            ],
+            "Orientation": [
+                -39.8192138671875,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_Obstacle_Bridge",
+            "DisplayName": "StaticObj_Misc_Obstacle_Bridge",
+            "Position": [
+                4560.17333984375,
+                233.1147003173828,
+                4548.63525390625
+            ],
+            "Orientation": [
+                140.20654296875,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999934434890747,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_Obstacle_Bridge",
+            "DisplayName": "StaticObj_Misc_Obstacle_Bridge",
+            "Position": [
+                4560.939453125,
+                233.11322021484376,
+                4549.27294921875
+            ],
+            "Orientation": [
+                -39.8192138671875,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999975562095642,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_hb01_aban2_green_DE",
+            "DisplayName": "Land_Wreck_hb01_aban2_green_DE",
+            "Position": [
+                4563.6298828125,
+                233.83326721191407,
+                4494.56982421875
+            ],
+            "Orientation": [
+                -39.10049057006836,
+                0.0,
+                -38.5
+            ],
+            "Scale": 0.9999949932098389,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wreck_s120_red",
+            "DisplayName": "bldr_wreck_s120_red",
+            "Position": [
+                4566.6826171875,
+                233.58950805664063,
+                4494.77490234375
+            ],
+            "Orientation": [
+                -63.82880401611328,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999990463256836,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_Volha_Blue",
+            "DisplayName": "Land_Wreck_Volha_Blue",
+            "Position": [
+                4560.89599609375,
+                233.5320281982422,
+                4498.0341796875
+            ],
+            "Orientation": [
+                -40.70181655883789,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_hb02_aban1_blue_DE",
+            "DisplayName": "Land_Wreck_hb02_aban1_blue_DE",
+            "Position": [
+                4586.5458984375,
+                235.9228973388672,
+                4491.84326171875
+            ],
+            "Orientation": [
+                46.75402069091797,
+                0.10543815791606903,
+                -2.499994993209839
+            ],
+            "Scale": 0.9802265167236328,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_Volha_Grey",
+            "DisplayName": "Land_Wreck_Volha_Grey",
+            "Position": [
+                4587.17919921875,
+                234.135498046875,
+                4488.33544921875
+            ],
+            "Orientation": [
+                -133.67335510253907,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999873042106628,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_hb01_aban2_green_DE",
+            "DisplayName": "Land_Wreck_hb01_aban2_green_DE",
+            "Position": [
+                4586.927734375,
+                234.468017578125,
+                4492.73779296875
+            ],
+            "Orientation": [
+                136.32582092285157,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999910593032837,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Container_1Aoh",
+            "DisplayName": "Land_Container_1Aoh",
+            "Position": [
+                4556.36669921875,
+                234.21356201171876,
+                4555.32373046875
+            ],
+            "Orientation": [
+                49.49211502075195,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999977350234985,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Container_1Bo_DE",
+            "DisplayName": "Land_Container_1Bo_DE",
+            "Position": [
+                4554.71142578125,
+                234.21340942382813,
+                4557.31591796875
+            ],
+            "Orientation": [
+                49.49999237060547,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999966025352478,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Container_1D",
+            "DisplayName": "StaticObj_Container_1D",
+            "Position": [
+                4553.02978515625,
+                234.33290100097657,
+                4559.1845703125
+            ],
+            "Orientation": [
+                50.15258026123047,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999977350234985,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Garbage_Container_Plastic",
+            "DisplayName": "StaticObj_Garbage_Container_Plastic",
+            "Position": [
+                4554.26220703125,
+                233.847412109375,
+                4526.87744140625
+            ],
+            "Orientation": [
+                49.4531135559082,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999988675117493,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Garbage_Container_Paper",
+            "DisplayName": "StaticObj_Garbage_Container_Paper",
+            "Position": [
+                4552.00439453125,
+                233.86642456054688,
+                4528.41015625
+            ],
+            "Orientation": [
+                3.2021849155426027,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999934434890747,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Garbage_Container_Glass",
+            "DisplayName": "StaticObj_Garbage_Container_Glass",
+            "Position": [
+                4553.38330078125,
+                233.84205627441407,
+                4527.88916015625
+            ],
+            "Orientation": [
+                51.152679443359378,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999983310699463,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Garbage_Container2_Closed",
+            "DisplayName": "StaticObj_Garbage_Container2_Closed",
+            "Position": [
+                4549.99462890625,
+                233.79083251953126,
+                4545.42578125
+            ],
+            "Orientation": [
+                139.78024291992188,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999990463256836,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Garbage_Container2_Open",
+            "DisplayName": "StaticObj_Garbage_Container2_Open",
+            "Position": [
+                4541.0048828125,
+                233.544677734375,
+                4540.67431640625
+            ],
+            "Orientation": [
+                35.41718673706055,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999966621398926,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_gcontainer_big",
+            "DisplayName": "bldr_misc_gcontainer_big",
+            "Position": [
+                4593.1806640625,
+                234.4075164794922,
+                4496.47509765625
+            ],
+            "Orientation": [
+                48.58219528198242,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999896287918091,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Container_2B",
+            "DisplayName": "StaticObj_Container_2B",
+            "Position": [
+                4548.14013671875,
+                235.5449981689453,
+                4555.2900390625
+            ],
+            "Orientation": [
+                51.99998092651367,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999973773956299,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_container_1c",
+            "DisplayName": "bldr_container_1c",
+            "Position": [
+                4556.29638671875,
+                236.84164428710938,
+                4557.732421875
+            ],
+            "Orientation": [
+                -41.147220611572269,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999990463256836,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_container_2a",
+            "DisplayName": "bldr_container_2a",
+            "Position": [
+                4543.412109375,
+                235.553955078125,
+                4551.22314453125
+            ],
+            "Orientation": [
+                48.01918029785156,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999967813491821,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Container_2D",
+            "DisplayName": "StaticObj_Container_2D",
+            "Position": [
+                4541.03125,
+                235.57510375976563,
+                4546.7861328125
+            ],
+            "Orientation": [
+                -35.999977111816409,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999996423721314,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_Pallets2",
+            "DisplayName": "StaticObj_Misc_Pallets2",
+            "Position": [
+                4542.46044921875,
+                233.4496612548828,
+                4528.818359375
+            ],
+            "Orientation": [
+                -109.55181121826172,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_Pallets3",
+            "DisplayName": "StaticObj_Misc_Pallets3",
+            "Position": [
+                4551.6298828125,
+                233.22023010253907,
+                4551.759765625
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.999995768070221,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_BusStop_Village",
+            "DisplayName": "StaticObj_BusStop_Village",
+            "Position": [
+                4510.85595703125,
+                227.5775146484375,
+                4490.0068359375
+            ],
+            "Orientation": [
+                -107.99999237060547,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Decon_PowerCable_01_Roll_F",
+            "DisplayName": "StaticObj_Decon_PowerCable_01_Roll_F",
+            "Position": [
+                4556.62158203125,
+                234.13409423828126,
+                4543.45703125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Garbage_Pile7",
+            "DisplayName": "StaticObj_Garbage_Pile7",
+            "Position": [
+                4552.2109375,
+                233.49012756347657,
+                4525.35498046875
+            ],
+            "Orientation": [
+                179.4855499267578,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Garbage_Pile8",
+            "DisplayName": "StaticObj_Garbage_Pile8",
+            "Position": [
+                4543.78271484375,
+                233.50457763671876,
+                4526.96923828125
+            ],
+            "Orientation": [
+                -158.6300048828125,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999990463256836,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Slum_Roof3",
+            "DisplayName": "StaticObj_Slum_Roof3",
+            "Position": [
+                4552.630859375,
+                235.20748901367188,
+                4525.8837890625
+            ],
+            "Orientation": [
+                -129.6605224609375,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_chair_leisure_crushed",
+            "DisplayName": "StaticObj_chair_leisure_crushed",
+            "Position": [
+                4548.7529296875,
+                233.22711181640626,
+                4539.59765625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_classroom_case_a_crushed",
+            "DisplayName": "StaticObj_classroom_case_a_crushed",
+            "Position": [
+                4541.55029296875,
+                233.10580444335938,
+                4531.08447265625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_classroom_case_b_crushed",
+            "DisplayName": "StaticObj_classroom_case_b_crushed",
+            "Position": [
+                4551.3955078125,
+                233.27737426757813,
+                4544.33544921875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_racks_crushed",
+            "DisplayName": "StaticObj_racks_crushed",
+            "Position": [
+                4548.50927734375,
+                233.2632293701172,
+                4542.62158203125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_ToolTrolley_02_F",
+            "DisplayName": "StaticObj_ToolTrolley_02_F",
+            "Position": [
+                4555.7119140625,
+                233.57347106933595,
+                4544.69384765625
+            ],
+            "Orientation": [
+                -37.51449966430664,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999992847442627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_PalletTrolley_01_yellow_F",
+            "DisplayName": "StaticObj_PalletTrolley_01_yellow_F",
+            "Position": [
+                4586.326171875,
+                234.0115203857422,
+                4518.73681640625
+            ],
+            "Orientation": [
+                -83.16539764404297,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999988079071045,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_EngineCrane_01_F",
+            "DisplayName": "StaticObj_EngineCrane_01_F",
+            "Position": [
+                4562.72998046875,
+                234.24609375,
+                4545.142578125
+            ],
+            "Orientation": [
+                -136.46926879882813,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999982118606567,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_Volha_Grey",
+            "DisplayName": "Land_Wreck_Volha_Grey",
+            "Position": [
+                4579.896484375,
+                234.1829071044922,
+                4487.06494140625
+            ],
+            "Orientation": [
+                140.6240997314453,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.999983549118042,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_Lada_Red",
+            "DisplayName": "Land_Wreck_Lada_Red",
+            "Position": [
+                4581.7998046875,
+                234.07144165039063,
+                4488.27001953125
+            ],
+            "Orientation": [
+                140.6239776611328,
+                0.0,
+                -1.9999998807907105
+            ],
+            "Scale": 0.9999828934669495,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_hb02_aban1_blue_DE",
+            "DisplayName": "Land_Wreck_hb02_aban1_blue_DE",
+            "Position": [
+                4578.4521484375,
+                234.05734252929688,
+                4485.4453125
+            ],
+            "Orientation": [
+                140.6240997314453,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.999983549118042,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_sed01_aban2_white_DE",
+            "DisplayName": "Land_Wreck_sed01_aban2_white_DE",
+            "Position": [
+                4582.58984375,
+                234.08816528320313,
+                4484.64990234375
+            ],
+            "Orientation": [
+                -134.1729736328125,
+                -5.4998321533203129,
+                0.0
+            ],
+            "Scale": 0.999984860420227,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_gcontainer_big",
+            "DisplayName": "bldr_misc_gcontainer_big",
+            "Position": [
+                4590.0419921875,
+                234.28775024414063,
+                4493.7568359375
+            ],
+            "Orientation": [
+                45.69721603393555,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999881982803345,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_container_1c",
+            "DisplayName": "bldr_container_1c",
+            "Position": [
+                4553.33642578125,
+                236.88597106933595,
+                4556.76904296875
+            ],
+            "Orientation": [
+                -32.14723205566406,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_ToolTrolley_02_F",
+            "DisplayName": "StaticObj_ToolTrolley_02_F",
+            "Position": [
+                4554.8740234375,
+                233.56118774414063,
+                4545.83056640625
+            ],
+            "Orientation": [
+                -37.514495849609378,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999992251396179,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_ToolTrolley_02_F",
+            "DisplayName": "StaticObj_ToolTrolley_02_F",
+            "Position": [
+                4556.56298828125,
+                233.56524658203126,
+                4543.64013671875
+            ],
+            "Orientation": [
+                -37.514495849609378,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999992251396179,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_hb02_aban1_blue_DE",
+            "DisplayName": "Land_Wreck_hb02_aban1_blue_DE",
+            "Position": [
+                4565.43994140625,
+                233.9713592529297,
+                4544.47998046875
+            ],
+            "Orientation": [
+                108.42799377441406,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999983310699463,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HatchbackWheel",
+            "DisplayName": "bldr_prop_HatchbackWheel",
+            "Position": [
+                4588.38916015625,
+                233.6897735595703,
+                4516.734375
+            ],
+            "Orientation": [
+                53.999996185302737,
+                0.0,
+                90.0
+            ],
+            "Scale": 0.9999970197677612,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HatchbackWheel",
+            "DisplayName": "bldr_prop_HatchbackWheel",
+            "Position": [
+                4589.88623046875,
+                234.6454620361328,
+                4517.81591796875
+            ],
+            "Orientation": [
+                53.999996185302737,
+                0.0,
+                90.0
+            ],
+            "Scale": 0.9999970197677612,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HatchbackWheel",
+            "DisplayName": "bldr_prop_HatchbackWheel",
+            "Position": [
+                4589.88623046875,
+                234.6454620361328,
+                4517.81591796875
+            ],
+            "Orientation": [
+                53.999996185302737,
+                0.0,
+                90.0
+            ],
+            "Scale": 0.9999970197677612,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HatchbackWheel",
+            "DisplayName": "bldr_prop_HatchbackWheel",
+            "Position": [
+                4589.88623046875,
+                234.6454620361328,
+                4517.81591796875
+            ],
+            "Orientation": [
+                53.999996185302737,
+                0.0,
+                90.0
+            ],
+            "Scale": 0.9999970197677612,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HatchbackWheel",
+            "DisplayName": "bldr_prop_HatchbackWheel",
+            "Position": [
+                4589.896484375,
+                234.64553833007813,
+                4517.81982421875
+            ],
+            "Orientation": [
+                53.999996185302737,
+                0.0,
+                90.0
+            ],
+            "Scale": 0.9999970197677612,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HatchbackWheel",
+            "DisplayName": "bldr_prop_HatchbackWheel",
+            "Position": [
+                4589.896484375,
+                234.64553833007813,
+                4517.81982421875
+            ],
+            "Orientation": [
+                53.999996185302737,
+                0.0,
+                90.0
+            ],
+            "Scale": 0.9999970197677612,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HatchbackWheel",
+            "DisplayName": "bldr_prop_HatchbackWheel",
+            "Position": [
+                4589.896484375,
+                234.64553833007813,
+                4517.81982421875
+            ],
+            "Orientation": [
+                53.999996185302737,
+                0.0,
+                90.0
+            ],
+            "Scale": 0.9999970197677612,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HatchbackWheel",
+            "DisplayName": "bldr_prop_HatchbackWheel",
+            "Position": [
+                4589.8583984375,
+                234.11383056640626,
+                4517.89404296875
+            ],
+            "Orientation": [
+                53.999996185302737,
+                0.0,
+                90.0
+            ],
+            "Scale": 0.9999970197677612,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HatchbackWheel",
+            "DisplayName": "bldr_prop_HatchbackWheel",
+            "Position": [
+                4589.8623046875,
+                233.95144653320313,
+                4517.91748046875
+            ],
+            "Orientation": [
+                53.999996185302737,
+                0.0,
+                90.0
+            ],
+            "Scale": 0.9999970197677612,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HatchbackWheel",
+            "DisplayName": "bldr_prop_HatchbackWheel",
+            "Position": [
+                4589.0439453125,
+                234.1314697265625,
+                4517.42529296875
+            ],
+            "Orientation": [
+                53.999996185302737,
+                0.0,
+                90.0
+            ],
+            "Scale": 0.9999970197677612,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HatchbackWheel",
+            "DisplayName": "bldr_prop_HatchbackWheel",
+            "Position": [
+                4588.349609375,
+                233.3873748779297,
+                4516.71337890625
+            ],
+            "Orientation": [
+                53.999996185302737,
+                0.0,
+                90.0
+            ],
+            "Scale": 0.9999970197677612,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HatchbackWheel",
+            "DisplayName": "bldr_prop_HatchbackWheel",
+            "Position": [
+                4589.1767578125,
+                234.6513671875,
+                4517.48828125
+            ],
+            "Orientation": [
+                53.999996185302737,
+                0.0,
+                90.0
+            ],
+            "Scale": 0.9999970197677612,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HatchbackWheel",
+            "DisplayName": "bldr_prop_HatchbackWheel",
+            "Position": [
+                4588.38720703125,
+                233.54197692871095,
+                4516.71728515625
+            ],
+            "Orientation": [
+                53.999996185302737,
+                0.0,
+                90.0
+            ],
+            "Scale": 0.9999970197677612,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HatchbackWheel",
+            "DisplayName": "bldr_prop_HatchbackWheel",
+            "Position": [
+                4588.349609375,
+                233.24752807617188,
+                4516.71337890625
+            ],
+            "Orientation": [
+                53.999996185302737,
+                0.0,
+                90.0
+            ],
+            "Scale": 0.9999970197677612,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HatchbackWheel",
+            "DisplayName": "bldr_prop_HatchbackWheel",
+            "Position": [
+                4589.083984375,
+                233.9532928466797,
+                4517.49951171875
+            ],
+            "Orientation": [
+                53.999996185302737,
+                0.0,
+                90.0
+            ],
+            "Scale": 0.9999970197677612,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HatchbackWheel",
+            "DisplayName": "bldr_prop_HatchbackWheel",
+            "Position": [
+                4589.56640625,
+                234.8380126953125,
+                4517.65185546875
+            ],
+            "Orientation": [
+                53.999996185302737,
+                0.0,
+                90.0
+            ],
+            "Scale": 0.9999970197677612,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HatchbackWheel",
+            "DisplayName": "bldr_prop_HatchbackWheel",
+            "Position": [
+                4588.357421875,
+                233.99717712402345,
+                4516.70458984375
+            ],
+            "Orientation": [
+                53.999996185302737,
+                0.0,
+                90.0
+            ],
+            "Scale": 0.9999970197677612,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HatchbackWheel",
+            "DisplayName": "bldr_prop_HatchbackWheel",
+            "Position": [
+                4588.39501953125,
+                234.1517791748047,
+                4516.70849609375
+            ],
+            "Orientation": [
+                53.999996185302737,
+                0.0,
+                90.0
+            ],
+            "Scale": 0.9999970197677612,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HatchbackWheel",
+            "DisplayName": "bldr_prop_HatchbackWheel",
+            "Position": [
+                4588.357421875,
+                233.85733032226563,
+                4516.70458984375
+            ],
+            "Orientation": [
+                53.999996185302737,
+                0.0,
+                90.0
+            ],
+            "Scale": 0.9999970197677612,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HatchbackWheel",
+            "DisplayName": "bldr_prop_HatchbackWheel",
+            "Position": [
+                4588.39697265625,
+                234.29957580566407,
+                4516.7255859375
+            ],
+            "Orientation": [
+                53.999996185302737,
+                0.0,
+                90.0
+            ],
+            "Scale": 0.9999970197677612,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_shelfs_small",
+            "DisplayName": "bldr_shelfs_small",
+            "Position": [
+                4589.6455078125,
+                233.17987060546876,
+                4517.62890625
+            ],
+            "Orientation": [
+                -126.77923583984375,
+                0.0,
+                0.0
+            ],
+            "Scale": 2.245002269744873,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Garbage_Container2_Closed",
+            "DisplayName": "StaticObj_Garbage_Container2_Closed",
+            "Position": [
+                4551.423828125,
+                233.7938690185547,
+                4546.48583984375
+            ],
+            "Orientation": [
+                139.78024291992188,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_shelfs_small",
+            "DisplayName": "bldr_shelfs_small",
+            "Position": [
+                4587.240234375,
+                233.10499572753907,
+                4515.64013671875
+            ],
+            "Orientation": [
+                -126.77897644042969,
+                0.0,
+                0.0
+            ],
+            "Scale": 2.2450013160705568,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_shelfs_small",
+            "DisplayName": "bldr_shelfs_small",
+            "Position": [
+                4585.0458984375,
+                233.06781005859376,
+                4513.771484375
+            ],
+            "Orientation": [
+                -126.77923583984375,
+                0.0,
+                0.0
+            ],
+            "Scale": 2.245002269744873,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_shelfs_small",
+            "DisplayName": "bldr_shelfs_small",
+            "Position": [
+                4588.43359375,
+                233.10594177246095,
+                4520.0869140625
+            ],
+            "Orientation": [
+                142.8237762451172,
+                0.0,
+                0.0
+            ],
+            "Scale": 2.2450013160705568,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_shelfs_small",
+            "DisplayName": "bldr_shelfs_small",
+            "Position": [
+                4585.7109375,
+                233.14471435546876,
+                4523.384765625
+            ],
+            "Orientation": [
+                141.16879272460938,
+                0.0,
+                0.0
+            ],
+            "Scale": 2.2450032234191896,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Barrel_Red",
+            "DisplayName": "bldr_prop_Barrel_Red",
+            "Position": [
+                4550.17529296875,
+                232.96920776367188,
+                4549.16015625
+            ],
+            "Orientation": [
+                152.99990844726563,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Sedan_02_Wheel",
+            "DisplayName": "bldr_prop_Sedan_02_Wheel",
+            "Position": [
+                4588.6865234375,
+                233.91835021972657,
+                4519.64501953125
+            ],
+            "Orientation": [
+                45.0,
+                0.0,
+                -90.0
+            ],
+            "Scale": 0.9999979138374329,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Sedan_02_Wheel",
+            "DisplayName": "bldr_prop_Sedan_02_Wheel",
+            "Position": [
+                4588.64990234375,
+                234.09988403320313,
+                4519.60205078125
+            ],
+            "Orientation": [
+                45.0,
+                0.0,
+                -90.0
+            ],
+            "Scale": 0.9999979138374329,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Sedan_02_Wheel",
+            "DisplayName": "bldr_prop_Sedan_02_Wheel",
+            "Position": [
+                4588.720703125,
+                234.2676544189453,
+                4519.65478515625
+            ],
+            "Orientation": [
+                45.0,
+                0.0,
+                -90.0
+            ],
+            "Scale": 0.9999979138374329,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Truck_01_WheelDouble",
+            "DisplayName": "bldr_prop_Truck_01_WheelDouble",
+            "Position": [
+                4586.8798828125,
+                233.58200073242188,
+                4522.16015625
+            ],
+            "Orientation": [
+                -18.000001907348634,
+                0.0,
+                -90.0
+            ],
+            "Scale": 0.9999979138374329,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Truck_01_WheelDouble",
+            "DisplayName": "bldr_prop_Truck_01_WheelDouble",
+            "Position": [
+                4587.26123046875,
+                233.58314514160157,
+                4521.30029296875
+            ],
+            "Orientation": [
+                -18.000001907348634,
+                0.0,
+                -90.0
+            ],
+            "Scale": 0.9999978542327881,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Truck_01_WheelDouble",
+            "DisplayName": "bldr_prop_Truck_01_WheelDouble",
+            "Position": [
+                4587.0,
+                234.0500030517578,
+                4521.64013671875
+            ],
+            "Orientation": [
+                -18.000001907348634,
+                0.0,
+                -90.0
+            ],
+            "Scale": 0.9999964833259583,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_tirepile",
+            "DisplayName": "bldr_misc_tirepile",
+            "Position": [
+                4584.169921875,
+                237.53604125976563,
+                4525.1240234375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Barrel_Green",
+            "DisplayName": "bldr_prop_Barrel_Green",
+            "Position": [
+                4585.91015625,
+                233.23704528808595,
+                4515.0966796875
+            ],
+            "Orientation": [
+                32.046756744384769,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999973773956299,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Barrel_Green",
+            "DisplayName": "bldr_prop_Barrel_Green",
+            "Position": [
+                4584.07763671875,
+                233.22679138183595,
+                4512.80908203125
+            ],
+            "Orientation": [
+                32.046749114990237,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999938011169434,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Barrel_Red",
+            "DisplayName": "bldr_prop_Barrel_Red",
+            "Position": [
+                4583.5498046875,
+                233.22799682617188,
+                4512.22021484375
+            ],
+            "Orientation": [
+                81.14969635009766,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999969005584717,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Barrel_Yellow",
+            "DisplayName": "bldr_prop_Barrel_Yellow",
+            "Position": [
+                4582.83056640625,
+                233.2333221435547,
+                4511.83203125
+            ],
+            "Orientation": [
+                -164.9876708984375,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_TruckBattery",
+            "DisplayName": "bldr_prop_TruckBattery",
+            "Position": [
+                4585.90966796875,
+                233.81195068359376,
+                4522.8935546875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_CarBattery",
+            "DisplayName": "bldr_prop_CarBattery",
+            "Position": [
+                4585.1806640625,
+                234.53765869140626,
+                4523.7177734375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_TruckBattery",
+            "DisplayName": "bldr_prop_TruckBattery",
+            "Position": [
+                4585.56591796875,
+                233.8238067626953,
+                4523.32666015625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_TruckBattery",
+            "DisplayName": "bldr_prop_TruckBattery",
+            "Position": [
+                4585.22802734375,
+                233.81094360351563,
+                4523.85546875
+            ],
+            "Orientation": [
+                -84.54121398925781,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999991059303284,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_CarBattery",
+            "DisplayName": "bldr_prop_CarBattery",
+            "Position": [
+                4585.4384765625,
+                234.53634643554688,
+                4523.46533203125
+            ],
+            "Orientation": [
+                -42.76860046386719,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999982118606567,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_CarBattery",
+            "DisplayName": "bldr_prop_CarBattery",
+            "Position": [
+                4585.77197265625,
+                234.52175903320313,
+                4523.0390625
+            ],
+            "Orientation": [
+                -15.721511840820313,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999900460243225,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_CarBattery",
+            "DisplayName": "bldr_prop_CarBattery",
+            "Position": [
+                4586.03369140625,
+                234.51730346679688,
+                4522.8828125
+            ],
+            "Orientation": [
+                -81.96228790283203,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999985694885254,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_ElectronicRepairKit",
+            "DisplayName": "bldr_prop_ElectronicRepairKit",
+            "Position": [
+                4585.5498046875,
+                234.53900146484376,
+                4523.169921875
+            ],
+            "Orientation": [
+                -179.9999237060547,
+                89.30648040771485,
+                -179.9999237060547
+            ],
+            "Scale": 0.9999967217445374,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_misc_tirepile_group",
+            "DisplayName": "bldr_misc_tirepile_group",
+            "Position": [
+                4579.484375,
+                237.4905548095703,
+                4510.48974609375
+            ],
+            "Orientation": [
+                110.47077178955078,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Truck_01_WheelDouble",
+            "DisplayName": "bldr_prop_Truck_01_WheelDouble",
+            "Position": [
+                4586.4228515625,
+                233.70733642578126,
+                4518.94775390625
+            ],
+            "Orientation": [
+                -101.16537475585938,
+                0.0,
+                -90.0
+            ],
+            "Scale": 0.9999954700469971,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Garbage_Pile8",
+            "DisplayName": "StaticObj_Garbage_Pile8",
+            "Position": [
+                4553.02978515625,
+                233.74191284179688,
+                4549.44921875
+            ],
+            "Orientation": [
+                142.3188018798828,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999994039535523,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Garbage_Pile7",
+            "DisplayName": "StaticObj_Garbage_Pile7",
+            "Position": [
+                4546.525390625,
+                233.69044494628907,
+                4543.79833984375
+            ],
+            "Orientation": [
+                116.48554992675781,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Garbage_Pile7",
+            "DisplayName": "StaticObj_Garbage_Pile7",
+            "Position": [
+                4545.41015625,
+                233.6868133544922,
+                4540.75537109375
+            ],
+            "Orientation": [
+                -144.5144805908203,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_chair_leisure_crushed",
+            "DisplayName": "StaticObj_chair_leisure_crushed",
+            "Position": [
+                4547.115234375,
+                233.23770141601563,
+                4541.4541015625
+            ],
+            "Orientation": [
+                92.7304916381836,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_Ural",
+            "DisplayName": "StaticObj_Wreck_Ural",
+            "Position": [
+                4577.19677734375,
+                234.31375122070313,
+                4537.5751953125
+            ],
+            "Orientation": [
+                -35.999977111816409,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_Ural",
+            "DisplayName": "StaticObj_Wreck_Ural",
+            "Position": [
+                4582.07373046875,
+                234.33856201171876,
+                4532.18408203125
+            ],
+            "Orientation": [
+                -35.999977111816409,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999996423721314,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_Uaz_DE",
+            "DisplayName": "StaticObj_Wreck_Uaz_DE",
+            "Position": [
+                4585.9697265625,
+                233.91690063476563,
+                4529.14501953125
+            ],
+            "Orientation": [
+                -161.96630859375,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_Uaz_DE",
+            "DisplayName": "StaticObj_Wreck_Uaz_DE",
+            "Position": [
+                4587.53857421875,
+                233.9114990234375,
+                4527.04833984375
+            ],
+            "Orientation": [
+                -161.96630859375,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999996423721314,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_Ikarus_DE",
+            "DisplayName": "Land_Wreck_Ikarus_DE",
+            "Position": [
+                4545.06689453125,
+                234.34603881835938,
+                4535.5439453125
+            ],
+            "Orientation": [
+                -35.999855041503909,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wreck_bulldozer",
+            "DisplayName": "bldr_wreck_bulldozer",
+            "Position": [
+                4580.53955078125,
+                234.6478271484375,
+                4539.93408203125
+            ],
+            "Orientation": [
+                53.999969482421878,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999994039535523,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_hb01_aban2_green_DE",
+            "DisplayName": "Land_Wreck_hb01_aban2_green_DE",
+            "Position": [
+                4542.33251953125,
+                233.7587127685547,
+                4522.54833984375
+            ],
+            "Orientation": [
+                -39.100528717041019,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999996423721314,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_hb02_aban1_blue_DE",
+            "DisplayName": "Land_Wreck_hb02_aban1_blue_DE",
+            "Position": [
+                4539.572265625,
+                233.6310577392578,
+                4526.06005859375
+            ],
+            "Orientation": [
+                140.6240997314453,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_sed01_aban2_white",
+            "DisplayName": "Land_Wreck_sed01_aban2_white",
+            "Position": [
+                4536.22998046875,
+                233.70799255371095,
+                4530.02978515625
+            ],
+            "Orientation": [
+                -40.70178985595703,
+                0.0,
+                -3.9999985694885256
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_hb02_aban2_black_DE",
+            "DisplayName": "Land_Wreck_hb02_aban2_black_DE",
+            "Position": [
+                4555.52490234375,
+                233.482666015625,
+                4504.82470703125
+            ],
+            "Orientation": [
+                -39.100528717041019,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999996423721314,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wreck_s120_red",
+            "DisplayName": "bldr_wreck_s120_red",
+            "Position": [
+                4560.7548828125,
+                233.7582244873047,
+                4501.59375
+            ],
+            "Orientation": [
+                -39.100528717041019,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999996423721314,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_Volha_Blue",
+            "DisplayName": "Land_Wreck_Volha_Blue",
+            "Position": [
+                4576.42822265625,
+                233.65284729003907,
+                4484.0
+            ],
+            "Orientation": [
+                -40.70180892944336,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_hb01_aban2_green_DE",
+            "DisplayName": "Land_Wreck_hb01_aban2_green_DE",
+            "Position": [
+                4574.6455078125,
+                233.81011962890626,
+                4482.64892578125
+            ],
+            "Orientation": [
+                136.3258056640625,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_Lada_Red",
+            "DisplayName": "Land_Wreck_Lada_Red",
+            "Position": [
+                4557.9091796875,
+                233.502197265625,
+                4501.7236328125
+            ],
+            "Orientation": [
+                -31.70182228088379,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_Ikarus",
+            "DisplayName": "Land_Wreck_Ikarus",
+            "Position": [
+                4569.955078125,
+                233.75083923339845,
+                4488.421875
+            ],
+            "Orientation": [
+                -45.0,
+                0.0,
+                -95.0
+            ],
+            "Scale": 0.9999969601631165,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_hb01_aban2_blue_DE",
+            "DisplayName": "Land_Wreck_hb01_aban2_blue_DE",
+            "Position": [
+                4563.9033203125,
+                233.87997436523438,
+                4497.81298828125
+            ],
+            "Orientation": [
+                154.4839324951172,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_Volha_Blue",
+            "DisplayName": "Land_Wreck_Volha_Blue",
+            "Position": [
+                4557.9375,
+                233.5262908935547,
+                4505.8818359375
+            ],
+            "Orientation": [
+                152.38987731933595,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_hb02_aban1_blue_DE",
+            "DisplayName": "Land_Wreck_hb02_aban1_blue_DE",
+            "Position": [
+                4578.75,
+                233.62399291992188,
+                4481.93994140625
+            ],
+            "Orientation": [
+                44.753997802734378,
+                3.9999754428863527,
+                0.0
+            ],
+            "Scale": 0.9999969005584717,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_T72_Chassis_DE",
+            "DisplayName": "StaticObj_Wreck_T72_Chassis_DE",
+            "Position": [
+                4594.6201171875,
+                234.4189910888672,
+                4514.169921875
+            ],
+            "Orientation": [
+                135.0,
+                0.0,
+                1.9999996423721314
+            ],
+            "Scale": 0.9999964833259583,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_T72_Chassis_DE",
+            "DisplayName": "StaticObj_Wreck_T72_Chassis_DE",
+            "Position": [
+                4600.39013671875,
+                235.17393493652345,
+                4507.71240234375
+            ],
+            "Orientation": [
+                135.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999992847442627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wreck_bmp2",
+            "DisplayName": "bldr_wreck_bmp2",
+            "Position": [
+                4596.8798828125,
+                236.3065948486328,
+                4510.740234375
+            ],
+            "Orientation": [
+                142.740966796875,
+                6.499634742736816,
+                10.000000953674317
+            ],
+            "Scale": 0.9999916553497315,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_Uaz_DE",
+            "DisplayName": "StaticObj_Wreck_Uaz_DE",
+            "Position": [
+                4585.96533203125,
+                233.9833221435547,
+                4506.5947265625
+            ],
+            "Orientation": [
+                -27.00005340576172,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_wreck_truck01_aban2_green_DE",
+            "DisplayName": "Land_wreck_truck01_aban2_green_DE",
+            "Position": [
+                4583.080078125,
+                233.20899963378907,
+                4499.10986328125
+            ],
+            "Orientation": [
+                18.000003814697267,
+                0.0,
+                -2.4999990463256838
+            ],
+            "Scale": 0.9999993443489075,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_S1023_Blue",
+            "DisplayName": "Land_Wreck_S1023_Blue",
+            "Position": [
+                4533.30322265625,
+                234.2384033203125,
+                4537.65380859375
+            ],
+            "Orientation": [
+                133.60597229003907,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999996423721314,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Garbage_Container2_Open",
+            "DisplayName": "StaticObj_Garbage_Container2_Open",
+            "Position": [
+                4540.32177734375,
+                233.48875427246095,
+                4544.19140625
+            ],
+            "Orientation": [
+                80.41719055175781,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Garbage_Container2_Open",
+            "DisplayName": "StaticObj_Garbage_Container2_Open",
+            "Position": [
+                4539.38427734375,
+                233.44227600097657,
+                4541.6689453125
+            ],
+            "Orientation": [
+                80.4170913696289,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_Ural",
+            "DisplayName": "StaticObj_Wreck_Ural",
+            "Position": [
+                4539.861328125,
+                234.10171508789063,
+                4552.17529296875
+            ],
+            "Orientation": [
+                47.261051177978519,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999978542327881,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_wreck_truck01_aban2_green_DE",
+            "DisplayName": "Land_wreck_truck01_aban2_green_DE",
+            "Position": [
+                4537.2265625,
+                232.95303344726563,
+                4553.85498046875
+            ],
+            "Orientation": [
+                49.02775955200195,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999982118606567,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_wreck_truck01_aban1_orange_DE",
+            "DisplayName": "Land_wreck_truck01_aban1_orange_DE",
+            "Position": [
+                4535.31396484375,
+                232.97482299804688,
+                4556.5244140625
+            ],
+            "Orientation": [
+                51.142845153808597,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999984502792358,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_V3S_DE",
+            "DisplayName": "Land_Wreck_V3S_DE",
+            "Position": [
+                4529.79736328125,
+                234.7100067138672,
+                4546.85302734375
+            ],
+            "Orientation": [
+                175.9939727783203,
+                -1.9999371767044068,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_wreck_truck01_aban2_firetruck_DE",
+            "DisplayName": "Land_wreck_truck01_aban2_firetruck_DE",
+            "Position": [
+                4573.9931640625,
+                233.2159423828125,
+                4536.2451171875
+            ],
+            "Orientation": [
+                -44.18590545654297,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999977350234985,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wreck_trailer_flat",
+            "DisplayName": "bldr_wreck_trailer_flat",
+            "Position": [
+                4528.998046875,
+                234.46884155273438,
+                4542.06689453125
+            ],
+            "Orientation": [
+                131.89492797851563,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999967813491821,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Lunapark_Bumper_Car",
+            "DisplayName": "Land_Lunapark_Bumper_Car",
+            "Position": [
+                4550.5595703125,
+                233.24774169921876,
+                4540.81982421875
+            ],
+            "Orientation": [
+                -0.00001430511474609375,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_shelf",
+            "DisplayName": "StaticObj_Furniture_shelf",
+            "Position": [
+                4575.25537109375,
+                233.21238708496095,
+                4509.31884765625
+            ],
+            "Orientation": [
+                -129.27378845214845,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_shelf",
+            "DisplayName": "StaticObj_Furniture_shelf",
+            "Position": [
+                4574.92529296875,
+                233.2233123779297,
+                4506.1826171875
+            ],
+            "Orientation": [
+                -76.46344757080078,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_shelf",
+            "DisplayName": "StaticObj_Furniture_shelf",
+            "Position": [
+                4577.34619140625,
+                233.2404022216797,
+                4507.11962890625
+            ],
+            "Orientation": [
+                -130.46347045898438,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999992847442627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_shelf",
+            "DisplayName": "StaticObj_Furniture_shelf",
+            "Position": [
+                4574.16259765625,
+                233.21742248535157,
+                4510.68408203125
+            ],
+            "Orientation": [
+                -129.27378845214845,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999992251396179,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Furniture_shelf",
+            "DisplayName": "StaticObj_Furniture_shelf",
+            "Position": [
+                4572.74462890625,
+                233.23007202148438,
+                4507.76220703125
+            ],
+            "Orientation": [
+                -40.463443756103519,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_hb01_aban2_blue_DE",
+            "DisplayName": "Land_Wreck_hb01_aban2_blue_DE",
+            "Position": [
+                4530.47021484375,
+                235.52786254882813,
+                4540.52978515625
+            ],
+            "Orientation": [
+                132.16000366210938,
+                -22.9974365234375,
+                0.0
+            ],
+            "Scale": 0.9999905228614807,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_hb01_aban2_blue_DE",
+            "DisplayName": "Land_Wreck_hb01_aban2_blue_DE",
+            "Position": [
+                4528.783203125,
+                235.04835510253907,
+                4542.3544921875
+            ],
+            "Orientation": [
+                -50.85454559326172,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999977946281433,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_WoodenPlank",
+            "DisplayName": "bldr_prop_WoodenPlank",
+            "Position": [
+                4531.240234375,
+                234.1653289794922,
+                4540.56982421875
+            ],
+            "Orientation": [
+                144.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999990463256836,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_WoodenPlank",
+            "DisplayName": "bldr_prop_WoodenPlank",
+            "Position": [
+                4531.1875,
+                234.1985321044922,
+                4540.615234375
+            ],
+            "Orientation": [
+                143.99989318847657,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999992847442627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_WoodenPlank",
+            "DisplayName": "bldr_prop_WoodenPlank",
+            "Position": [
+                4530.4189453125,
+                233.0100860595703,
+                4549.91162109375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_WoodenPlank",
+            "DisplayName": "bldr_prop_WoodenPlank",
+            "Position": [
+                4530.43359375,
+                233.06076049804688,
+                4549.859375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_WoodenPlank",
+            "DisplayName": "bldr_prop_WoodenPlank",
+            "Position": [
+                4530.31884765625,
+                233.11788940429688,
+                4549.8251953125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_WoodenPlank",
+            "DisplayName": "bldr_prop_WoodenPlank",
+            "Position": [
+                4528.5029296875,
+                233.0725555419922,
+                4549.81298828125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_WoodenPlank",
+            "DisplayName": "bldr_prop_WoodenPlank",
+            "Position": [
+                4528.517578125,
+                233.12322998046876,
+                4549.7607421875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_WoodenPlank",
+            "DisplayName": "bldr_prop_WoodenPlank",
+            "Position": [
+                4528.40283203125,
+                233.18035888671876,
+                4549.7265625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_Tractor",
+            "DisplayName": "Land_Wreck_Tractor",
+            "Position": [
+                4531.22998046875,
+                234.1009979248047,
+                4551.169921875
+            ],
+            "Orientation": [
+                -36.487586975097659,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_sed01_aban2_white",
+            "DisplayName": "Land_Wreck_sed01_aban2_white",
+            "Position": [
+                4532.6953125,
+                233.63868713378907,
+                4553.30078125
+            ],
+            "Orientation": [
+                -31.701786041259767,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_Digger",
+            "DisplayName": "StaticObj_Wreck_Digger",
+            "Position": [
+                4534.90185546875,
+                236.26336669921876,
+                4545.7861328125
+            ],
+            "Orientation": [
+                -1.348462700843811,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999943375587463,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_sed02_aban1_yellow_DE",
+            "DisplayName": "Land_Wreck_sed02_aban1_yellow_DE",
+            "Position": [
+                4531.5556640625,
+                233.94525146484376,
+                4536.0029296875
+            ],
+            "Orientation": [
+                -48.1005859375,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999996423721314,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wreck_s120_red",
+            "DisplayName": "bldr_wreck_s120_red",
+            "Position": [
+                4528.90966796875,
+                233.83551025390626,
+                4539.06103515625
+            ],
+            "Orientation": [
+                -52.829463958740237,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999983310699463,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_EngineOil",
+            "DisplayName": "bldr_prop_EngineOil",
+            "Position": [
+                4574.14501953125,
+                234.46664428710938,
+                4510.81201171875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Pliers",
+            "DisplayName": "bldr_prop_Pliers",
+            "Position": [
+                4577.22998046875,
+                233.77822875976563,
+                4515.16015625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Screwdriver",
+            "DisplayName": "bldr_prop_Screwdriver",
+            "Position": [
+                4577.59765625,
+                233.7513427734375,
+                4514.59814453125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_PowerGenerator",
+            "DisplayName": "bldr_prop_PowerGenerator",
+            "Position": [
+                4568.986328125,
+                233.24652099609376,
+                4543.2548828125
+            ],
+            "Orientation": [
+                17.1680850982666,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999986886978149,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Radio",
+            "DisplayName": "bldr_prop_Radio",
+            "Position": [
+                4568.0703125,
+                234.1300048828125,
+                4515.9931640625
+            ],
+            "Orientation": [
+                79.80567932128906,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999946355819702,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_BrakeFluid",
+            "DisplayName": "bldr_prop_BrakeFluid",
+            "Position": [
+                4573.8349609375,
+                234.468505859375,
+                4510.59033203125
+            ],
+            "Orientation": [
+                -44.99999237060547,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_CanisterGasoline",
+            "DisplayName": "bldr_prop_CanisterGasoline",
+            "Position": [
+                4583.43017578125,
+                234.23175048828126,
+                4512.2841796875
+            ],
+            "Orientation": [
+                -40.015174865722659,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999922513961792,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_BrakeFluid",
+            "DisplayName": "bldr_prop_BrakeFluid",
+            "Position": [
+                4574.59814453125,
+                234.1123504638672,
+                4511.32421875
+            ],
+            "Orientation": [
+                -44.99999237060547,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_BrakeFluid",
+            "DisplayName": "bldr_prop_BrakeFluid",
+            "Position": [
+                4574.41845703125,
+                234.1094970703125,
+                4511.203125
+            ],
+            "Orientation": [
+                -44.99999237060547,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_BrakeFluid",
+            "DisplayName": "bldr_prop_BrakeFluid",
+            "Position": [
+                4573.89892578125,
+                234.46429443359376,
+                4510.7001953125
+            ],
+            "Orientation": [
+                -44.99999237060547,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_EngineOil",
+            "DisplayName": "bldr_prop_EngineOil",
+            "Position": [
+                4573.94384765625,
+                233.37677001953126,
+                4510.81689453125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_EngineOil",
+            "DisplayName": "bldr_prop_EngineOil",
+            "Position": [
+                4573.701171875,
+                233.36810302734376,
+                4510.60009765625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Decal_damage_long2",
+            "DisplayName": "StaticObj_Decal_damage_long2",
+            "Position": [
+                4555.4072265625,
+                235.28692626953126,
+                4520.64794921875
+            ],
+            "Orientation": [
+                53.99998474121094,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Decal_damage_long2",
+            "DisplayName": "StaticObj_Decal_damage_long2",
+            "Position": [
+                4547.2099609375,
+                234.97012329101563,
+                4510.94580078125
+            ],
+            "Orientation": [
+                37.67026901245117,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999927878379822,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Decal_damage_long2",
+            "DisplayName": "StaticObj_Decal_damage_long2",
+            "Position": [
+                4539.654296875,
+                232.11703491210938,
+                4502.7880859375
+            ],
+            "Orientation": [
+                44.99996566772461,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Decal_damage_long2",
+            "DisplayName": "StaticObj_Decal_damage_long2",
+            "Position": [
+                4530.75537109375,
+                228.83473205566407,
+                4495.154296875
+            ],
+            "Orientation": [
+                -135.00009155273438,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Decal_damage_long3",
+            "DisplayName": "StaticObj_Decal_damage_long3",
+            "Position": [
+                4524.6982421875,
+                227.7691192626953,
+                4489.205078125
+            ],
+            "Orientation": [
+                44.99997329711914,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_Decal_Big_NoLC",
+            "DisplayName": "StaticObj_Wreck_Decal_Big_NoLC",
+            "Position": [
+                4542.99951171875,
+                233.04541015625,
+                4525.6904296875
+            ],
+            "Orientation": [
+                -35.9999885559082,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_Decal_Big",
+            "DisplayName": "StaticObj_Wreck_Decal_Big",
+            "Position": [
+                4543.83544921875,
+                234.96759033203126,
+                4537.1162109375
+            ],
+            "Orientation": [
+                -35.9999885559082,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_Decal_Small2_NoLC",
+            "DisplayName": "StaticObj_Wreck_Decal_Small2_NoLC",
+            "Position": [
+                4564.89453125,
+                233.0445556640625,
+                4513.01220703125
+            ],
+            "Orientation": [
+                -35.99998092651367,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_Decal_Small1_NoLC_DE",
+            "DisplayName": "StaticObj_Wreck_Decal_Small1_NoLC_DE",
+            "Position": [
+                4566.73095703125,
+                233.0550537109375,
+                4507.8037109375
+            ],
+            "Orientation": [
+                81.00000762939453,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wreck_decal_small1",
+            "DisplayName": "bldr_wreck_decal_small1",
+            "Position": [
+                4568.8046875,
+                233.99383544921876,
+                4503.30712890625
+            ],
+            "Orientation": [
+                -27.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_Decal_Small1_NoLC_DE",
+            "DisplayName": "StaticObj_Wreck_Decal_Small1_NoLC_DE",
+            "Position": [
+                4580.0576171875,
+                233.42478942871095,
+                4486.93408203125
+            ],
+            "Orientation": [
+                143.99989318847657,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Decal_damage_small1_DE",
+            "DisplayName": "StaticObj_Decal_damage_small1_DE",
+            "Position": [
+                4580.8779296875,
+                236.7276611328125,
+                4489.3271484375
+            ],
+            "Orientation": [
+                44.99998092651367,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Garbage_Pile7",
+            "DisplayName": "StaticObj_Garbage_Pile7",
+            "Position": [
+                4548.708984375,
+                233.4799346923828,
+                4529.0830078125
+            ],
+            "Orientation": [
+                77.37915802001953,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999991655349731,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HatchbackWheel_Ruined",
+            "DisplayName": "bldr_prop_HatchbackWheel_Ruined",
+            "Position": [
+                4560.77001953125,
+                233.1599884033203,
+                4513.39013671875
+            ],
+            "Orientation": [
+                -80.9999771118164,
+                0.0,
+                90.0
+            ],
+            "Scale": 0.9999992847442627,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HatchbackWheel_Ruined",
+            "DisplayName": "bldr_prop_HatchbackWheel_Ruined",
+            "Position": [
+                4564.2900390625,
+                233.16839599609376,
+                4509.1396484375
+            ],
+            "Orientation": [
+                -80.9999771118164,
+                0.0,
+                90.0
+            ],
+            "Scale": 0.9999991655349731,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HatchbackWheel_Ruined",
+            "DisplayName": "bldr_prop_HatchbackWheel_Ruined",
+            "Position": [
+                4565.26806640625,
+                233.17312622070313,
+                4509.96533203125
+            ],
+            "Orientation": [
+                -80.9999771118164,
+                0.0,
+                90.0
+            ],
+            "Scale": 0.9999991655349731,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HatchbackWheel_Ruined",
+            "DisplayName": "bldr_prop_HatchbackWheel_Ruined",
+            "Position": [
+                4564.44091796875,
+                233.16978454589845,
+                4509.71875
+            ],
+            "Orientation": [
+                -80.9999771118164,
+                0.0,
+                90.0
+            ],
+            "Scale": 0.9999991655349731,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wreck_bulldozer",
+            "DisplayName": "bldr_wreck_bulldozer",
+            "Position": [
+                4574.2099609375,
+                234.53353881835938,
+                4499.5
+            ],
+            "Orientation": [
+                108.0,
+                1.4999991655349732,
+                0.0
+            ],
+            "Scale": 0.9999997019767761,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_EngineOil",
+            "DisplayName": "bldr_prop_EngineOil",
+            "Position": [
+                4574.63525390625,
+                233.37496948242188,
+                4511.291015625
+            ],
+            "Orientation": [
+                -89.99993133544922,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Hammer",
+            "DisplayName": "bldr_prop_Hammer",
+            "Position": [
+                4565.45263671875,
+                234.15174865722657,
+                4517.40185546875
+            ],
+            "Orientation": [
+                -0.000005008955668017734,
+                89.54199981689453,
+                -91.49999237060547
+            ],
+            "Scale": 0.9999963045120239,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_SledgeHammer",
+            "DisplayName": "bldr_prop_SledgeHammer",
+            "Position": [
+                4567.64013671875,
+                234.13848876953126,
+                4516.56005859375
+            ],
+            "Orientation": [
+                63.0,
+                0.0,
+                87.5
+            ],
+            "Scale": 0.9999973773956299,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Screwdriver",
+            "DisplayName": "bldr_prop_Screwdriver",
+            "Position": [
+                4565.50341796875,
+                234.15081787109376,
+                4517.43408203125
+            ],
+            "Orientation": [
+                15.35713005065918,
+                0.0,
+                90.0
+            ],
+            "Scale": 0.9999948143959045,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HeadlightH7_Box",
+            "DisplayName": "bldr_prop_HeadlightH7_Box",
+            "Position": [
+                4575.4716796875,
+                233.80284118652345,
+                4506.35205078125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -90.0
+            ],
+            "Scale": 0.9999991059303284,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_NailBox",
+            "DisplayName": "bldr_prop_NailBox",
+            "Position": [
+                4565.12451171875,
+                234.1325225830078,
+                4516.59521484375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_BoxWooden",
+            "DisplayName": "StaticObj_Misc_BoxWooden",
+            "Position": [
+                4568.45654296875,
+                233.70687866210938,
+                4512.34912109375
+            ],
+            "Orientation": [
+                138.86767578125,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999988675117493,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_Table_Market",
+            "DisplayName": "StaticObj_Misc_Table_Market",
+            "Position": [
+                4565.71484375,
+                233.67001342773438,
+                4517.37353515625
+            ],
+            "Orientation": [
+                141.95802307128907,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Misc_Table_Market",
+            "DisplayName": "StaticObj_Misc_Table_Market",
+            "Position": [
+                4567.34423828125,
+                233.67372131347657,
+                4516.619140625
+            ],
+            "Orientation": [
+                -128.0420684814453,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998211860657,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_NailBox",
+            "DisplayName": "bldr_prop_NailBox",
+            "Position": [
+                4565.2646484375,
+                234.13592529296876,
+                4516.90771484375
+            ],
+            "Orientation": [
+                -85.41007232666016,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.999990701675415,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_NailBox",
+            "DisplayName": "bldr_prop_NailBox",
+            "Position": [
+                4564.9853515625,
+                234.1322784423828,
+                4516.8056640625
+            ],
+            "Orientation": [
+                129.56146240234376,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999985694885254,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HeadlightH7_Box",
+            "DisplayName": "bldr_prop_HeadlightH7_Box",
+            "Position": [
+                4575.65576171875,
+                233.76852416992188,
+                4506.10546875
+            ],
+            "Orientation": [
+                145.04248046875,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HeadlightH7_Box",
+            "DisplayName": "bldr_prop_HeadlightH7_Box",
+            "Position": [
+                4575.794921875,
+                233.76454162597657,
+                4506.21533203125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HeadlightH7_Box",
+            "DisplayName": "bldr_prop_HeadlightH7_Box",
+            "Position": [
+                4575.49755859375,
+                233.76499938964845,
+                4506.2626953125
+            ],
+            "Orientation": [
+                -42.82876205444336,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999950528144836,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HeadlightH7_Box",
+            "DisplayName": "bldr_prop_HeadlightH7_Box",
+            "Position": [
+                4575.6455078125,
+                233.77273559570313,
+                4506.201171875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995827674866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HeadlightH7_Box",
+            "DisplayName": "bldr_prop_HeadlightH7_Box",
+            "Position": [
+                4575.580078125,
+                233.768798828125,
+                4506.240234375
+            ],
+            "Orientation": [
+                -156.0,
+                0.9999911785125732,
+                0.0
+            ],
+            "Scale": 0.9999955892562866,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_TruckBattery",
+            "DisplayName": "bldr_prop_TruckBattery",
+            "Position": [
+                4577.82958984375,
+                233.43605041503907,
+                4507.86279296875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_TruckBattery",
+            "DisplayName": "bldr_prop_TruckBattery",
+            "Position": [
+                4577.341796875,
+                233.42050170898438,
+                4507.36083984375
+            ],
+            "Orientation": [
+                139.57781982421876,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999992251396179,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_TruckBattery",
+            "DisplayName": "bldr_prop_TruckBattery",
+            "Position": [
+                4576.919921875,
+                233.42999267578126,
+                4506.97998046875
+            ],
+            "Orientation": [
+                152.8609619140625,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999958872795105,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_CarBattery",
+            "DisplayName": "bldr_prop_CarBattery",
+            "Position": [
+                4577.7607421875,
+                234.1309814453125,
+                4507.7060546875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999995231628418,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_CarBattery",
+            "DisplayName": "bldr_prop_CarBattery",
+            "Position": [
+                4576.6767578125,
+                234.15548706054688,
+                4506.8037109375
+            ],
+            "Orientation": [
+                95.79266357421875,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999976754188538,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_CarBattery",
+            "DisplayName": "bldr_prop_CarBattery",
+            "Position": [
+                4577.18994140625,
+                234.13400268554688,
+                4507.2001953125
+            ],
+            "Orientation": [
+                99.5143814086914,
+                -1.9999531507492066,
+                -0.4999999701976776
+            ],
+            "Scale": 0.9999882578849793,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_CarBattery",
+            "DisplayName": "bldr_prop_CarBattery",
+            "Position": [
+                4577.69091796875,
+                233.7978515625,
+                4507.67431640625
+            ],
+            "Orientation": [
+                -81.96228790283203,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999985694885254,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_ElectronicRepairKit",
+            "DisplayName": "bldr_prop_ElectronicRepairKit",
+            "Position": [
+                4575.54833984375,
+                234.12831115722657,
+                4509.91943359375
+            ],
+            "Orientation": [
+                -179.99990844726563,
+                89.2914047241211,
+                -179.99990844726563
+            ],
+            "Scale": 0.9999967217445374,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_ElectronicRepairKit",
+            "DisplayName": "bldr_prop_ElectronicRepairKit",
+            "Position": [
+                4575.85888671875,
+                234.13941955566407,
+                4509.88720703125
+            ],
+            "Orientation": [
+                -75.46255493164063,
+                87.95789337158203,
+                -179.99989318847657
+            ],
+            "Scale": 0.9999959468841553,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_ElectronicRepairKit",
+            "DisplayName": "bldr_prop_ElectronicRepairKit",
+            "Position": [
+                4575.01806640625,
+                234.12718200683595,
+                4509.396484375
+            ],
+            "Orientation": [
+                -150.7373046875,
+                87.7520523071289,
+                -179.99989318847657
+            ],
+            "Scale": 0.9999959468841553,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Decon_PowerCable_01_Roll_F",
+            "DisplayName": "StaticObj_Decon_PowerCable_01_Roll_F",
+            "Position": [
+                4572.49609375,
+                233.4747772216797,
+                4508.3671875
+            ],
+            "Orientation": [
+                9.000001907348633,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.559999942779541,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Decon_PowerCable_01_Roll_F",
+            "DisplayName": "StaticObj_Decon_PowerCable_01_Roll_F",
+            "Position": [
+                4573.0859375,
+                234.17465209960938,
+                4507.70703125
+            ],
+            "Orientation": [
+                9.000001907348633,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.5599998831748962,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Decon_PowerCable_01_Roll_F",
+            "DisplayName": "StaticObj_Decon_PowerCable_01_Roll_F",
+            "Position": [
+                4572.7958984375,
+                233.83761596679688,
+                4508.0166015625
+            ],
+            "Orientation": [
+                9.000001907348633,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.5599998831748962,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_HatchbackDoors_CoDriver",
+            "DisplayName": "bldr_prop_HatchbackDoors_CoDriver",
+            "Position": [
+                4574.66015625,
+                233.67100524902345,
+                4506.83984375
+            ],
+            "Orientation": [
+                98.99998474121094,
+                0.0,
+                12.999998092651368
+            ],
+            "Scale": 0.9999986886978149,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_CarRadiator",
+            "DisplayName": "bldr_prop_CarRadiator",
+            "Position": [
+                4573.64990234375,
+                233.2740020751953,
+                4507.5
+            ],
+            "Orientation": [
+                51.72259521484375,
+                23.499845504760743,
+                0.0
+            ],
+            "Scale": 0.9999969005584717,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_TireRepairKit",
+            "DisplayName": "bldr_prop_TireRepairKit",
+            "Position": [
+                4575.97998046875,
+                233.78399658203126,
+                4509.68017578125
+            ],
+            "Orientation": [
+                -69.10099792480469,
+                89.3967056274414,
+                -179.99996948242188
+            ],
+            "Scale": 0.9999940395355225,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_TireRepairKit",
+            "DisplayName": "bldr_prop_TireRepairKit",
+            "Position": [
+                4575.99462890625,
+                233.42897033691407,
+                4509.6865234375
+            ],
+            "Orientation": [
+                -104.12710571289063,
+                88.43814849853516,
+                90.0
+            ],
+            "Scale": 0.9999945759773254,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_TireRepairKit",
+            "DisplayName": "bldr_prop_TireRepairKit",
+            "Position": [
+                4575.8232421875,
+                233.42864990234376,
+                4509.48876953125
+            ],
+            "Orientation": [
+                -72.51109313964844,
+                88.46991729736328,
+                179.99989318847657
+            ],
+            "Scale": 0.9999969005584717,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_TireRepairKit",
+            "DisplayName": "bldr_prop_TireRepairKit",
+            "Position": [
+                4575.7265625,
+                233.78036499023438,
+                4509.494140625
+            ],
+            "Orientation": [
+                -16.345985412597658,
+                89.71605682373047,
+                179.99998474121095
+            ],
+            "Scale": 0.9999938011169434,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_TireRepairKit",
+            "DisplayName": "bldr_prop_TireRepairKit",
+            "Position": [
+                4575.72998046875,
+                233.79647827148438,
+                4509.41015625
+            ],
+            "Orientation": [
+                167.7439727783203,
+                68.3578872680664,
+                179.99996948242188
+            ],
+            "Scale": 0.9999902248382568,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_CarRadiator",
+            "DisplayName": "bldr_prop_CarRadiator",
+            "Position": [
+                4574.42333984375,
+                233.2179718017578,
+                4510.3427734375
+            ],
+            "Orientation": [
+                142.04498291015626,
+                10.9999418258667,
+                0.0
+            ],
+            "Scale": 0.9999974370002747,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "StaticObj_Wreck_Uaz_DE",
+            "DisplayName": "StaticObj_Wreck_Uaz_DE",
+            "Position": [
+                4590.83642578125,
+                234.0989532470703,
+                4504.14794921875
+            ],
+            "Orientation": [
+                53.999969482421878,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997615814209,
+            "Flags": 2147483647
+        }
+    ],
+    "EditorDeletedObjects": [
+        {
+            "Type": "",
+            "Position": [
+                4590.7626953125,
+                234.8907928466797,
+                4493.9169921875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                4582.7373046875,
+                233.62686157226563,
+                4496.65087890625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                4523.60107421875,
+                233.8841552734375,
+                4543.04296875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                4526.1591796875,
+                233.73045349121095,
+                4539.8779296875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                4531.689453125,
+                233.55332946777345,
+                4532.7958984375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                4537.23095703125,
+                233.514892578125,
+                4525.703125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_corylusAvellana_2s",
+            "Position": [
+                4538.88916015625,
+                235.26800537109376,
+                4523.9404296875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                4543.05126953125,
+                233.69705200195313,
+                4518.85400390625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_prunusSpinosa_1s",
+            "Position": [
+                4540.4111328125,
+                234.24659729003907,
+                4520.84521484375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_prunusSpinosa_2s",
+            "Position": [
+                4542.361328125,
+                234.9619903564453,
+                4518.89501953125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Land_Wall_Gate_Ind2A_L",
+            "Position": [
+                4549.19970703125,
+                233.72747802734376,
+                4512.06494140625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Land_Wall_Gate_Ind2A_R",
+            "Position": [
+                4549.21142578125,
+                233.7269287109375,
+                4512.0341796875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                4554.47216796875,
+                233.5482177734375,
+                4505.4619140625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                4551.92431640625,
+                233.54029846191407,
+                4508.6337890625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                4560.05712890625,
+                233.41607666015626,
+                4498.4013671875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                4565.666015625,
+                233.23040771484376,
+                4491.423828125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                4571.34619140625,
+                233.24090576171876,
+                4484.47216796875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                4577.875,
+                233.49977111816407,
+                4482.86865234375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                4584.34814453125,
+                234.16334533691407,
+                4487.5283203125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                4590.19189453125,
+                234.05496215820313,
+                4491.57421875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_prunusSpinosa_2s",
+            "Position": [
+                4587.11083984375,
+                236.0707550048828,
+                4487.962890625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                4585.3974609375,
+                234.16783142089845,
+                4488.71337890625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_prunusSpinosa_2s",
+            "Position": [
+                4529.0693359375,
+                235.1949005126953,
+                4554.73828125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_prunusSpinosa_2s",
+            "Position": [
+                4532.9931640625,
+                234.67701721191407,
+                4553.98974609375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_prunusSpinosa_2s",
+            "Position": [
+                4545.45654296875,
+                234.99996948242188,
+                4564.89599609375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_prunusSpinosa_1s",
+            "Position": [
+                4552.96044921875,
+                234.25912475585938,
+                4565.1591796875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_prunusSpinosa_1s",
+            "Position": [
+                4547.20458984375,
+                234.41705322265626,
+                4558.7236328125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_prunusSpinosa_1s",
+            "Position": [
+                4545.2412109375,
+                234.5506134033203,
+                4554.2861328125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_prunusSpinosa_2s",
+            "Position": [
+                4546.41455078125,
+                234.62623596191407,
+                4547.33447265625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_prunusSpinosa_2s",
+            "Position": [
+                4560.236328125,
+                235.1746063232422,
+                4500.15234375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_prunusSpinosa_1s",
+            "Position": [
+                4561.3193359375,
+                234.32533264160157,
+                4498.2021484375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_prunusSpinosa_2s",
+            "Position": [
+                4569.33642578125,
+                235.54139709472657,
+                4488.4521484375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_prunusSpinosa_2s",
+            "Position": [
+                4567.6875,
+                234.07421875,
+                4485.53759765625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_corylusAvellana_2s",
+            "Position": [
+                4568.6494140625,
+                234.63511657714845,
+                4489.79638671875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_prunusSpinosa_1s",
+            "Position": [
+                4580.3349609375,
+                234.565673828125,
+                4482.7333984375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_prunusSpinosa_1s",
+            "Position": [
+                4594.16650390625,
+                235.41122436523438,
+                4493.01416015625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Land_Garage_Small",
+            "Position": [
+                4525.70849609375,
+                234.49085998535157,
+                4547.140625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                4525.88232421875,
+                232.5476531982422,
+                4567.93408203125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Land_wreck_truck01_aban2_blue",
+            "Position": [
+                4524.421875,
+                232.79518127441407,
+                4561.50634765625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                4568.19775390625,
+                233.84678649902345,
+                4509.921875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                4566.62255859375,
+                233.83091735839845,
+                4511.8515625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_prunusSpinosa_2s",
+            "Position": [
+                4593.50732421875,
+                236.08984375,
+                4517.142578125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_prunusSpinosa_2s",
+            "Position": [
+                4585.86083984375,
+                235.03387451171876,
+                4530.54638671875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_corylusAvellana_2s",
+            "Position": [
+                4576.6796875,
+                235.95138549804688,
+                4545.67041015625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_b_prunusSpinosa_2s",
+            "Position": [
+                4572.9931640625,
+                234.9637908935547,
+                4550.56298828125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                4564.8896484375,
+                233.84278869628907,
+                4513.873046875
+            ],
+            "Flags": 0
+        }
+    ]
+}
