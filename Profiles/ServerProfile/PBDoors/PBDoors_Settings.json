@@ -1,8 +1,8 @@
 {
     "CanDestroyPBDoor": 1,
     "CanCutComboLock": 0,
-    "CanCraftDoorKits": 0,
-    "CanCraftBarricadesKits": 0,
+    "CanCraftDoorKits": 1,
+    "CanCraftBarricadesKits": 1,
     "RaidToolsT1eT2": [
         "FOG_SOCOM_Slammer_Black",
         "FirefighterAxe"

@@ -29,9 +29,6 @@ modded class MissionServer
 
 		// Start between 1 second and 1 hour
 		GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).CallLater( InitArty, Math.RandomIntInclusive(1000, 360000), false );
-
-		// 60 secs
-		GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).CallLater( OnCheckOnlinePlayers, 60000, true );
 	}
 
 	void InitArty()
@@ -84,7 +81,10 @@ modded class MissionServer
 			m_SteamIDs.Insert(identity.GetPlainId());
 
 			WriteFile( "$profile:CW95\\Data\\online.txt", m_SteamIDs );
-		}			
+
+			// 60 secs
+			GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).CallLater( CheckPlayerDiscordStatus, 60000, false, identity);
+		}
 
 		super.InvokeOnConnect(player, identity);
 	}
@@ -103,15 +103,69 @@ modded class MissionServer
 		super.PlayerDisconnected(player, identity, uid);
 	}
 
-	void OnCheckOnlinePlayers()
-	{		
+	void CheckPlayerDiscordStatus(PlayerIdentity identity)
+	{
 #ifndef DIAG
 		array<string> discordUsers = new array<string>;
-		array<string> steamids = new array<string>;
-		array<string> username = new array<string>;
 		if ( !ReadFile( "$profile:CW95\\Data\\discord_online.txt", discordUsers ) )
 			return;
 
+		array<string> steamids = new array<string>;
+		array<string> username = new array<string>;
+		foreach(string discordUser: discordUsers)
+		{
+			array<string> tokens = new array<string>;
+			discordUser.Split( "|", tokens );
+
+			steamids.Insert(tokens.Get( 0 ));
+			username.Insert(tokens.Get( 1 ));
+		}
+
+		int userStatus = 1;
+		string playerSteamId = identity.GetPlainId();
+		for (int i=0; i < steamids.Count(); i++)
+		{
+			if (steamids[i] == playerSteamId)
+			{
+				if ( username[i] == "ADMIN" || username[i] == identity.GetName() )
+				{
+					userStatus = 0;
+				} else {
+					userStatus = 2;
+				}
+				break;
+			}
+		}
+
+		if ( userStatus != 0 )
+		{
+			string msg;
+			switch(userStatus)
+			{
+				case 1:
+					msg = "Veuillez vous connecter sur discord (canal vocal)";
+					Print("[CivilWar95]:: AUTO-KICK:: Player "+ identity.GetName() + " (steamid:" + playerSteamId+") is not on discord");
+				break;
+				case 2:
+					msg = "Vous avez un nom de survivant ("+ identity.GetName() + ") différent de votre nom discord ("+ username[i] +")";
+					Print("[CivilWar95]:: AUTO-KICK:: Player "+ identity.GetName() + " (steamid:" + playerSteamId+") has a different name on discord ("+ username[i] +")");
+				break;
+			}
+
+			ExpansionNotification("CivilWar95 BOT", msg, EXPANSION_NOTIFICATION_ICON_T_Walkie_Talkie, COLOR_EXPANSION_NOTIFICATION_ERROR, 8).Info(identity);
+		}
+#endif
+	}
+
+	void OnCheckOnlinePlayers()
+	{
+#ifndef DIAG
+		array<string> discordUsers = new array<string>;
+		if ( !ReadFile( "$profile:CW95\\Data\\discord_online.txt", discordUsers ) )
+			return;
+
+		array<string> steamids = new array<string>;
+		array<string> username = new array<string>;
 		foreach(string discordUser: discordUsers)
 		{
 			array<string> tokens = new array<string>;
