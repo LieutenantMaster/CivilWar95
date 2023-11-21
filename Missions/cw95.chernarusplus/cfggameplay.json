@@ -13,7 +13,7 @@
         {
 			"sprintStaminaModifierErc": 1.0,
 			"sprintStaminaModifierCro": 1.0,
-			"staminaWeightLimitThreshold": 6000.0,
+			"staminaWeightLimitThreshold": 8000.0,
 			"staminaMax": 100.0,
 			"staminaKgToStaminaPercentPenalty": 1.75,
 			"staminaMinCap": 5.0,
@@ -25,8 +25,8 @@
 		},
 		"ShockHandlingData":
 		{
-			"shockRefillSpeedConscious": 5.0,
-			"shockRefillSpeedUnconscious": 1.0,
+			"shockRefillSpeedConscious": 4.0,
+			"shockRefillSpeedUnconscious": 0.5,
 			"allowRefillSpeedModifier": true
 		},
 		"MovementData":
@@ -47,12 +47,12 @@
 	},
 	"WorldsData":
 	{
-		"lightingConfig": 2,
+		"lightingConfig": 1,
 		"objectSpawnersArr": [],
 		"environmentMinTemps": [-5, -1, 0, 1, 5, 7, 10, 12, 12, 8, 3, -3],
 		"environmentMaxTemps": [5, 8, 10, 10, 11, 13, 15, 16, 13, 11, 9, 7],
 		"wetnessWeightModifiers": [1.0, 1.0, 1.33, 1.66, 2.0]
-	},	
+	},
 	"BaseBuildingData":
 	{
 		"HologramData":

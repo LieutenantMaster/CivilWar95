@@ -1,0 +1,54 @@
+{
+    "ConfigVersion": 3,
+    "m_ID": 1,
+    "m_DisplayName": "Sebjan Reservoir",
+    "m_ObjectPosition": [
+        6030.1015625,
+        5.685051918029785,
+        10047.8740234375
+    ],
+    "m_ObjectOrientation": [
+        77.31739044189453,
+        0.0,
+        0.0
+    ],
+    "m_TeleportPositions": [
+        {
+            "m_DisplayName": "Jalovisco Camp",
+            "m_Positions": [
+                {
+                    "m_Position": [
+                        6023.75537109375,
+                        5.852886199951172,
+                        10041.51953125
+                    ],
+                    "m_Orientation": [
+                        -81.17243194580078,
+                        0.0,
+                        0.0
+                    ]
+                },
+                {
+                    "m_Position": [
+                        6021.498046875,
+                        5.871239185333252,
+                        10050.4990234375
+                    ],
+                    "m_Orientation": [
+                        -81.17243194580078,
+                        0.0,
+                        0.0
+                    ]
+                }
+            ],
+            "m_Faction": "Resistance",
+            "m_QuestID": -1,
+            "m_Reputation": 0
+        }
+    ],
+    "m_Faction": "Resistance",
+    "m_Reputation": 0,
+    "m_QuestID": -1,
+    "m_IsExit": 0,
+    "m_IsActive": 0
+}
