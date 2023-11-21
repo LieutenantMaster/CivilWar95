@@ -1,9 +1,9 @@
 {
     "ConfigVersion": 3,
-    "m_ID": 1,
-    "m_DisplayName": "ENTRE SORTIE 2",
+    "m_ID": 5,
+    "m_DisplayName": "SORTIE 2",
     "m_ObjectPosition": [
-        5786.35, 81.9454, 2764.72
+        7802.45, 1982.96, 111.781
     ],
     "m_ObjectOrientation": [
         0.0,
@@ -12,11 +12,11 @@
     ],
     "m_TeleportPositions": [
         {
-            "m_DisplayName": "ENTRE SORTIE 2",
+            "m_DisplayName": "SORTIE 2",
             "m_Positions": [
                 {
                     "m_Position": [
-                        7814.32, 1963.01, 25.5256
+                        6709.32, 6.55414, 2740.29
                     ],
                     "m_Orientation": [
                         0.0,

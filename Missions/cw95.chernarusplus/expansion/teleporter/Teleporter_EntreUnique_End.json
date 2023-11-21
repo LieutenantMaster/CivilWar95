@@ -1,9 +1,9 @@
 {
     "ConfigVersion": 3,
-    "m_ID": 1,
-    "m_DisplayName": "SORTIE 2",
+    "m_ID": 2,
+    "m_DisplayName": "ENTRE UNIQUE",
     "m_ObjectPosition": [
-        7802.45, 1982.96, 111.781
+        7796.08, 2003.02, 169.512
     ],
     "m_ObjectOrientation": [
         0.0,
@@ -12,11 +12,11 @@
     ],
     "m_TeleportPositions": [
         {
-            "m_DisplayName": "SORTIE 2",
+            "m_DisplayName": "ENTRE UNIQUE",
             "m_Positions": [
                 {
                     "m_Position": [
-                        6709.32, 6.55414, 2740.29
+                        5682.49, 89.9086, 2938.94
                     ],
                     "m_Orientation": [
                         0.0,
