@@ -24,7 +24,7 @@ class CW95_TraderMachineACoudre: ExpansionTraderStaticBase
         switch(uid)
         {
             case "diq2SOAMNu6AHBClAK5UKWeGBpcO_FAWeXPELaY6avs=":
-            case "pZmEb-J3KuvGDsxzUWTlJVL7Ntg2T5LFezpKN33q8E=":
+            case "-pZmEb-J3KuvGDsxzUWTlJVL7Ntg2T5LFezpKN33q8E=":
                 return true;
             break;
         }
