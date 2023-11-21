@@ -1,0 +1,38 @@
+{
+    "ConfigVersion": 3,
+    "m_ID": 1,
+    "m_DisplayName": "ENTRE SORTIE",
+    "m_ObjectPosition": [
+        7814.32, 1963.01, 25.5256
+    ],
+    "m_ObjectOrientation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "m_TeleportPositions": [
+        {
+            "m_DisplayName": "ENTRE SORTIE",
+            "m_Positions": [
+                {
+                    "m_Position": [
+                        5786.58, 82.3936, 2764.47
+                    ],
+                    "m_Orientation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                }
+            ],
+            "m_Faction": "",
+            "m_QuestID": -1,
+            "m_Reputation": 0
+        }
+    ],
+    "m_Faction": "",
+    "m_Reputation": 0,
+    "m_QuestID": -1,
+    "m_IsExit": 0,
+    "m_IsActive": 1
+}
