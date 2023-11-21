@@ -254,6 +254,17 @@
             "Variants": []
         },
         {
+            "ClassName": "DP_CocaSeedsPack",
+            "MaxPriceThreshold": 1250,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "PsilocybeMushroom",
             "MaxPriceThreshold": 150,
             "MinPriceThreshold": 100,
