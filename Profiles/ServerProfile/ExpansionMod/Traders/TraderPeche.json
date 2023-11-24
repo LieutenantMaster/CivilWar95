@@ -1,0 +1,22 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Peau",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Animal Skull",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [],
+    "Items": {
+        "msp_coolerbox": 0,
+        "msp_tacklebox": 0,
+        "fishnettrap": 0,
+        "Msp_FishingRodsRack_Kit": 0,
+        "fishingrod": 0,
+        "hook": 0,
+        "worm": 0
+        }
+}
