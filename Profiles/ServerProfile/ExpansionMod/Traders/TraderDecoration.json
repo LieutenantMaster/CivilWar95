@@ -1,0 +1,34 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Décoration",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Lantern",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [],
+    "Items": {
+        "Msp_RoomDivider_Kit": 0,
+        "Msp_Gazebo_Kit": 0,
+        "MD_PostBox_Kit": 0,
+        "MD_Bed_Double_Kit": 0,
+        "MD_Bed_Folding_Kit": 0,
+        "MD_Bed_Wood_Kit": 0,
+        "MD_OfficeDesk_Kit": 0,
+        "MD_CampTable_Small_Kit": 0,
+        "MD_CampTable_Long_Kit": 0,
+        "MD_WoodTable_Indoor_Kit": 0,
+        "MD_MarketTable_Kit": 0,
+        "MD_RedChair_Kit": 0,
+        "MD_LabDesk_Kit": 0,
+        "MD_SlumShelter_DarkBlue_Kit": 0,
+        "MD_SlumShelter_LargeMetal_Kit":0,
+        "MD_LeatherSofaOld_Kit": 0,
+        "MD_WhiteCouch_Kit": 0,
+        "MD_EvergreenFlowerPot": 0,
+        "Msp_HousePlant_Succulent": 0
+    }
+}
