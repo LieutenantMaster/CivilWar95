@@ -3077,22 +3077,6 @@
         <usage user="Military"/>
         <value user="Tier1234"/>
     </type>
-    <type name="AMS_Bandage">
-        <nominal>10</nominal>
-        <lifetime>14400</lifetime>
-        <restock>14400</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
-        <usage user="Medic"/>
-        <usage user="Police"/>
-        <usage user="Military"/>
-        <value user="Tier1234"/>
-    </type>
     <type name="Bandana_Blackpattern">
         <nominal>6</nominal>
         <lifetime>14400</lifetime>

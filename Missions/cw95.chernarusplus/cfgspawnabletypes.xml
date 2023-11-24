@@ -214,9 +214,6 @@
 	</type>
 	<type name="FirstAidKit">
 		<tag name="shelves" />
-		<cargo chance="1">
-			<item name="AMS_Bandage" />
-		</cargo>
 		<cargo chance="0.8">
 			<item name="Thermometer" />
 		</cargo>
