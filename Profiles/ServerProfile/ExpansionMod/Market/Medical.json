@@ -7,6 +7,17 @@
     "InitStockPercent": 75.0,
     "Items": [
         {
+            "ClassName": "bandagedressing",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "charcoaltablets",
             "MaxPriceThreshold": 350,
             "MinPriceThreshold": 350,
