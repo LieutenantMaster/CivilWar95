@@ -312,4 +312,9 @@
     <event name="AnimalRoeDeer" />
     <event name="AnimalWolf" />
     <event name="AnimalWildBoar" />
+	<event name="StaticFreezeMining">
+		<pos x="8782.58" z="2909.67"/>
+	</event>
 </eventposdef>
+
+<!--<pos x="" y="" z="" a=""/>-->

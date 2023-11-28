@@ -1,7 +1,7 @@
 {
     "MRFRMINE": [
         {
-            "actionText": "Mine for Copper Ore",
+            "actionText": "Miner",
             "max_mine": -1,
             "enabledTypes": [
                 "FreezeNode_copper"
@@ -18,7 +18,7 @@
             ]
         },
         {
-            "actionText": "Mine for Sulphur Ore",
+            "actionText": "Miner",
             "max_mine": -1,
             "enabledTypes": [
                 "FreezeNode_sulphur"
@@ -35,7 +35,7 @@
             ]
         },
         {
-            "actionText": "Mine for Gold Ore",
+            "actionText": "Miner",
             "max_mine": -1,
             "enabledTypes": [
                 "FreezeNode_gold"
@@ -52,7 +52,7 @@
             ]
         },
         {
-            "actionText": "Mine for Silver Ore",
+            "actionText": "Miner",
             "max_mine": -1,
             "enabledTypes": [
                 "FreezeNode_silver"
@@ -69,7 +69,7 @@
             ]
         },
         {
-            "actionText": "Mine for Tin Ore",
+            "actionText": "Miner",
             "max_mine": -1,
             "enabledTypes": [
                 "FreezeNode_tin"
@@ -86,7 +86,7 @@
             ]
         },
         {
-            "actionText": "Mine for Stone",
+            "actionText": "Miner",
             "max_mine": -1,
             "enabledTypes": [
                 "FreezeNode_stone"
@@ -155,7 +155,7 @@
             ]
         },
         {
-            "actionText": "Mine for Uranium Ore",
+            "actionText": "Miner",
             "max_mine": -1,
             "enabledTypes": [
                 "FreezeNode_uranium"
@@ -172,7 +172,7 @@
             ]
         },
         {
-            "actionText": "Mine for Raw Amber Gem",
+            "actionText": "Miner",
             "max_mine": -1,
             "enabledTypes": [
                 "FreezeNode_AmberGemNode"
@@ -189,7 +189,7 @@
             ]
         },
         {
-            "actionText": "Mine for Raw Amethyst Gem",
+            "actionText": "Miner",
             "max_mine": -1,
             "enabledTypes": [
                 "FreezeNode_AmethystGemNode"
@@ -206,7 +206,7 @@
             ]
         },
         {
-            "actionText": "Mine for Raw Aquamarine Gem",
+            "actionText": "Miner",
             "max_mine": -1,
             "enabledTypes": [
                 "FreezeNode_AquamarineGemNode"
@@ -223,7 +223,7 @@
             ]
         },
         {
-            "actionText": "Mine for Raw Fancy Colour Diamond Gem",
+            "actionText": "Miner",
             "max_mine": -1,
             "enabledTypes": [
                 "FreezeNode_FancyColourDiamondGemNode"
@@ -240,7 +240,7 @@
             ]
         },
         {
-            "actionText": "Mine for Raw Iolite Gem",
+            "actionText": "Miner",
             "max_mine": -1,
             "enabledTypes": [
                 "FreezeNode_IoliteGemNode"
@@ -257,7 +257,7 @@
             ]
         },
         {
-            "actionText": "Mine for Raw Jade Gem",
+            "actionText": "Miner",
             "max_mine": -1,
             "enabledTypes": [
                 "FreezeNode_JadeGemNode"
@@ -274,7 +274,7 @@
             ]
         },
         {
-            "actionText": "Mine for Raw Ruby Gem",
+            "actionText": "Miner",
             "max_mine": -1,
             "enabledTypes": [
                 "FreezeNode_RubyGemNode"
@@ -291,7 +291,7 @@
             ]
         },
         {
-            "actionText": "Mine for Raw Turquoise Gem",
+            "actionText": "Miner",
             "max_mine": -1,
             "enabledTypes": [
                 "FreezeNode_TurquoiseGemNode"
@@ -308,7 +308,7 @@
             ]
         },
         {
-            "actionText": "Mine for Iron Ore",
+            "actionText": "Miner",
             "max_mine": -1,
             "enabledTypes": [
                 "FreezeNode_iron"
@@ -325,5 +325,22 @@
             ]
         }
     ],
-    "minedItemsProbabilities": {}
+    "Miner": {
+        "Stone": 80,
+        "SmallStone": 20, 
+        "Freezestone_iron": 15,
+        "Freezestone_tin": 15,
+        "Freezestone_silver": 5,
+        "Freezestone_gold": 5,
+        "Freezestone_copper": 17,
+        "Freezestone_uranium": 5,
+        "FreezeGem_Amber": 7,
+        "FreezeGem_Amethyst": 5,
+        "FreezeGem_Aquamrine": 5,
+        "FreezeGem_FancyColourDiamond": 5,
+        "FreezeGem_Iolite": 5,
+        "FreezeGem_Jade": 6,
+        "FreezeGem_Ruby": 5,
+        "FreezeGem_Turquoise": 5
+    }
 }
