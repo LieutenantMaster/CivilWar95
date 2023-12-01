@@ -7,7 +7,7 @@ class SharedSettings
 	
 	void SharedSettings()
 	{
-		ref array<ref CW95ConflictZone> ConflictZones = new ref array< ref CW95ConflictZone >;
+		ConflictZones = new ref array< ref CW95ConflictZone >;
 	}
 
 	static ref SharedSettings Load()
@@ -55,7 +55,7 @@ class SharedSettings
 // Define a view restriction zone
 class CW95ConflictZone
 {
-	string Name = "";
+	string Name = string.Empty;
 	int X;
 	int Z;
 	int Radius;

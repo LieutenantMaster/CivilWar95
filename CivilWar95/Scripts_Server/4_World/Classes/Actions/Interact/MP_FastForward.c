@@ -18,6 +18,6 @@ modded class MP_FastForwardAction
 			ntarget.SetFastForwarding(true);
         
         Inventory_Base m_Cassette = ItemBase.Cast(ntarget.FindAttachmentBySlotName("CW95_Cassette"));
-		m_Cassette.DecreaseHealth("", "", -0.1);
+		m_Cassette.DecreaseHealth(string.Empty, string.Empty, -0.1);
     }
 };

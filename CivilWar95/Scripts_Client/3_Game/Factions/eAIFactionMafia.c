@@ -18,7 +18,7 @@ class eAIFactionMafia: eAIFaction
 		m_Loadout = "MafiaLoadout";
 	}
 
-	override bool IsFriendly(notnull eAIFaction other)
+	override bool IsFriendlyFaction(notnull eAIFaction other)
 	{
 		if (other.IsInherited(eAIFactionMafia)) return true;
 		if (other.IsInherited(eAIFactionMedecin)) return true;

@@ -12,7 +12,7 @@
 #ifdef DIAG
 modded class CF_Log
 {
-	override static void Trace(string message, string param1 = "", string param2 = "", string param3 = "", string param4 = "", string param5 = "", string param6 = "", string param7 = "", string param8 = "", string param9 = "") {}
-	override static void Debug(string message, string param1 = "", string param2 = "", string param3 = "", string param4 = "", string param5 = "", string param6 = "", string param7 = "", string param8 = "", string param9 = "") {}
+	override static void Trace(string message, string param1 = string.Empty, string param2 = string.Empty, string param3 = string.Empty, string param4 = string.Empty, string param5 = string.Empty, string param6 = string.Empty, string param7 = string.Empty, string param8 = string.Empty, string param9 = string.Empty) {}
+	override static void Debug(string message, string param1 = string.Empty, string param2 = string.Empty, string param3 = string.Empty, string param4 = string.Empty, string param5 = string.Empty, string param6 = string.Empty, string param7 = string.Empty, string param8 = string.Empty, string param9 = string.Empty) {}
 };
 #endif

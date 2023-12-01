@@ -30,7 +30,7 @@ modded class ExpansionMarketMenuItem
 		else
 		{
 			m_BuyPrice = -1;
-			m_ItemController.ItemBuyPrice = "";
+			m_ItemController.ItemBuyPrice = string.Empty;
 		}
 
 		market_item_info_buy_price_icon.Show(m_BuyPrice > -1);
@@ -69,7 +69,7 @@ modded class ExpansionMarketMenuItem
 		else
 		{
 			m_SellPrice = -1;
-			m_ItemController.ItemSellPrice = "";
+			m_ItemController.ItemSellPrice = string.Empty;
 		}
 
 		m_ItemController.NotifyPropertiesChanged({"ItemSellPrice", "ItemBuyPrice"});

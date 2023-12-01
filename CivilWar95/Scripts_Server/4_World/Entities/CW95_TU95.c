@@ -55,7 +55,7 @@ modded class CW95_TU95
             bomba.SetOrientation( ori );
         }
 		bomba.Update();
-		bomba.SetHealth("", "", 0.0);
+		bomba.SetHealth(string.Empty, string.Empty, 0.0);
 		GetGame().GetCallQueue(CALL_CATEGORY_SYSTEM).CallLater(BombHit, 150, false, bomba);
 
 		int rndinterval = Math.RandomInt(200,1000);
@@ -75,7 +75,7 @@ modded class CW95_TU95
 	void BombHit(Object bomb)
 	{
 		if (bomb)
-			bomb.SetHealth("", "", 0.0);
+			bomb.SetHealth(string.Empty, string.Empty, 0.0);
 	}
 
 	override void OnEventIncoming(float distance)

@@ -104,8 +104,8 @@ modded class CarScript
 				float shock = Math.Lerp( 50, 150, shockTemp );
 				float hp = Math.Lerp( 1, 20, shockTemp );
 				
-				player.AddHealth("", "Shock", -shock );
-				player.AddHealth("", "Health", -hp );
+				player.AddHealth(string.Empty, "Shock", -shock );
+				player.AddHealth(string.Empty, "Health", -hp );
 			}
 		}
 	}
@@ -158,7 +158,7 @@ modded class CarScript
 		if (!dmgZone || dmgZone == "GlobalHealth")
 			isGlobal = true;
 
-		float dmg = damageResult.GetDamage(dmgZone, "");
+		float dmg = damageResult.GetDamage(dmgZone, string.Empty);
 
 		//! Apply additional dmg if ammo type is grenade or rocket
 		//! One direct hit with a rocket blows up a MH6, two direct hits blow up a Merlin
@@ -172,7 +172,7 @@ modded class CarScript
 			break;
 			default:
 				//! Explode if base dmg exceeded heli max health, or 1 in 50 chance if it exceeded current heli health
-				if (isGlobal && (dmg > GetMaxHealth(dmgZone, "") || (Math.RandomInt(0, 50) < 1 && IsDamageDestroyed())))
+				if (isGlobal && (dmg > GetMaxHealth(dmgZone, string.Empty) || (Math.RandomInt(0, 50) < 1 && IsDamageDestroyed())))
 					explode = true;
 			break;
 		}
@@ -180,21 +180,21 @@ modded class CarScript
 		if (additionalDmg)
 		{
 			//! Explode if additional dmg exceeds current health
-			if (isGlobal && additionalDmg > GetHealth(dmgZone, ""))
+			if (isGlobal && additionalDmg > GetHealth(dmgZone, string.Empty))
 				explode = true;
 
-			DecreaseHealth(dmgZone, "", additionalDmg);
+			DecreaseHealth(dmgZone, string.Empty, additionalDmg);
 		}
 
 		if (isGlobal)
 		{
 			//! Always damage engine proportionally when taking global damage
-			float engineMaxHealth = GetMaxHealth("Engine", "");
-			float engineHealth = GetHealth("Engine", "");
-			float engineHealthNew = engineMaxHealth * GetHealth01(dmgZone, "");
+			float engineMaxHealth = GetMaxHealth("Engine", string.Empty);
+			float engineHealth = GetHealth("Engine", string.Empty);
+			float engineHealthNew = engineMaxHealth * GetHealth01(dmgZone, string.Empty);
 			if (engineHealthNew < engineHealth)
 			{
-				SetHealth("Engine", "", engineHealthNew);
+				SetHealth("Engine", string.Empty, engineHealthNew);
 			}
 		}
 	}

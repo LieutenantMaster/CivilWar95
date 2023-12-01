@@ -48,7 +48,7 @@ modded class LoadingScreen
 		m_ExHintIcon.LoadImageFile(0, m_ExCustomLoadingScreenData.HintIconPath);
 
 		//! Remove vanilla mask texture
-		m_ImageWidgetBackground.LoadMaskTexture("");
+		m_ImageWidgetBackground.LoadMaskTexture(string.Empty);
 
 		//! Replace and set logo
 		if (m_ExCustomLoadingScreenData.LogoPath != string.Empty)
@@ -70,7 +70,6 @@ modded class LoadingScreen
 
 		if (m_ImageLogoMid)
 			m_ImageLogoMid.LoadImageFile(0, m_ExCustomLoadingScreenData.LogoPath);
-
 
 		if (m_ExCustomLoadingScreenData.LoadingBarColor != 0)
 		{

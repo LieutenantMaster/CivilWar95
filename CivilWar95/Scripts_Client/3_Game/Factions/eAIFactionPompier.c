@@ -18,7 +18,7 @@ class eAIFactionPompier: eAIFaction
 		m_Loadout = "PompierLoadout";
 	}
 
-	override bool IsFriendly(notnull eAIFaction other)
+	override bool IsFriendlyFaction(notnull eAIFaction other)
 	{
 		return true;
 	}

@@ -73,6 +73,6 @@ modded class RecipeBase
 				break;
 		}
 
-		InsertIngredientEx(index, ingredient, "");
+		InsertIngredientEx(index, ingredient, string.Empty);
 	};
 }

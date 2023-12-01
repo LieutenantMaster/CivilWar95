@@ -43,7 +43,7 @@ class FrontLineEventBase
 
     static string GetItemToSpawn()
     {
-        return "";
+        return string.Empty;
     }
 
     bool ShouldDelete()

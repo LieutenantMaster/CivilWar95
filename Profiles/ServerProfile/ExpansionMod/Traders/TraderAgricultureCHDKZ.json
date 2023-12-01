@@ -1,0 +1,24 @@
+{
+    "m_Version": 11,
+    "DisplayName": "Igor пьяница",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Pumpkin",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [],
+    "Items": {
+        "farminghoe": 0,
+        "gardenlime": 0,
+        "tomatoseedspack": 0,
+        "pumpkinseedspack": 0,
+        "tomato": 2,
+        "pumpkin": 2,
+        "strawhat_mung": 0,
+        "pitchfork": 0,
+        "MD_Scarecrow": 0
+    }
+}

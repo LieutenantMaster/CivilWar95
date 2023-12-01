@@ -79,5 +79,8 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="book_types.xml" type="types" />
 		<file name="ams_types.xml" type="types" />
 		<file name="ammomaking_types.xml" type="types" />
+		<file name="mining_types.xml" type="types" />
+
+		<!--<file name="mining_events.xml" type="events" />-->
 	</ce>
 </economycore>

@@ -18,7 +18,7 @@ class eAIFactionCivil: eAIFaction
 		m_Loadout = "CivilLoadout";
 	}
 
-	override bool IsFriendly(notnull eAIFaction other)
+	override bool IsFriendlyFaction(notnull eAIFaction other)
 	{
 		if (other.IsInherited(eAIFactionMedecin)) return true;
 		if (other.IsInherited(eAIFactionPompier)) return true;

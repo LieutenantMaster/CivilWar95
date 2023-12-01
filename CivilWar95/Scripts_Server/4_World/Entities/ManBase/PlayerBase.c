@@ -134,7 +134,7 @@ modded class PlayerBase
 	
 	override EStatLevels GetStatLevelHealth()
 	{
-		float health = GetHealth("","");
+		float health = GetHealth(string.Empty,string.Empty);
 		return GetStatLevel(health, 20, 40, 70, 85);
 	}
 
@@ -180,7 +180,7 @@ modded class PlayerBase
 				factionName = GetGroup().GetFaction().GetName();
 		}
 
-		if ( factionName == "" || factionName == "Civilian" )
+		if ( factionName == string.Empty || factionName == "Civilian" )
 			factionName = "Civil";
 
 		if ( height == -1 )

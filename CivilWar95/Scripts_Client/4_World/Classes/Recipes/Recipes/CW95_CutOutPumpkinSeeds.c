@@ -123,7 +123,7 @@ class CW95_CutOutPumpkinSeeds: CutOutSeeds
 		ItemBase slice1 = results[1];	
 		ItemBase slice2 = results[2];
 		
-		float quantityMultiplier = pumpkin.GetHealth01("",""); 
+		float quantityMultiplier = pumpkin.GetHealth01(string.Empty,string.Empty); 
 		float quantityNorm = pumpkin.GetQuantity()/pumpkin.GetQuantityMax();
 		
 		quantityMultiplier *= quantityNorm;

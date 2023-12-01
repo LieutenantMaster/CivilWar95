@@ -25,7 +25,7 @@ modded class ItemBase
 	{
 		//! TODO: Add in config.cpp a entry about item replacement to then scan here and return
 		GetGame().ConfigGetText("cfgVehicles" + " " + GetType() + " "+ "EmptyReplaceWith", typeName);
-		return typeName != "";
+		return typeName != string.Empty;
 	}
 
 	bool ReplaceWithEmpty()
@@ -95,12 +95,12 @@ modded class ItemBase
 			{
 				if (GetGame().ConfigIsExisting(path +" "+ soundSets[j] +" soundSet"))
 				{
-					string soundName = "";
+					string soundName = string.Empty;
 					GetGame().ConfigGetText(path +" "+ soundSets[j] +" soundSet", soundName);
 
 					string debug_path = path +" "+ soundSets[j] +" soundSet";
 
-					if ( soundName != "" )
+					if ( soundName != string.Empty )
 						sounds.Insert(soundName);
 				}
 			}

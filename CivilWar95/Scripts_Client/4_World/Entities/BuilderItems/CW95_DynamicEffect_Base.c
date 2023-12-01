@@ -200,7 +200,7 @@ class CW95_DynamicFire_Base: CW95_DynamicEffect_Base
 	
 	protected string GetFireSoundId()
 	{
-		return "";
+		return string.Empty;
 	}
 };
 

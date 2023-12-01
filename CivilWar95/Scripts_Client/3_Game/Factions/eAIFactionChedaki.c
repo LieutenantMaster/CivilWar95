@@ -18,7 +18,7 @@ class eAIFactionChedaki: eAIFaction
 		m_Loadout = "ChedakiLoadout";
 	}
 
-	override bool IsFriendly(notnull eAIFaction other)
+	override bool IsFriendlyFaction(notnull eAIFaction other)
 	{
 		if (other.IsInherited(eAIFactionChedaki)) return true;
 		if (other.IsInherited(eAIFactionMedecin)) return true;

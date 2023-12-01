@@ -35,7 +35,7 @@ class CW95_ArtilleryBomb: Grenade_Base
 		#endif
 	}
 
-	override void Explode(int damageType, string ammoType = "")
+	override void Explode(int damageType, string ammoType = string.Empty)
 	{
 		super.Explode(damageType, ammoType);
 
@@ -82,7 +82,7 @@ class CW95_ArtilleryBomb: Grenade_Base
 				PlayerBase player = PlayerBase.Cast(entity);
 				if (player)
 				{
-					player.AddHealth("", "Shock", -damageToApply * 3 );
+					player.AddHealth(string.Empty, "Shock", -damageToApply * 3 );
 				} else {
 
 					CarScript car = CarScript.Cast(objectsNearBomb[x]);

@@ -14,7 +14,7 @@ class CW95_ArtilleryBombChem: Grenade_ChemGas
 		#endif
 	}
 
-	override void Explode(int damageType, string ammoType = "")
+	override void Explode(int damageType, string ammoType = string.Empty)
 	{
 		super.Explode(damageType, ammoType);
 		

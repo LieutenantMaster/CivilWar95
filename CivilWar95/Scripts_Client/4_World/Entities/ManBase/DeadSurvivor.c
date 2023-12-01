@@ -7,6 +7,6 @@ class DeadSurvivor: PlayerBase
 
     string GetDeadLoadoutType()
     {
-        return "";
+        return string.Empty;
     }
 };

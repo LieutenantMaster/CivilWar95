@@ -263,7 +263,7 @@ modded class CW95_MusicPlayer
 			ItemBase attachment = ItemBase.Cast(GetInventory().GetAttachmentFromIndex(attachmentIdx));
 			if (attachment)
 			{
-				attachment.SetHealth("", "", 0.0);
+				attachment.SetHealth(string.Empty, string.Empty, 0.0);
 			}
 		}
 	}

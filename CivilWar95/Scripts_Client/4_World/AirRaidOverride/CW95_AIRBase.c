@@ -14,7 +14,12 @@ class CW95_AIRBase: ItemBase
 	protected EffectSound m_SoundLoop1;
 	protected EffectSound m_SoundLoop2;
 	protected EffectSound m_SoundLoop3;
-	protected ref TStringArray m_NameSoundSets = new TStringArray;
+	protected ref TStringArray m_NameSoundSets;
+	
+	protected Particle m_Particle1;
+	protected Particle m_Particle2;
+	protected Particle m_Particle3;
+	protected ref TIntArray m_NameParticles;
 
 	void CW95_AIRBase()
 	{
@@ -22,6 +27,7 @@ class CW95_AIRBase: ItemBase
 		SetLifetime( 7200 );
 
 		m_NameSoundSets = new TStringArray;
+		m_NameParticles = new TIntArray;
 		
 		#ifndef SERVER
 			GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).Call( PlayLoop );
@@ -30,14 +36,24 @@ class CW95_AIRBase: ItemBase
 	
 	void PlayLoop()
 	{
-		if ( m_NameSoundSets[0] != "" )
+		if ( m_NameSoundSets[0] != string.Empty )
 			PlaySoundSetLoop( m_SoundLoop1, m_NameSoundSets[0], 1.0, 1.0 );
 
-		if ( m_NameSoundSets[1] != "" )
+		if ( m_NameSoundSets[1] != string.Empty )
 			PlaySoundSetLoop( m_SoundLoop2, m_NameSoundSets[1], 1.0, 1.0 );
 
-		if ( m_NameSoundSets[2] != "" )
+		if ( m_NameSoundSets[2] != string.Empty )
 			PlaySoundSetLoop( m_SoundLoop3, m_NameSoundSets[2], 1.0, 1.0 );
+		
+		//! TODO: allow pos offset in the futur
+		if ( m_NameParticles[0] )
+			m_Particle1 = Particle.PlayOnObject(m_NameParticles[0], this);
+
+		if ( m_NameParticles[1] )
+			m_Particle2 = Particle.PlayOnObject(m_NameParticles[1], this);
+
+		if ( m_NameParticles[2] )
+			m_Particle3 = Particle.PlayOnObject(m_NameParticles[2], this);
 	}
 
 	override void EEDelete(EntityAI parent)
@@ -46,7 +62,6 @@ class CW95_AIRBase: ItemBase
 		
 		if ( GetGame() )
 		{
-			//! TODO: add support for lights and smokes here so we can have damaged planes for example
 			if ( m_SoundLoop1 )
 				StopSoundSet( m_SoundLoop1 );
 
@@ -55,6 +70,24 @@ class CW95_AIRBase: ItemBase
 
 			if ( m_SoundLoop3 )
 				StopSoundSet( m_SoundLoop3 );
+			
+			if ( m_Particle1 )
+			{
+				m_Particle1.Stop();
+				GetGame().ObjectDelete(m_Particle1);
+			}
+			
+			if ( m_Particle2 )
+			{
+				m_Particle2.Stop();
+				GetGame().ObjectDelete(m_Particle2);
+			}
+			
+			if ( m_Particle3 )
+			{
+				m_Particle3.Stop();
+				GetGame().ObjectDelete(m_Particle3);
+			}
 		}
 	}
 };

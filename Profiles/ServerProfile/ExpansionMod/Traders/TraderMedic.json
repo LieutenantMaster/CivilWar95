@@ -1,6 +1,6 @@
 {
     "m_Version": 11,
-    "DisplayName": "Infirmière",
+    "DisplayName": "Infirmierie",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
@@ -11,31 +11,9 @@
     ],
     "Categories": [],
     "Items": {
-        "disinfectantalcohol": 1,
-        "AMS_Bandage": 1,
-        "charcoaltablets": 1,
-        "purificationtablets": 1,
-        "vitaminbottle": 1,
-        "disinfectantspray": 1,
-        "tetracyclineantibiotics": 1,
-        "painkillertablets": 1,
-        "salinebag": 1,
-        "Msp_MedicBag_Red": 2,
-        "Msp_MedicBag_Blue": 2,
-        "Msp_MedicBag_Green": 2,
-        "Msp_MedicBag_black": 2,
-        "epinephrine": 2,
-        "morphine": 2,
-        "bloodtestkit": 2,
-        "thermometer": 2,
-        "defibrillator": 2,
-        "msp_scissors": 2,
-        "iodinetincture": 2,
-
-        "AMS_FirstAidKit": 1,
-        "AMS_BandageTape": 1,
-        "AMS_BandAid": 1,
-        "AMS_WaterStraw": 1,
-        "AMS_GoldenStar": 1
+        "bandagedressing": 0,
+        "vitaminbottle": 0,
+        "tetracyclineantibiotics": 0,
+        "painkillertablets": 0
     }
 }

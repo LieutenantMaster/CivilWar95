@@ -12,7 +12,7 @@ class CW95_ActionMeasureFuel: ActionSingleUseBase
 	override string GetText()
 	{
 		if (m_FuelQuantity != -1)
-			return "" + m_FuelQuantity + "L";
+			return string.Empty + m_FuelQuantity + "L";
 
 		return "Measure fuel level";
 	}

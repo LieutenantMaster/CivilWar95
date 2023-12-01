@@ -42,7 +42,7 @@ modded class VicinityContainer
 				continue; // noproxy: ignore body placeholder
 			
 			BaseBuildingBase base_building = BaseBuildingBase.Cast(eai);
-			if(base_building && !base_building.IsPlayerInside(player,""))
+			if(base_building && !base_building.IsPlayerInside(player,string.Empty))
 				continue;
 
 			if( eai.IsInventoryVisible() )
@@ -157,7 +157,7 @@ modded class VicinityContainer
 						
 						if ( entity.IsInherited( BaseBuildingBase ) )
 						{	
-							if ( !BaseBuildingBase.Cast(entity).IsPlayerInside(player,""))
+							if ( !BaseBuildingBase.Cast(entity).IsPlayerInside(player,string.Empty))
 								continue;
 						
 						}

@@ -18,7 +18,7 @@ class eAIFactionFrontLine: eAIFaction
 		m_Loadout = "FrontLineLoadout";
 	}
 
-	override bool IsFriendly(notnull eAIFaction other)
+	override bool IsFriendlyFaction(notnull eAIFaction other)
 	{
 		return other.IsInherited(eAIFactionFrontLine);
 	}

@@ -100,19 +100,6 @@
             "Variants": []
         },
         {
-            "ClassName": "AMS_MedChest_Red",
-            "MaxPriceThreshold": 3500,
-            "MinPriceThreshold": 3500,
-            "SellPricePercent": 25,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "AMS_MedChest_Green"
-            ]
-        },
-        {
             "ClassName": "Msp_Wardrobe_Brown_Kit",
             "MaxPriceThreshold": 15000,
             "MinPriceThreshold": 15000,

@@ -114,7 +114,7 @@ class CW95_ActionVehicleFlare: ActionInteractBase
 		{
 			m_FlareTimer.Stop();
 
-			m_FlareCooldown.Run( 2.5, this, "", NULL, false ); 
+			m_FlareCooldown.Run( 2.5, this, string.Empty, NULL, false ); 
 		}
 	}
 };

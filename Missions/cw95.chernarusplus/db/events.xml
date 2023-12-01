@@ -263,7 +263,7 @@
         <flags deletable="0" init_random="0" remove_damaged="0"/>
         <position>player</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="0" min="0" type="CaninaBerry"/>
         </children>
@@ -367,7 +367,7 @@
         <flags deletable="0" init_random="0" remove_damaged="0"/>
         <position>player</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="0" min="0" type="SambucusBerry"/>
         </children>
@@ -390,9 +390,9 @@
         </children>
     </event>
     <event name="AmbientRat">
-        <nominal>3</nominal>
-        <min>0</min>
-        <max>25</max>
+        <nominal>140</nominal>
+        <min>100</min>
+        <max>150</max>
         <lifetime>33</lifetime>
         <restock>15</restock>
         <saferadius>40</saferadius>

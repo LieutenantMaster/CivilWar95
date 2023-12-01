@@ -18,10 +18,5 @@ modded class PluginRecipesManagerBase
 		RegisterRecipe(new CW95_CraftBigToSmallStones);
 		RegisterRecipe(new CW95_CraftMetalPlate);
 		RegisterRecipe(new CW95_CutOutPumpkinSeeds);
-
-		UnregisterRecipe("CutOutZucchiniSeeds");
-		UnregisterRecipe("CutOutPepperSeeds");
-		UnregisterRecipe("CutOutPumpkinSeeds");
-		UnregisterRecipe("CutOutTomatoSeeds");
 	}
 };

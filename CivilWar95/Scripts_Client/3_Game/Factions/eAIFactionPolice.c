@@ -18,7 +18,7 @@ class eAIFactionPolice: eAIFaction
 		m_Loadout = "PoliceLoadout";
 	}
 
-	override bool IsFriendly(notnull eAIFaction other)
+	override bool IsFriendlyFaction(notnull eAIFaction other)
 	{
 		if (other.IsInherited(eAIFactionPolice)) return true;
 		if (other.IsInherited(eAIFactionMedecin)) return true;

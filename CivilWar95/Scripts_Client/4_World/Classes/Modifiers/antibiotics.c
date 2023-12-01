@@ -28,7 +28,7 @@ modded class AntibioticsMdfr
 
 	override void OnTick(PlayerBase player, float deltaT)
 	{
-		player.AddHealth("","",(35 / m_RegenTime));
+		player.AddHealth(string.Empty,string.Empty,(35 / m_RegenTime));
 		player.AntibioticsAttack( ANTIBIOTICS_STRENGTH * deltaT );
 	}
 };

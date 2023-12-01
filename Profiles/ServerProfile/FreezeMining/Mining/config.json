@@ -1,0 +1,346 @@
+{
+    "MRFRMINE": [
+        {
+            "actionText": "Miner",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_copper"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "Freezestone_copper",
+                    "probability": 70
+                },
+                {
+                    "item": "Stone",
+                    "probability": 30
+                }
+            ]
+        },
+        {
+            "actionText": "Miner",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_sulphur"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "Freezestone_sulphur",
+                    "probability": 70
+                },
+                {
+                    "item": "Stone",
+                    "probability": 30
+                }
+            ]
+        },
+        {
+            "actionText": "Miner",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_gold"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "Freezestone_gold",
+                    "probability": 70
+                },
+                {
+                    "item": "Stone",
+                    "probability": 30
+                }
+            ]
+        },
+        {
+            "actionText": "Miner",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_silver"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "Freezestone_silver",
+                    "probability": 70
+                },
+                {
+                    "item": "Stone",
+                    "probability": 30
+                }
+            ]
+        },
+        {
+            "actionText": "Miner",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_tin"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "Freezestone_tin",
+                    "probability": 70
+                },
+                {
+                    "item": "Stone",
+                    "probability": 30
+                }
+            ]
+        },
+        {
+            "actionText": "Miner",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_stone"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "Stone",
+                    "probability": 50
+                },
+                {
+                    "item": "FreezeGem_Turquoise",
+                    "probability": 0
+                },
+                {
+                    "item": "Freezestone_copper",
+                    "probability": 10
+                },
+                {
+                    "item": "Freezestone_silver",
+                    "probability": 10
+                },
+                {
+                    "item": "Freezestone_tin",
+                    "probability": 10
+                },
+                {
+                    "item": "Freezestone_iron",
+                    "probability": 10
+                },
+                {
+                    "item": "Freezestone_uranium",
+                    "probability": 10
+                },
+                {
+                    "item": "FreezeGem_Amber",
+                    "probability": 10
+                },
+                {
+                    "item": "FreezeGem_Amethyst",
+                    "probability": 0
+                },
+                {
+                    "item": "FreezeGem_Aquamarine",
+                    "probability": 0
+                },
+                {
+                    "item": "FreezeGem_FancyColourDiamond",
+                    "probability": 0
+                },
+                {
+                    "item": "FreezeGem_Iolite",
+                    "probability": 0
+                },
+                {
+                    "item": "FreezeGem_Jade",
+                    "probability": 0
+                },
+                {
+                    "item": "FreezeGem_Ruby",
+                    "probability": 0
+                },
+                {
+                    "item": "FreezeGem_Turquoise",
+                    "probability": 0
+                }
+            ]
+        },
+        {
+            "actionText": "Miner",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_uranium"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "Freezestone_uranium",
+                    "probability": 70
+                },
+                {
+                    "item": "Stone",
+                    "probability": 30
+                }
+            ]
+        },
+        {
+            "actionText": "Miner",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_AmberGemNode"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "FreezeGem_Amber",
+                    "probability": 70
+                },
+                {
+                    "item": "Stone",
+                    "probability": 30
+                }
+            ]
+        },
+        {
+            "actionText": "Miner",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_AmethystGemNode"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "FreezeGem_Amethyst",
+                    "probability": 70
+                },
+                {
+                    "item": "Stone",
+                    "probability": 30
+                }
+            ]
+        },
+        {
+            "actionText": "Miner",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_AquamarineGemNode"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "FreezeGem_Aquamarine",
+                    "probability": 70
+                },
+                {
+                    "item": "Stone",
+                    "probability": 30
+                }
+            ]
+        },
+        {
+            "actionText": "Miner",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_FancyColourDiamondGemNode"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "FreezeGem_FancyColourDiamond",
+                    "probability": 70
+                },
+                {
+                    "item": "Stone",
+                    "probability": 30
+                }
+            ]
+        },
+        {
+            "actionText": "Miner",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_IoliteGemNode"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "FreezeGem_Iolite",
+                    "probability": 70
+                },
+                {
+                    "item": "Stone",
+                    "probability": 30
+                }
+            ]
+        },
+        {
+            "actionText": "Miner",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_JadeGemNode"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "FreezeGem_Jade",
+                    "probability": 70
+                },
+                {
+                    "item": "Stone",
+                    "probability": 30
+                }
+            ]
+        },
+        {
+            "actionText": "Miner",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_RubyGemNode"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "FreezeGem_Ruby",
+                    "probability": 70
+                },
+                {
+                    "item": "Stone",
+                    "probability": 30
+                }
+            ]
+        },
+        {
+            "actionText": "Miner",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_TurquoiseGemNode"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "FreezeGem_Turquoise",
+                    "probability": 70
+                },
+                {
+                    "item": "Stone",
+                    "probability": 30
+                }
+            ]
+        },
+        {
+            "actionText": "Miner",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_iron"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "Freezestone_iron",
+                    "probability": 70
+                },
+                {
+                    "item": "Stone",
+                    "probability": 30
+                }
+            ]
+        }
+    ],
+    "Miner": {
+        "Stone": 80,
+        "SmallStone": 20, 
+        "Freezestone_iron": 15,
+        "Freezestone_tin": 15,
+        "Freezestone_silver": 5,
+        "Freezestone_gold": 5,
+        "Freezestone_copper": 17,
+        "Freezestone_uranium": 5,
+        "FreezeGem_Amber": 7,
+        "FreezeGem_Amethyst": 5,
+        "FreezeGem_Aquamrine": 5,
+        "FreezeGem_FancyColourDiamond": 5,
+        "FreezeGem_Iolite": 5,
+        "FreezeGem_Jade": 6,
+        "FreezeGem_Ruby": 5,
+        "FreezeGem_Turquoise": 5
+    }
+}

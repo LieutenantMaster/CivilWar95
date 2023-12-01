@@ -62,7 +62,7 @@ class CW95_RemoveLodgedBullet: ActionContinuousBase
 			if (ntarget.GetBleedingManagerServer() )
 				ntarget.GetBleedingManagerServer().RemoveMostSignificantBleedingSourceEx(action_data.m_MainItem);
 
-			action_data.m_MainItem.DecreaseHealth ( "", "", 2 );	
+			action_data.m_MainItem.DecreaseHealth ( string.Empty, string.Empty, 2 );	
 			action_data.m_Player.GetSoftSkillsManager().AddSpecialty( m_SpecialtyWeight );
 		}
 	}
