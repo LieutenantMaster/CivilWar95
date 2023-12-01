@@ -18,7 +18,7 @@ class eAIFactionNapa: eAIFaction
 		m_Loadout = "NapaLoadout";
 	}
 
-	override bool IsFriendlyFaction(notnull eAIFaction other)
+	override bool IsFriendly(notnull eAIFaction other)
 	{
 		if (other.IsInherited(eAIFactionNapa)) return true;
 		if (other.IsInherited(eAIFactionMedecin)) return true;

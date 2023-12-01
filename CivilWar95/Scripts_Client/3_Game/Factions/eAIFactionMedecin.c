@@ -18,7 +18,7 @@ class eAIFactionMedecin: eAIFaction
 		m_Loadout = "MedecinLoadout";
 	}
 
-	override bool IsFriendlyFaction(notnull eAIFaction other)
+	override bool IsFriendly(notnull eAIFaction other)
 	{
 		return true;
 	}

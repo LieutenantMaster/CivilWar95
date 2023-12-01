@@ -18,7 +18,7 @@ class eAIFactionMilitaire: eAIFaction
 		m_Loadout = "MilitaireLoadout";
 	}
 
-	override bool IsFriendlyFaction(notnull eAIFaction other)
+	override bool IsFriendly(notnull eAIFaction other)
 	{
 		if (other.IsInherited(eAIFactionPolice)) return true;
 		if (other.IsInherited(eAIFactionMilitaire)) return true;

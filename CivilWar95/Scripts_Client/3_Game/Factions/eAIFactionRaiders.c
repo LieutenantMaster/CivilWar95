@@ -12,7 +12,7 @@
 
 modded class eAIFactionRaiders
 {
-	override bool IsFriendlyFaction(notnull eAIFaction other)
+	override bool IsFriendly(notnull eAIFaction other)
 	{		
 		return false;
 	}
